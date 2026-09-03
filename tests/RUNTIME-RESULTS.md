@@ -27,5 +27,5 @@ negativos, 30 habilidades e seis trilhas.
 ## Limitações do ambiente de teste
 
 - A falha original ocorreu no ChatGPT Go e foi confirmada pela captura da conversa.
-- A regressão foi executada localmente no Codex; o teste final no ChatGPT Go depende da versão 0.2.1 estar disponível no diretório público.
+- A versão 0.2.1 foi aprovada e publicada no diretório público. Na tentativa de teste final pela página pública, a conta ChatGPT Go mostrou “Desbloquear com Plus” ao abrir “Testar no chat”; por isso, o comportamento publicado não pôde ser reexecutado nessa conta.
 - Avisos de outras habilidades instaladas e conexões externas sem autenticação não pertencem a este plug-in e não alteraram os resultados acima.

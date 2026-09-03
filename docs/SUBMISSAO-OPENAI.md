@@ -1,6 +1,6 @@
 # Ficha de submissão — OpenAI Plugins Directory
 
-Status: versão 0.2.0 publicada; atualização 0.2.1 preparada para envio.
+Status: versão 0.2.1 aprovada e publicada no OpenAI Plugins Directory em 03/09/2026.
 
 ## Tipo
 
