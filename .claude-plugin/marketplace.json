@@ -1,0 +1,14 @@
+{
+  "name": "mindmaster",
+  "owner": {
+    "name": "MindMaster Treinamentos",
+    "url": "https://mindmaster.com.br/"
+  },
+  "plugins": [
+    {
+      "name": "gestao-agil-2",
+      "source": "./",
+      "description": "30 habilidades para aplicar o metodo Gestao Agil 2.0 ao contexto real da sua empresa."
+    }
+  ]
+}
