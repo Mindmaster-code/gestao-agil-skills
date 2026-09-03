@@ -4,6 +4,7 @@
     "name": "MindMaster Treinamentos",
     "url": "https://mindmaster.com.br/"
   },
+  "description": "Habilidades da MindMaster Treinamentos para aplicar métodos de gestão ágil ao contexto real de empresas brasileiras.",
   "plugins": [
     {
       "name": "gestao-agil-2",

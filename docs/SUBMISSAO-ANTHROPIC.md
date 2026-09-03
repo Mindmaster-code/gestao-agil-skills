@@ -51,11 +51,17 @@ não a um exemplo genérico.
 
 ## Verificação antes do envio
 
-Rodar na pasta do repositório, no terminal da sua máquina:
+Rodar na pasta do repositório, no terminal da sua máquina. São dois comandos,
+não um:
 
 ```bash
-claude plugin validate .
+claude plugin validate .claude-plugin/marketplace.json
+claude plugin validate .claude-plugin/plugin.json
 ```
+
+Atenção: `claude plugin validate .` sozinho valida apenas o marketplace. Como os
+dois manifestos moram na mesma pasta, o validador trata o diretório como
+marketplace e não olha o plugin. Aponte para cada arquivo.
 
 Conferência manual já realizada, com 0 erros e 0 avisos:
 
