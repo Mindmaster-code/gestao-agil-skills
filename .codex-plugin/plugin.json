@@ -8,7 +8,7 @@
   },
   "homepage": "https://github.com/Mindmaster-code/gestao-agil-skills",
   "repository": "https://github.com/Mindmaster-code/gestao-agil-skills",
-  "license": "Proprietary",
+  "license": "SEE LICENSE IN LICENSE.md",
   "keywords": [
     "gestao-agil",
     "a3",
@@ -20,7 +20,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Gestão Ágil 2.0",
-    "shortDescription": "30 habilidades para aplicar o método a um caso real.",
+    "shortDescription": "Gestão ágil para casos reais",
     "longDescription": "Aplique o método Gestão Ágil 2.0 ao contexto real da sua empresa: diagnostique problemas, conecte objetivos e iniciativas, organize o fluxo, conduza ciclos, melhore processos e desenvolva o time.",
     "developerName": "MindMaster",
     "category": "Productivity",
