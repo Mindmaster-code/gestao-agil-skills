@@ -88,9 +88,23 @@ Conferência manual já realizada, com 0 erros e 0 avisos:
 - A Anthropic reserva o direito de remover um plug-in do diretório. O processo para
   o autor pedir despublicação não está documentado.
 
+## Idioma da listagem
+
+Decidido: português.
+
+O diretório é global e uma listagem em português alcança menos gente do que uma em
+inglês. A escolha é deliberada: o público do método é o gestor brasileiro fora de TI,
+e as habilidades respondem em português. Uma listagem em inglês traria instalações de
+quem não é o público e não converte.
+
+Consequência prática: os campos `description` do manifesto e do marketplace estão em
+português com acentuação correta, e a descrição enviada no formulário segue o mesmo
+idioma.
+
+Se mais adiante fizer sentido alcançar fora do Brasil, o caminho é traduzir as
+habilidades primeiro e a listagem depois, nunca o contrário.
+
 ## Decisões em aberto
 
-- Idioma da listagem. O conteúdo é todo em português; avaliar se a descrição pública
-  entra em português, em inglês ou nos dois.
 - Se vale publicar o kit completo ou um recorte de entrada, mantendo o kit inteiro
   como entrega do curso. Ver `DISTRIBUICAO.md`.

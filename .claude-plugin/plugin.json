@@ -1,7 +1,7 @@
 {
   "name": "gestao-agil-2",
   "version": "0.2.0",
-  "description": "Kit educacional com 30 habilidades do metodo Gestao Agil 2.0: diagnostico e A3, estrategia e objetivos, iniciativas e ciclos, operacao e fluxo, melhoria e inovacao, lideranca e times.",
+  "description": "Kit educacional com 30 habilidades do método Gestão Ágil 2.0: diagnóstico e A3, estratégia e objetivos, iniciativas e ciclos, operação e fluxo, melhoria e inovação, liderança e times.",
   "author": {
     "name": "MindMaster Treinamentos",
     "url": "https://mindmaster.com.br/"
@@ -10,12 +10,14 @@
   "repository": "https://github.com/Mindmaster-code/gestao-agil-skills",
   "license": "SEE LICENSE IN LICENSE.md",
   "keywords": [
+    "gestão ágil",
     "gestao-agil",
     "a3",
     "okr",
     "kanban",
-    "lideranca",
-    "melhoria-continua"
+    "liderança",
+    "melhoria contínua",
+    "gestores"
   ],
   "skills": "./skills/"
 }
