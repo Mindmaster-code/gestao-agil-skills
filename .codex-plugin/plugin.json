@@ -1,0 +1,44 @@
+{
+  "name": "gestao-agil-2",
+  "version": "0.2.0",
+  "description": "Kit educacional com 30 habilidades do método Gestão Ágil 2.0.",
+  "author": {
+    "name": "MindMaster",
+    "url": "https://mindmaster.com.br/"
+  },
+  "homepage": "https://github.com/Mindmaster-code/gestao-agil-skills",
+  "repository": "https://github.com/Mindmaster-code/gestao-agil-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "gestao-agil",
+    "a3",
+    "okr",
+    "kanban",
+    "lideranca",
+    "melhoria-continua"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Gestão Ágil 2.0",
+    "shortDescription": "30 habilidades para aplicar o método a um caso real.",
+    "longDescription": "Aplique o método Gestão Ágil 2.0 ao contexto real da sua empresa: diagnostique problemas, conecte objetivos e iniciativas, organize o fluxo, conduza ciclos, melhore processos e desenvolva o time.",
+    "developerName": "MindMaster",
+    "category": "Productivity",
+    "capabilities": [
+      "Analyze",
+      "Create",
+      "Visualize"
+    ],
+    "websiteURL": "https://mindmaster.com.br/",
+    "privacyPolicyURL": "https://github.com/Mindmaster-code/gestao-agil-skills/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/Mindmaster-code/gestao-agil-skills/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Diagnostique meu caso e monte um Relatório A3.",
+      "Conecte A3, OKR, Backlog 2D, Kanban e o próximo ciclo.",
+      "Mostre visualmente onde este fluxo trava e qual decisão tomar."
+    ],
+    "brandColor": "#3D9B9D",
+    "composerIcon": "./assets/gestao-agil-2.png",
+    "logo": "./assets/gestao-agil-2.png"
+  }
+}

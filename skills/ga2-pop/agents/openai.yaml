@@ -1,4 +1,4 @@
 interface:
   display_name: "Procedimento Operacional Padrão"
   short_description: "Escreve um procedimento recorrente com dono, gatilho, passos,..."
-  default_prompt: "Use $ga2-pop para aplicar Procedimento Operacional Padrão ao meu caso, em português simples."
+  default_prompt: "Aplique Procedimento Operacional Padrão ao meu caso, em português simples."

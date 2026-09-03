@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -10,6 +11,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILLS = ROOT / "skills"
+PLUGIN_MANIFEST = ROOT / ".codex-plugin/plugin.json"
+SUBMISSION_CASES = ROOT / "tests/plugin-submission-cases.json"
 FORBIDDEN = (
     "/home/ubuntu",
     "~/",
@@ -56,6 +59,45 @@ for directory in directories:
     if match.group(1) != directory.name:
         fail(f"nome do cabeçalho diverge da pasta: {directory.name}")
 
+if not PLUGIN_MANIFEST.is_file():
+    fail("manifesto do plug-in ausente")
+
+try:
+    plugin = json.loads(PLUGIN_MANIFEST.read_text(encoding="utf-8"))
+except (OSError, json.JSONDecodeError) as error:
+    fail(f"manifesto do plug-in inválido: {error}")
+
+version = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
+if plugin.get("name") != "gestao-agil-2":
+    fail("nome inválido no manifesto do plug-in")
+if plugin.get("version") != version:
+    fail("versão do manifesto diverge de VERSION")
+if plugin.get("skills") != "./skills/":
+    fail("caminho de habilidades inválido no manifesto")
+if "apps" in plugin or "mcpServers" in plugin:
+    fail("o plug-in educacional não pode declarar Apps ou MCP")
+
+interface = plugin.get("interface", {})
+for field in ("composerIcon", "logo"):
+    relative = interface.get(field)
+    if not isinstance(relative, str) or not (ROOT / relative).is_file():
+        fail(f"recurso visual ausente no manifesto: {field}")
+
+try:
+    cases = json.loads(SUBMISSION_CASES.read_text(encoding="utf-8"))
+except (OSError, json.JSONDecodeError) as error:
+    fail(f"casos de submissão inválidos: {error}")
+
+case_types = [case.get("type") for case in cases]
+if case_types.count("positive") != 5 or case_types.count("negative") != 3:
+    fail("esperados cinco testes positivos e três negativos")
+
+trails = (ROOT / "docs/TRILHAS.md").read_text(encoding="utf-8")
+documented = set(re.findall(r"`(ga2-[a-z0-9-]+)`", trails))
+expected = {directory.name for directory in directories}
+if documented != expected:
+    fail("o mapa das trilhas não cobre exatamente as 30 habilidades")
+
 for path in ROOT.rglob("*"):
     if not path.is_file() or ".git" in path.parts or path.name == "validar.py":
         continue
@@ -68,5 +110,4 @@ for path in ROOT.rglob("*"):
     if "TODO" in content or "[TODO" in content:
         fail(f"marcador pendente em {path.relative_to(ROOT)}")
 
-print("OK: 30 skills válidas e sem referências internas conhecidas.")
-
+print("OK: plug-in, 30 habilidades, seis trilhas e oito testes válidos.")

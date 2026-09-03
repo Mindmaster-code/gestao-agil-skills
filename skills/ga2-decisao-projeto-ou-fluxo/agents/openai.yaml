@@ -1,4 +1,4 @@
 interface:
   display_name: "Decisão: projeto ou fluxo"
   short_description: "Escolhe entre projeto em ciclos, fluxo contínuo ou modelo híb..."
-  default_prompt: "Use $ga2-decisao-projeto-ou-fluxo para aplicar Decisão: projeto ou fluxo ao meu caso, em português simples."
+  default_prompt: "Aplique Decisão: projeto ou fluxo ao meu caso, em português simples."

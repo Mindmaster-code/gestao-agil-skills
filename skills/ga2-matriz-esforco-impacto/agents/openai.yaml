@@ -1,4 +1,4 @@
 interface:
   display_name: "Matriz Impacto e Esforço"
   short_description: "Compara iniciativas pelo impacto e esforço e devolve uma fila..."
-  default_prompt: "Use $ga2-matriz-esforco-impacto para aplicar Matriz Impacto e Esforço ao meu caso, em português simples."
+  default_prompt: "Aplique Matriz Impacto e Esforço ao meu caso, em português simples."

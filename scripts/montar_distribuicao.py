@@ -336,7 +336,7 @@ def openai_yaml(name: str, skill: Skill) -> str:
     short = skill.description.split(". Use", 1)[0]
     if len(short) > 64:
         short = short[:61].rstrip() + "..."
-    prompt = f"Use ${name} para aplicar {skill.title} ao meu caso, em português simples."
+    prompt = f"Aplique {skill.title} ao meu caso, em português simples."
     return (
         "interface:\n"
         f"  display_name: {json.dumps(skill.title, ensure_ascii=False)}\n"

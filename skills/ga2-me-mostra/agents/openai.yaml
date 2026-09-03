@@ -1,4 +1,4 @@
 interface:
   display_name: "Me Mostra"
   short_description: "Transforma uma situação de gestão em um visual curto, acionáv..."
-  default_prompt: "Use $ga2-me-mostra para aplicar Me Mostra ao meu caso, em português simples."
+  default_prompt: "Aplique Me Mostra ao meu caso, em português simples."

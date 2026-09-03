@@ -1,5 +1,15 @@
 # Histórico de versões
 
+## 0.2.0 — 03/09/2026
+
+- Adicionado o manifesto do plug-in Gestão Ágil 2.0 com as 30 habilidades.
+- Adicionada identidade visual do plug-in com a paleta MindMaster.
+- Organizadas as 29 habilidades do método em seis trilhas pedagógicas.
+- Mantido `ga2-me-mostra` como camada visual compartilhada.
+- Preparados cinco testes positivos e três negativos para revisão pública.
+- Adicionados materiais de privacidade, termos, suporte e publicação.
+- Removida a dependência de uma sintaxe específica nos prompts iniciais das habilidades.
+
 ## 0.1.0 — 03/09/2026
 
 - Primeira versão técnica das 30 skills.
@@ -7,4 +17,3 @@
 - Conteúdo público separado das regras e dos exemplos internos.
 - `ga2-me-mostra` gera HTML e usa o recurso visual disponível no ambiente.
 - Linguagem simples obrigatória em todas as skills.
-

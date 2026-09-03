@@ -3,4 +3,4 @@ Thumbs.db
 *.tmp
 *.bak
 __pycache__/
-
+dist/

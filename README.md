@@ -1,13 +1,50 @@
-# Skills do Gestão Ágil 2.0
+# Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório instala 30 skills do Gestão Ágil 2.0 em assistentes de IA.
+Este repositório distribui 30 habilidades do Gestão Ágil 2.0 em um único plug-in e
+mantém os instaladores por pasta para ambientes compatíveis.
 
-O pacote funciona com Claude, Codex/GPT, Cursor, OpenCode e ambientes que leem
+O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
+autenticação externa.
+
+## Plug-in Gestão Ágil 2.0
+
+O aluno instala o plug-in uma vez e usa as habilidades dentro do Projeto do seu
+caso real. O conteúdo está organizado pedagogicamente em seis trilhas:
+
+1. Diagnóstico e A3;
+2. Estratégia e objetivos;
+3. Iniciativas e ciclos;
+4. Operação e fluxo;
+5. Melhoria e inovação;
+6. Liderança e times.
+
+A relação completa entre trilhas e habilidades está em [docs/TRILHAS.md](docs/TRILHAS.md).
+
+No ChatGPT, digite `@` e escolha o plug-in ou uma habilidade. No Codex, cite uma
+habilidade com `$`, como `$ga2-relatorio-a3`. Também é possível pedir o resultado
+em linguagem comum e deixar o ambiente selecionar a habilidade adequada.
+
+> Status: pacote pronto para validação e piloto. Ainda não publicado no diretório
+> público de plug-ins.
+
+Para gerar o arquivo de distribuição:
+
+```bash
+python3 scripts/empacotar_plugin.py
+```
+
+Os oito casos preparados para revisão pública estão em
+[tests/plugin-submission-cases.json](tests/plugin-submission-cases.json). O roteiro
+de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
+
+## Instalação das habilidades por pasta
+
+O pacote também funciona com Claude, Codex, Cursor, OpenCode e ambientes que leem
 pastas no formato `SKILL.md`.
 
-## O que uma skill faz
+## O que uma habilidade faz
 
-Uma skill ensina o assistente a aplicar uma parte do método. Por exemplo:
+Uma habilidade ensina o assistente a aplicar uma parte do método. Por exemplo:
 
 - montar um A3;
 - encontrar a causa raiz;
@@ -16,9 +53,9 @@ Uma skill ensina o assistente a aplicar uma parte do método. Por exemplo:
 - conduzir uma revisão ou retrospectiva;
 - explicar uma situação com um artefato HTML.
 
-As skills usam português simples. Todo termo técnico aparece com uma explicação curta.
+As habilidades usam português simples. Todo termo técnico aparece com uma explicação curta.
 
-## Instalar no macOS ou Linux
+### macOS ou Linux
 
 Instalar em todos os ambientes conhecidos:
 
@@ -42,7 +79,7 @@ Instalar em uma pasta escolhida:
 ./instalar.sh --destino /caminho/para/skills
 ```
 
-## Instalar no Windows
+### Windows
 
 Abra o PowerShell nesta pasta e execute:
 
@@ -53,12 +90,12 @@ Abra o PowerShell nesta pasta e execute:
 Também existem as opções `-Claude`, `-Codex`, `-Cursor`, `-OpenCode`, `-Agents`
 e `-Destino "C:\caminho\skills"`.
 
-## Atualizar
+### Atualizar
 
 Baixe a versão nova e rode o instalador outra vez. O instalador guarda a versão anterior
 em `.ga2-backup` antes de substituir qualquer skill.
 
-## Usar
+## Usar as habilidades
 
 Depois de instalar, reinicie o assistente. Peça pela tarefa em linguagem comum:
 
@@ -91,4 +128,3 @@ da MindMaster. Os exemplos usam situações didáticas.
 
 A versão atual está em [VERSION](VERSION). A integridade dos arquivos está registrada em
 `SHA256SUMS.txt`.
-

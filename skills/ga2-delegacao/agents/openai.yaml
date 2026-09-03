@@ -1,4 +1,4 @@
 interface:
   display_name: "Quadro de Delegação"
   short_description: "Monta um quadro com assuntos, pessoas e sete níveis claros de..."
-  default_prompt: "Use $ga2-delegacao para aplicar Quadro de Delegação ao meu caso, em português simples."
+  default_prompt: "Aplique Quadro de Delegação ao meu caso, em português simples."

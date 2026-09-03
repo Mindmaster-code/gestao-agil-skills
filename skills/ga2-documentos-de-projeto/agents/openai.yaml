@@ -1,4 +1,4 @@
 interface:
   display_name: "Documentos do projeto"
   short_description: "Organiza os documentos necessários em cada fase de um projeto..."
-  default_prompt: "Use $ga2-documentos-de-projeto para aplicar Documentos do projeto ao meu caso, em português simples."
+  default_prompt: "Aplique Documentos do projeto ao meu caso, em português simples."
