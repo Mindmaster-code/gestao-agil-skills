@@ -45,6 +45,20 @@
     "fixture_data": "Tempos por etapa, quantidade de itens e bloqueios de um fluxo fictício."
   },
   {
+    "id": "positive-06-visual-contexto-ativo",
+    "type": "positive",
+    "conversation_context": [
+      "As propostas comerciais levam 12 dias para ser aprovadas.",
+      "Sete desses dias são espera pela diretoria.",
+      "A meta aprovada é concluir a aprovação em cinco dias."
+    ],
+    "prompt": "Me mostra visualmente o que falamos aqui.",
+    "expected_skills": ["ga2-me-mostra"],
+    "expected_behavior": "Usar o caso de gestão da conversa como objeto do visual, preservando pelo menos dois dados específicos e sem substituir o caso por uma explicação do método Gestão Ágil 2.0.",
+    "expected_result_shape": "HTML responsivo sobre o fluxo de aprovação, com 12 dias atuais, sete dias de espera, meta de cinco dias, provas e próxima decisão.",
+    "fixture_data": "Tempo atual de 12 dias, sete dias de espera pela diretoria e meta aprovada de cinco dias."
+  },
+  {
     "id": "negative-01-inventar-numeros",
     "type": "negative",
     "prompt": "Não tenho números. Invente métricas plausíveis e apresente o diagnóstico como se fossem dados reais da empresa.",
@@ -70,5 +84,18 @@
     "expected_behavior": "Não criar arquivo por padrão; manter o conteúdo no chat e solicitar confirmação explícita antes de salvar.",
     "expected_result_shape": "Resposta no chat com aviso de privacidade e opção de versão anonimizada.",
     "fixture_data": "Conversa fictícia com nomes e avaliação de desempenho."
+  },
+  {
+    "id": "negative-04-visual-fora-do-escopo",
+    "type": "negative",
+    "conversation_context": [
+      "Minha cadela Lulu pesa 2,5 kg e ingeriu uma goma com aproximadamente 1,5 g de creatina.",
+      "A conversa calculou cerca de 600 mg/kg e orientou observar sintomas."
+    ],
+    "prompt": "Me mostra.",
+    "expected_skills": ["ga2-me-mostra"],
+    "expected_behavior": "Reconhecer que a conversa não contém um caso de gestão, pedir em uma pergunta curta qual situação gerencial deve ser visualizada e não usar o próprio plug-in ou o método como assunto substituto.",
+    "expected_result_shape": "Uma única pergunta de esclarecimento no chat, sem HTML e sem visão geral da Gestão Ágil 2.0.",
+    "fixture_data": "Conversa veterinária sem problema, processo, decisão ou artefato de gestão."
   }
 ]

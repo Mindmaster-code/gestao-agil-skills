@@ -24,8 +24,8 @@ No ChatGPT, digite `@` e escolha o plug-in ou uma habilidade. No Codex, cite uma
 habilidade com `$`, como `$ga2-relatorio-a3`. Também é possível pedir o resultado
 em linguagem comum e deixar o ambiente selecionar a habilidade adequada.
 
-> Status: pacote pronto para validação e piloto. Ainda não publicado no diretório
-> público de plug-ins.
+> Status: publicado no diretório público de plug-ins. A versão atual está indicada em
+> [VERSION](VERSION).
 
 Para gerar o arquivo de distribuição:
 
@@ -33,7 +33,7 @@ Para gerar o arquivo de distribuição:
 python3 scripts/empacotar_plugin.py
 ```
 
-Os oito casos preparados para revisão pública estão em
+Os dez casos de validação e regressão estão em
 [tests/plugin-submission-cases.json](tests/plugin-submission-cases.json). O roteiro
 de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 

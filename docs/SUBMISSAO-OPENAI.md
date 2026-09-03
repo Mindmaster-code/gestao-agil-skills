@@ -1,6 +1,6 @@
 # Ficha de submissão — OpenAI Plugins Directory
 
-Status: pronta para criar o rascunho; ainda não enviada para revisão.
+Status: versão 0.2.0 publicada; atualização 0.2.1 preparada para envio.
 
 ## Tipo
 
@@ -27,17 +27,18 @@ Skills only.
 
 ## Casos de teste
 
-Usar os cinco casos positivos e três negativos de
-`tests/plugin-submission-cases.json`. A execução local da versão final obteve 8/8
-aprovações; o resultado está em `tests/RUNTIME-RESULTS.md`.
+Usar os seis casos positivos e quatro negativos de
+`tests/plugin-submission-cases.json`. O resultado da execução da versão final está em
+`tests/RUNTIME-RESULTS.md`.
 
 ## Notas da versão
 
-Submissão inicial da versão 0.2.0 do plug-in Gestão Ágil 2.0. O pacote reúne
-29 habilidades do método e a habilidade compartilhada Me Mostra em seis trilhas:
-Diagnóstico e A3; Estratégia e Objetivos; Iniciativas e Ciclos; Operação e Fluxo;
-Melhoria e Inovação; Liderança e Times. O plug-in não inclui Apps, Actions, servidor
-MCP, autenticação ou coleta própria de dados.
+Atualização 0.2.1 do plug-in Gestão Ágil 2.0. A habilidade compartilhada Me Mostra
+passa a usar o caso de gestão ativo da conversa, preserva os dados já informados e pede
+esclarecimento quando não existir um caso de gestão identificável. A atualização também
+impede que o nome do plug-in ou do método seja usado como assunto substituto. O pacote
+continua reunindo 29 habilidades do método e a habilidade Me Mostra em seis trilhas, sem
+Apps, Actions, servidor MCP, autenticação ou coleta própria de dados.
 
 ## Confirmações
 

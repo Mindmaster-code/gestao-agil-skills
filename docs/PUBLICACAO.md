@@ -12,7 +12,7 @@
 1. Validar o pacote com `scripts/validar.py` e o validador oficial de estrutura.
 2. Gerar o arquivo de distribuição com `scripts/empacotar_plugin.py`.
 3. Instalar em um ambiente de teste e iniciar uma conversa nova.
-4. Executar os oito casos de `tests/plugin-submission-cases.json`.
+4. Executar os dez casos de `tests/plugin-submission-cases.json`.
 5. Repetir cada falha após ajustar somente a habilidade responsável.
 6. Testar a jornada A3 → OKR → Backlog 2D → Kanban → ciclo → review → melhoria.
 7. Fazer um piloto com alunos usando dados fictícios ou anonimizados.

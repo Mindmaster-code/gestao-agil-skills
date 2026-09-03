@@ -89,8 +89,8 @@ except (OSError, json.JSONDecodeError) as error:
     fail(f"casos de submissão inválidos: {error}")
 
 case_types = [case.get("type") for case in cases]
-if case_types.count("positive") != 5 or case_types.count("negative") != 3:
-    fail("esperados cinco testes positivos e três negativos")
+if case_types.count("positive") != 6 or case_types.count("negative") != 4:
+    fail("esperados seis testes positivos e quatro negativos")
 
 trails = (ROOT / "docs/TRILHAS.md").read_text(encoding="utf-8")
 documented = set(re.findall(r"`(ga2-[a-z0-9-]+)`", trails))
@@ -110,4 +110,4 @@ for path in ROOT.rglob("*"):
     if "TODO" in content or "[TODO" in content:
         fail(f"marcador pendente em {path.relative_to(ROOT)}")
 
-print("OK: plug-in, 30 habilidades, seis trilhas e oito testes válidos.")
+print("OK: plug-in, 30 habilidades, seis trilhas e dez testes válidos.")

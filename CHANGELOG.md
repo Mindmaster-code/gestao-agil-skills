@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 0.2.1 — 03/09/2026
+
+- Corrigido o `ga2-me-mostra` para usar o caso de gestão ativo da conversa como objeto visual.
+- Impedido o uso do nome do plug-in ou do método como assunto substituto.
+- Adicionada uma pergunta curta de esclarecimento quando não houver caso de gestão identificável.
+- Atualizado o prompt de invocação da habilidade para preservar o contexto da conversa.
+- Adicionados dois testes de regressão: contexto gerencial ativo e conversa fora do escopo.
+
 ## 0.2.0 — 03/09/2026
 
 - Adicionado o manifesto do plug-in Gestão Ágil 2.0 com as 30 habilidades.
