@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gestão diária"
+  short_description: "Conduz uma reunião diária curta diante do quadro, destacando..."
+  default_prompt: "Use $ga2-gestao-diaria para aplicar Gestão diária ao meu caso, em português simples."

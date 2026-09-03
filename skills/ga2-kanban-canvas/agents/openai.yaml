@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kanban Canvas"
+  short_description: "Desenha um quadro Kanban com estados, raias, cartões, limites..."
+  default_prompt: "Use $ga2-kanban-canvas para aplicar Kanban Canvas ao meu caso, em português simples."
