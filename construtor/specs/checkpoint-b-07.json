@@ -1,0 +1,138 @@
+{
+ "id": "checkpoint-b-07",
+ "skill": "ga2-okr-canvas",
+ "titulo": "Checkpoint do Plano (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "07-checkpoint-do-plano-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/checkpoint-b-07.svg"
+ },
+ "campos": [
+  {
+   "id": "coerencia_do_plano",
+   "rotulo": "Coerência do plano",
+   "guia": "Objetivo ligado ao A3? KRs medem resultado? Iniciativas movem os KRs?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    224.0,
+    559.0,
+    359.0
+   ],
+   "area_util": [
+    47.0,
+    272.0,
+    548.0,
+    349.0
+   ],
+   "widget": "f1"
+  },
+  {
+   "id": "backlog_essencial",
+   "rotulo": "Backlog essencial",
+   "guia": "Quais itens entram primeiro?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    372.0,
+    559.0,
+    497.0
+   ],
+   "area_util": [
+    47.0,
+    420.0,
+    548.0,
+    487.0
+   ],
+   "widget": "f2"
+  },
+  {
+   "id": "riscos_de_execucao",
+   "rotulo": "Riscos de execução",
+   "guia": "O que pode impedir o plano?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    510.0,
+    559.0,
+    615.0
+   ],
+   "area_util": [
+    47.0,
+    558.0,
+    548.0,
+    605.0
+   ],
+   "widget": "f3"
+  },
+  {
+   "id": "decisao_de_seguir",
+   "rotulo": "Decisão de seguir",
+   "guia": "O que precisa estar pronto para avançar?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    628.0,
+    559.0,
+    718.0
+   ],
+   "area_util": [
+    47.0,
+    676.0,
+    548.0,
+    708.0
+   ],
+   "widget": "f4"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-okr-canvas/assets/modelos/template-checkpoint-b-07.md",
+  "ancoras": {
+   "coerencia_do_plano": {
+    "ancora": "checkpoint_coerencia"
+   },
+   "backlog_essencial": {
+    "ancora": "checkpoint_backlog"
+   },
+   "riscos_de_execucao": {
+    "ancora": "checkpoint_riscos"
+   },
+   "decisao_de_seguir": {
+    "ancora": "checkpoint_decisao"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O plano está coerente e sei o que faço segunda de manhã?",
+  "capitulos": [
+   {
+    "titulo": "Checkpoint",
+    "campos": [
+     "coerencia_do_plano",
+     "backlog_essencial",
+     "riscos_de_execucao",
+     "decisao_de_seguir"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

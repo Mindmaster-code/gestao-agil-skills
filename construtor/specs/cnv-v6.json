@@ -1,0 +1,133 @@
+{
+ "id": "cnv-v6",
+ "skill": "ga2-canvas-de-conversa-cnv",
+ "titulo": "Canvas de Conversa — CNV",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas-de-Conversa-CNV.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/cnv-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "com_quem",
+   "rotulo": "Com quem vou conversar e sobre o quê",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "area_util": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "widget": "cnv_ctx"
+  },
+  {
+   "id": "fato",
+   "rotulo": "1 · O fato",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    226.77,
+    413.86,
+    345.83
+   ],
+   "area_util": [
+    39.69,
+    226.77,
+    413.86,
+    345.83
+   ],
+   "widget": "cnv_fato"
+  },
+  {
+   "id": "sentimento",
+   "rotulo": "2 · O sentimento",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    226.77,
+    802.2,
+    345.83
+   ],
+   "area_util": [
+    428.03,
+    226.77,
+    802.2,
+    345.83
+   ],
+   "widget": "cnv_sent"
+  },
+  {
+   "id": "necessidade",
+   "rotulo": "3 · A necessidade por trás",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    368.5,
+    413.86,
+    487.56
+   ],
+   "area_util": [
+    39.69,
+    368.5,
+    413.86,
+    487.56
+   ],
+   "widget": "cnv_nec"
+  },
+  {
+   "id": "pedido",
+   "rotulo": "4 · O pedido",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    368.5,
+    802.2,
+    487.56
+   ],
+   "area_util": [
+    428.03,
+    368.5,
+    802.2,
+    487.56
+   ],
+   "widget": "cnv_ped"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-canvas-de-conversa-cnv/assets/modelos/template-cnv-v6.md",
+  "ancoras": {}
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

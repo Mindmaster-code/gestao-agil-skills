@@ -1,0 +1,144 @@
+{
+ "id": "backlog-2d-kit-06",
+ "skill": "ga2-backlog-2d",
+ "titulo": "Backlog | 2 Dimensões",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Backlog 2D.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1440.0,
+  "altura_pt": 810.0,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/backlog-2d-kit-06.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_da_iniciativa",
+   "rotulo": "Nome da Iniciativa",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    169,
+    18,
+    1275,
+    56
+   ],
+   "area_util": [
+    668,
+    28,
+    1030,
+    50
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    169,
+    18,
+    1275,
+    56
+   ],
+   "area_util": [
+    1098,
+    30,
+    1270,
+    52
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "narrativas_das_entregas",
+   "rotulo": "Narrativas das entregas (linha de cima)",
+   "guia": "Toda a jornada em etapas ou tarefas de alto nível: fases e subfases do projeto, etapas do processo, módulos do produto.",
+   "tipo": "texto-longo",
+   "caixa": [
+    169,
+    81,
+    1275,
+    249
+   ],
+   "area_util": [
+    180,
+    178,
+    1265,
+    242
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 120
+  },
+  {
+   "id": "detalhamento_das_entregas",
+   "rotulo": "Detalhamento das entregas",
+   "guia": "O que será entregue / feito em cada fase?",
+   "tipo": "texto-longo",
+   "caixa": [
+    169,
+    259,
+    1275,
+    759
+   ],
+   "area_util": [
+    180,
+    326,
+    1265,
+    750
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 120
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-backlog-2d/assets/modelos/template-backlog-2d-kit-06.md",
+  "ancoras": {
+   "nome_da_iniciativa": {
+    "ancora": "caso"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "narrativas_das_entregas": {
+    "ancora": "linha_de_cima"
+   },
+   "detalhamento_das_entregas": {
+    "ancora": "detalhamento"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é a jornada inteira desta iniciativa e o que precisa existir em cada etapa?",
+  "capitulos": [
+   {
+    "titulo": "A linha de cima",
+    "campos": [
+     "narrativas_das_entregas"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O detalhe de cada entrega",
+    "campos": [
+     "detalhamento_das_entregas"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "id": "matriz-v6",
+ "skill": "ga2-matriz-esforco-impacto",
+ "titulo": "Canvas Editável — Matriz de Priorização",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Matriz de Priorizacao.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/matriz-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "faca_ja",
+   "rotulo": "Faça já — alto impacto, baixo esforço",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    99.21,
+    223.94,
+    426.61,
+    311.81
+   ],
+   "area_util": [
+    99.21,
+    223.94,
+    426.61,
+    311.81
+   ],
+   "widget": "fj",
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "planeje",
+   "rotulo": "Planeje — alto impacto, alto esforço",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    471.97,
+    223.94,
+    799.37,
+    311.81
+   ],
+   "area_util": [
+    471.97,
+    223.94,
+    799.37,
+    311.81
+   ],
+   "widget": "pl",
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "encaixe",
+   "rotulo": "Encaixe — baixo impacto, baixo esforço",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    99.21,
+    388.35,
+    426.61,
+    476.22
+   ],
+   "area_util": [
+    99.21,
+    388.35,
+    426.61,
+    476.22
+   ],
+   "widget": "en",
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "evite",
+   "rotulo": "Evite / questione — baixo impacto, alto esforço",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    471.97,
+    388.35,
+    799.37,
+    476.22
+   ],
+   "area_util": [
+    471.97,
+    388.35,
+    799.37,
+    476.22
+   ],
+   "widget": "ev",
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-matriz-esforco-impacto/assets/modelos/template-matriz-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "faca_ja": {
+    "ancora": "faca_ja"
+   },
+   "planeje": {
+    "ancora": "planeje"
+   },
+   "encaixe": {
+    "ancora": "encaixe"
+   },
+   "evite": {
+    "ancora": "evite"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que iniciativas entram primeiro, quais esperam e o que fica de fora?",
+  "capitulos": [
+   {
+    "titulo": "A fila, quadrante a quadrante",
+    "campos": [
+     "faca_ja",
+     "planeje",
+     "encaixe",
+     "evite"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

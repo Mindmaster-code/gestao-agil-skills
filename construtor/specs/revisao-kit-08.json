@@ -1,0 +1,182 @@
+{
+ "id": "revisao-kit-08",
+ "skill": "ga2-review-do-ciclo",
+ "titulo": "Revisão de Entregas | Debriefing",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Sprint Review.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/revisao-kit-08.svg"
+ },
+ "campos": [
+  {
+   "id": "resultados",
+   "rotulo": "Resultados",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    84,
+    301,
+    822
+   ],
+   "area_util": [
+    28,
+    132,
+    292,
+    812
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  },
+  {
+   "id": "positivos",
+   "rotulo": "Feedback: positivos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    309,
+    138,
+    590,
+    611
+   ],
+   "area_util": [
+    318,
+    184,
+    581,
+    602
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "negativos",
+   "rotulo": "Feedback: negativos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    138,
+    879,
+    611
+   ],
+   "area_util": [
+    607,
+    184,
+    870,
+    602
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "mudancas_necessarias",
+   "rotulo": "Feedback: mudanças necessárias",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    888,
+    138,
+    1169,
+    611
+   ],
+   "area_util": [
+    897,
+    184,
+    1160,
+    602
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "laranja"
+  },
+  {
+   "id": "aprendizados",
+   "rotulo": "Aprendizados",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    309,
+    621,
+    1169,
+    822
+   ],
+   "area_util": [
+    318,
+    670,
+    1160,
+    812
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "azul"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-review-do-ciclo/assets/modelos/template-revisao-kit-08.md",
+  "ancoras": {
+   "resultados": {
+    "ancora": "entregue"
+   },
+   "positivos": {
+    "ancora": "feedback_positivo"
+   },
+   "negativos": {
+    "ancora": "feedback_negativo"
+   },
+   "mudancas_necessarias": {
+    "ancora": "feedback_mudancas"
+   },
+   "aprendizados": {
+    "ancora": "aprendizado"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que ficou pronto contra o combinado, o que ouvimos e o que aprendemos?",
+  "capitulos": [
+   {
+    "titulo": "O que entregamos",
+    "campos": [
+     "resultados"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que ouvimos",
+    "campos": [
+     "positivos",
+     "negativos",
+     "mudancas_necessarias"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que aprendemos",
+    "campos": [
+     "aprendizados"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

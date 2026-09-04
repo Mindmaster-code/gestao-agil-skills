@@ -1,0 +1,201 @@
+{
+ "id": "feedback-360-v6",
+ "skill": "ga2-feedback-360",
+ "titulo": "Feedback 360 e Roteiro (v6)",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Feedback-360-e-Roteiro.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/feedback-360-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "quem",
+   "rotulo": "De quem eu coletei (4 a 6 pessoas)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "area_util": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "widget": "fb_quem"
+  },
+  {
+   "id": "manter",
+   "rotulo": "Manter",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    226.77,
+    286.3,
+    351.5
+   ],
+   "area_util": [
+    39.69,
+    226.77,
+    286.3,
+    351.5
+   ],
+   "widget": "fb_manter",
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  },
+  {
+   "id": "parar",
+   "rotulo": "Parar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    297.64,
+    226.77,
+    544.25,
+    351.5
+   ],
+   "area_util": [
+    297.64,
+    226.77,
+    544.25,
+    351.5
+   ],
+   "widget": "fb_parar",
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  },
+  {
+   "id": "comecar",
+   "rotulo": "Começar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    555.59,
+    226.77,
+    802.2,
+    351.5
+   ],
+   "area_util": [
+    555.59,
+    226.77,
+    802.2,
+    351.5
+   ],
+   "widget": "fb_comecar",
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  },
+  {
+   "id": "padroes",
+   "rotulo": "Padrões que se repetiram",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    379.84,
+    802.2,
+    436.54
+   ],
+   "area_util": [
+    39.69,
+    379.84,
+    802.2,
+    436.54
+   ],
+   "widget": "fb_padroes"
+  },
+  {
+   "id": "focos",
+   "rotulo": "Meus 2 focos e o primeiro passo de cada um",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    459.21,
+    802.2,
+    515.91
+   ],
+   "area_util": [
+    39.69,
+    459.21,
+    802.2,
+    515.91
+   ],
+   "widget": "fb_focos"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-feedback-360/assets/modelos/template-feedback-360-v6.md",
+  "ancoras": {
+   "quem": {
+    "ancora": "coletei",
+    "formato_linha": "{Nome} ({Origem})",
+    "juntar": " · "
+   },
+   "manter": {
+    "ancora": "ouvi",
+    "formato_linha": "{Manter}"
+   },
+   "parar": {
+    "ancora": "ouvi",
+    "formato_linha": "{Parar}"
+   },
+   "comecar": {
+    "ancora": "ouvi",
+    "formato_linha": "{Começar}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Como sou visto de todos os lados, e quais dois focos escolho?",
+  "capitulos": [
+   {
+    "titulo": "Quem respondeu",
+    "campos": [
+     "quem"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Manter, parar, começar",
+    "campos": [
+     "manter",
+     "parar",
+     "comecar"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Padrões e focos",
+    "campos": [
+     "padroes",
+     "focos"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

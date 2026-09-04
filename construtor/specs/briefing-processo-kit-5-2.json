@@ -1,0 +1,563 @@
+{
+ "id": "briefing-processo-kit-5-2",
+ "skill": "ga2-briefing-iniciativa",
+ "titulo": "Briefing de Processo",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Briefing de Processo.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/briefing-processo-kit-5-2.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_processo",
+   "rotulo": "Nome do Processo",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    572,
+    27,
+    890,
+    50
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    962,
+    27,
+    1160,
+    50
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo",
+   "guia": "Qual é o resultado esperado do processo? Qual OKR ele está vinculado?",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    80,
+    401,
+    280
+   ],
+   "area_util": [
+    35,
+    140,
+    392,
+    256
+   ]
+  },
+  {
+   "id": "contexto_atual",
+   "rotulo": "Contexto atual",
+   "guia": "Resumo do estado atual do processo.",
+   "tipo": "texto-longo",
+   "caixa": [
+    409,
+    80,
+    777,
+    280
+   ],
+   "area_util": [
+    420,
+    140,
+    768,
+    270
+   ]
+  },
+  {
+   "id": "indicadores_de_sucesso",
+   "rotulo": "Indicadores de sucesso",
+   "guia": "Métricas que serão usadas para medir o sucesso.",
+   "tipo": "texto-longo",
+   "caixa": [
+    784,
+    80,
+    1164,
+    280
+   ],
+   "area_util": [
+    795,
+    140,
+    1156,
+    270
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 110
+  },
+  {
+   "id": "atividade_1",
+   "rotulo": "Atividade / etapa 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    248,
+    367,
+    380,
+    456
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": false
+  },
+  {
+   "id": "atividade_2",
+   "rotulo": "Atividade / etapa 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    419,
+    367,
+    551,
+    456
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "atividade_3",
+   "rotulo": "Atividade / etapa 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    590,
+    367,
+    722,
+    456
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "atividade_4",
+   "rotulo": "Atividade / etapa 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    761,
+    367,
+    893,
+    456
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "atividade_5",
+   "rotulo": "Atividade / etapa 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    932,
+    367,
+    1064,
+    456
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "responsavel_1",
+   "rotulo": "Responsável 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    248,
+    498,
+    380,
+    586
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": false
+  },
+  {
+   "id": "responsavel_2",
+   "rotulo": "Responsável 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    419,
+    498,
+    551,
+    586
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "responsavel_3",
+   "rotulo": "Responsável 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    590,
+    498,
+    722,
+    586
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "responsavel_4",
+   "rotulo": "Responsável 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    761,
+    498,
+    893,
+    586
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "responsavel_5",
+   "rotulo": "Responsável 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    932,
+    498,
+    1064,
+    586
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "resultado_1",
+   "rotulo": "Resultado esperado 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    248,
+    624,
+    380,
+    712
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": false
+  },
+  {
+   "id": "resultado_2",
+   "rotulo": "Resultado esperado 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    419,
+    624,
+    551,
+    712
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "resultado_3",
+   "rotulo": "Resultado esperado 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    590,
+    624,
+    722,
+    712
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "resultado_4",
+   "rotulo": "Resultado esperado 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    761,
+    624,
+    893,
+    712
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  },
+  {
+   "id": "resultado_5",
+   "rotulo": "Resultado esperado 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    290,
+    1165,
+    774
+   ],
+   "area_util": [
+    932,
+    624,
+    1064,
+    712
+   ],
+   "tamanho_pt": 8.5,
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-briefing-iniciativa/assets/modelos/template-briefing-processo-kit-5-2.md",
+  "ancoras": {
+   "nome_do_processo": {
+    "ancora": "caso"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "contexto_atual": {
+    "ancora": "contexto"
+   },
+   "indicadores_de_sucesso": {
+    "ancora": "indicador"
+   },
+   "atividade_1": {
+    "ancora": "etapas",
+    "linha_tabela": 1,
+    "coluna": "Atividade"
+   },
+   "atividade_2": {
+    "ancora": "etapas",
+    "linha_tabela": 2,
+    "coluna": "Atividade"
+   },
+   "atividade_3": {
+    "ancora": "etapas",
+    "linha_tabela": 3,
+    "coluna": "Atividade"
+   },
+   "atividade_4": {
+    "ancora": "etapas",
+    "linha_tabela": 4,
+    "coluna": "Atividade"
+   },
+   "atividade_5": {
+    "ancora": "etapas",
+    "linha_tabela": 5,
+    "coluna": "Atividade"
+   },
+   "responsavel_1": {
+    "ancora": "etapas",
+    "linha_tabela": 1,
+    "coluna": "Responsável"
+   },
+   "responsavel_2": {
+    "ancora": "etapas",
+    "linha_tabela": 2,
+    "coluna": "Responsável"
+   },
+   "responsavel_3": {
+    "ancora": "etapas",
+    "linha_tabela": 3,
+    "coluna": "Responsável"
+   },
+   "responsavel_4": {
+    "ancora": "etapas",
+    "linha_tabela": 4,
+    "coluna": "Responsável"
+   },
+   "responsavel_5": {
+    "ancora": "etapas",
+    "linha_tabela": 5,
+    "coluna": "Responsável"
+   },
+   "resultado_1": {
+    "ancora": "etapas",
+    "linha_tabela": 1,
+    "coluna": "Resultado"
+   },
+   "resultado_2": {
+    "ancora": "etapas",
+    "linha_tabela": 2,
+    "coluna": "Resultado"
+   },
+   "resultado_3": {
+    "ancora": "etapas",
+    "linha_tabela": 3,
+    "coluna": "Resultado"
+   },
+   "resultado_4": {
+    "ancora": "etapas",
+    "linha_tabela": 4,
+    "coluna": "Resultado"
+   },
+   "resultado_5": {
+    "ancora": "etapas",
+    "linha_tabela": 5,
+    "coluna": "Resultado"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que este processo entrega, como flui hoje e como saberemos que funciona?",
+  "capitulos": [
+   {
+    "titulo": "O que é o processo",
+    "campos": [
+     "objetivo",
+     "contexto_atual"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Como funciona, etapa por etapa",
+    "campos": [
+     "atividade_1",
+     "responsavel_1",
+     "resultado_1",
+     "atividade_2",
+     "responsavel_2",
+     "resultado_2",
+     "atividade_3",
+     "responsavel_3",
+     "resultado_3",
+     "atividade_4",
+     "responsavel_4",
+     "resultado_4",
+     "atividade_5",
+     "responsavel_5",
+     "resultado_5"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "Atividade / etapa",
+     "Responsável",
+     "Resultado esperado"
+    ],
+    "por_linha": 3
+   },
+   {
+    "titulo": "Como saberemos que funciona",
+    "campos": [
+     "indicadores_de_sucesso"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

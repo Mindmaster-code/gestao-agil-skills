@@ -47,3 +47,28 @@ afirmação do método.
 - Todo número tem fonte ou está marcado como estimativa ou ponto em aberto.
 - O próximo passo não fica escondido.
 - O Markdown e o HTML dizem a mesma coisa.
+
+## Canvas oficial e documento
+
+Quando o usuário pedir o canvas do curso ("gera o canvas", "no formato oficial", "igual ao PDF") ou o documento
+padrão, use os modelos de `assets/modelos/`:
+
+- `template-<id>.md` — o arquivo a preencher; as marcas `<!-- c:... -->` dizem onde está cada campo e não podem ser apagadas;
+- `canvas-<id>.html` — réplica do canvas oficial, em branco;
+- `documento.html` — a forma documento, em branco;
+- `CAMPOS.md` — nome e texto-guia de cada campo.
+
+Canvas desta habilidade:
+
+- `visao-kit-01` — Canvas de Visão (canvas do kit do curso) — padrão
+
+Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
+
+```bash
+python3 construtor/construir.py visao-kit-01 --documento --md meu-caso.md --saida meu-caso.html
+python3 construtor/construir.py visao-kit-01 --canvas --md meu-caso.md --saida meu-caso-canvas.html
+```
+
+Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
+O `.md` é a fonte; o que não estiver nele não entra no canvas. Canvas marcado como acréscimo do laboratório
+não faz parte do curso.

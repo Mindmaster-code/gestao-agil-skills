@@ -1,0 +1,264 @@
+{
+ "id": "revisao-v6",
+ "skill": "ga2-review-do-ciclo",
+ "titulo": "Canvas Editável — Revisão do Ciclo",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Revisao do Ciclo.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/revisao-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "meta",
+   "rotulo": "Meta combinada (copiada sem maquiagem)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    185.1,
+    528.38,
+    223.09
+   ],
+   "area_util": [
+    61.23,
+    185.1,
+    528.38,
+    223.09
+   ],
+   "widget": "meta"
+  },
+  {
+   "id": "ciclo",
+   "rotulo": "Ciclo e período",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    554.46,
+    185.1,
+    797.67,
+    223.09
+   ],
+   "area_util": [
+    554.46,
+    185.1,
+    797.67,
+    223.09
+   ],
+   "widget": "ciclo"
+  },
+  {
+   "id": "entregue",
+   "rotulo": "Ficou pronto, com prova",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    250.3,
+    417.83,
+    342.14
+   ],
+   "area_util": [
+    61.23,
+    250.3,
+    417.83,
+    342.14
+   ],
+   "widget": "entregue",
+   "apresentacao": "postit",
+   "postit_largura_pt": 84,
+   "minimo_pt": 5
+  },
+  {
+   "id": "nao_entregue",
+   "rotulo": "Não ficou e por quê",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    441.07,
+    250.3,
+    797.67,
+    342.14
+   ],
+   "area_util": [
+    441.07,
+    250.3,
+    797.67,
+    342.14
+   ],
+   "widget": "nao_entregue",
+   "apresentacao": "postit",
+   "postit_largura_pt": 84,
+   "minimo_pt": 5
+  },
+  {
+   "id": "numeros",
+   "rotulo": "Números (KR de/para)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    369.35,
+    528.38,
+    449.86
+   ],
+   "area_util": [
+    61.23,
+    369.35,
+    528.38,
+    449.86
+   ],
+   "widget": "numeros"
+  },
+  {
+   "id": "proximo",
+   "rotulo": "O que muda no próximo ciclo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    554.46,
+    369.35,
+    797.67,
+    449.86
+   ],
+   "area_util": [
+    554.46,
+    369.35,
+    797.67,
+    449.86
+   ],
+   "widget": "proximo"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-review-do-ciclo/assets/modelos/template-revisao-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "ciclo": {
+    "ancora": "periodo"
+   },
+   "proximo": {
+    "ancora": "proximo_ciclo"
+   },
+   "entregue": {
+    "ancora": "entregue",
+    "formato_linha": "{#1}"
+   },
+   "nao_entregue": {
+    "ancora": "nao_entregue",
+    "formato_linha": "{#1}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que ficou pronto contra a meta combinada e o que muda no próximo ciclo?",
+  "capitulos": [
+   {
+    "titulo": "Meta e período",
+    "campos": [
+     "meta",
+     "ciclo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Entregue e não entregue",
+    "campos": [
+     "entregue",
+     "nao_entregue"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Números e próximo ciclo",
+    "campos": [
+     "numeros",
+     "proximo"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

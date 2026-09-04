@@ -1,0 +1,292 @@
+{
+ "id": "pdi-kit",
+ "skill": "ga2-pdi",
+ "titulo": "Plano de Desenvolvimento Individual (PDI)",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas PDI.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 694.08,
+  "altura_pt": 501.12,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/pdi-kit.svg"
+ },
+ "campos": [
+  {
+   "id": "nome",
+   "rotulo": "Nome",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    24,
+    51.5,
+    670,
+    87
+   ],
+   "area_util": [
+    62,
+    55,
+    340,
+    68
+   ]
+  },
+  {
+   "id": "empresa",
+   "rotulo": "Empresa",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    24,
+    51.5,
+    670,
+    87
+   ],
+   "area_util": [
+    404,
+    55,
+    660,
+    68
+   ]
+  },
+  {
+   "id": "cargo",
+   "rotulo": "Cargo",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    24,
+    51.5,
+    670,
+    87
+   ],
+   "area_util": [
+    62,
+    72,
+    340,
+    85
+   ]
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    24,
+    51.5,
+    670,
+    87
+   ],
+   "area_util": [
+    404,
+    72,
+    660,
+    85
+   ]
+  },
+  {
+   "id": "objetivos_de_carreira",
+   "rotulo": "Objetivos de carreira",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    24,
+    93,
+    345,
+    273
+   ],
+   "area_util": [
+    32,
+    116,
+    338,
+    266
+   ]
+  },
+  {
+   "id": "competencias_a_desenvolver",
+   "rotulo": "Competências a desenvolver",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    351,
+    93,
+    670,
+    273
+   ],
+   "area_util": [
+    359,
+    116,
+    662,
+    266
+   ]
+  },
+  {
+   "id": "acao",
+   "rotulo": "Plano de ação: ação",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    24,
+    323,
+    187,
+    482.5
+   ],
+   "area_util": [
+    30,
+    328,
+    182,
+    476
+   ],
+   "tamanho_pt": 7
+  },
+  {
+   "id": "recursos_necessarios",
+   "rotulo": "Plano de ação: recursos necessários",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    187,
+    323,
+    422,
+    482.5
+   ],
+   "area_util": [
+    192,
+    328,
+    416,
+    476
+   ],
+   "tamanho_pt": 7
+  },
+  {
+   "id": "prazo",
+   "rotulo": "Plano de ação: prazo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    422,
+    323,
+    573,
+    482.5
+   ],
+   "area_util": [
+    427,
+    328,
+    566,
+    476
+   ],
+   "tamanho_pt": 7
+  },
+  {
+   "id": "metrica_de_sucesso",
+   "rotulo": "Plano de ação: métrica de sucesso",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    573,
+    323,
+    670,
+    482.5
+   ],
+   "area_util": [
+    578,
+    328,
+    664,
+    476
+   ],
+   "tamanho_pt": 7
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 8,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-pdi/assets/modelos/template-pdi-kit.md",
+  "ancoras": {
+   "nome": {
+    "ancora": "nome"
+   },
+   "objetivos_de_carreira": {
+    "ancora": "objetivo"
+   },
+   "competencias_a_desenvolver": {
+    "ancora": "forcas_lacuna",
+    "linha_tabela": 1,
+    "coluna": "Lacuna"
+   },
+   "acao": {
+    "ancora": "plano_acao",
+    "formato_linha": "{Ação}"
+   },
+   "recursos_necessarios": {
+    "ancora": "plano_acao",
+    "formato_linha": "{Recursos}"
+   },
+   "prazo": {
+    "ancora": "plano_acao",
+    "formato_linha": "{Prazo}"
+   },
+   "metrica_de_sucesso": {
+    "ancora": "plano_acao",
+    "formato_linha": "{Métrica}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Aonde esta pessoa quer chegar, o que precisa desenvolver e como?",
+  "capitulos": [
+   {
+    "titulo": "Pessoa e momento",
+    "campos": [
+     "nome",
+     "cargo",
+     "empresa",
+     "data"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Direção",
+    "campos": [
+     "objetivos_de_carreira"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que desenvolver",
+    "campos": [
+     "competencias_a_desenvolver"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Plano de ação",
+    "campos": [
+     "acao",
+     "recursos_necessarios",
+     "prazo",
+     "metrica_de_sucesso"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "Ação",
+     "Recursos necessários",
+     "Prazo",
+     "Métrica de sucesso"
+    ],
+    "por_linha": 4
+   }
+  ]
+ }
+}

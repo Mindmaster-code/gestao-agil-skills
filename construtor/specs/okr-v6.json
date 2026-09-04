@@ -1,0 +1,391 @@
+{
+ "id": "okr-v6",
+ "skill": "ga2-okr-canvas",
+ "titulo": "Canvas Editável — OKR",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - OKR.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/okr-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso",
+   "tamanho_pt": 10.5
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel",
+   "tamanho_pt": 10.5
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data",
+   "tamanho_pt": 10.5
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo — aonde quero chegar (até o fim do trimestre)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    69.45,
+    204.09,
+    789.45,
+    238.11
+   ],
+   "area_util": [
+    69.45,
+    204.09,
+    789.45,
+    238.11
+   ],
+   "widget": "objetivo"
+  },
+  {
+   "id": "kr1",
+   "rotulo": "KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    69.45,
+    297.64,
+    279.21,
+    368.5
+   ],
+   "area_util": [
+    69.45,
+    297.64,
+    279.21,
+    368.5
+   ],
+   "widget": "kr1"
+  },
+  {
+   "id": "nota_kr1",
+   "rotulo": "Nota KR 1 (0–1)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    252.28,
+    278.93,
+    274.96,
+    291.4
+   ],
+   "area_util": [
+    252.28,
+    278.93,
+    274.96,
+    291.4
+   ],
+   "widget": "nota_kr1",
+   "tamanho_pt": 8,
+   "alinhamento": "center"
+  },
+  {
+   "id": "kr2",
+   "rotulo": "KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    324.57,
+    297.64,
+    534.33,
+    368.5
+   ],
+   "area_util": [
+    324.57,
+    297.64,
+    534.33,
+    368.5
+   ],
+   "widget": "kr2"
+  },
+  {
+   "id": "nota_kr2",
+   "rotulo": "Nota KR 2 (0–1)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    507.4,
+    278.93,
+    530.08,
+    291.4
+   ],
+   "area_util": [
+    507.4,
+    278.93,
+    530.08,
+    291.4
+   ],
+   "widget": "nota_kr2",
+   "tamanho_pt": 8,
+   "alinhamento": "center"
+  },
+  {
+   "id": "kr3",
+   "rotulo": "KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    579.69,
+    297.64,
+    789.45,
+    368.5
+   ],
+   "area_util": [
+    579.69,
+    297.64,
+    789.45,
+    368.5
+   ],
+   "widget": "kr3"
+  },
+  {
+   "id": "nota_kr3",
+   "rotulo": "Nota KR 3 (0–1)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    762.52,
+    278.93,
+    785.2,
+    291.4
+   ],
+   "area_util": [
+    762.52,
+    278.93,
+    785.2,
+    291.4
+   ],
+   "widget": "nota_kr3",
+   "tamanho_pt": 8,
+   "alinhamento": "center"
+  },
+  {
+   "id": "iniciativa1",
+   "rotulo": "Iniciativa 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    69.45,
+    435.12,
+    279.21,
+    505.98
+   ],
+   "area_util": [
+    69.45,
+    435.12,
+    279.21,
+    505.98
+   ],
+   "widget": "iniciativa1",
+   "apresentacao": "postit",
+   "postit_largura_pt": 92,
+   "tamanho_pt": 8.5
+  },
+  {
+   "id": "iniciativa2",
+   "rotulo": "Iniciativa 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    324.57,
+    435.12,
+    534.33,
+    505.98
+   ],
+   "area_util": [
+    324.57,
+    435.12,
+    534.33,
+    505.98
+   ],
+   "widget": "iniciativa2",
+   "apresentacao": "postit",
+   "postit_largura_pt": 92,
+   "tamanho_pt": 8.5
+  },
+  {
+   "id": "iniciativa3",
+   "rotulo": "Iniciativa 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    579.69,
+    435.12,
+    789.45,
+    505.98
+   ],
+   "area_util": [
+    579.69,
+    435.12,
+    789.45,
+    505.98
+   ],
+   "widget": "iniciativa3",
+   "apresentacao": "postit",
+   "postit_largura_pt": 92,
+   "tamanho_pt": 8.5
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 10,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-okr-canvas/assets/modelos/template-okr-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "objetivo": {
+    "ancora": "objetivo_1"
+   },
+   "kr1": {
+    "ancora": "kr_1",
+    "formato": "{Resultado-chave}"
+   },
+   "kr2": {
+    "ancora": "kr_2",
+    "formato": "{Resultado-chave}"
+   },
+   "kr3": {
+    "ancora": "kr_3",
+    "formato": "{Resultado-chave}"
+   },
+   "nota_kr1": {
+    "ancora": "nota_kr1"
+   },
+   "nota_kr2": {
+    "ancora": "nota_kr2"
+   },
+   "nota_kr3": {
+    "ancora": "nota_kr3"
+   },
+   "iniciativa1": {
+    "ancora": "iniciativas",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}",
+    "item": 1
+   },
+   "iniciativa2": {
+    "ancora": "iniciativas",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}",
+    "item": 2
+   },
+   "iniciativa3": {
+    "ancora": "iniciativas",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}",
+    "item": 3
+   }
+  },
+  "nota": "v6: um objetivo, três KR com nota do check-in (só o número), e uma iniciativa por caixa (1ª, 2ª e 3ª linhas da lista do .md)."
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Aonde queremos chegar neste trimestre e que número prova que chegamos?",
+  "capitulos": [
+   {
+    "titulo": "Caso, responsável e data",
+    "campos": [
+     "caso",
+     "responsavel",
+     "data"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Aonde queremos chegar",
+    "campos": [
+     "objetivo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Que número prova que chegamos",
+    "campos": [
+     "kr1",
+     "nota_kr1",
+     "kr2",
+     "nota_kr2",
+     "kr3",
+     "nota_kr3"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que vamos iniciar",
+    "campos": [
+     "iniciativa1",
+     "iniciativa2",
+     "iniciativa3"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

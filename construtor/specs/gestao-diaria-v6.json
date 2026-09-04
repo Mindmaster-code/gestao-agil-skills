@@ -1,0 +1,421 @@
+{
+ "id": "gestao-diaria-v6",
+ "skill": "ga2-gestao-diaria",
+ "titulo": "Gestão Diária (folha individual)",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "gestao-diaria-ga2.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/gestao-diaria-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "semana",
+   "rotulo": "Semana de",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    39.69,
+    130.39,
+    464.88,
+    158.74
+   ],
+   "area_util": [
+    39.69,
+    130.39,
+    464.88,
+    158.74
+   ],
+   "widget": "semana"
+  },
+  {
+   "id": "avancei_seg",
+   "rotulo": "O que avancei — SEG",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    198.43,
+    184.25,
+    255.12
+   ],
+   "area_util": [
+    39.69,
+    198.43,
+    184.25,
+    255.12
+   ],
+   "widget": "a0",
+   "opcional": true
+  },
+  {
+   "id": "avancei_ter",
+   "rotulo": "O que avancei — TER",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    193.89,
+    198.43,
+    338.46,
+    255.12
+   ],
+   "area_util": [
+    193.89,
+    198.43,
+    338.46,
+    255.12
+   ],
+   "widget": "a1",
+   "opcional": true
+  },
+  {
+   "id": "avancei_qua",
+   "rotulo": "O que avancei — QUA",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    348.09,
+    198.43,
+    492.66,
+    255.12
+   ],
+   "area_util": [
+    348.09,
+    198.43,
+    492.66,
+    255.12
+   ],
+   "widget": "a2",
+   "opcional": true
+  },
+  {
+   "id": "avancei_qui",
+   "rotulo": "O que avancei — QUI",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    502.3,
+    198.43,
+    646.87,
+    255.12
+   ],
+   "area_util": [
+    502.3,
+    198.43,
+    646.87,
+    255.12
+   ],
+   "widget": "a3",
+   "opcional": true
+  },
+  {
+   "id": "avancei_sex",
+   "rotulo": "O que avancei — SEX",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    656.5,
+    198.43,
+    801.07,
+    255.12
+   ],
+   "area_util": [
+    656.5,
+    198.43,
+    801.07,
+    255.12
+   ],
+   "widget": "a4",
+   "opcional": true
+  },
+  {
+   "id": "foco_seg",
+   "rotulo": "Foco de hoje — SEG",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    272.13,
+    184.25,
+    328.82
+   ],
+   "area_util": [
+    39.69,
+    272.13,
+    184.25,
+    328.82
+   ],
+   "widget": "b0",
+   "opcional": true
+  },
+  {
+   "id": "foco_ter",
+   "rotulo": "Foco de hoje — TER",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    193.89,
+    272.13,
+    338.46,
+    328.82
+   ],
+   "area_util": [
+    193.89,
+    272.13,
+    338.46,
+    328.82
+   ],
+   "widget": "b1",
+   "opcional": true
+  },
+  {
+   "id": "foco_qua",
+   "rotulo": "Foco de hoje — QUA",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    348.09,
+    272.13,
+    492.66,
+    328.82
+   ],
+   "area_util": [
+    348.09,
+    272.13,
+    492.66,
+    328.82
+   ],
+   "widget": "b2",
+   "opcional": true
+  },
+  {
+   "id": "foco_qui",
+   "rotulo": "Foco de hoje — QUI",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    502.3,
+    272.13,
+    646.87,
+    328.82
+   ],
+   "area_util": [
+    502.3,
+    272.13,
+    646.87,
+    328.82
+   ],
+   "widget": "b3",
+   "opcional": true
+  },
+  {
+   "id": "foco_sex",
+   "rotulo": "Foco de hoje — SEX",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    656.5,
+    272.13,
+    801.07,
+    328.82
+   ],
+   "area_util": [
+    656.5,
+    272.13,
+    801.07,
+    328.82
+   ],
+   "widget": "b4",
+   "opcional": true
+  },
+  {
+   "id": "trava_seg",
+   "rotulo": "O que me trava — SEG",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    345.83,
+    184.25,
+    402.52
+   ],
+   "area_util": [
+    39.69,
+    345.83,
+    184.25,
+    402.52
+   ],
+   "widget": "c0",
+   "opcional": true
+  },
+  {
+   "id": "trava_ter",
+   "rotulo": "O que me trava — TER",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    193.89,
+    345.83,
+    338.46,
+    402.52
+   ],
+   "area_util": [
+    193.89,
+    345.83,
+    338.46,
+    402.52
+   ],
+   "widget": "c1",
+   "opcional": true
+  },
+  {
+   "id": "trava_qua",
+   "rotulo": "O que me trava — QUA",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    348.09,
+    345.83,
+    492.66,
+    402.52
+   ],
+   "area_util": [
+    348.09,
+    345.83,
+    492.66,
+    402.52
+   ],
+   "widget": "c2",
+   "opcional": true
+  },
+  {
+   "id": "trava_qui",
+   "rotulo": "O que me trava — QUI",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    502.3,
+    345.83,
+    646.87,
+    402.52
+   ],
+   "area_util": [
+    502.3,
+    345.83,
+    646.87,
+    402.52
+   ],
+   "widget": "c3",
+   "opcional": true
+  },
+  {
+   "id": "trava_sex",
+   "rotulo": "O que me trava — SEX",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    656.5,
+    345.83,
+    801.07,
+    402.52
+   ],
+   "area_util": [
+    656.5,
+    345.83,
+    801.07,
+    402.52
+   ],
+   "widget": "c4",
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 8,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-gestao-diaria/assets/modelos/template-gestao-diaria-v6.md",
+  "ancoras": {
+   "semana": {
+    "ancora": "semana"
+   },
+   "avancei_seg": {
+    "ancora": "avancei",
+    "coluna": "SEG"
+   },
+   "avancei_ter": {
+    "ancora": "avancei",
+    "coluna": "TER"
+   },
+   "avancei_qua": {
+    "ancora": "avancei",
+    "coluna": "QUA"
+   },
+   "avancei_qui": {
+    "ancora": "avancei",
+    "coluna": "QUI"
+   },
+   "avancei_sex": {
+    "ancora": "avancei",
+    "coluna": "SEX"
+   },
+   "foco_seg": {
+    "ancora": "foco",
+    "coluna": "SEG"
+   },
+   "foco_ter": {
+    "ancora": "foco",
+    "coluna": "TER"
+   },
+   "foco_qua": {
+    "ancora": "foco",
+    "coluna": "QUA"
+   },
+   "foco_qui": {
+    "ancora": "foco",
+    "coluna": "QUI"
+   },
+   "foco_sex": {
+    "ancora": "foco",
+    "coluna": "SEX"
+   },
+   "trava_seg": {
+    "ancora": "trava",
+    "coluna": "SEG"
+   },
+   "trava_ter": {
+    "ancora": "trava",
+    "coluna": "TER"
+   },
+   "trava_qua": {
+    "ancora": "trava",
+    "coluna": "QUA"
+   },
+   "trava_qui": {
+    "ancora": "trava",
+    "coluna": "QUI"
+   },
+   "trava_sex": {
+    "ancora": "trava",
+    "coluna": "SEX"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

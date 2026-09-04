@@ -1,0 +1,85 @@
+{
+ "id": "resumo-ciclo-b-04-p2",
+ "skill": "ga2-documentos-de-projeto",
+ "titulo": "Resumo do Ciclo (editável), página 2",
+ "origem": {
+  "familia": "b",
+  "arquivo": "04-resumo-do-ciclo-ga2-editavel.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/resumo-ciclo-b-04-p2.svg"
+ },
+ "campos": [
+  {
+   "id": "proximas_decisoes",
+   "rotulo": "4 · Próximas decisões",
+   "guia": "Continuar, ajustar, pausar ou escalar?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    192.0,
+    550.0,
+    312.0
+   ],
+   "area_util": [
+    54.0,
+    246.0,
+    540.0,
+    302.0
+   ],
+   "widget": "04-resumo-do-ciclo-ga2-editavel_4"
+  },
+  {
+   "id": "vira_a3",
+   "rotulo": "5 · Se virar A3 de melhoria",
+   "guia": "Qual problema merece voltar para o template A3?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    340.0,
+    550.0,
+    430.0
+   ],
+   "area_util": [
+    54.0,
+    390.0,
+    540.0,
+    420.0
+   ],
+   "widget": "04-resumo-do-ciclo-ga2-editavel_5"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-documentos-de-projeto/assets/modelos/template-resumo-ciclo-b-04-p2.md",
+  "ancoras": {}
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que decidimos e o que volta ao A3?",
+  "capitulos": [
+   {
+    "titulo": "Decisões",
+    "campos": [
+     "proximas_decisoes",
+     "vira_a3"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

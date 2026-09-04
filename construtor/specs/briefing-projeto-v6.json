@@ -1,0 +1,229 @@
+{
+ "id": "briefing-projeto-v6",
+ "skill": "ga2-briefing-iniciativa",
+ "titulo": "Canvas Editável — Briefing de Projeto",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Briefing de Projeto.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/briefing-projeto-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo (resultado em uma frase)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    166.32,
+    819.36,
+    250.8
+   ],
+   "area_util": [
+    68.03,
+    197.86,
+    790.87,
+    224.5
+   ],
+   "widget": "objetivo"
+  },
+  {
+   "id": "contexto",
+   "rotulo": "Contexto",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    234.48,
+    433.68,
+    381.36
+   ],
+   "area_util": [
+    68.03,
+    265.89,
+    405.35,
+    354.9
+   ],
+   "widget": "contexto"
+  },
+  {
+   "id": "escopo",
+   "rotulo": "Escopo — entra e fica de fora",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    234.48,
+    819.36,
+    381.36
+   ],
+   "area_util": [
+    453.54,
+    265.89,
+    790.87,
+    354.9
+   ],
+   "widget": "escopo"
+  },
+  {
+   "id": "entregas_marcos",
+   "rotulo": "Entregas e marcos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    377.76,
+    433.68,
+    529.68
+   ],
+   "area_util": [
+    68.03,
+    409.04,
+    405.35,
+    503.72
+   ],
+   "widget": "entregas_marcos",
+   "apresentacao": "postit",
+   "postit_largura_pt": 110
+  },
+  {
+   "id": "prazo_pronto",
+   "rotulo": "Prazo e critério de pronto",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    377.76,
+    819.36,
+    529.68
+   ],
+   "area_util": [
+    453.54,
+    409.04,
+    790.87,
+    503.72
+   ],
+   "widget": "prazo_pronto"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-briefing-iniciativa/assets/modelos/template-briefing-projeto-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "escopo": {
+    "ancora": "escopo_entra"
+   },
+   "entregas_marcos": {
+    "ancora": "entregas"
+   },
+   "prazo_pronto": {
+    "ancora": "criterio_pronto"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que este projeto entrega, até quando e como saberemos que ficou pronto?",
+  "capitulos": [
+   {
+    "titulo": "O que é",
+    "campos": [
+     "objetivo",
+     "contexto",
+     "escopo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que entrega e quando",
+    "campos": [
+     "entregas_marcos",
+     "prazo_pronto"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

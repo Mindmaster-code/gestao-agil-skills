@@ -1,0 +1,138 @@
+{
+ "id": "ponte-a3-okr-b-01",
+ "skill": "ga2-okr-canvas",
+ "titulo": "Ponte A3 → OKR (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "01-ponte-a3-okr-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/ponte-a3-okr-b-01.svg"
+ },
+ "campos": [
+  {
+   "id": "problema_do_a3",
+   "rotulo": "Problema do A3",
+   "guia": "Qual problema o OKR precisa mover?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    224.0,
+    559.0,
+    319.0
+   ],
+   "area_util": [
+    47.0,
+    272.0,
+    548.0,
+    309.0
+   ],
+   "widget": "f1"
+  },
+  {
+   "id": "causa_prioritaria",
+   "rotulo": "Causa prioritária",
+   "guia": "Qual causa será atacada?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    332.0,
+    559.0,
+    427.0
+   ],
+   "area_util": [
+    47.0,
+    380.0,
+    548.0,
+    417.0
+   ],
+   "widget": "f2"
+  },
+  {
+   "id": "resultado_prova_avanco",
+   "rotulo": "Resultado que provaria avanço",
+   "guia": "Qual mudança mensurável mostraria progresso?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    440.0,
+    559.0,
+    565.0
+   ],
+   "area_util": [
+    47.0,
+    488.0,
+    548.0,
+    555.0
+   ],
+   "widget": "f3"
+  },
+  {
+   "id": "limites_do_ciclo",
+   "rotulo": "Limites do ciclo",
+   "guia": "O que não entra agora?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    578.0,
+    559.0,
+    683.0
+   ],
+   "area_util": [
+    47.0,
+    626.0,
+    548.0,
+    673.0
+   ],
+   "widget": "f4"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-okr-canvas/assets/modelos/template-ponte-a3-okr-b-01.md",
+  "ancoras": {
+   "problema_do_a3": {
+    "ancora": "ponte_problema"
+   },
+   "causa_prioritaria": {
+    "ancora": "ponte_causa"
+   },
+   "resultado_prova_avanco": {
+    "ancora": "ponte_resultado"
+   },
+   "limites_do_ciclo": {
+    "ancora": "ponte_limites"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que problema do A3 este OKR precisa mover?",
+  "capitulos": [
+   {
+    "titulo": "A ponte",
+    "campos": [
+     "problema_do_a3",
+     "causa_prioritaria",
+     "resultado_prova_avanco",
+     "limites_do_ciclo"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

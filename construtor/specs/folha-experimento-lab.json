@@ -1,0 +1,269 @@
+{
+ "id": "folha-experimento-lab",
+ "skill": "ga2-folha-de-experimento",
+ "titulo": "Folha de experimento (laboratório)",
+ "origem": {
+  "familia": "laboratorio",
+  "arquivo": null,
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/folha-experimento-lab.svg"
+ },
+ "campos": [
+  {
+   "id": "nome",
+   "rotulo": "Experimento (número e nome)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    19.0,
+    100.0,
+    547.12,
+    160.0
+   ],
+   "area_util": [
+    29.0,
+    125.0,
+    537.12,
+    152.0
+   ]
+  },
+  {
+   "id": "dono",
+   "rotulo": "Dono",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    557.12,
+    100.0,
+    768.36,
+    160.0
+   ],
+   "area_util": [
+    567.12,
+    125.0,
+    758.36,
+    152.0
+   ]
+  },
+  {
+   "id": "area",
+   "rotulo": "Área / empresa",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    778.36,
+    100.0,
+    1016.02,
+    160.0
+   ],
+   "area_util": [
+    788.36,
+    125.0,
+    1006.02,
+    152.0
+   ]
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    1026.02,
+    100.0,
+    1171.25,
+    160.0
+   ],
+   "area_util": [
+    1036.02,
+    125.0,
+    1161.25,
+    152.0
+   ]
+  },
+  {
+   "id": "q1",
+   "rotulo": "1 · Quem está sofrendo, e qual a prova?",
+   "guia": "dor com número, fonte e data",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    172.0,
+    395.0,
+    430.0
+   ],
+   "area_util": [
+    29.0,
+    210.0,
+    385.0,
+    422.0
+   ]
+  },
+  {
+   "id": "q2",
+   "rotulo": "2 · Qual é o problema, em uma frase?",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    405.0,
+    172.0,
+    781.0,
+    430.0
+   ],
+   "area_util": [
+    415.0,
+    199.0,
+    771.0,
+    422.0
+   ]
+  },
+  {
+   "id": "q3",
+   "rotulo": "3 · Qual é a ideia diferente?",
+   "guia": "não é a melhoria pequena do lado 80–90",
+   "tipo": "texto-longo",
+   "caixa": [
+    791.0,
+    172.0,
+    1167.0,
+    430.0
+   ],
+   "area_util": [
+    801.0,
+    210.0,
+    1157.0,
+    422.0
+   ]
+  },
+  {
+   "id": "q4",
+   "rotulo": "4 · Como fazemos um protótipo barato?",
+   "guia": "o que dá para testar em dias",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    440.0,
+    395.0,
+    698.0
+   ],
+   "area_util": [
+    29.0,
+    478.0,
+    385.0,
+    690.0
+   ]
+  },
+  {
+   "id": "q5",
+   "rotulo": "5 · Como testamos, e o que conta como deu certo?",
+   "guia": "critério escrito antes de rodar",
+   "tipo": "texto-longo",
+   "caixa": [
+    405.0,
+    440.0,
+    781.0,
+    698.0
+   ],
+   "area_util": [
+    415.0,
+    478.0,
+    771.0,
+    690.0
+   ]
+  },
+  {
+   "id": "q6",
+   "rotulo": "6 · Decisão no fim: mata, ajusta ou escala?",
+   "guia": "com o resultado junto",
+   "tipo": "texto-longo",
+   "caixa": [
+    791.0,
+    440.0,
+    1167.0,
+    698.0
+   ],
+   "area_util": [
+    801.0,
+    478.0,
+    1157.0,
+    690.0
+   ]
+  },
+  {
+   "id": "limites",
+   "rotulo": "LIMITES (perda limitada)",
+   "guia": "quanto tempo, quanto dinheiro e o que não pode acontecer",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    712.0,
+    1171.25,
+    826.0
+   ],
+   "area_util": [
+    29.0,
+    750.0,
+    1161.25,
+    818.0
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700|Montserrat:wght@700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-folha-de-experimento/assets/modelos/template-folha-experimento-lab.md",
+  "ancoras": {
+   "nome": {
+    "ancora": "nome"
+   },
+   "dono": {
+    "ancora": "dono"
+   },
+   "area": {
+    "ancora": "area"
+   },
+   "data": {
+    "ancora": "data"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que aposta diferente vamos testar, com que critério e com que perda limitada?",
+  "capitulos": [
+   {
+    "titulo": "Antes de rodar",
+    "campos": [
+     "q1",
+     "q2",
+     "q3",
+     "q4",
+     "q5",
+     "limites"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "No fim",
+    "campos": [
+     "q6"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

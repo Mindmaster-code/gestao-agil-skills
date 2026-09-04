@@ -1,0 +1,316 @@
+{
+ "id": "briefing-produto-kit-5-3",
+ "skill": "ga2-briefing-iniciativa",
+ "titulo": "Briefing de Produto / Serviço",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Briefing de Produto.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/briefing-produto-kit-5-3.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_produto",
+   "rotulo": "Nome do Produto / Serviço",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    716,
+    29,
+    920,
+    52
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    988,
+    31,
+    1160,
+    54
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo",
+   "guia": "Qual é o propósito e a visão geral do produto? Qual OKR ele está vinculado?",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    80,
+    401,
+    280
+   ],
+   "area_util": [
+    35,
+    140,
+    392,
+    256
+   ]
+  },
+  {
+   "id": "problema_que_resolve",
+   "rotulo": "Problema que resolve",
+   "guia": "Dor ou desejo do cliente que o produto/serviço busca resolver.",
+   "tipo": "texto-longo",
+   "caixa": [
+    409,
+    80,
+    789,
+    280
+   ],
+   "area_util": [
+    420,
+    148,
+    780,
+    270
+   ]
+  },
+  {
+   "id": "proposta_unica_de_valor",
+   "rotulo": "Proposta única de valor",
+   "guia": "Qual o valor único? Como se diferencia dos concorrentes ou outras alternativas?",
+   "tipo": "texto-longo",
+   "caixa": [
+    797,
+    80,
+    1165,
+    280
+   ],
+   "area_util": [
+    808,
+    160,
+    1156,
+    270
+   ]
+  },
+  {
+   "id": "quem_sao",
+   "rotulo": "Público-alvo: quem são",
+   "guia": "Profissão, idade, gênero, localização, renda, educação.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    288,
+    600,
+    527
+   ],
+   "area_util": [
+    36,
+    458,
+    262,
+    519
+   ],
+   "tamanho_pt": 8.5
+  },
+  {
+   "id": "dores",
+   "rotulo": "Público-alvo: dores",
+   "guia": "Problemas, frustrações ou desafios.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    288,
+    600,
+    527
+   ],
+   "area_util": [
+    270,
+    458,
+    468,
+    519
+   ],
+   "tamanho_pt": 8.5
+  },
+  {
+   "id": "desejos",
+   "rotulo": "Público-alvo: desejos",
+   "guia": "Aspirações, objetivos ou resultados que deseja alcançar.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    288,
+    600,
+    527
+   ],
+   "area_util": [
+    480,
+    458,
+    592,
+    519
+   ],
+   "tamanho_pt": 8.5
+  },
+  {
+   "id": "principais_funcionalidades_entregas",
+   "rotulo": "Principais funcionalidades / entregas",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    608,
+    288,
+    1164,
+    527
+   ],
+   "area_util": [
+    618,
+    380,
+    1156,
+    519
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "jornada",
+   "rotulo": "Jornada do produto / serviço",
+   "guia": "Etapas da jornada de transformação do cliente.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    535,
+    810,
+    774
+   ],
+   "area_util": [
+    40,
+    590,
+    800,
+    766
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 130
+  },
+  {
+   "id": "metricas_de_sucesso",
+   "rotulo": "Métricas de sucesso",
+   "guia": "Como vamos medir seu sucesso?",
+   "tipo": "texto-longo",
+   "caixa": [
+    818,
+    535,
+    1164,
+    774
+   ],
+   "area_util": [
+    828,
+    640,
+    1156,
+    766
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-briefing-iniciativa/assets/modelos/template-briefing-produto-kit-5-3.md",
+  "ancoras": {
+   "nome_do_produto": {
+    "ancora": "caso"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "problema_que_resolve": {
+    "ancora": "contexto"
+   },
+   "proposta_unica_de_valor": {
+    "ancora": "valor"
+   },
+   "quem_sao": {
+    "ancora": "pra_quem"
+   },
+   "principais_funcionalidades_entregas": {
+    "ancora": "entregas"
+   },
+   "metricas_de_sucesso": {
+    "ancora": "metrica_evolucao"
+   },
+   "jornada": {
+    "ancora": "jornada"
+   },
+   "dores": {
+    "ancora": "dores"
+   },
+   "desejos": {
+    "ancora": "desejos"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que problema este produto resolve, para quem, e como saberemos que evolui?",
+  "capitulos": [
+   {
+    "titulo": "O que é",
+    "campos": [
+     "objetivo",
+     "problema_que_resolve",
+     "proposta_unica_de_valor"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Para quem",
+    "campos": [
+     "quem_sao",
+     "dores",
+     "desejos"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que entrega",
+    "campos": [
+     "principais_funcionalidades_entregas"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Como o cliente vive isso",
+    "campos": [
+     "jornada"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Como medimos",
+    "campos": [
+     "metricas_de_sucesso"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

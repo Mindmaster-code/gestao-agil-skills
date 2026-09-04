@@ -1,0 +1,999 @@
+{
+ "id": "delegacao-kit-11",
+ "skill": "ga2-delegacao",
+ "titulo": "Matriz de Delegação",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Matriz Delegação.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/delegacao-kit-11.svg"
+ },
+ "campos": [
+  {
+   "id": "tarefa_1",
+   "rotulo": "Tarefa / decisão — linha 1",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    209,
+    393,
+    279
+   ],
+   "area_util": [
+    65,
+    215,
+    387,
+    273
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": false
+  },
+  {
+   "id": "nivel1_1",
+   "rotulo": "Nível 1 (decide sozinho) — linha 1",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    209,
+    582,
+    279
+   ],
+   "area_util": [
+    414,
+    215,
+    576,
+    273
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": false
+  },
+  {
+   "id": "nivel2_1",
+   "rotulo": "Nível 2 (consulta equipe) — linha 1",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    209,
+    765,
+    279
+   ],
+   "area_util": [
+    604,
+    215,
+    759,
+    273
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": false
+  },
+  {
+   "id": "nivel3_1",
+   "rotulo": "Nível 3 (consulta o líder) — linha 1",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    209,
+    949,
+    279
+   ],
+   "area_util": [
+    785,
+    215,
+    943,
+    273
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": false
+  },
+  {
+   "id": "nivel4_1",
+   "rotulo": "Nível 4 (líder decide) — linha 1",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    209,
+    1131,
+    279
+   ],
+   "area_util": [
+    969,
+    215,
+    1125,
+    273
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": false
+  },
+  {
+   "id": "tarefa_2",
+   "rotulo": "Tarefa / decisão — linha 2",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    294,
+    393,
+    365
+   ],
+   "area_util": [
+    65,
+    300,
+    387,
+    359
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_2",
+   "rotulo": "Nível 1 (decide sozinho) — linha 2",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    294,
+    582,
+    365
+   ],
+   "area_util": [
+    414,
+    300,
+    576,
+    359
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_2",
+   "rotulo": "Nível 2 (consulta equipe) — linha 2",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    294,
+    765,
+    365
+   ],
+   "area_util": [
+    604,
+    300,
+    759,
+    359
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_2",
+   "rotulo": "Nível 3 (consulta o líder) — linha 2",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    294,
+    949,
+    365
+   ],
+   "area_util": [
+    785,
+    300,
+    943,
+    359
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_2",
+   "rotulo": "Nível 4 (líder decide) — linha 2",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    294,
+    1131,
+    365
+   ],
+   "area_util": [
+    969,
+    300,
+    1125,
+    359
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "tarefa_3",
+   "rotulo": "Tarefa / decisão — linha 3",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    379,
+    393,
+    448
+   ],
+   "area_util": [
+    65,
+    385,
+    387,
+    442
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_3",
+   "rotulo": "Nível 1 (decide sozinho) — linha 3",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    379,
+    582,
+    448
+   ],
+   "area_util": [
+    414,
+    385,
+    576,
+    442
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_3",
+   "rotulo": "Nível 2 (consulta equipe) — linha 3",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    379,
+    765,
+    448
+   ],
+   "area_util": [
+    604,
+    385,
+    759,
+    442
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_3",
+   "rotulo": "Nível 3 (consulta o líder) — linha 3",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    379,
+    949,
+    448
+   ],
+   "area_util": [
+    785,
+    385,
+    943,
+    442
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_3",
+   "rotulo": "Nível 4 (líder decide) — linha 3",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    379,
+    1131,
+    448
+   ],
+   "area_util": [
+    969,
+    385,
+    1125,
+    442
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "tarefa_4",
+   "rotulo": "Tarefa / decisão — linha 4",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    464,
+    393,
+    534
+   ],
+   "area_util": [
+    65,
+    470,
+    387,
+    528
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_4",
+   "rotulo": "Nível 1 (decide sozinho) — linha 4",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    464,
+    582,
+    534
+   ],
+   "area_util": [
+    414,
+    470,
+    576,
+    528
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_4",
+   "rotulo": "Nível 2 (consulta equipe) — linha 4",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    464,
+    765,
+    534
+   ],
+   "area_util": [
+    604,
+    470,
+    759,
+    528
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_4",
+   "rotulo": "Nível 3 (consulta o líder) — linha 4",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    464,
+    949,
+    534
+   ],
+   "area_util": [
+    785,
+    470,
+    943,
+    528
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_4",
+   "rotulo": "Nível 4 (líder decide) — linha 4",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    464,
+    1131,
+    534
+   ],
+   "area_util": [
+    969,
+    470,
+    1125,
+    528
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "tarefa_5",
+   "rotulo": "Tarefa / decisão — linha 5",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    549,
+    393,
+    619
+   ],
+   "area_util": [
+    65,
+    555,
+    387,
+    613
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_5",
+   "rotulo": "Nível 1 (decide sozinho) — linha 5",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    549,
+    582,
+    619
+   ],
+   "area_util": [
+    414,
+    555,
+    576,
+    613
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_5",
+   "rotulo": "Nível 2 (consulta equipe) — linha 5",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    549,
+    765,
+    619
+   ],
+   "area_util": [
+    604,
+    555,
+    759,
+    613
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_5",
+   "rotulo": "Nível 3 (consulta o líder) — linha 5",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    549,
+    949,
+    619
+   ],
+   "area_util": [
+    785,
+    555,
+    943,
+    613
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_5",
+   "rotulo": "Nível 4 (líder decide) — linha 5",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    549,
+    1131,
+    619
+   ],
+   "area_util": [
+    969,
+    555,
+    1125,
+    613
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "tarefa_6",
+   "rotulo": "Tarefa / decisão — linha 6",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    634,
+    393,
+    704
+   ],
+   "area_util": [
+    65,
+    640,
+    387,
+    698
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_6",
+   "rotulo": "Nível 1 (decide sozinho) — linha 6",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    634,
+    582,
+    704
+   ],
+   "area_util": [
+    414,
+    640,
+    576,
+    698
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_6",
+   "rotulo": "Nível 2 (consulta equipe) — linha 6",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    634,
+    765,
+    704
+   ],
+   "area_util": [
+    604,
+    640,
+    759,
+    698
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_6",
+   "rotulo": "Nível 3 (consulta o líder) — linha 6",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    634,
+    949,
+    704
+   ],
+   "area_util": [
+    785,
+    640,
+    943,
+    698
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_6",
+   "rotulo": "Nível 4 (líder decide) — linha 6",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    634,
+    1131,
+    704
+   ],
+   "area_util": [
+    969,
+    640,
+    1125,
+    698
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "tarefa_7",
+   "rotulo": "Tarefa / decisão — linha 7",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    59,
+    719,
+    393,
+    789
+   ],
+   "area_util": [
+    65,
+    725,
+    387,
+    783
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "left",
+   "opcional": true
+  },
+  {
+   "id": "nivel1_7",
+   "rotulo": "Nível 1 (decide sozinho) — linha 7",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    408,
+    719,
+    582,
+    789
+   ],
+   "area_util": [
+    414,
+    725,
+    576,
+    783
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel2_7",
+   "rotulo": "Nível 2 (consulta equipe) — linha 7",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    719,
+    765,
+    789
+   ],
+   "area_util": [
+    604,
+    725,
+    759,
+    783
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel3_7",
+   "rotulo": "Nível 3 (consulta o líder) — linha 7",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    779,
+    719,
+    949,
+    789
+   ],
+   "area_util": [
+    785,
+    725,
+    943,
+    783
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "nivel4_7",
+   "rotulo": "Nível 4 (líder decide) — linha 7",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    963,
+    719,
+    1131,
+    789
+   ],
+   "area_util": [
+    969,
+    725,
+    1125,
+    783
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-delegacao/assets/modelos/template-delegacao-kit-11.md",
+  "ancoras": {
+   "tarefa_1": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 1,
+    "coluna": "Tarefa"
+   },
+   "tarefa_2": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 2,
+    "coluna": "Tarefa"
+   },
+   "tarefa_3": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 3,
+    "coluna": "Tarefa"
+   },
+   "tarefa_4": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 4,
+    "coluna": "Tarefa"
+   },
+   "tarefa_5": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 5,
+    "coluna": "Tarefa"
+   },
+   "tarefa_6": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 6,
+    "coluna": "Tarefa"
+   },
+   "tarefa_7": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 7,
+    "coluna": "Tarefa"
+   },
+   "nivel1_1": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 1,
+    "coluna": "Nível 1"
+   },
+   "nivel2_1": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 1,
+    "coluna": "Nível 2"
+   },
+   "nivel3_1": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 1,
+    "coluna": "Nível 3"
+   },
+   "nivel4_1": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 1,
+    "coluna": "Nível 4"
+   },
+   "nivel1_2": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 2,
+    "coluna": "Nível 1"
+   },
+   "nivel2_2": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 2,
+    "coluna": "Nível 2"
+   },
+   "nivel3_2": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 2,
+    "coluna": "Nível 3"
+   },
+   "nivel4_2": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 2,
+    "coluna": "Nível 4"
+   },
+   "nivel1_3": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 3,
+    "coluna": "Nível 1"
+   },
+   "nivel2_3": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 3,
+    "coluna": "Nível 2"
+   },
+   "nivel3_3": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 3,
+    "coluna": "Nível 3"
+   },
+   "nivel4_3": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 3,
+    "coluna": "Nível 4"
+   },
+   "nivel1_4": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 4,
+    "coluna": "Nível 1"
+   },
+   "nivel2_4": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 4,
+    "coluna": "Nível 2"
+   },
+   "nivel3_4": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 4,
+    "coluna": "Nível 3"
+   },
+   "nivel4_4": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 4,
+    "coluna": "Nível 4"
+   },
+   "nivel1_5": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 5,
+    "coluna": "Nível 1"
+   },
+   "nivel2_5": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 5,
+    "coluna": "Nível 2"
+   },
+   "nivel3_5": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 5,
+    "coluna": "Nível 3"
+   },
+   "nivel4_5": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 5,
+    "coluna": "Nível 4"
+   },
+   "nivel1_6": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 6,
+    "coluna": "Nível 1"
+   },
+   "nivel2_6": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 6,
+    "coluna": "Nível 2"
+   },
+   "nivel3_6": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 6,
+    "coluna": "Nível 3"
+   },
+   "nivel4_6": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 6,
+    "coluna": "Nível 4"
+   },
+   "nivel1_7": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 7,
+    "coluna": "Nível 1"
+   },
+   "nivel2_7": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 7,
+    "coluna": "Nível 2"
+   },
+   "nivel3_7": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 7,
+    "coluna": "Nível 3"
+   },
+   "nivel4_7": {
+    "ancora": "assuntos_4",
+    "linha_tabela": 7,
+    "coluna": "Nível 4"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Quem decide cada assunto, e em que nível?",
+  "capitulos": [
+   {
+    "titulo": "Assuntos e quem decide",
+    "campos": [
+     "tarefa_1",
+     "nivel1_1",
+     "nivel2_1",
+     "nivel3_1",
+     "nivel4_1",
+     "tarefa_2",
+     "nivel1_2",
+     "nivel2_2",
+     "nivel3_2",
+     "nivel4_2",
+     "tarefa_3",
+     "nivel1_3",
+     "nivel2_3",
+     "nivel3_3",
+     "nivel4_3",
+     "tarefa_4",
+     "nivel1_4",
+     "nivel2_4",
+     "nivel3_4",
+     "nivel4_4",
+     "tarefa_5",
+     "nivel1_5",
+     "nivel2_5",
+     "nivel3_5",
+     "nivel4_5",
+     "tarefa_6",
+     "nivel1_6",
+     "nivel2_6",
+     "nivel3_6",
+     "nivel4_6",
+     "tarefa_7",
+     "nivel1_7",
+     "nivel2_7",
+     "nivel3_7",
+     "nivel4_7"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "Tarefa / decisão",
+     "Nível 1 (decide sozinho)",
+     "Nível 2 (consulta equipe)",
+     "Nível 3 (consulta o líder)",
+     "Nível 4 (líder decide)"
+    ],
+    "por_linha": 5
+   }
+  ]
+ }
+}

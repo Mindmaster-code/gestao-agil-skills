@@ -1,0 +1,1436 @@
+{
+ "id": "delegacao-v6",
+ "skill": "ga2-delegacao",
+ "titulo": "Canvas Editável — Quadro de Delegação",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Quadro de Delegacao.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/delegacao-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    137.76,
+    498.96,
+    195.36
+   ],
+   "area_util": [
+    60.94,
+    150.24,
+    477.64,
+    174.33
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    137.76,
+    677.52,
+    195.36
+   ],
+   "area_util": [
+    500.31,
+    150.24,
+    656.22,
+    174.33
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    137.76,
+    819.36,
+    195.36
+   ],
+   "area_util": [
+    678.9,
+    150.24,
+    797.95,
+    174.33
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "assunto1",
+   "rotulo": "Assunto 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    223.37,
+    250.58,
+    253.98
+   ],
+   "area_util": [
+    61.23,
+    223.37,
+    250.58,
+    253.98
+   ],
+   "widget": "assunto1"
+  },
+  {
+   "id": "n1_1",
+   "rotulo": "Nível 1 — Dizer (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    223.37,
+    328.25,
+    253.98
+   ],
+   "area_util": [
+    265.32,
+    223.37,
+    328.25,
+    253.98
+   ],
+   "widget": "n1_1",
+   "opcional": true
+  },
+  {
+   "id": "n2_1",
+   "rotulo": "Nível 2 — Vender (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    223.37,
+    404.79,
+    253.98
+   ],
+   "area_util": [
+    341.86,
+    223.37,
+    404.79,
+    253.98
+   ],
+   "widget": "n2_1",
+   "opcional": true
+  },
+  {
+   "id": "n3_1",
+   "rotulo": "Nível 3 — Consultar (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    223.37,
+    481.32,
+    253.98
+   ],
+   "area_util": [
+    418.39,
+    223.37,
+    481.32,
+    253.98
+   ],
+   "widget": "n3_1",
+   "opcional": true
+  },
+  {
+   "id": "n4_1",
+   "rotulo": "Nível 4 — Concordar (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    223.37,
+    557.86,
+    253.98
+   ],
+   "area_util": [
+    494.93,
+    223.37,
+    557.86,
+    253.98
+   ],
+   "widget": "n4_1",
+   "opcional": true
+  },
+  {
+   "id": "n5_1",
+   "rotulo": "Nível 5 — Aconselhar (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    223.37,
+    634.39,
+    253.98
+   ],
+   "area_util": [
+    571.46,
+    223.37,
+    634.39,
+    253.98
+   ],
+   "widget": "n5_1",
+   "opcional": true
+  },
+  {
+   "id": "n6_1",
+   "rotulo": "Nível 6 — Perguntar (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    223.37,
+    710.93,
+    253.98
+   ],
+   "area_util": [
+    648.0,
+    223.37,
+    710.93,
+    253.98
+   ],
+   "widget": "n6_1",
+   "opcional": true
+  },
+  {
+   "id": "n7_1",
+   "rotulo": "Nível 7 — Delegar (linha 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    223.37,
+    787.46,
+    253.98
+   ],
+   "area_util": [
+    724.54,
+    223.37,
+    787.46,
+    253.98
+   ],
+   "widget": "n7_1",
+   "opcional": true
+  },
+  {
+   "id": "assunto2",
+   "rotulo": "Assunto 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    263.06,
+    250.58,
+    293.67
+   ],
+   "area_util": [
+    61.23,
+    263.06,
+    250.58,
+    293.67
+   ],
+   "widget": "assunto2",
+   "opcional": true
+  },
+  {
+   "id": "n1_2",
+   "rotulo": "Nível 1 — Dizer (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    263.06,
+    328.25,
+    293.67
+   ],
+   "area_util": [
+    265.32,
+    263.06,
+    328.25,
+    293.67
+   ],
+   "widget": "n1_2",
+   "opcional": true
+  },
+  {
+   "id": "n2_2",
+   "rotulo": "Nível 2 — Vender (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    263.06,
+    404.79,
+    293.67
+   ],
+   "area_util": [
+    341.86,
+    263.06,
+    404.79,
+    293.67
+   ],
+   "widget": "n2_2",
+   "opcional": true
+  },
+  {
+   "id": "n3_2",
+   "rotulo": "Nível 3 — Consultar (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    263.06,
+    481.32,
+    293.67
+   ],
+   "area_util": [
+    418.39,
+    263.06,
+    481.32,
+    293.67
+   ],
+   "widget": "n3_2",
+   "opcional": true
+  },
+  {
+   "id": "n4_2",
+   "rotulo": "Nível 4 — Concordar (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    263.06,
+    557.86,
+    293.67
+   ],
+   "area_util": [
+    494.93,
+    263.06,
+    557.86,
+    293.67
+   ],
+   "widget": "n4_2",
+   "opcional": true
+  },
+  {
+   "id": "n5_2",
+   "rotulo": "Nível 5 — Aconselhar (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    263.06,
+    634.39,
+    293.67
+   ],
+   "area_util": [
+    571.46,
+    263.06,
+    634.39,
+    293.67
+   ],
+   "widget": "n5_2",
+   "opcional": true
+  },
+  {
+   "id": "n6_2",
+   "rotulo": "Nível 6 — Perguntar (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    263.06,
+    710.93,
+    293.67
+   ],
+   "area_util": [
+    648.0,
+    263.06,
+    710.93,
+    293.67
+   ],
+   "widget": "n6_2",
+   "opcional": true
+  },
+  {
+   "id": "n7_2",
+   "rotulo": "Nível 7 — Delegar (linha 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    263.06,
+    787.46,
+    293.67
+   ],
+   "area_util": [
+    724.54,
+    263.06,
+    787.46,
+    293.67
+   ],
+   "widget": "n7_2",
+   "opcional": true
+  },
+  {
+   "id": "assunto3",
+   "rotulo": "Assunto 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    302.74,
+    250.58,
+    333.35
+   ],
+   "area_util": [
+    61.23,
+    302.74,
+    250.58,
+    333.35
+   ],
+   "widget": "assunto3",
+   "opcional": true
+  },
+  {
+   "id": "n1_3",
+   "rotulo": "Nível 1 — Dizer (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    302.74,
+    328.25,
+    333.35
+   ],
+   "area_util": [
+    265.32,
+    302.74,
+    328.25,
+    333.35
+   ],
+   "widget": "n1_3",
+   "opcional": true
+  },
+  {
+   "id": "n2_3",
+   "rotulo": "Nível 2 — Vender (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    302.74,
+    404.79,
+    333.35
+   ],
+   "area_util": [
+    341.86,
+    302.74,
+    404.79,
+    333.35
+   ],
+   "widget": "n2_3",
+   "opcional": true
+  },
+  {
+   "id": "n3_3",
+   "rotulo": "Nível 3 — Consultar (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    302.74,
+    481.32,
+    333.35
+   ],
+   "area_util": [
+    418.39,
+    302.74,
+    481.32,
+    333.35
+   ],
+   "widget": "n3_3",
+   "opcional": true
+  },
+  {
+   "id": "n4_3",
+   "rotulo": "Nível 4 — Concordar (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    302.74,
+    557.86,
+    333.35
+   ],
+   "area_util": [
+    494.93,
+    302.74,
+    557.86,
+    333.35
+   ],
+   "widget": "n4_3",
+   "opcional": true
+  },
+  {
+   "id": "n5_3",
+   "rotulo": "Nível 5 — Aconselhar (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    302.74,
+    634.39,
+    333.35
+   ],
+   "area_util": [
+    571.46,
+    302.74,
+    634.39,
+    333.35
+   ],
+   "widget": "n5_3",
+   "opcional": true
+  },
+  {
+   "id": "n6_3",
+   "rotulo": "Nível 6 — Perguntar (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    302.74,
+    710.93,
+    333.35
+   ],
+   "area_util": [
+    648.0,
+    302.74,
+    710.93,
+    333.35
+   ],
+   "widget": "n6_3",
+   "opcional": true
+  },
+  {
+   "id": "n7_3",
+   "rotulo": "Nível 7 — Delegar (linha 3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    302.74,
+    787.46,
+    333.35
+   ],
+   "area_util": [
+    724.54,
+    302.74,
+    787.46,
+    333.35
+   ],
+   "widget": "n7_3",
+   "opcional": true
+  },
+  {
+   "id": "assunto4",
+   "rotulo": "Assunto 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    342.43,
+    250.58,
+    373.04
+   ],
+   "area_util": [
+    61.23,
+    342.43,
+    250.58,
+    373.04
+   ],
+   "widget": "assunto4",
+   "opcional": true
+  },
+  {
+   "id": "n1_4",
+   "rotulo": "Nível 1 — Dizer (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    342.43,
+    328.25,
+    373.04
+   ],
+   "area_util": [
+    265.32,
+    342.43,
+    328.25,
+    373.04
+   ],
+   "widget": "n1_4",
+   "opcional": true
+  },
+  {
+   "id": "n2_4",
+   "rotulo": "Nível 2 — Vender (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    342.43,
+    404.79,
+    373.04
+   ],
+   "area_util": [
+    341.86,
+    342.43,
+    404.79,
+    373.04
+   ],
+   "widget": "n2_4",
+   "opcional": true
+  },
+  {
+   "id": "n3_4",
+   "rotulo": "Nível 3 — Consultar (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    342.43,
+    481.32,
+    373.04
+   ],
+   "area_util": [
+    418.39,
+    342.43,
+    481.32,
+    373.04
+   ],
+   "widget": "n3_4",
+   "opcional": true
+  },
+  {
+   "id": "n4_4",
+   "rotulo": "Nível 4 — Concordar (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    342.43,
+    557.86,
+    373.04
+   ],
+   "area_util": [
+    494.93,
+    342.43,
+    557.86,
+    373.04
+   ],
+   "widget": "n4_4",
+   "opcional": true
+  },
+  {
+   "id": "n5_4",
+   "rotulo": "Nível 5 — Aconselhar (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    342.43,
+    634.39,
+    373.04
+   ],
+   "area_util": [
+    571.46,
+    342.43,
+    634.39,
+    373.04
+   ],
+   "widget": "n5_4",
+   "opcional": true
+  },
+  {
+   "id": "n6_4",
+   "rotulo": "Nível 6 — Perguntar (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    342.43,
+    710.93,
+    373.04
+   ],
+   "area_util": [
+    648.0,
+    342.43,
+    710.93,
+    373.04
+   ],
+   "widget": "n6_4",
+   "opcional": true
+  },
+  {
+   "id": "n7_4",
+   "rotulo": "Nível 7 — Delegar (linha 4)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    342.43,
+    787.46,
+    373.04
+   ],
+   "area_util": [
+    724.54,
+    342.43,
+    787.46,
+    373.04
+   ],
+   "widget": "n7_4",
+   "opcional": true
+  },
+  {
+   "id": "assunto5",
+   "rotulo": "Assunto 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    382.11,
+    250.58,
+    412.72
+   ],
+   "area_util": [
+    61.23,
+    382.11,
+    250.58,
+    412.72
+   ],
+   "widget": "assunto5",
+   "opcional": true
+  },
+  {
+   "id": "n1_5",
+   "rotulo": "Nível 1 — Dizer (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    382.11,
+    328.25,
+    412.72
+   ],
+   "area_util": [
+    265.32,
+    382.11,
+    328.25,
+    412.72
+   ],
+   "widget": "n1_5",
+   "opcional": true
+  },
+  {
+   "id": "n2_5",
+   "rotulo": "Nível 2 — Vender (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    382.11,
+    404.79,
+    412.72
+   ],
+   "area_util": [
+    341.86,
+    382.11,
+    404.79,
+    412.72
+   ],
+   "widget": "n2_5",
+   "opcional": true
+  },
+  {
+   "id": "n3_5",
+   "rotulo": "Nível 3 — Consultar (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    382.11,
+    481.32,
+    412.72
+   ],
+   "area_util": [
+    418.39,
+    382.11,
+    481.32,
+    412.72
+   ],
+   "widget": "n3_5",
+   "opcional": true
+  },
+  {
+   "id": "n4_5",
+   "rotulo": "Nível 4 — Concordar (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    382.11,
+    557.86,
+    412.72
+   ],
+   "area_util": [
+    494.93,
+    382.11,
+    557.86,
+    412.72
+   ],
+   "widget": "n4_5",
+   "opcional": true
+  },
+  {
+   "id": "n5_5",
+   "rotulo": "Nível 5 — Aconselhar (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    382.11,
+    634.39,
+    412.72
+   ],
+   "area_util": [
+    571.46,
+    382.11,
+    634.39,
+    412.72
+   ],
+   "widget": "n5_5",
+   "opcional": true
+  },
+  {
+   "id": "n6_5",
+   "rotulo": "Nível 6 — Perguntar (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    382.11,
+    710.93,
+    412.72
+   ],
+   "area_util": [
+    648.0,
+    382.11,
+    710.93,
+    412.72
+   ],
+   "widget": "n6_5",
+   "opcional": true
+  },
+  {
+   "id": "n7_5",
+   "rotulo": "Nível 7 — Delegar (linha 5)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    382.11,
+    787.46,
+    412.72
+   ],
+   "area_util": [
+    724.54,
+    382.11,
+    787.46,
+    412.72
+   ],
+   "widget": "n7_5",
+   "opcional": true
+  },
+  {
+   "id": "assunto6",
+   "rotulo": "Assunto 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    421.8,
+    250.58,
+    452.41
+   ],
+   "area_util": [
+    61.23,
+    421.8,
+    250.58,
+    452.41
+   ],
+   "widget": "assunto6",
+   "opcional": true
+  },
+  {
+   "id": "n1_6",
+   "rotulo": "Nível 1 — Dizer (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    265.32,
+    421.8,
+    328.25,
+    452.41
+   ],
+   "area_util": [
+    265.32,
+    421.8,
+    328.25,
+    452.41
+   ],
+   "widget": "n1_6",
+   "opcional": true
+  },
+  {
+   "id": "n2_6",
+   "rotulo": "Nível 2 — Vender (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    341.86,
+    421.8,
+    404.79,
+    452.41
+   ],
+   "area_util": [
+    341.86,
+    421.8,
+    404.79,
+    452.41
+   ],
+   "widget": "n2_6",
+   "opcional": true
+  },
+  {
+   "id": "n3_6",
+   "rotulo": "Nível 3 — Consultar (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    418.39,
+    421.8,
+    481.32,
+    452.41
+   ],
+   "area_util": [
+    418.39,
+    421.8,
+    481.32,
+    452.41
+   ],
+   "widget": "n3_6",
+   "opcional": true
+  },
+  {
+   "id": "n4_6",
+   "rotulo": "Nível 4 — Concordar (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    494.93,
+    421.8,
+    557.86,
+    452.41
+   ],
+   "area_util": [
+    494.93,
+    421.8,
+    557.86,
+    452.41
+   ],
+   "widget": "n4_6",
+   "opcional": true
+  },
+  {
+   "id": "n5_6",
+   "rotulo": "Nível 5 — Aconselhar (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    571.46,
+    421.8,
+    634.39,
+    452.41
+   ],
+   "area_util": [
+    571.46,
+    421.8,
+    634.39,
+    452.41
+   ],
+   "widget": "n5_6",
+   "opcional": true
+  },
+  {
+   "id": "n6_6",
+   "rotulo": "Nível 6 — Perguntar (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    648.0,
+    421.8,
+    710.93,
+    452.41
+   ],
+   "area_util": [
+    648.0,
+    421.8,
+    710.93,
+    452.41
+   ],
+   "widget": "n6_6",
+   "opcional": true
+  },
+  {
+   "id": "n7_6",
+   "rotulo": "Nível 7 — Delegar (linha 6)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    724.54,
+    421.8,
+    787.46,
+    452.41
+   ],
+   "area_util": [
+    724.54,
+    421.8,
+    787.46,
+    452.41
+   ],
+   "widget": "n7_6",
+   "opcional": true
+  },
+  {
+   "id": "combinado",
+   "rotulo": "Combinado em",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    475.65,
+    301.61,
+    502.3
+   ],
+   "area_util": [
+    61.23,
+    475.65,
+    301.61,
+    502.3
+   ],
+   "widget": "combinado"
+  },
+  {
+   "id": "visivel",
+   "rotulo": "Visível em",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    322.02,
+    475.65,
+    596.41,
+    502.3
+   ],
+   "area_util": [
+    322.02,
+    475.65,
+    596.41,
+    502.3
+   ],
+   "widget": "visivel"
+  },
+  {
+   "id": "revisao",
+   "rotulo": "Revisamos em",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    622.49,
+    475.65,
+    797.67,
+    502.3
+   ],
+   "area_util": [
+    622.49,
+    475.65,
+    797.67,
+    502.3
+   ],
+   "widget": "revisao"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 8,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-delegacao/assets/modelos/template-delegacao-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "assunto1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "Assunto"
+   },
+   "assunto2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "Assunto"
+   },
+   "assunto3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "Assunto"
+   },
+   "assunto4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "Assunto"
+   },
+   "assunto5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "Assunto"
+   },
+   "assunto6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "Assunto"
+   },
+   "n1_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "1 Dizer"
+   },
+   "n2_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "2 Vender"
+   },
+   "n3_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "3 Consultar"
+   },
+   "n4_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "4 Concordar"
+   },
+   "n5_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "6 Perguntar"
+   },
+   "n7_1": {
+    "ancora": "assuntos",
+    "linha_tabela": 1,
+    "coluna": "7 Delegar"
+   },
+   "n1_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "1 Dizer"
+   },
+   "n2_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "2 Vender"
+   },
+   "n3_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "3 Consultar"
+   },
+   "n4_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "4 Concordar"
+   },
+   "n5_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "6 Perguntar"
+   },
+   "n7_2": {
+    "ancora": "assuntos",
+    "linha_tabela": 2,
+    "coluna": "7 Delegar"
+   },
+   "n1_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "1 Dizer"
+   },
+   "n2_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "2 Vender"
+   },
+   "n3_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "3 Consultar"
+   },
+   "n4_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "4 Concordar"
+   },
+   "n5_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "6 Perguntar"
+   },
+   "n7_3": {
+    "ancora": "assuntos",
+    "linha_tabela": 3,
+    "coluna": "7 Delegar"
+   },
+   "n1_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "1 Dizer"
+   },
+   "n2_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "2 Vender"
+   },
+   "n3_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "3 Consultar"
+   },
+   "n4_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "4 Concordar"
+   },
+   "n5_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "6 Perguntar"
+   },
+   "n7_4": {
+    "ancora": "assuntos",
+    "linha_tabela": 4,
+    "coluna": "7 Delegar"
+   },
+   "n1_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "1 Dizer"
+   },
+   "n2_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "2 Vender"
+   },
+   "n3_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "3 Consultar"
+   },
+   "n4_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "4 Concordar"
+   },
+   "n5_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "6 Perguntar"
+   },
+   "n7_5": {
+    "ancora": "assuntos",
+    "linha_tabela": 5,
+    "coluna": "7 Delegar"
+   },
+   "n1_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "1 Dizer"
+   },
+   "n2_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "2 Vender"
+   },
+   "n3_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "3 Consultar"
+   },
+   "n4_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "4 Concordar"
+   },
+   "n5_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "5 Aconselhar"
+   },
+   "n6_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "6 Perguntar"
+   },
+   "n7_6": {
+    "ancora": "assuntos",
+    "linha_tabela": 6,
+    "coluna": "7 Delegar"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Quem decide cada assunto, e em que nível?",
+  "capitulos": [
+   {
+    "titulo": "Assuntos e níveis",
+    "campos": [
+     "assunto1",
+     "n1_1",
+     "n2_1",
+     "n3_1",
+     "n4_1",
+     "n5_1",
+     "n6_1",
+     "n7_1",
+     "assunto2",
+     "n1_2",
+     "n2_2",
+     "n3_2",
+     "n4_2",
+     "n5_2",
+     "n6_2",
+     "n7_2",
+     "assunto3",
+     "n1_3",
+     "n2_3",
+     "n3_3",
+     "n4_3",
+     "n5_3",
+     "n6_3",
+     "n7_3",
+     "assunto4",
+     "n1_4",
+     "n2_4",
+     "n3_4",
+     "n4_4",
+     "n5_4",
+     "n6_4",
+     "n7_4",
+     "assunto5",
+     "n1_5",
+     "n2_5",
+     "n3_5",
+     "n4_5",
+     "n5_5",
+     "n6_5",
+     "n7_5",
+     "assunto6",
+     "n1_6",
+     "n2_6",
+     "n3_6",
+     "n4_6",
+     "n5_6",
+     "n6_6",
+     "n7_6"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "Assunto",
+     "1 Dizer",
+     "2 Vender",
+     "3 Consultar",
+     "4 Concordar",
+     "5 Aconselhar",
+     "6 Perguntar",
+     "7 Delegar"
+    ],
+    "por_linha": 8
+   },
+   {
+    "titulo": "Combinado, visível, revisão",
+    "campos": [
+     "combinado",
+     "visivel",
+     "revisao"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

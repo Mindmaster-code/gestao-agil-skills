@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Folha de experimento (laboratório)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@700&display=swap');
+:root{
+  /* superfícies — DS: cream, white, light-gray */
+  --paper:#FAFAF8; --panel:#FFFFFF; --sunk:#F3F4F6;
+  /* texto — DS: charcoal, gray */
+  --ink:#1F2937; --ink-2:#4B5563; --ink-3:#6B7280; --ink-4:#9CA3AF;
+  /* linhas — DS: border */
+  --rule:#E4E7EB; --rule-2:#D2D7DE;
+  /* marca — DS: teal 500/700/50 */
+  --brand:#3D9B9D; --brand-deep:#2B6F70; --brand-wash:#F0FAFA;
+  /* risco/estimado — DS: orange (escurecido para passar contraste em texto) */
+  --risk:#C2560A; --risk-solid:#F97316; --risk-wash:#FEF1E7;
+  /* medido — mesma família da marca */
+  --ok:#2B6F70; --ok-wash:#F0FAFA;
+  /* em aberto — neutro de propósito: sem dado, sem cor */
+  --open:#576270; --open-wash:#F3F4F6;
+  --shadow:0 1px 3px rgba(17,24,39,.06),0 1px 2px rgba(17,24,39,.04);
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:'Manrope',system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --serif:'Manrope',system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#111827; --panel:#1F2937; --sunk:#172033;
+    --ink:#F3F4F6; --ink-2:#C7CEDA; --ink-3:#9CA3AF; --ink-4:#6B7280;
+    --rule:#2A3444; --rule-2:#3B4757;
+    --brand:#52C7CB; --brand-deep:#A9E3E5; --brand-wash:#1A4243;
+    --risk:#FB923C; --risk-solid:#F97316; --risk-wash:#3A2410;
+    --ok:#7DD5D8; --ok-wash:#1A4243;
+    --open:#A6AEBB; --open-wash:#232C3A;
+    --shadow:0 1px 2px rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"] .lede em{background:linear-gradient(transparent 58%,#225859 58%)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .lede em{background:linear-gradient(transparent 58%,#225859 58%)}}
+:root[data-theme="dark"]{
+  --paper:#111827; --panel:#1F2937; --sunk:#172033;
+  --ink:#F3F4F6; --ink-2:#C7CEDA; --ink-3:#9CA3AF; --ink-4:#6B7280;
+  --rule:#2A3444; --rule-2:#3B4757;
+  --brand:#52C7CB; --brand-deep:#A9E3E5; --brand-wash:#1A4243;
+  --risk:#FB923C; --risk-solid:#F97316; --risk-wash:#3A2410;
+  --ok:#7DD5D8; --ok-wash:#1A4243;
+  --open:#A6AEBB; --open-wash:#232C3A;
+  --shadow:0 1px 2px rgba(0,0,0,.4);
+}
+
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Manrope,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.barra{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:baseline;padding:12px 22px;border-bottom:1px solid var(--rule);background:var(--panel);font-size:13.5px}
+.barra .eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.barra b{font-weight:700}
+.barra .acoes{margin-left:auto;display:flex;gap:8px}
+.barra button{font:inherit;font-size:12.5px;padding:4px 11px;border:1px solid var(--rule-2);border-radius:6px;background:var(--panel);color:var(--ink);cursor:pointer}
+.barra button:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+.scroll{overflow:auto;padding:24px}
+.moldura{position:relative}
+.page{position:relative;width:1190.25pt;height:842.25pt;background:#FFFFFF;box-shadow:0 2px 14px rgba(0,0,0,.14);transform-origin:top left;overflow:hidden}
+.page>svg{position:absolute;left:0;top:0;width:1190.25pt;height:842.25pt;display:block}
+.campo{position:absolute;margin:0;overflow:hidden;white-space:pre-wrap;overflow-wrap:break-word;line-height:1.28;font-family:'Roboto',Arimo,'Liberation Sans',Arial,sans-serif;color:#1A1A1A}
+.campo.postits{display:flex;flex-wrap:wrap;gap:6pt;align-content:flex-start;padding:2pt;white-space:normal}
+.postit{position:relative;padding:6pt 7pt;min-height:46pt;font-size:.92em;line-height:1.25;color:#1F2937;background:#FFF3A0;box-shadow:1px 2px 4px rgba(0,0,0,.18);white-space:pre-wrap;overflow-wrap:break-word;transform:rotate(-.6deg)}
+.postit:nth-child(2n){transform:rotate(.7deg)}
+.postit:nth-child(3n){transform:rotate(-.3deg)}
+.postit.verde{background:#CFF4D6}.postit.azul{background:#CFE8FF}.postit.rosa{background:#FFD6E7}.postit.laranja{background:#FFE0B3}
+.meta{padding:8px 24px 32px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:var(--ink-3);line-height:1.7;max-width:1200px}
+.meta b{color:var(--ink-2);font-weight:500}
+.dbg-caixa{position:absolute;border:1px solid rgba(37,99,235,.75);pointer-events:none}
+.dbg-area{position:absolute;border:1px dashed rgba(220,38,38,.95);background:rgba(220,38,38,.06);pointer-events:none}
+.dbg-id{position:absolute;font:8pt ui-monospace,monospace;color:#B91C1C;background:rgba(255,255,255,.9);padding:0 3px;pointer-events:none;white-space:nowrap}
+@page{size:1190.25pt 842.25pt;margin:0}
+@media print{.barra,.meta{display:none!important}.scroll{overflow:visible;padding:0}.moldura{width:auto!important;height:auto!important}.page{transform:none!important;box-shadow:none}body{background:#FFFFFF}}
+</style>
+</head>
+<body>
+<div class="barra"><span class="eyebrow">Gestão Ágil 2.0 · forma canvas · laboratorio</span><b>Folha de experimento (laboratório)</b><span class="acoes"><button id="btn-ajustar" type="button">ajustar à tela</button><button id="btn-imprimir" type="button">imprimir / PDF</button></span></div>
+<div class="scroll" id="scroll"><div class="moldura" id="moldura"><div class="page" id="page" data-spec="folha-experimento-lab" data-largura-pt="1190.25" data-altura-pt="842.25">
+<svg xmlns="http://www.w3.org/2000/svg" width="1190.25pt" height="842.25pt" viewBox="0 0 1190.25 842.25"><rect x="0" y="0" width="1190.25" height="842.25" fill="#D9D9D9"/><rect x="395" y="45" width="423" height="39" rx="6" fill="#FFFFFF"/><rect x="408" y="53" width="34" height="23" rx="11.5" fill="#596366"/><text x="425" y="69" text-anchor="middle" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="10" fill="#FFFFFF">LAB</text><text x="620" y="71" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="700" font-size="20" fill="#000000">FOLHA DE EXPERIMENTO</text><text x="19" y="30" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266" letter-spacing="1">GESTÃO ÁGIL 2.0 · MELHORIA CONTÍNUA · BARBELL DE INOVAÇÃO · CANVAS DO LABORATÓRIO</text><text x="1171.25" y="832.25" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="8" fill="#586266">acréscimo do laboratório · MindMaster · Gestão Ágil 2.0 · sem template oficial no curso — versão de 04/09/2026</text><rect x="19" y="100" width="528.1176470588235" height="60" rx="6" fill="#FFFFFF"/><text x="31" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Experimento (número e nome)</text><rect x="557.1176470588235" y="100" width="211.24705882352941" height="60" rx="6" fill="#FFFFFF"/><text x="569.1176470588235" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Dono</text><rect x="778.364705882353" y="100" width="237.65294117647056" height="60" rx="6" fill="#FFFFFF"/><text x="790.364705882353" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Área / empresa</text><rect x="1026.0176470588235" y="100" width="145.2323529411765" height="60" rx="6" fill="#FFFFFF"/><text x="1038.0176470588235" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Data</text><rect x="19" y="172" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="31" y="191" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">1 · Quem está sofrendo, e qual a prova?</text><text x="31" y="205" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">dor com número, fonte e data</text><rect x="405" y="172" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="417" y="191" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">2 · Qual é o problema, em uma frase?</text><rect x="791" y="172" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="803" y="191" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">3 · Qual é a ideia diferente?</text><text x="803" y="205" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">não é a melhoria pequena do lado 80–90</text><rect x="19" y="440" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="31" y="459" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">4 · Como fazemos um protótipo barato?</text><text x="31" y="473" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">o que dá para testar em dias</text><rect x="405" y="440" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="417" y="459" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">5 · Como testamos, e o que conta como deu certo?</text><text x="417" y="473" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">critério escrito antes de rodar</text><rect x="791" y="440" width="376" height="258" rx="6" fill="#FFFFFF"/><text x="803" y="459" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">6 · Decisão no fim: mata, ajusta ou escala?</text><text x="803" y="473" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">com o resultado junto</text><rect x="19" y="712" width="1152.25" height="114" rx="6" fill="#FFFFFF"/><text x="31" y="731" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="11" fill="#586266">LIMITES (perda limitada)</text><text x="31" y="745" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">quanto tempo, quanto dinheiro e o que não pode acontecer</text></svg>
+<div class="campo" data-campo="nome" data-min="5" style="left:29.0pt;top:125.0pt;width:508.12pt;height:27.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="dono" data-min="5" style="left:567.12pt;top:125.0pt;width:191.24pt;height:27.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="area" data-min="5" style="left:788.36pt;top:125.0pt;width:217.66pt;height:27.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="data" data-min="5" style="left:1036.02pt;top:125.0pt;width:125.23pt;height:27.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q1" data-min="5" style="left:29.0pt;top:210.0pt;width:356.00pt;height:212.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q2" data-min="5" style="left:415.0pt;top:199.0pt;width:356.00pt;height:223.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q3" data-min="5" style="left:801.0pt;top:210.0pt;width:356.00pt;height:212.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q4" data-min="5" style="left:29.0pt;top:478.0pt;width:356.00pt;height:212.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q5" data-min="5" style="left:415.0pt;top:478.0pt;width:356.00pt;height:212.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="q6" data-min="5" style="left:801.0pt;top:478.0pt;width:356.00pt;height:212.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="limites" data-min="5" style="left:29.0pt;top:750.0pt;width:1132.25pt;height:68.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div>
+
+</div></div></div>
+<p class="meta"><b>origem do canvas</b> None · <b>fonte do conteúdo</b> — · <b>gerado</b> 04/09/2026<br>Réplica literal do canvas oficial; o texto preenchido vem do arquivo .md. Modelo gerado por ferramentas/canvas/construir.py — não editar à mão.</p>
+<script>
+(function(){
+  document.querySelectorAll('.campo').forEach(function(el){
+    if(!el.textContent.trim()) return;
+    var min=parseFloat(el.dataset.min||'6.5');
+    var fs=parseFloat(getComputedStyle(el).fontSize)*0.75; var guard=0;
+    var pw=parseFloat(el.dataset.postitW||'110'); var notas=el.querySelectorAll('.postit');
+    while(el.scrollHeight>el.clientHeight+1 && guard<120){
+      if(fs>min){ fs-=0.5; el.style.fontSize=fs+'pt'; }
+      else if(notas.length && pw>56){ pw=Math.max(56,pw*0.9); notas.forEach(function(p){p.style.width=pw+'pt';p.style.minHeight='0';}); }
+      else break;
+      guard++; }
+    if(el.scrollHeight>el.clientHeight+1){ el.setAttribute('data-estourou','1'); }
+  });
+})();
+
+(function(){
+  var page=document.getElementById('page'),moldura=document.getElementById('moldura'),scroll=document.getElementById('scroll'),btn=document.getElementById('btn-ajustar');
+  if(!btn) return;
+  var W=page.offsetWidth,Hh=page.offsetHeight,ajustar=true;
+  function aplicar(){var disp=scroll.clientWidth-48;var s=ajustar?Math.min(2.5,disp/W):1;page.style.transform='scale('+s+')';moldura.style.width=(W*s)+'px';moldura.style.height=(Hh*s)+'px';btn.textContent=ajustar?'ver em 1:1':'ajustar à tela';}
+  btn.addEventListener('click',function(){ajustar=!ajustar;aplicar();});
+  document.getElementById('btn-imprimir').addEventListener('click',function(){window.print();});
+  window.addEventListener('resize',aplicar);aplicar();
+})();
+</script>
+</body>
+</html>

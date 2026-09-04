@@ -1,0 +1,133 @@
+{
+ "id": "cinco-porques-b-06",
+ "skill": "ga2-causa-raiz",
+ "titulo": "Causa raiz — 5 Porquês (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "06-causa-raiz-5-porques-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/cinco-porques-b-06.svg"
+ },
+ "campos": [
+  {
+   "id": "problema_observado",
+   "rotulo": "Problema observado",
+   "guia": "Problema em uma frase.",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    224.0,
+    559.0,
+    294.0
+   ],
+   "area_util": [
+    47.0,
+    254.0,
+    548.0,
+    284.0
+   ],
+   "widget": "f1"
+  },
+  {
+   "id": "cinco_porques",
+   "rotulo": "5 Porquês",
+   "guia": "1. Por quê? 2. Por quê? 3. Por quê? 4. Por quê? 5. Por quê?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    307.0,
+    559.0,
+    492.0
+   ],
+   "area_util": [
+    47.0,
+    355.0,
+    548.0,
+    482.0
+   ],
+   "widget": "f2"
+  },
+  {
+   "id": "evidencias",
+   "rotulo": "Evidências",
+   "guia": "O que confirma ou enfraquece a causa?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    505.0,
+    559.0,
+    615.0
+   ],
+   "area_util": [
+    47.0,
+    553.0,
+    548.0,
+    605.0
+   ],
+   "widget": "f3"
+  },
+  {
+   "id": "causa_prioritaria",
+   "rotulo": "Causa prioritária",
+   "guia": "Qual causa atacar primeiro?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    628.0,
+    559.0,
+    718.0
+   ],
+   "area_util": [
+    47.0,
+    676.0,
+    548.0,
+    708.0
+   ],
+   "widget": "f4"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-causa-raiz/assets/modelos/template-cinco-porques-b-06.md",
+  "ancoras": {
+   "problema_observado": {
+    "ancora": "problema"
+   },
+   "cinco_porques": {
+    "ancora": "porques",
+    "formato_linha": "{#}. {Por quê} — {Evidência}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Por que o problema acontece, e qual causa atacar primeiro?",
+  "capitulos": [
+   {
+    "titulo": "Do sintoma à causa",
+    "campos": [
+     "problema_observado",
+     "cinco_porques",
+     "evidencias",
+     "causa_prioritaria"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

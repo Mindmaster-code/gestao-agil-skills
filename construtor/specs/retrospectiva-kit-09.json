@@ -1,0 +1,132 @@
+{
+ "id": "retrospectiva-kit-09",
+ "skill": "ga2-retrospectiva",
+ "titulo": "Retrospectiva | Reflexões da Equipe",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Retrospectiva.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/retrospectiva-kit-09.svg"
+ },
+ "campos": [
+  {
+   "id": "o_que_funcionou_bem",
+   "rotulo": "O que funcionou bem",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    29,
+    138,
+    402,
+    814
+   ],
+   "area_util": [
+    38,
+    190,
+    393,
+    805
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "o_que_podia_ser_melhor",
+   "rotulo": "O que podia ser melhor",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    413,
+    138,
+    785,
+    814
+   ],
+   "area_util": [
+    422,
+    190,
+    776,
+    805
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "o_que_vamos_tentar",
+   "rotulo": "O que vamos tentar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    796,
+    138,
+    1169,
+    814
+   ],
+   "area_util": [
+    805,
+    190,
+    1160,
+    805
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-retrospectiva/assets/modelos/template-retrospectiva-kit-09.md",
+  "ancoras": {
+   "o_que_funcionou_bem": {
+    "ancora": "manter"
+   },
+   "o_que_podia_ser_melhor": {
+    "ancora": "melhorar"
+   },
+   "o_que_vamos_tentar": {
+    "ancora": "acao"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que mantemos, o que melhoramos e qual é a única ação deste ciclo?",
+  "capitulos": [
+   {
+    "titulo": "O que funcionou bem",
+    "campos": [
+     "o_que_funcionou_bem"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que podia ser melhor",
+    "campos": [
+     "o_que_podia_ser_melhor"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que vamos tentar",
+    "campos": [
+     "o_que_vamos_tentar"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

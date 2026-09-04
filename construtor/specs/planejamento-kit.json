@@ -1,0 +1,562 @@
+{
+ "id": "planejamento-kit",
+ "skill": "ga2-canvas-de-planejamento",
+ "titulo": "Canvas de Planejamento",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canva+Planejamento.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 567.12,
+  "altura_pt": 786.96,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/planejamento-kit.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_projeto",
+   "rotulo": "Nome do projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    16,
+    62,
+    178,
+    95
+   ],
+   "area_util": [
+    20,
+    73,
+    174,
+    92
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "empresa_area",
+   "rotulo": "Empresa / área",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    195,
+    62,
+    342,
+    95
+   ],
+   "area_util": [
+    199,
+    73,
+    338,
+    92
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder do projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    359,
+    63,
+    546,
+    95
+   ],
+   "area_util": [
+    363,
+    73,
+    542,
+    92
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "contexto_do_desafio",
+   "rotulo": "1 · Contexto do desafio",
+   "guia": "Descreva o desafio em que pretende aplicar Gestão Ágil na prática.",
+   "tipo": "texto-longo",
+   "caixa": [
+    16,
+    100,
+    546,
+    225
+   ],
+   "area_util": [
+    43,
+    130,
+    545,
+    222
+   ]
+  },
+  {
+   "id": "situacao_atual",
+   "rotulo": "2 · Situação atual",
+   "guia": "Informe a situação atual em relação à meta.",
+   "tipo": "texto-longo",
+   "caixa": [
+    16,
+    228,
+    190,
+    355
+   ],
+   "area_util": [
+    44,
+    262,
+    190,
+    352
+   ]
+  },
+  {
+   "id": "situacao_ideal",
+   "rotulo": "3 · Situação ideal",
+   "guia": "Informe a situação ideal em relação à meta.",
+   "tipo": "texto-longo",
+   "caixa": [
+    196,
+    228,
+    380,
+    355
+   ],
+   "area_util": [
+    227,
+    262,
+    375,
+    352
+   ]
+  },
+  {
+   "id": "analise_de_gap",
+   "rotulo": "4 · Análise de gap",
+   "guia": "O gap entre a situação atual e a ideal.",
+   "tipo": "texto-longo",
+   "caixa": [
+    385,
+    228,
+    546,
+    355
+   ],
+   "area_util": [
+    408,
+    262,
+    545,
+    352
+   ]
+  },
+  {
+   "id": "causa_raiz",
+   "rotulo": "5 · Causa raiz",
+   "guia": "A causa raiz do problema.",
+   "tipo": "texto-longo",
+   "caixa": [
+    16,
+    358,
+    546,
+    472
+   ],
+   "area_util": [
+    48,
+    384,
+    545,
+    470
+   ]
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "9 · Objetivo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    18,
+    513,
+    164,
+    589
+   ],
+   "area_util": [
+    22,
+    535,
+    160,
+    585
+   ],
+   "tamanho_pt": 7
+  },
+  {
+   "id": "resultado_chave_1",
+   "rotulo": "Resultado-chave #1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    177,
+    513,
+    262,
+    587
+   ],
+   "area_util": [
+    180,
+    548,
+    259,
+    585
+   ],
+   "tamanho_pt": 6.5,
+   "opcional": false
+  },
+  {
+   "id": "iniciativa_1_1",
+   "rotulo": "Iniciativa #1 do KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    177,
+    587,
+    262,
+    642
+   ],
+   "area_util": [
+    180,
+    616,
+    259,
+    640
+   ],
+   "tamanho_pt": 6,
+   "opcional": false
+  },
+  {
+   "id": "iniciativa_1_2",
+   "rotulo": "Iniciativa #2 do KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    177,
+    642,
+    262,
+    697
+   ],
+   "area_util": [
+    180,
+    671,
+    259,
+    695
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_2",
+   "rotulo": "Resultado-chave #2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    270,
+    513,
+    355,
+    587
+   ],
+   "area_util": [
+    273,
+    548,
+    352,
+    585
+   ],
+   "tamanho_pt": 6.5,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_2_1",
+   "rotulo": "Iniciativa #1 do KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    270,
+    587,
+    355,
+    642
+   ],
+   "area_util": [
+    273,
+    616,
+    352,
+    640
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_2_2",
+   "rotulo": "Iniciativa #2 do KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    270,
+    642,
+    355,
+    697
+   ],
+   "area_util": [
+    273,
+    671,
+    352,
+    695
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_3",
+   "rotulo": "Resultado-chave #3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    362,
+    513,
+    447,
+    587
+   ],
+   "area_util": [
+    365,
+    548,
+    444,
+    585
+   ],
+   "tamanho_pt": 6.5,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_3_1",
+   "rotulo": "Iniciativa #1 do KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    362,
+    587,
+    447,
+    642
+   ],
+   "area_util": [
+    365,
+    616,
+    444,
+    640
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_3_2",
+   "rotulo": "Iniciativa #2 do KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    362,
+    642,
+    447,
+    697
+   ],
+   "area_util": [
+    365,
+    671,
+    444,
+    695
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_4",
+   "rotulo": "Resultado-chave #4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    455,
+    513,
+    540,
+    587
+   ],
+   "area_util": [
+    458,
+    548,
+    537,
+    585
+   ],
+   "tamanho_pt": 6.5,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_4_1",
+   "rotulo": "Iniciativa #1 do KR 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    455,
+    587,
+    540,
+    642
+   ],
+   "area_util": [
+    458,
+    616,
+    537,
+    640
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_4_2",
+   "rotulo": "Iniciativa #2 do KR 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    455,
+    642,
+    540,
+    697
+   ],
+   "area_util": [
+    458,
+    671,
+    537,
+    695
+   ],
+   "tamanho_pt": 6,
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Open Sans",
+  "google_fonts": "Open+Sans:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 7.5,
+  "minimo_pt": 4.5
+ },
+ "md": {
+  "template": "skills/ga2-canvas-de-planejamento/assets/modelos/template-planejamento-kit.md",
+  "ancoras": {
+   "nome_do_projeto": {
+    "ancora": "caso"
+   },
+   "empresa_area": {
+    "ancora": "empresa"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "contexto_do_desafio": {
+    "ancora": "contexto"
+   },
+   "analise_de_gap": {
+    "ancora": "gap"
+   },
+   "objetivo": {
+    "ancora": "objetivo_1"
+   },
+   "resultado_chave_1": {
+    "ancora": "kr_1",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_2": {
+    "ancora": "kr_2",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_3": {
+    "ancora": "kr_3",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_4": {
+    "ancora": "kr_4",
+    "formato": "{Resultado-chave}"
+   },
+   "iniciativa_1_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 1,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_1_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 2,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_2_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 3,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_2_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 4,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_3_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 5,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_3_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 6,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_4_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 7,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_4_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 8,
+    "coluna": "Iniciativa"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é o desafio, onde estamos, aonde queremos chegar, por que estamos aqui e o que vamos medir?",
+  "capitulos": [
+   {
+    "titulo": "O desafio",
+    "campos": [
+     "contexto_do_desafio"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Onde estamos e aonde queremos chegar",
+    "campos": [
+     "situacao_atual",
+     "situacao_ideal",
+     "analise_de_gap"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Por que estamos aqui",
+    "campos": [
+     "causa_raiz"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que vamos medir e iniciar",
+    "campos": [
+     "objetivo",
+     "resultado_chave_1",
+     "resultado_chave_2",
+     "resultado_chave_3",
+     "resultado_chave_4",
+     "iniciativa_1_1",
+     "iniciativa_1_2",
+     "iniciativa_2_1",
+     "iniciativa_2_2",
+     "iniciativa_3_1",
+     "iniciativa_3_2",
+     "iniciativa_4_1",
+     "iniciativa_4_2"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

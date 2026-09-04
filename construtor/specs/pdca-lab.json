@@ -1,0 +1,523 @@
+{
+ "id": "pdca-lab",
+ "skill": "ga2-pdca",
+ "titulo": "PDCA (laboratório)",
+ "origem": {
+  "familia": "laboratorio",
+  "arquivo": null,
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/pdca-lab.svg"
+ },
+ "campos": [
+  {
+   "id": "melhoria",
+   "rotulo": "Melhoria / objetivo",
+   "guia": "o que vai melhorar e por quê",
+   "tipo": "texto-curto",
+   "caixa": [
+    19.0,
+    100.0,
+    517.78,
+    160.0
+   ],
+   "area_util": [
+    29.0,
+    136.0,
+    507.78,
+    152.0
+   ]
+  },
+  {
+   "id": "origem",
+   "rotulo": "Origem",
+   "guia": "retro · review · A3 · Kaizen · Gemba",
+   "tipo": "texto-curto",
+   "caixa": [
+    527.78,
+    100.0,
+    777.17,
+    160.0
+   ],
+   "area_util": [
+    537.78,
+    136.0,
+    767.17,
+    152.0
+   ]
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "um nome",
+   "tipo": "texto-curto",
+   "caixa": [
+    787.17,
+    100.0,
+    974.21,
+    160.0
+   ],
+   "area_util": [
+    797.17,
+    136.0,
+    964.21,
+    152.0
+   ]
+  },
+  {
+   "id": "ciclo",
+   "rotulo": "Ciclo / data de abertura",
+   "guia": "AAAA-Www · dd/mm",
+   "tipo": "texto-curto",
+   "caixa": [
+    984.21,
+    100.0,
+    1171.25,
+    160.0
+   ],
+   "area_util": [
+    994.21,
+    136.0,
+    1161.25,
+    152.0
+   ]
+  },
+  {
+   "id": "problema",
+   "rotulo": "Problema ou sinal com número de hoje",
+   "guia": "fato, sem culpado",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    206.0,
+    298.0,
+    269.75
+   ],
+   "area_util": [
+    39.0,
+    242.0,
+    288.0,
+    261.75
+   ]
+  },
+  {
+   "id": "causa_raiz",
+   "rotulo": "Causa raiz (5 porquês ou A3)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    206.0,
+    575.0,
+    269.75
+   ],
+   "area_util": [
+    316.0,
+    231.0,
+    565.0,
+    261.75
+   ]
+  },
+  {
+   "id": "linha_base",
+   "rotulo": "Linha de base",
+   "guia": "número de hoje — o que o Check compara",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    277.75,
+    298.0,
+    341.5
+   ],
+   "area_util": [
+    39.0,
+    313.75,
+    288.0,
+    333.5
+   ]
+  },
+  {
+   "id": "meta",
+   "rotulo": "Meta",
+   "guia": "número esperado e até quando",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    277.75,
+    575.0,
+    341.5
+   ],
+   "area_util": [
+    316.0,
+    313.75,
+    565.0,
+    333.5
+   ]
+  },
+  {
+   "id": "acao",
+   "rotulo": "Ação escolhida (uma só)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    349.5,
+    298.0,
+    413.25
+   ],
+   "area_util": [
+    39.0,
+    374.5,
+    288.0,
+    405.25
+   ]
+  },
+  {
+   "id": "plano",
+   "rotulo": "Plano (o quê · quem · quando)",
+   "guia": "ou link para o 5W2H",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    349.5,
+    575.0,
+    413.25
+   ],
+   "area_util": [
+    316.0,
+    385.5,
+    565.0,
+    405.25
+   ]
+  },
+  {
+   "id": "dono",
+   "rotulo": "Dono",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    421.25,
+    298.0,
+    485.0
+   ],
+   "area_util": [
+    39.0,
+    446.25,
+    288.0,
+    477.0
+   ]
+  },
+  {
+   "id": "prazo",
+   "rotulo": "Prazo",
+   "guia": "dd/mm",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    421.25,
+    575.0,
+    485.0
+   ],
+   "area_util": [
+    316.0,
+    457.25,
+    565.0,
+    477.0
+   ]
+  },
+  {
+   "id": "feito",
+   "rotulo": "O que foi feito, quando, por quem",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    610.0,
+    206.0,
+    1161.25,
+    293.67
+   ],
+   "area_util": [
+    620.0,
+    231.0,
+    1151.25,
+    285.67
+   ]
+  },
+  {
+   "id": "desvios",
+   "rotulo": "Desvios do plano",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    610.0,
+    301.67,
+    1161.25,
+    389.33
+   ],
+   "area_util": [
+    620.0,
+    326.67,
+    1151.25,
+    381.33
+   ]
+  },
+  {
+   "id": "prova",
+   "rotulo": "Prova",
+   "guia": "commit, carta, arquivo, log",
+   "tipo": "texto-longo",
+   "caixa": [
+    610.0,
+    397.33,
+    1161.25,
+    485.0
+   ],
+   "area_util": [
+    620.0,
+    433.33,
+    1151.25,
+    477.0
+   ]
+  },
+  {
+   "id": "numero_medido",
+   "rotulo": "Número medido",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    539.0,
+    298.0,
+    626.0
+   ],
+   "area_util": [
+    39.0,
+    564.0,
+    288.0,
+    618.0
+   ]
+  },
+  {
+   "id": "linha_base_c",
+   "rotulo": "Linha de base",
+   "guia": "mesmo número do P",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    539.0,
+    575.0,
+    626.0
+   ],
+   "area_util": [
+    316.0,
+    575.0,
+    565.0,
+    618.0
+   ]
+  },
+  {
+   "id": "bateu",
+   "rotulo": "Bateu? desvio?",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    634.0,
+    298.0,
+    721.0
+   ],
+   "area_util": [
+    39.0,
+    659.0,
+    288.0,
+    713.0
+   ]
+  },
+  {
+   "id": "evidencia",
+   "rotulo": "Evidência",
+   "guia": "caminho real",
+   "tipo": "texto-longo",
+   "caixa": [
+    306.0,
+    634.0,
+    575.0,
+    721.0
+   ],
+   "area_util": [
+    316.0,
+    670.0,
+    565.0,
+    713.0
+   ]
+  },
+  {
+   "id": "medido_em",
+   "rotulo": "Medido em",
+   "guia": "dd/mm",
+   "tipo": "texto-longo",
+   "caixa": [
+    29.0,
+    729.0,
+    298.0,
+    816.0
+   ],
+   "area_util": [
+    39.0,
+    765.0,
+    288.0,
+    808.0
+   ]
+  },
+  {
+   "id": "decisao",
+   "rotulo": "Decisão",
+   "guia": "padronizar · ajustar · descartar",
+   "tipo": "texto-longo",
+   "caixa": [
+    610.0,
+    539.0,
+    881.62,
+    673.5
+   ],
+   "area_util": [
+    620.0,
+    575.0,
+    871.62,
+    665.5
+   ]
+  },
+  {
+   "id": "padrao_onde",
+   "rotulo": "Onde o padrão foi escrito",
+   "guia": "só se padronizar",
+   "tipo": "texto-longo",
+   "caixa": [
+    889.62,
+    539.0,
+    1161.25,
+    673.5
+   ],
+   "area_util": [
+    899.62,
+    575.0,
+    1151.25,
+    665.5
+   ]
+  },
+  {
+   "id": "proximo_ciclo",
+   "rotulo": "Próximo ciclo (se ajustar)",
+   "guia": "o que entra no novo P e data",
+   "tipo": "texto-longo",
+   "caixa": [
+    610.0,
+    681.5,
+    881.62,
+    816.0
+   ],
+   "area_util": [
+    620.0,
+    717.5,
+    871.62,
+    808.0
+   ]
+  },
+  {
+   "id": "fechado_em",
+   "rotulo": "Fechado em",
+   "guia": "dd/mm",
+   "tipo": "texto-longo",
+   "caixa": [
+    889.62,
+    681.5,
+    1161.25,
+    816.0
+   ],
+   "area_util": [
+    899.62,
+    717.5,
+    1151.25,
+    808.0
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700|Montserrat:wght@700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-pdca/assets/modelos/template-pdca-lab.md",
+  "ancoras": {
+   "melhoria": {
+    "ancora": "melhoria"
+   },
+   "linha_base_c": {
+    "ancora": "linha_base"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que mudou de verdade depois desta melhoria, medido contra a linha de base?",
+  "capitulos": [
+   {
+    "titulo": "Plan",
+    "campos": [
+     "melhoria",
+     "origem",
+     "problema",
+     "causa_raiz",
+     "linha_base",
+     "meta",
+     "acao",
+     "plano",
+     "dono",
+     "prazo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Do",
+    "campos": [
+     "feito",
+     "desvios",
+     "prova"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Check",
+    "campos": [
+     "numero_medido",
+     "bateu",
+     "evidencia",
+     "medido_em"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Act",
+    "campos": [
+     "decisao",
+     "padrao_onde",
+     "proximo_ciclo",
+     "fechado_em"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

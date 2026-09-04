@@ -51,5 +51,5 @@ foreach ($Target in ($Targets | Select-Object -Unique)) {
         Copy-Item -Path $Source.FullName -Destination $Destination -Recurse
     }
 
-    Write-Output "Instaladas 30 skills em $Target"
+    Write-Output "Instaladas 31 skills em $Target"
 }

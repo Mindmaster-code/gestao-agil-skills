@@ -1,0 +1,209 @@
+{
+ "id": "kanban-kit-07",
+ "skill": "ga2-kanban-canvas",
+ "titulo": "Kanban | Quadro de Acompanhamento Simples",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Kanban .pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/kanban-kit-07.svg"
+ },
+ "campos": [
+  {
+   "id": "limite_fazendo",
+   "rotulo": "Limite máx. (Fazendo)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    309,
+    84,
+    590,
+    528
+   ],
+   "area_util": [
+    524,
+    108,
+    566,
+    126
+   ],
+   "tamanho_pt": 11,
+   "alinhamento": "center"
+  },
+  {
+   "id": "limite_validacao",
+   "rotulo": "Limite máx. (Em validação)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    598,
+    84,
+    879,
+    528
+   ],
+   "area_util": [
+    810,
+    108,
+    852,
+    126
+   ],
+   "tamanho_pt": 11,
+   "alinhamento": "center"
+  },
+  {
+   "id": "sprint_backlog",
+   "rotulo": "Sprint backlog (planejado, a fazer)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    84,
+    301,
+    819
+   ],
+   "area_util": [
+    28,
+    272,
+    292,
+    810
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  },
+  {
+   "id": "fazendo",
+   "rotulo": "Fazendo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    309,
+    84,
+    590,
+    528
+   ],
+   "area_util": [
+    318,
+    132,
+    581,
+    519
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  },
+  {
+   "id": "em_validacao",
+   "rotulo": "Em validação",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    84,
+    879,
+    528
+   ],
+   "area_util": [
+    607,
+    132,
+    870,
+    519
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  },
+  {
+   "id": "feito",
+   "rotulo": "Feito",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    888,
+    84,
+    1169,
+    819
+   ],
+   "area_util": [
+    897,
+    132,
+    1160,
+    810
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118
+  },
+  {
+   "id": "problemas_impedimentos",
+   "rotulo": "Problemas / impedimentos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    309,
+    536,
+    880,
+    819
+   ],
+   "area_util": [
+    318,
+    584,
+    871,
+    810
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 118,
+   "postit_cor": "rosa"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-kanban-canvas/assets/modelos/template-kanban-kit-07.md",
+  "ancoras": {
+   "sprint_backlog": {
+    "ancora": "foto",
+    "formato_linha": "{Sprint backlog}"
+   },
+   "problemas_impedimentos": {
+    "ancora": "bloqueios"
+   },
+   "fazendo": {
+    "ancora": "foto",
+    "formato_linha": "{Fazendo}"
+   },
+   "em_validacao": {
+    "ancora": "foto",
+    "formato_linha": "{Em validação}"
+   },
+   "feito": {
+    "ancora": "foto",
+    "formato_linha": "{Feito}"
+   },
+   "limite_fazendo": {
+    "ancora": "limites",
+    "linha_tabela": 1,
+    "coluna": "Limite"
+   },
+   "limite_validacao": {
+    "ancora": "limites",
+    "linha_tabela": 2,
+    "coluna": "Limite"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

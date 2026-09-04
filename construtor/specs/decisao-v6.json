@@ -1,0 +1,224 @@
+{
+ "id": "decisao-v6",
+ "skill": "ga2-decisao-projeto-ou-fluxo",
+ "titulo": "Canvas Editável — Decisão: Projeto ou Fluxo",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Decisao Projeto ou Fluxo.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/decisao-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "caso_trabalho",
+   "rotulo": "O trabalho (fim claro × chega todo dia)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    185.1,
+    797.67,
+    237.26
+   ],
+   "area_util": [
+    61.23,
+    185.1,
+    797.67,
+    237.26
+   ],
+   "widget": "caso_trabalho"
+  },
+  {
+   "id": "fim_claro",
+   "rotulo": "As três perguntas",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    258.8,
+    417.83,
+    327.97
+   ],
+   "area_util": [
+    61.23,
+    258.8,
+    417.83,
+    327.97
+   ],
+   "widget": "fim_claro"
+  },
+  {
+   "id": "trilha",
+   "rotulo": "Trilha: ciclos, fluxo ou híbrido",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    441.07,
+    258.8,
+    797.67,
+    327.97
+   ],
+   "area_util": [
+    441.07,
+    258.8,
+    797.67,
+    327.97
+   ],
+   "widget": "trilha"
+  },
+  {
+   "id": "acompanhar",
+   "rotulo": "Como acompanhar (dia, hora, lugar)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    355.18,
+    797.67,
+    424.35
+   ],
+   "area_util": [
+    61.23,
+    355.18,
+    797.67,
+    424.35
+   ],
+   "widget": "acompanhar"
+  },
+  {
+   "id": "regra",
+   "rotulo": "A regra de quem cede",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    451.56,
+    797.67,
+    509.39
+   ],
+   "area_util": [
+    61.23,
+    451.56,
+    797.67,
+    509.39
+   ],
+   "widget": "regra"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-decisao-projeto-ou-fluxo/assets/modelos/template-decisao-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "caso_trabalho": {
+    "ancora": "trabalhos"
+   },
+   "fim_claro": {
+    "ancora": "perguntas"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Este trabalho roda em ciclos, em fluxo ou nos dois, e quem cede quando brigam?",
+  "capitulos": [
+   {
+    "titulo": "O trabalho e as perguntas",
+    "campos": [
+     "caso_trabalho",
+     "fim_claro"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "A decisão",
+    "campos": [
+     "trilha",
+     "acompanhar",
+     "regra"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

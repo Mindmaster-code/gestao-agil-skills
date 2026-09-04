@@ -1,6 +1,6 @@
 # Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório distribui 30 habilidades do Gestão Ágil 2.0 em um único plug-in e
+Este repositório distribui 31 habilidades do Gestão Ágil 2.0 em um único plug-in e
 mantém os instaladores por pasta para ambientes compatíveis.
 
 O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
@@ -118,6 +118,27 @@ O ambiente decide qual skill usar. Você também pode citar o nome, como `$ga2-r
 - Sem recurso visual, a skill salva o HTML e mostra um resumo no terminal ou no chat.
 
 O recurso disponível no ambiente prevalece sobre o nome do modelo.
+
+## Gerar o canvas oficial e o documento
+
+Cada habilidade de artefato traz, em `assets/modelos/`:
+
+- `template-<id>.md` — o arquivo que você preenche; as marcas `<!-- c:... -->` dizem ao construtor onde está cada campo;
+- `canvas-<id>.html` — a réplica do canvas oficial do curso, em branco;
+- `documento.html` — a forma documento, em branco;
+- `CAMPOS.md` — o nome e o texto-guia de cada campo.
+
+Com Python 3.10 ou mais novo (sem instalar pacotes), na pasta deste repositório:
+
+```bash
+python3 construtor/construir.py okr-kit-02 --documento --md meu-okr.md --saida meu-okr.html
+python3 construtor/construir.py okr-kit-02 --canvas --md meu-okr.md --saida meu-okr-canvas.html
+```
+
+O `.md` é a fonte; os dois HTML são gerados dele. A lista dos canvas e o modo de leitura estão em
+[construtor/README.md](construtor/README.md). Seis canvas (5W2H, PDCA, Ishikawa, portões DoR/DoD,
+Quem faz o quê e Folha de experimento) não existem no curso: foram desenhados no mesmo estilo do kit e
+trazem o selo "acréscimo do laboratório".
 
 ## Conteúdo e privacidade
 

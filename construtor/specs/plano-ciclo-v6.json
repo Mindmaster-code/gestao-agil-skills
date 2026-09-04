@@ -1,0 +1,253 @@
+{
+ "id": "plano-ciclo-v6",
+ "skill": "ga2-plano-do-ciclo",
+ "titulo": "Canvas Editável — Plano do Ciclo",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Plano do Ciclo.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/plano-ciclo-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "meta",
+   "rotulo": "Meta do ciclo (uma só)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    185.1,
+    528.38,
+    225.92
+   ],
+   "area_util": [
+    61.23,
+    185.1,
+    528.38,
+    225.92
+   ],
+   "widget": "meta"
+  },
+  {
+   "id": "periodo",
+   "rotulo": "Período",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    554.46,
+    185.1,
+    797.67,
+    225.92
+   ],
+   "area_util": [
+    554.46,
+    185.1,
+    797.67,
+    225.92
+   ],
+   "widget": "periodo"
+  },
+  {
+   "id": "time",
+   "rotulo": "Quem faz",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    253.13,
+    284.6,
+    299.62
+   ],
+   "area_util": [
+    61.23,
+    253.13,
+    284.6,
+    299.62
+   ],
+   "widget": "time"
+  },
+  {
+   "id": "diaria",
+   "rotulo": "Diária (hora, lugar)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    310.68,
+    253.13,
+    528.38,
+    299.62
+   ],
+   "area_util": [
+    310.68,
+    253.13,
+    528.38,
+    299.62
+   ],
+   "widget": "diaria"
+  },
+  {
+   "id": "cerimonias",
+   "rotulo": "Review e retro (dia, hora)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    554.46,
+    253.13,
+    797.67,
+    299.62
+   ],
+   "area_util": [
+    554.46,
+    253.13,
+    797.67,
+    299.62
+   ],
+   "widget": "cerimonias"
+  },
+  {
+   "id": "backlog",
+   "rotulo": "O que entra (itens com dono e 'pronto é')",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    326.83,
+    797.67,
+    486.71
+   ],
+   "area_util": [
+    61.23,
+    326.83,
+    797.67,
+    486.71
+   ],
+   "widget": "backlog",
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-plano-do-ciclo/assets/modelos/template-plano-ciclo-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "cerimonias": {
+    "ancora": "rituais"
+   },
+   "backlog": {
+    "ancora": "itens",
+    "formato_linha": "{Item} — {Dono} — {Pronto é}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que fica pronto na sexta, quem faz e como acompanhamos?",
+  "capitulos": [
+   {
+    "titulo": "Meta e período",
+    "campos": [
+     "meta",
+     "periodo",
+     "time"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Rituais",
+    "campos": [
+     "diaria",
+     "cerimonias"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que entra",
+    "campos": [
+     "backlog"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

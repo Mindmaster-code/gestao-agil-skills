@@ -1,0 +1,254 @@
+{
+ "id": "kanban-canvas-v6",
+ "skill": "ga2-kanban-canvas",
+ "titulo": "Kanban Canvas (jornada v6)",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "kanban-canvas-ga2.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/kanban-canvas-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Nome do quadro (o meu caso)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    39.69,
+    141.73,
+    802.2,
+    170.08
+   ],
+   "area_util": [
+    39.69,
+    141.73,
+    802.2,
+    170.08
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "coluna_1",
+   "rotulo": "Coluna 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    226.77,
+    221.1,
+    260.79
+   ],
+   "area_util": [
+    39.69,
+    226.77,
+    221.1,
+    260.79
+   ],
+   "widget": "c1"
+  },
+  {
+   "id": "coluna_2",
+   "rotulo": "Coluna 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    233.15,
+    226.77,
+    414.57,
+    260.79
+   ],
+   "area_util": [
+    233.15,
+    226.77,
+    414.57,
+    260.79
+   ],
+   "widget": "c2"
+  },
+  {
+   "id": "coluna_3",
+   "rotulo": "Coluna 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    426.61,
+    226.77,
+    608.03,
+    260.79
+   ],
+   "area_util": [
+    426.61,
+    226.77,
+    608.03,
+    260.79
+   ],
+   "widget": "c3"
+  },
+  {
+   "id": "coluna_4",
+   "rotulo": "Coluna 4 (opcional)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    620.08,
+    226.77,
+    801.5,
+    260.79
+   ],
+   "area_util": [
+    620.08,
+    226.77,
+    801.5,
+    260.79
+   ],
+   "widget": "c4",
+   "opcional": true
+  },
+  {
+   "id": "definicao_feito",
+   "rotulo": "Como um item vira 'feito'?",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    311.81,
+    408.19,
+    385.51
+   ],
+   "area_util": [
+    39.69,
+    311.81,
+    408.19,
+    385.51
+   ],
+   "widget": "feito"
+  },
+  {
+   "id": "regras",
+   "rotulo": "Regras do quadro — quando um item anda",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    311.81,
+    802.2,
+    385.51
+   ],
+   "area_util": [
+    428.03,
+    311.81,
+    802.2,
+    385.51
+   ],
+   "widget": "pol"
+  },
+  {
+   "id": "limite_wip",
+   "rotulo": "Limite de itens em andamento",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    419.53,
+    209.76,
+    453.54
+   ],
+   "area_util": [
+    39.69,
+    419.53,
+    209.76,
+    453.54
+   ],
+   "widget": "wip"
+  },
+  {
+   "id": "onde",
+   "rotulo": "Onde vou montar o quadro",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    232.44,
+    419.53,
+    501.73,
+    453.54
+   ],
+   "area_util": [
+    232.44,
+    419.53,
+    501.73,
+    453.54
+   ],
+   "widget": "onde"
+  },
+  {
+   "id": "ritmo",
+   "rotulo": "Meu ritmo de atualização",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    524.41,
+    419.53,
+    802.2,
+    453.54
+   ],
+   "area_util": [
+    524.41,
+    419.53,
+    802.2,
+    453.54
+   ],
+   "widget": "ritmo"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-kanban-canvas/assets/modelos/template-kanban-canvas-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "definicao_feito": {
+    "ancora": "pronto"
+   },
+   "regras": {
+    "ancora": "politicas"
+   },
+   "limite_wip": {
+    "ancora": "limite"
+   },
+   "coluna_1": {
+    "ancora": "coluna_1"
+   },
+   "coluna_2": {
+    "ancora": "coluna_2"
+   },
+   "coluna_3": {
+    "ancora": "coluna_3"
+   },
+   "coluna_4": {
+    "ancora": "coluna_4"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

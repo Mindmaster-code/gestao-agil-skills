@@ -1,0 +1,192 @@
+{
+ "id": "dor-dod-lab",
+ "skill": "ga2-checklist-producao-entrega",
+ "titulo": "Portões DoR / DoD (laboratório)",
+ "origem": {
+  "familia": "laboratorio",
+  "arquivo": null,
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/dor-dod-lab.svg"
+ },
+ "campos": [
+  {
+   "id": "cartao",
+   "rotulo": "Cartão / frente",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    19.0,
+    100.0,
+    648.03,
+    160.0
+   ],
+   "area_util": [
+    29.0,
+    125.0,
+    638.03,
+    152.0
+   ]
+  },
+  {
+   "id": "dono",
+   "rotulo": "Dono (um nome)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.03,
+    100.0,
+    972.54,
+    160.0
+   ],
+   "area_util": [
+    668.03,
+    125.0,
+    962.54,
+    152.0
+   ]
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    982.54,
+    100.0,
+    1171.25,
+    160.0
+   ],
+   "area_util": [
+    992.54,
+    125.0,
+    1161.25,
+    152.0
+   ]
+  },
+  {
+   "id": "dor",
+   "rotulo": "PORTÃO 1 — DEFINITION OF READY",
+   "guia": "o cartão pode entrar em execução? um item por linha: [x] ou [ ] + o que falta",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    172.0,
+    585.0,
+    740.0
+   ],
+   "area_util": [
+    29.0,
+    211.0,
+    575.0,
+    732.0
+   ]
+  },
+  {
+   "id": "dod",
+   "rotulo": "PORTÃO 2 — DEFINITION OF DONE",
+   "guia": "o cartão pode ser entregue e aceito? um item por linha, com a prova",
+   "tipo": "texto-longo",
+   "caixa": [
+    600.0,
+    172.0,
+    1171.25,
+    740.0
+   ],
+   "area_util": [
+    610.0,
+    211.0,
+    1161.25,
+    732.0
+   ]
+  },
+  {
+   "id": "veredito_entrada",
+   "rotulo": "Veredito do portão 1",
+   "guia": "pode entrar? o que falta, quem resolve, até quando",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    750.0,
+    585.0,
+    826.0
+   ],
+   "area_util": [
+    29.0,
+    787.0,
+    575.0,
+    818.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "veredito_saida",
+   "rotulo": "Veredito do portão 2",
+   "guia": "pode entregar? prova pelo caminho real, aceitante",
+   "tipo": "texto-longo",
+   "caixa": [
+    600.0,
+    750.0,
+    1171.25,
+    826.0
+   ],
+   "area_util": [
+    610.0,
+    787.0,
+    1161.25,
+    818.0
+   ],
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700|Montserrat:wght@700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-checklist-producao-entrega/assets/modelos/template-dor-dod-lab.md",
+  "ancoras": {
+   "dor": {
+    "ancora": "dor",
+    "formato_linha": "[{OK}] {Item}"
+   },
+   "dod": {
+    "ancora": "dod",
+    "formato_linha": "[{OK}] {Item} — {Prova}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Este cartão pode entrar, e pode sair com prova?",
+  "capitulos": [
+   {
+    "titulo": "Portão de entrada",
+    "campos": [
+     "dor",
+     "veredito_entrada"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Portão de saída",
+    "campos": [
+     "dod",
+     "veredito_saida"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

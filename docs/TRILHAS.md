@@ -17,6 +17,7 @@ plug-in escolher o fluxo adequado.
 - `ga2-canvas-de-visao`
 - `ga2-matriz-esforco-impacto`
 - `ga2-okr-canvas`
+- `ga2-canvas-de-planejamento`
 - `ga2-painel-do-gestor`
 
 ## 3. Iniciativas e ciclos

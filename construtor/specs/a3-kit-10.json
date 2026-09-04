@@ -1,0 +1,201 @@
+{
+ "id": "a3-kit-10",
+ "skill": "ga2-relatorio-a3",
+ "titulo": "Relatório A3",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Relatório A3.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/a3-kit-10.svg"
+ },
+ "campos": [
+  {
+   "id": "contexto",
+   "rotulo": "Contexto",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    138,
+    588,
+    226
+   ],
+   "area_util": [
+    30,
+    178,
+    578,
+    220
+   ]
+  },
+  {
+   "id": "situacao_atual",
+   "rotulo": "Situação atual",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    235,
+    589,
+    372
+   ],
+   "area_util": [
+    30,
+    272,
+    579,
+    366
+   ]
+  },
+  {
+   "id": "situacao_ideal",
+   "rotulo": "Situação ideal",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    381,
+    589,
+    517
+   ],
+   "area_util": [
+    30,
+    422,
+    579,
+    511
+   ]
+  },
+  {
+   "id": "analise_de_causa_raiz",
+   "rotulo": "Análise de causa raiz",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    19,
+    528,
+    588,
+    819
+   ],
+   "area_util": [
+    30,
+    575,
+    578,
+    812
+   ]
+  },
+  {
+   "id": "solucao_proposta",
+   "rotulo": "Solução proposta",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    138,
+    1166,
+    381
+   ],
+   "area_util": [
+    608,
+    178,
+    1156,
+    374
+   ]
+  },
+  {
+   "id": "plano_de_acao",
+   "rotulo": "Plano de ação",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    392,
+    1166,
+    713
+   ],
+   "area_util": [
+    608,
+    432,
+    1156,
+    706
+   ]
+  },
+  {
+   "id": "metricas_de_acompanhamento",
+   "rotulo": "Métricas de acompanhamento",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    597,
+    723,
+    1166,
+    818
+   ],
+   "area_util": [
+    608,
+    762,
+    1156,
+    812
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-relatorio-a3/assets/modelos/template-a3-kit-10.md",
+  "ancoras": {
+   "analise_de_causa_raiz": {
+    "ancora": "causa_raiz"
+   },
+   "solucao_proposta": {
+    "ancora": "contramedidas"
+   },
+   "plano_de_acao": {
+    "ancora": "plano",
+    "formato_linha": "{O quê} — {Quem} — {Quando}"
+   },
+   "metricas_de_acompanhamento": {
+    "ancora": "metricas"
+   },
+   "situacao_ideal": {
+    "ancora": "situacao_desejada"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é o problema, sua causa e o plano que o resolve?",
+  "capitulos": [
+   {
+    "titulo": "Entender",
+    "campos": [
+     "contexto",
+     "situacao_atual",
+     "situacao_ideal",
+     "analise_de_causa_raiz"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Resolver",
+    "campos": [
+     "solucao_proposta",
+     "plano_de_acao",
+     "metricas_de_acompanhamento"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

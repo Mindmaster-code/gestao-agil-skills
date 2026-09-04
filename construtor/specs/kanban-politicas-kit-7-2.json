@@ -1,0 +1,156 @@
+{
+ "id": "kanban-politicas-kit-7-2",
+ "skill": "ga2-kanban-canvas",
+ "titulo": "Políticas do Kanban | \"Combinados\" da Equipe",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Kanban - Políticas.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1440.0,
+  "altura_pt": 810.0,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/kanban-politicas-kit-7-2.svg"
+ },
+ "campos": [
+  {
+   "id": "politica_de_entrada",
+   "rotulo": "Política de entrada",
+   "guia": "Regras para adicionar novas tarefas ao quadro.",
+   "tipo": "texto-longo",
+   "caixa": [
+    163,
+    81,
+    448,
+    423
+   ],
+   "area_util": [
+    172,
+    120,
+    439,
+    415
+   ]
+  },
+  {
+   "id": "politica_de_limites",
+   "rotulo": "Política de limites",
+   "guia": "Regras para limitar a quantidade de trabalho em paralelo em cada coluna ou no total do quadro.",
+   "tipo": "texto-longo",
+   "caixa": [
+    459,
+    81,
+    777,
+    423
+   ],
+   "area_util": [
+    468,
+    120,
+    768,
+    415
+   ]
+  },
+  {
+   "id": "politica_de_definicao_de_pronto",
+   "rotulo": "Política de definição de pronto (qualidade)",
+   "guia": "Critérios que determinam quando uma tarefa pode ser considerada concluída.",
+   "tipo": "texto-longo",
+   "caixa": [
+    788,
+    81,
+    1271,
+    788
+   ],
+   "area_util": [
+    797,
+    120,
+    1262,
+    780
+   ]
+  },
+  {
+   "id": "politica_de_atualizacao",
+   "rotulo": "Política de atualização",
+   "guia": "Como e quando as atualizações no quadro devem ser feitas.",
+   "tipo": "texto-longo",
+   "caixa": [
+    163,
+    436,
+    448,
+    787
+   ],
+   "area_util": [
+    172,
+    468,
+    439,
+    780
+   ]
+  },
+  {
+   "id": "politica_de_bloqueios",
+   "rotulo": "Política de bloqueios",
+   "guia": "Como identificar, sinalizar e gerenciar tarefas bloqueadas.",
+   "tipo": "texto-longo",
+   "caixa": [
+    459,
+    436,
+    777,
+    787
+   ],
+   "area_util": [
+    468,
+    468,
+    768,
+    780
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-kanban-canvas/assets/modelos/template-kanban-politicas-kit-7-2.md",
+  "ancoras": {
+   "politica_de_entrada": {
+    "ancora": "entrada"
+   },
+   "politica_de_limites": {
+    "ancora": "limites_politica"
+   },
+   "politica_de_definicao_de_pronto": {
+    "ancora": "pronto_politica"
+   },
+   "politica_de_atualizacao": {
+    "ancora": "atualizacao"
+   },
+   "politica_de_bloqueios": {
+    "ancora": "bloqueio"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Quais são os combinados do quadro: entrada, limite, pronto, atualização e bloqueio?",
+  "capitulos": [
+   {
+    "titulo": "Combinados do quadro",
+    "campos": [
+     "politica_de_entrada",
+     "politica_de_limites",
+     "politica_de_definicao_de_pronto",
+     "politica_de_atualizacao",
+     "politica_de_bloqueios"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

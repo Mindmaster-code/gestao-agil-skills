@@ -28,7 +28,7 @@ install_to() {
     cp -R "$source" "$destination"
   done
 
-  printf 'Instaladas 30 skills em %s\n' "$target"
+  printf 'Instaladas 31 skills em %s\n' "$target"
 }
 
 if [[ $# -eq 0 ]]; then

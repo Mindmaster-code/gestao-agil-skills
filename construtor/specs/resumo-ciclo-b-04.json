@@ -1,0 +1,105 @@
+{
+ "id": "resumo-ciclo-b-04",
+ "skill": "ga2-documentos-de-projeto",
+ "titulo": "Resumo do Ciclo (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "04-resumo-do-ciclo-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/resumo-ciclo-b-04.svg"
+ },
+ "campos": [
+  {
+   "id": "contexto_ciclo",
+   "rotulo": "1 · Contexto do ciclo",
+   "guia": "Qual era o problema ou objetivo?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    232.0,
+    550.0,
+    332.0
+   ],
+   "area_util": [
+    54.0,
+    286.0,
+    540.0,
+    322.0
+   ],
+   "widget": "04-resumo-do-ciclo-ga2-editavel_1"
+  },
+  {
+   "id": "entregas_evidencias",
+   "rotulo": "2 · Entregas e evidências",
+   "guia": "O que foi produzido ou melhorou?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    360.0,
+    550.0,
+    490.0
+   ],
+   "area_util": [
+    54.0,
+    414.0,
+    540.0,
+    480.0
+   ],
+   "widget": "04-resumo-do-ciclo-ga2-editavel_2"
+  },
+  {
+   "id": "aprendizados",
+   "rotulo": "3 · Aprendizados",
+   "guia": "O que ficou claro depois de executar?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    518.0,
+    550.0,
+    648.0
+   ],
+   "area_util": [
+    54.0,
+    572.0,
+    540.0,
+    638.0
+   ],
+   "widget": "04-resumo-do-ciclo-ga2-editavel_3"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-documentos-de-projeto/assets/modelos/template-resumo-ciclo-b-04.md",
+  "ancoras": {}
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que este ciclo produziu, o que ficou claro e o que decidimos?",
+  "capitulos": [
+   {
+    "titulo": "Contexto, entregas, aprendizados",
+    "campos": [
+     "contexto_ciclo",
+     "entregas_evidencias",
+     "aprendizados"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

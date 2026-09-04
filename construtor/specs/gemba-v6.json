@@ -1,0 +1,304 @@
+{
+ "id": "gemba-v6",
+ "skill": "ga2-gemba-walk",
+ "titulo": "Canvas Editável — Roteiro do Vá e Veja",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Roteiro do Va e Veja.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/gemba-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "onde",
+   "rotulo": "Onde é o gemba",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    200.69,
+    335.62,
+    228.76
+   ],
+   "area_util": [
+    61.23,
+    200.69,
+    335.62,
+    228.76
+   ],
+   "widget": "onde"
+  },
+  {
+   "id": "quem",
+   "rotulo": "Com quem",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    348.94,
+    200.69,
+    566.65,
+    228.76
+   ],
+   "area_util": [
+    348.94,
+    200.69,
+    566.65,
+    228.76
+   ],
+   "widget": "quem"
+  },
+  {
+   "id": "quando",
+   "rotulo": "Quando e por quanto tempo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    579.97,
+    200.69,
+    797.67,
+    228.76
+   ],
+   "area_util": [
+    579.97,
+    200.69,
+    797.67,
+    228.76
+   ],
+   "widget": "quando"
+  },
+  {
+   "id": "pergunta",
+   "rotulo": "A pergunta escrita antes",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    260.22,
+    797.67,
+    288.28
+   ],
+   "area_util": [
+    61.23,
+    260.22,
+    797.67,
+    288.28
+   ],
+   "widget": "pergunta"
+  },
+  {
+   "id": "vi",
+   "rotulo": "O que vi (só o observado)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    336.76,
+    534.05,
+    408.76
+   ],
+   "area_util": [
+    61.23,
+    336.76,
+    534.05,
+    408.76
+   ],
+   "widget": "vi"
+  },
+  {
+   "id": "surpreendeu",
+   "rotulo": "O que me surpreendeu",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    555.87,
+    336.76,
+    797.67,
+    408.76
+   ],
+   "area_util": [
+    555.87,
+    336.76,
+    797.67,
+    408.76
+   ],
+   "widget": "surpreendeu"
+  },
+  {
+   "id": "porque",
+   "rotulo": "Por que isso acontece (5 porquês)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    457.23,
+    386.65,
+    512.22
+   ],
+   "area_util": [
+    61.23,
+    457.23,
+    386.65,
+    512.22
+   ],
+   "widget": "porque"
+  },
+  {
+   "id": "contramedida",
+   "rotulo": "Contramedida",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    405.64,
+    457.23,
+    637.51,
+    512.22
+   ],
+   "area_util": [
+    405.64,
+    457.23,
+    637.51,
+    512.22
+   ],
+   "widget": "contramedida"
+  },
+  {
+   "id": "padrao",
+   "rotulo": "Quem padroniza e prazo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    650.83,
+    457.23,
+    797.67,
+    512.22
+   ],
+   "area_util": [
+    650.83,
+    457.23,
+    797.67,
+    512.22
+   ],
+   "widget": "padrao"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-gemba-walk/assets/modelos/template-gemba-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que o lugar mostrou que o relatório não contaria, e o que fazemos com isso?",
+  "capitulos": [
+   {
+    "titulo": "Antes de ir",
+    "campos": [
+     "onde",
+     "quem",
+     "quando",
+     "pergunta"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Lá",
+    "campos": [
+     "vi",
+     "surpreendeu"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Depois",
+    "campos": [
+     "porque",
+     "contramedida",
+     "padrao"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

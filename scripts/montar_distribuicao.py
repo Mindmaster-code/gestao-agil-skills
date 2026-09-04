@@ -38,6 +38,11 @@ SKILLS: dict[str, Skill] = {
         "Prepara uma conversa difícil com fato, sentimento, necessidade e pedido. Use quando pedirem conversa difícil, comunicação não violenta, cobrança sem acusação ou Canvas de Conversa.",
         ("lideranca-e-times/conhecimento/04-canvas-de-conversa-cnv.md",),
     ),
+    "ga2-canvas-de-planejamento": Skill(
+        "Canvas de Planejamento — a folha do curso",
+        "Resume numa folha os nove blocos do planejamento: contexto, situação atual, ideal, gap, causa raiz, lista de objetivos, matriz de priorização, objetivos selecionados e resultados-chave com iniciativas. Use quando pedirem o canvas de planejamento, o canvas do curso numa página ou um resumo do diagnóstico e dos objetivos.",
+        ("estrategia-e-okr/conhecimento/12-canvas-de-planejamento.md",),
+    ),
     "ga2-canvas-de-visao": Skill(
         "Canvas de Visão",
         "Define o norte de uma empresa, área ou iniciativa com passado, situação atual, tendências, futuro e frase de visão. Use quando pedirem Canvas de Visão, direção, contexto ou futuro desejado.",
@@ -339,10 +344,54 @@ somente quando o usuário pedir de forma explícita e confirmar que pode salvar 
 """
 
 
-def skill_markdown(name: str, skill: Skill) -> str:
+FAMILIA = {"kit": "canvas do kit do curso", "v6": "canvas editável v6", "b": "editável por módulo", "c": "folha da jornada", "laboratorio": "desenhado no estilo do kit; não está no curso"}
+
+
+def secao_construtor(name: str, construtor: Path | None) -> str:
+    """Seção 'Canvas oficial e documento' quando a habilidade tem canvas no construtor exportado."""
+    if not construtor or not (construtor / "oficiais" / "manifesto.json").is_file():
+        return ""
+    manifesto = json.loads((construtor / "oficiais" / "manifesto.json").read_text(encoding="utf-8"))
+    itens = [it for it in manifesto["oficiais"] if it.get("skill") == name]
+    if not itens:
+        return ""
+    itens.sort(key=lambda i: (not i.get("padrao"), i["id"]))
+    if name == "ga2-canvas-de-conversa-cnv":
+        return ("\n## Canvas oficial\n\nO canvas de conversa preenchido é privado: não gere HTML dele. Existe só o modelo em branco "
+                f"`assets/modelos/canvas-{itens[0]['id']}.html`, para imprimir ou preencher à mão.\n")
+    tem_doc = False
+    linhas = []
+    for it in itens:
+        sp = json.loads((construtor / "specs" / f"{it['id']}.json").read_text(encoding="utf-8"))
+        le = sp.get("leitura") or {}
+        doc = bool(le.get("capitulos")) and not le.get("sem_documento")
+        tem_doc = tem_doc or doc
+        linhas.append(f"- `{it['id']}` — {it['titulo']} ({FAMILIA.get(it['familia'], it['familia'])}){' — padrão' if it.get('padrao') else ''}")
+    padrao = itens[0]["id"]
+    partes = ["", "## Canvas oficial e documento", "",
+              "Quando o usuário pedir o canvas do curso (\"gera o canvas\", \"no formato oficial\", \"igual ao PDF\") ou o documento",
+              "padrão, use os modelos de `assets/modelos/`:", "",
+              "- `template-<id>.md` — o arquivo a preencher; as marcas `<!-- c:... -->` dizem onde está cada campo e não podem ser apagadas;",
+              "- `canvas-<id>.html` — réplica do canvas oficial, em branco;",
+              *(["- `documento.html` — a forma documento, em branco;"] if tem_doc else []),
+              "- `CAMPOS.md` — nome e texto-guia de cada campo.", "",
+              "Canvas desta habilidade:", "", *linhas, "",
+              "Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):", "",
+              "```bash",
+              *([f"python3 construtor/construir.py {padrao} --documento --md meu-caso.md --saida meu-caso.html"] if tem_doc else []),
+              f"python3 construtor/construir.py {padrao} --canvas --md meu-caso.md --saida meu-caso-canvas.html",
+              "```", "",
+              "Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.",
+              "O `.md` é a fonte; o que não estiver nele não entra no canvas. Canvas marcado como acréscimo do laboratório",
+              "não faz parte do curso.", ""]
+    return "\n".join(partes)
+
+
+def skill_markdown(name: str, skill: Skill, construtor: Path | None = None) -> str:
     body = ME_MOSTRA_BODY if name == "ga2-me-mostra" else COMMON_BODY.format(title=skill.title)
     if name == "ga2-canvas-de-conversa-cnv":
         body += CNV_NOTE
+    body += secao_construtor(name, construtor)
     return (
         "---\n"
         f"name: {name}\n"
@@ -382,7 +431,7 @@ def combine_sources(source_root: Path, relative_sources: tuple[str, ...]) -> str
     return "\n\n---\n\n".join(chunks) + "\n"
 
 
-def build(source_root: Path, output_root: Path) -> None:
+def build(source_root: Path, output_root: Path, construtor: Path | None = None) -> None:
     visual_source = source_root / "diagnostico-a3/conhecimento/11-gestao-visual-html.md"
 
     for name, skill in SKILLS.items():
@@ -394,7 +443,7 @@ def build(source_root: Path, output_root: Path) -> None:
         assets.mkdir(parents=True, exist_ok=True)
         agents.mkdir(parents=True, exist_ok=True)
 
-        (directory / "SKILL.md").write_text(skill_markdown(name, skill), encoding="utf-8")
+        (directory / "SKILL.md").write_text(skill_markdown(name, skill, construtor), encoding="utf-8")
         (references / "metodo.md").write_text(
             combine_sources(source_root, skill.sources), encoding="utf-8"
         )
@@ -414,8 +463,10 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--fonte", required=True, type=Path)
     parser.add_argument("--destino", default=Path("skills"), type=Path)
+    parser.add_argument("--construtor", default=Path("construtor"), type=Path, help="pasta do construtor exportado (montar_construtor.py --exportar)")
     args = parser.parse_args()
-    build(args.fonte.resolve(), args.destino.resolve())
+    construtor = args.construtor.resolve() if args.construtor and args.construtor.exists() else None
+    build(args.fonte.resolve(), args.destino.resolve(), construtor)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,145 @@
+{
+ "id": "status-report-b-04-p2",
+ "skill": "ga2-documentos-de-projeto",
+ "titulo": "Status Report — 7 dias (editável), página 2",
+ "origem": {
+  "familia": "b",
+  "arquivo": "04-status-report-7-dias-ga2-editavel.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/status-report-b-04-p2.svg"
+ },
+ "campos": [
+  {
+   "id": "travou",
+   "rotulo": "4 · O que travou ou atrasou?",
+   "guia": "Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    117.0,
+    551.0,
+    232.0
+   ],
+   "area_util": [
+    54.0,
+    171.0,
+    541.0,
+    222.0
+   ],
+   "widget": "sr_travou"
+  },
+  {
+   "id": "aprendi",
+   "rotulo": "5 · O que eu aprendi sobre meu sistema de trabalho?",
+   "guia": "O que ficou claro depois de tentar executar por 7 dias?",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    262.0,
+    551.0,
+    387.0
+   ],
+   "area_util": [
+    54.0,
+    316.0,
+    541.0,
+    377.0
+   ],
+   "widget": "sr_aprendi"
+  },
+  {
+   "id": "ajuste",
+   "rotulo": "6 · Qual ajuste vou fazer no próximo ciclo?",
+   "guia": "Poucas mudanças: reduzir WIP, ajustar prioridade, mudar regra, pedir decisão.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    417.0,
+    551.0,
+    542.0
+   ],
+   "area_util": [
+    54.0,
+    471.0,
+    541.0,
+    532.0
+   ],
+   "widget": "sr_ajuste"
+  },
+  {
+   "id": "status",
+   "rotulo": "Status final",
+   "guia": "Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa destravar.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    577.0,
+    288.0,
+    682.0
+   ],
+   "area_util": [
+    54.0,
+    631.0,
+    278.0,
+    672.0
+   ],
+   "widget": "sr_status"
+  },
+  {
+   "id": "proxima_acao",
+   "rotulo": "Próxima ação",
+   "guia": "Ação, dono e prazo.",
+   "tipo": "texto-longo",
+   "caixa": [
+    307.0,
+    577.0,
+    551.0,
+    682.0
+   ],
+   "area_util": [
+    317.0,
+    631.0,
+    541.0,
+    672.0
+   ],
+   "widget": "sr_proxima"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-documentos-de-projeto/assets/modelos/template-status-report-b-04-p2.md",
+  "ancoras": {}
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que travou, o que aprendi e qual é a próxima ação?",
+  "capitulos": [
+   {
+    "titulo": "Aprendizado e próximo ajuste",
+    "campos": [
+     "travou",
+     "aprendi",
+     "ajuste",
+     "status",
+     "proxima_acao"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

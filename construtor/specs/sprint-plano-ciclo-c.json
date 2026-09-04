@@ -1,0 +1,210 @@
+{
+ "id": "sprint-plano-ciclo-c",
+ "skill": "ga2-plano-do-ciclo",
+ "titulo": "Sprint / Plano do Ciclo (jornada)",
+ "origem": {
+  "familia": "c",
+  "arquivo": "sprint-plano-ciclo-ga2.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/sprint-plano-ciclo-c.svg"
+ },
+ "campos": [
+  {
+   "id": "periodo",
+   "rotulo": "Período do ciclo (de / até)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    39.69,
+    141.73,
+    379.84,
+    170.08
+   ],
+   "area_util": [
+    39.69,
+    141.73,
+    379.84,
+    170.08
+   ],
+   "widget": "periodo"
+  },
+  {
+   "id": "duracao",
+   "rotulo": "Duração",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    411.02,
+    141.73,
+    581.1,
+    170.08
+   ],
+   "area_util": [
+    411.02,
+    141.73,
+    581.1,
+    170.08
+   ],
+   "widget": "dur"
+  },
+  {
+   "id": "tempo_disponivel",
+   "rotulo": "Tempo disponível por semana",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    606.61,
+    141.73,
+    802.2,
+    170.08
+   ],
+   "area_util": [
+    606.61,
+    141.73,
+    802.2,
+    170.08
+   ],
+   "widget": "tempo"
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo do ciclo — o que quero entregar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    204.09,
+    802.2,
+    246.61
+   ],
+   "area_util": [
+    39.69,
+    204.09,
+    802.2,
+    246.61
+   ],
+   "widget": "obj"
+  },
+  {
+   "id": "itens",
+   "rotulo": "O que vou fazer neste ciclo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    283.46,
+    802.2,
+    362.83
+   ],
+   "area_util": [
+    39.69,
+    283.46,
+    802.2,
+    362.83
+   ],
+   "widget": "itens",
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  },
+  {
+   "id": "sucesso",
+   "rotulo": "Como vou saber que o ciclo foi bom",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    402.52,
+    408.19,
+    476.22
+   ],
+   "area_util": [
+    39.69,
+    402.52,
+    408.19,
+    476.22
+   ],
+   "widget": "sucesso"
+  },
+  {
+   "id": "riscos",
+   "rotulo": "O que pode atrapalhar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    402.52,
+    802.2,
+    476.22
+   ],
+   "area_util": [
+    428.03,
+    402.52,
+    802.2,
+    476.22
+   ],
+   "widget": "riscos"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-plano-do-ciclo/assets/modelos/template-sprint-plano-ciclo-c.md",
+  "ancoras": {
+   "objetivo": {
+    "ancora": "meta"
+   },
+   "itens": {
+    "ancora": "itens",
+    "formato_linha": "{Item} — {Dono}"
+   },
+   "duracao": {
+    "ancora": "duracao"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que quero entregar neste ciclo e como saberei que foi bom?",
+  "capitulos": [
+   {
+    "titulo": "O ciclo",
+    "campos": [
+     "periodo",
+     "duracao",
+     "tempo_disponivel",
+     "objetivo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que entra",
+    "campos": [
+     "itens"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Sucesso e riscos",
+    "campos": [
+     "sucesso",
+     "riscos"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

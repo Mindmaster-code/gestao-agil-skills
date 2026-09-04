@@ -1,0 +1,388 @@
+{
+ "id": "kanban-avancado-kit-7-1",
+ "skill": "ga2-kanban-canvas",
+ "titulo": "Kanban | Quadro de Acompanhamento Avançado",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Kanban Avançado.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1440.0,
+  "altura_pt": 810.0,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/kanban-avancado-kit-7-1.svg"
+ },
+ "campos": [
+  {
+   "id": "sprint_backlog",
+   "rotulo": "Sprint backlog",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    163,
+    81,
+    397,
+    789
+   ],
+   "area_util": [
+    172,
+    256,
+    388,
+    780
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "etapa_1_nome",
+   "rotulo": "Etapa 1 (nome)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    403,
+    81,
+    633,
+    595
+   ],
+   "area_util": [
+    414,
+    102,
+    552,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "etapa_1_limite",
+   "rotulo": "Etapa 1 (limite máx.)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    403,
+    81,
+    633,
+    595
+   ],
+   "area_util": [
+    563,
+    102,
+    613,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "etapa_1",
+   "rotulo": "Etapa 1 (cartões)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    403,
+    81,
+    633,
+    595
+   ],
+   "area_util": [
+    412,
+    132,
+    624,
+    586
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "etapa_2_nome",
+   "rotulo": "Etapa 2 (nome)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    639,
+    81,
+    869,
+    595
+   ],
+   "area_util": [
+    646,
+    102,
+    783,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "etapa_2_limite",
+   "rotulo": "Etapa 2 (limite máx.)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    639,
+    81,
+    869,
+    595
+   ],
+   "area_util": [
+    795,
+    102,
+    845,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "etapa_2",
+   "rotulo": "Etapa 2 (cartões)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    639,
+    81,
+    869,
+    595
+   ],
+   "area_util": [
+    648,
+    132,
+    860,
+    586
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "etapa_n_nome",
+   "rotulo": "Etapa N (nome)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    875,
+    81,
+    1104,
+    595
+   ],
+   "area_util": [
+    882,
+    102,
+    1019,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "etapa_n_limite",
+   "rotulo": "Etapa N (limite máx.)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    875,
+    81,
+    1104,
+    595
+   ],
+   "area_util": [
+    1031,
+    102,
+    1081,
+    122
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "etapa_n",
+   "rotulo": "Etapa N (cartões)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    875,
+    81,
+    1104,
+    595
+   ],
+   "area_util": [
+    884,
+    132,
+    1096,
+    586
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100,
+   "opcional": true
+  },
+  {
+   "id": "feito",
+   "rotulo": "Feito",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1111,
+    81,
+    1277,
+    788
+   ],
+   "area_util": [
+    1120,
+    118,
+    1268,
+    780
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 130
+  },
+  {
+   "id": "impedimentos_1",
+   "rotulo": "Impedimentos (etapa 1)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    403,
+    603,
+    633,
+    788
+   ],
+   "area_util": [
+    412,
+    638,
+    624,
+    780
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "impedimentos_2",
+   "rotulo": "Impedimentos (etapa 2)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    639,
+    602,
+    869,
+    787
+   ],
+   "area_util": [
+    648,
+    638,
+    860,
+    780
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100,
+   "postit_cor": "rosa",
+   "opcional": true
+  },
+  {
+   "id": "impedimentos_n",
+   "rotulo": "Impedimentos (etapa N)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    875,
+    601,
+    1105,
+    787
+   ],
+   "area_util": [
+    884,
+    638,
+    1096,
+    780
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100,
+   "postit_cor": "rosa",
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-kanban-canvas/assets/modelos/template-kanban-avancado-kit-7-1.md",
+  "ancoras": {
+   "sprint_backlog": {
+    "ancora": "foto",
+    "formato_linha": "{Sprint backlog}"
+   },
+   "etapa_1_nome": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 2,
+    "coluna": "Coluna"
+   },
+   "etapa_1_limite": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 2,
+    "coluna": "Limite WIP"
+   },
+   "etapa_2_nome": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 3,
+    "coluna": "Coluna"
+   },
+   "etapa_2_limite": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 3,
+    "coluna": "Limite WIP"
+   },
+   "etapa_n_nome": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 99,
+    "coluna": "Coluna"
+   },
+   "etapa_n_limite": {
+    "ancora": "colunas_fluxo",
+    "linha_tabela": 99,
+    "coluna": "Limite WIP"
+   },
+   "etapa_1": {
+    "ancora": "foto",
+    "formato_linha": "{Fazendo}"
+   },
+   "etapa_2": {
+    "ancora": "foto",
+    "formato_linha": "{Em validação}"
+   },
+   "etapa_n": {
+    "ancora": "foto",
+    "formato_linha": "{#99}"
+   },
+   "feito": {
+    "ancora": "foto",
+    "formato_linha": "{Feito}"
+   },
+   "impedimentos_1": {
+    "ancora": "bloqueios"
+   },
+   "impedimentos_2": {
+    "ancora": "bloqueios",
+    "item": 99
+   },
+   "impedimentos_n": {
+    "ancora": "bloqueios",
+    "item": 99
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

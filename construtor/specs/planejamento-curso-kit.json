@@ -1,0 +1,821 @@
+{
+ "id": "planejamento-curso-kit",
+ "skill": "ga2-canvas-de-planejamento",
+ "titulo": "Canvas de Planejamento (curso, 9 blocos)",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "CANVAS DO CURSO GA 2.0.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 273.12,
+  "altura_pt": 392.88,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 9
+ },
+ "estatico": {
+  "svg": "estatico/planejamento-curso-kit.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_projeto",
+   "rotulo": "Nome do projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    28,
+    26,
+    98,
+    41
+   ],
+   "area_util": [
+    30,
+    33,
+    96,
+    40
+   ],
+   "tamanho_pt": 3
+  },
+  {
+   "id": "empresa_area",
+   "rotulo": "Empresa / área",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    101,
+    26,
+    170,
+    41
+   ],
+   "area_util": [
+    103,
+    33,
+    168,
+    40
+   ],
+   "tamanho_pt": 3
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder do projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    167,
+    26,
+    245,
+    41
+   ],
+   "area_util": [
+    169,
+    33,
+    243,
+    40
+   ],
+   "tamanho_pt": 3
+  },
+  {
+   "id": "contexto_do_desafio",
+   "rotulo": "1 · Contexto do desafio",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    28,
+    43,
+    245,
+    93
+   ],
+   "area_util": [
+    40,
+    56,
+    240,
+    90
+   ]
+  },
+  {
+   "id": "situacao_atual",
+   "rotulo": "2 · Situação atual",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    28,
+    95,
+    97,
+    146
+   ],
+   "area_util": [
+    33,
+    110,
+    94,
+    143
+   ]
+  },
+  {
+   "id": "situacao_ideal",
+   "rotulo": "3 · Situação ideal",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    102,
+    95,
+    171,
+    146
+   ],
+   "area_util": [
+    107,
+    110,
+    168,
+    143
+   ]
+  },
+  {
+   "id": "analise_de_gap",
+   "rotulo": "4 · Análise de gap",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    176,
+    95,
+    245,
+    146
+   ],
+   "area_util": [
+    181,
+    110,
+    242,
+    143
+   ]
+  },
+  {
+   "id": "causa_raiz",
+   "rotulo": "5 · Causa raiz",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    28,
+    148,
+    245,
+    190
+   ],
+   "area_util": [
+    33,
+    160,
+    240,
+    187
+   ]
+  },
+  {
+   "id": "lista_de_objetivos",
+   "rotulo": "6 · Lista inicial de objetivos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    27,
+    193,
+    87,
+    257
+   ],
+   "area_util": [
+    30,
+    215,
+    84,
+    254
+   ],
+   "tamanho_pt": 2.8
+  },
+  {
+   "id": "matriz_desejavel",
+   "rotulo": "7 · Matriz: desejável (quando puder)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    89,
+    193,
+    154,
+    257
+   ],
+   "area_util": [
+    98,
+    219,
+    121,
+    238
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "matriz_estrategico",
+   "rotulo": "7 · Matriz: estratégico (tem que ter)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    89,
+    193,
+    154,
+    257
+   ],
+   "area_util": [
+    128,
+    219,
+    151,
+    238
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "matriz_distracoes",
+   "rotulo": "7 · Matriz: distrações (não priorizar)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    89,
+    193,
+    154,
+    257
+   ],
+   "area_util": [
+    98,
+    239,
+    121,
+    251
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "matriz_quick_wins",
+   "rotulo": "7 · Matriz: quick wins (alto valor)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    89,
+    193,
+    154,
+    257
+   ],
+   "area_util": [
+    128,
+    239,
+    151,
+    251
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "objetivos_selecionados",
+   "rotulo": "8 · Objetivos selecionados",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    155,
+    193,
+    245,
+    257
+   ],
+   "area_util": [
+    158,
+    212,
+    184,
+    254
+   ],
+   "tamanho_pt": 2.6
+  },
+  {
+   "id": "descricao_resumida",
+   "rotulo": "8 · Descrição resumida",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    155,
+    193,
+    245,
+    257
+   ],
+   "area_util": [
+    186,
+    212,
+    243,
+    254
+   ],
+   "tamanho_pt": 2.6,
+   "opcional": true
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "9 · Objetivo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    38,
+    276,
+    92,
+    302
+   ],
+   "area_util": [
+    40,
+    285,
+    90,
+    300
+   ],
+   "tamanho_pt": 2.8
+  },
+  {
+   "id": "resultado_chave_1",
+   "rotulo": "Resultado-chave #1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    98,
+    279,
+    126,
+    309
+   ],
+   "area_util": [
+    98,
+    286,
+    126,
+    308
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": false
+  },
+  {
+   "id": "iniciativa_1_1",
+   "rotulo": "Iniciativa #1 do KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    98,
+    310,
+    126,
+    333
+   ],
+   "area_util": [
+    98,
+    316,
+    126,
+    331
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_1_2",
+   "rotulo": "Iniciativa #2 do KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    98,
+    332,
+    126,
+    355
+   ],
+   "area_util": [
+    98,
+    338,
+    126,
+    353
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_1_3",
+   "rotulo": "Iniciativa #3 do KR 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    98,
+    355,
+    126,
+    378
+   ],
+   "area_util": [
+    98,
+    361,
+    126,
+    376
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_2",
+   "rotulo": "Resultado-chave #2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    137,
+    279,
+    165,
+    309
+   ],
+   "area_util": [
+    137,
+    286,
+    165,
+    308
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_2_1",
+   "rotulo": "Iniciativa #1 do KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    137,
+    310,
+    165,
+    333
+   ],
+   "area_util": [
+    137,
+    316,
+    165,
+    331
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_2_2",
+   "rotulo": "Iniciativa #2 do KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    137,
+    332,
+    165,
+    355
+   ],
+   "area_util": [
+    137,
+    338,
+    165,
+    353
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_2_3",
+   "rotulo": "Iniciativa #3 do KR 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    137,
+    355,
+    165,
+    378
+   ],
+   "area_util": [
+    137,
+    361,
+    165,
+    376
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_3",
+   "rotulo": "Resultado-chave #3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    176,
+    279,
+    203,
+    309
+   ],
+   "area_util": [
+    176,
+    286,
+    203,
+    308
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_3_1",
+   "rotulo": "Iniciativa #1 do KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    176,
+    310,
+    203,
+    333
+   ],
+   "area_util": [
+    176,
+    316,
+    203,
+    331
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_3_2",
+   "rotulo": "Iniciativa #2 do KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    176,
+    332,
+    203,
+    355
+   ],
+   "area_util": [
+    176,
+    338,
+    203,
+    353
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_3_3",
+   "rotulo": "Iniciativa #3 do KR 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    176,
+    355,
+    203,
+    378
+   ],
+   "area_util": [
+    176,
+    361,
+    203,
+    376
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "resultado_chave_4",
+   "rotulo": "Resultado-chave #4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    214,
+    279,
+    242,
+    309
+   ],
+   "area_util": [
+    214,
+    286,
+    242,
+    308
+   ],
+   "tamanho_pt": 2.4,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_4_1",
+   "rotulo": "Iniciativa #1 do KR 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    214,
+    310,
+    242,
+    333
+   ],
+   "area_util": [
+    214,
+    316,
+    242,
+    331
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_4_2",
+   "rotulo": "Iniciativa #2 do KR 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    214,
+    332,
+    242,
+    355
+   ],
+   "area_util": [
+    214,
+    338,
+    242,
+    353
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  },
+  {
+   "id": "iniciativa_4_3",
+   "rotulo": "Iniciativa #3 do KR 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    214,
+    355,
+    242,
+    378
+   ],
+   "area_util": [
+    214,
+    361,
+    242,
+    376
+   ],
+   "tamanho_pt": 2.2,
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 3.2,
+  "minimo_pt": 1.8
+ },
+ "md": {
+  "template": "skills/ga2-canvas-de-planejamento/assets/modelos/template-planejamento-curso-kit.md",
+  "ancoras": {
+   "nome_do_projeto": {
+    "ancora": "caso"
+   },
+   "empresa_area": {
+    "ancora": "empresa"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "contexto_do_desafio": {
+    "ancora": "contexto"
+   },
+   "analise_de_gap": {
+    "ancora": "gap"
+   },
+   "lista_de_objetivos": {
+    "ancora": "objetivos_lista"
+   },
+   "objetivos_selecionados": {
+    "ancora": "objetivos_selecionados"
+   },
+   "objetivo": {
+    "ancora": "objetivo_1"
+   },
+   "resultado_chave_1": {
+    "ancora": "kr_1",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_2": {
+    "ancora": "kr_2",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_3": {
+    "ancora": "kr_3",
+    "formato": "{Resultado-chave}"
+   },
+   "resultado_chave_4": {
+    "ancora": "kr_4",
+    "formato": "{Resultado-chave}"
+   },
+   "iniciativa_1_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 1,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_1_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 2,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_2_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 3,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_2_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 4,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_3_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 5,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_3_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 6,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_4_1": {
+    "ancora": "iniciativas",
+    "linha_tabela": 7,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_4_2": {
+    "ancora": "iniciativas",
+    "linha_tabela": 8,
+    "coluna": "Iniciativa"
+   },
+   "iniciativa_1_3": {
+    "ancora": "iniciativas_terceira"
+   },
+   "iniciativa_2_3": {
+    "ancora": "iniciativas_terceira"
+   },
+   "iniciativa_3_3": {
+    "ancora": "iniciativas_terceira"
+   },
+   "iniciativa_4_3": {
+    "ancora": "iniciativas_terceira"
+   },
+   "matriz_quick_wins": {
+    "ancora": "matriz_quick_wins"
+   },
+   "matriz_estrategico": {
+    "ancora": "matriz_estrategico"
+   },
+   "matriz_desejavel": {
+    "ancora": "matriz_desejavel"
+   },
+   "matriz_distracoes": {
+    "ancora": "matriz_distracoes"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é o desafio, por que existe, quais objetivos entram no trimestre e como vamos medir?",
+  "capitulos": [
+   {
+    "titulo": "O desafio",
+    "campos": [
+     "contexto_do_desafio"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Onde estamos e aonde queremos chegar",
+    "campos": [
+     "situacao_atual",
+     "situacao_ideal",
+     "analise_de_gap",
+     "causa_raiz"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Quais objetivos entram",
+    "campos": [
+     "lista_de_objetivos",
+     "matriz_quick_wins",
+     "matriz_estrategico",
+     "matriz_desejavel",
+     "matriz_distracoes",
+     "objetivos_selecionados",
+     "descricao_resumida"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que vamos medir e iniciar",
+    "campos": [
+     "objetivo",
+     "resultado_chave_1",
+     "resultado_chave_2",
+     "resultado_chave_3",
+     "resultado_chave_4",
+     "iniciativa_1_1",
+     "iniciativa_1_2",
+     "iniciativa_1_3",
+     "iniciativa_2_1",
+     "iniciativa_2_2",
+     "iniciativa_2_3",
+     "iniciativa_3_1",
+     "iniciativa_3_2",
+     "iniciativa_3_3",
+     "iniciativa_4_1",
+     "iniciativa_4_2",
+     "iniciativa_4_3"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

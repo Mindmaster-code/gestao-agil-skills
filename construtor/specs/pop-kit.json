@@ -1,0 +1,349 @@
+{
+ "id": "pop-kit",
+ "skill": "ga2-pop",
+ "titulo": "POP - Procedimento Operacional Padrão",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas POP.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/pop-kit.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_processo",
+   "rotulo": "Nome do Processo",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    595,
+    20,
+    951,
+    70
+   ],
+   "area_util": [
+    605,
+    40,
+    942,
+    66
+   ],
+   "tamanho_pt": 11
+  },
+  {
+   "id": "identificacao",
+   "rotulo": "Identificação: data | código | versão",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    968,
+    19,
+    1164,
+    70
+   ],
+   "area_util": [
+    975,
+    48,
+    1156,
+    66
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo",
+   "guia": "Descreva o objetivo do processo.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    80,
+    401,
+    280
+   ],
+   "area_util": [
+    35,
+    135,
+    392,
+    256
+   ]
+  },
+  {
+   "id": "escopo",
+   "rotulo": "Escopo",
+   "guia": "Resumo do escopo do processo.",
+   "tipo": "texto-longo",
+   "caixa": [
+    416,
+    80,
+    777,
+    280
+   ],
+   "area_util": [
+    428,
+    135,
+    768,
+    270
+   ]
+  },
+  {
+   "id": "responsabilidades",
+   "rotulo": "Responsabilidades",
+   "guia": "Pessoas envolvidas e sua responsabilidade.",
+   "tipo": "texto-longo",
+   "caixa": [
+    791,
+    80,
+    1164,
+    280
+   ],
+   "area_util": [
+    802,
+    135,
+    1156,
+    270
+   ]
+  },
+  {
+   "id": "entradas_do_processo",
+   "rotulo": "Entradas do processo",
+   "guia": "Como o processo inicia.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    295,
+    401,
+    439
+   ],
+   "area_util": [
+    35,
+    348,
+    392,
+    431
+   ]
+  },
+  {
+   "id": "passos_do_processo",
+   "rotulo": "Passos do processo",
+   "guia": "Passos para execução, em sequência.",
+   "tipo": "texto-longo",
+   "caixa": [
+    416,
+    294,
+    777,
+    823
+   ],
+   "area_util": [
+    428,
+    345,
+    768,
+    815
+   ]
+  },
+  {
+   "id": "saidas_do_processo",
+   "rotulo": "Saídas do processo",
+   "guia": "Resultado esperado ou documentos gerados.",
+   "tipo": "texto-longo",
+   "caixa": [
+    791,
+    294,
+    1170,
+    435
+   ],
+   "area_util": [
+    802,
+    348,
+    1160,
+    427
+   ]
+  },
+  {
+   "id": "sistemas_ou_ferramentas",
+   "rotulo": "Sistemas ou ferramentas",
+   "guia": "Sistemas utilizados e como acessar.",
+   "tipo": "texto-longo",
+   "caixa": [
+    789,
+    444,
+    1168,
+    585
+   ],
+   "area_util": [
+    800,
+    500,
+    1158,
+    577
+   ]
+  },
+  {
+   "id": "indicadores_do_processo",
+   "rotulo": "Indicadores do processo",
+   "guia": "Indicadores utilizados para medir o processo.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    446,
+    401,
+    589
+   ],
+   "area_util": [
+    35,
+    498,
+    392,
+    581
+   ]
+  },
+  {
+   "id": "excecoes_e_tratamento",
+   "rotulo": "Exceções e tratamento",
+   "guia": "Exceções, tratamento e aprovações.",
+   "tipo": "texto-longo",
+   "caixa": [
+    791,
+    595,
+    1169,
+    770
+   ],
+   "area_util": [
+    802,
+    652,
+    1160,
+    762
+   ]
+  },
+  {
+   "id": "riscos_do_processo",
+   "rotulo": "Riscos do processo",
+   "guia": "Riscos potenciais e ações de mitigação.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    602,
+    401,
+    777
+   ],
+   "area_util": [
+    35,
+    655,
+    392,
+    769
+   ]
+  },
+  {
+   "id": "aprovacao",
+   "rotulo": "Aprovação: nome, cargo e data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    789,
+    786,
+    1040,
+    823
+   ],
+   "area_util": [
+    796,
+    806,
+    1032,
+    820
+   ],
+   "tamanho_pt": 8,
+   "minimo_pt": 5
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-pop/assets/modelos/template-pop-kit.md",
+  "ancoras": {
+   "nome_do_processo": {
+    "ancora": "nome"
+   },
+   "responsabilidades": {
+    "ancora": "responsabilidades",
+    "formato_linha": "{Papel} — {Responsabilidade}"
+   },
+   "entradas_do_processo": {
+    "ancora": "gatilho"
+   },
+   "passos_do_processo": {
+    "ancora": "passos",
+    "formato_linha": "{#}. {Passo} — {Responsável}"
+   },
+   "saidas_do_processo": {
+    "ancora": "saidas"
+   },
+   "sistemas_ou_ferramentas": {
+    "ancora": "sistemas"
+   },
+   "indicadores_do_processo": {
+    "ancora": "indicadores",
+    "formato_linha": "{Indicador} — meta {Meta}"
+   },
+   "excecoes_e_tratamento": {
+    "ancora": "excecoes"
+   },
+   "riscos_do_processo": {
+    "ancora": "riscos"
+   },
+   "aprovacao": {
+    "ancora": "aprovacao",
+    "juntar": " · "
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Como este processo é executado, por quem, e como se sabe que saiu certo?",
+  "capitulos": [
+   {
+    "titulo": "Identificação",
+    "campos": [
+     "nome_do_processo",
+     "identificacao"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Para que existe",
+    "campos": [
+     "objetivo",
+     "escopo",
+     "responsabilidades"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Como funciona",
+    "campos": [
+     "entradas_do_processo",
+     "passos_do_processo",
+     "saidas_do_processo",
+     "sistemas_ou_ferramentas"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Como se controla",
+    "campos": [
+     "indicadores_do_processo",
+     "excecoes_e_tratamento",
+     "riscos_do_processo",
+     "aprovacao"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

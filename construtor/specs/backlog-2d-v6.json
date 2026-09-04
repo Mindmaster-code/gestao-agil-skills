@@ -1,0 +1,440 @@
+{
+ "id": "backlog-2d-v6",
+ "skill": "ga2-backlog-2d",
+ "titulo": "Canvas Editável — Backlog 2D",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Backlog 2D.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/backlog-2d-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "entrega1",
+   "rotulo": "Entrega 1 (linha de cima)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    65.2,
+    198.43,
+    221.81,
+    218.27
+   ],
+   "area_util": [
+    65.2,
+    198.43,
+    221.81,
+    218.27
+   ],
+   "widget": "entrega1",
+   "cor": "#FFFFFF"
+  },
+  {
+   "id": "essencial1",
+   "rotulo": "Essencial da entrega 1 (fatia fina)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    57.0,
+    246.75,
+    230.25,
+    366.0
+   ],
+   "area_util": [
+    69.45,
+    270.71,
+    217.56,
+    355.75
+   ],
+   "widget": "essencial1",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95
+  },
+  {
+   "id": "depois1",
+   "rotulo": "Depois — entrega 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    57.0,
+    377.25,
+    230.25,
+    490.5
+   ],
+   "area_util": [
+    69.45,
+    401.1,
+    217.56,
+    480.47
+   ],
+   "widget": "depois1",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "entrega2",
+   "rotulo": "Entrega 2 (linha de cima)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    255.83,
+    198.43,
+    412.44,
+    218.27
+   ],
+   "area_util": [
+    255.83,
+    198.43,
+    412.44,
+    218.27
+   ],
+   "widget": "entrega2",
+   "opcional": true,
+   "cor": "#FFFFFF"
+  },
+  {
+   "id": "essencial2",
+   "rotulo": "Essencial da entrega 2 (fatia fina)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    247.5,
+    246.75,
+    420.75,
+    366.0
+   ],
+   "area_util": [
+    260.08,
+    270.71,
+    408.19,
+    355.75
+   ],
+   "widget": "essencial2",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "depois2",
+   "rotulo": "Depois — entrega 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    247.5,
+    377.25,
+    420.75,
+    490.5
+   ],
+   "area_util": [
+    260.08,
+    401.1,
+    408.19,
+    480.47
+   ],
+   "widget": "depois2",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "entrega3",
+   "rotulo": "Entrega 3 (linha de cima)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    446.46,
+    198.43,
+    603.07,
+    218.27
+   ],
+   "area_util": [
+    446.46,
+    198.43,
+    603.07,
+    218.27
+   ],
+   "widget": "entrega3",
+   "opcional": true,
+   "cor": "#FFFFFF"
+  },
+  {
+   "id": "essencial3",
+   "rotulo": "Essencial da entrega 3 (fatia fina)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    438.0,
+    246.75,
+    611.25,
+    366.0
+   ],
+   "area_util": [
+    450.71,
+    270.71,
+    598.82,
+    355.75
+   ],
+   "widget": "essencial3",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "depois3",
+   "rotulo": "Depois — entrega 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    438.0,
+    377.25,
+    611.25,
+    490.5
+   ],
+   "area_util": [
+    450.71,
+    401.1,
+    598.82,
+    480.47
+   ],
+   "widget": "depois3",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "entrega4",
+   "rotulo": "Entrega 4 (linha de cima)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    637.09,
+    198.43,
+    793.7,
+    218.27
+   ],
+   "area_util": [
+    637.09,
+    198.43,
+    793.7,
+    218.27
+   ],
+   "widget": "entrega4",
+   "opcional": true,
+   "cor": "#FFFFFF"
+  },
+  {
+   "id": "essencial4",
+   "rotulo": "Essencial da entrega 4 (fatia fina)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    628.5,
+    246.75,
+    802.5,
+    366.0
+   ],
+   "area_util": [
+    641.34,
+    270.71,
+    789.45,
+    355.75
+   ],
+   "widget": "essencial4",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  },
+  {
+   "id": "depois4",
+   "rotulo": "Depois — entrega 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    628.5,
+    377.25,
+    802.5,
+    490.5
+   ],
+   "area_util": [
+    641.34,
+    401.1,
+    789.45,
+    480.47
+   ],
+   "widget": "depois4",
+   "apresentacao": "postit",
+   "postit_largura_pt": 95,
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-backlog-2d/assets/modelos/template-backlog-2d-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "entrega1": {
+    "ancora": "linha_de_cima",
+    "linha_tabela": 1,
+    "coluna_n": 1
+   },
+   "entrega2": {
+    "ancora": "linha_de_cima",
+    "linha_tabela": 1,
+    "coluna_n": 2
+   },
+   "entrega3": {
+    "ancora": "linha_de_cima",
+    "linha_tabela": 1,
+    "coluna_n": 3
+   },
+   "entrega4": {
+    "ancora": "linha_de_cima",
+    "linha_tabela": 1,
+    "coluna_n": 4
+   },
+   "essencial1": {
+    "ancora": "essencial_col",
+    "coluna_n": 2
+   },
+   "essencial2": {
+    "ancora": "essencial_col",
+    "coluna_n": 3
+   },
+   "essencial3": {
+    "ancora": "essencial_col",
+    "coluna_n": 4
+   },
+   "essencial4": {
+    "ancora": "essencial_col",
+    "coluna_n": 5
+   },
+   "depois1": {
+    "ancora": "depois_col",
+    "coluna_n": 2
+   },
+   "depois2": {
+    "ancora": "depois_col",
+    "coluna_n": 3
+   },
+   "depois3": {
+    "ancora": "depois_col",
+    "coluna_n": 4
+   },
+   "depois4": {
+    "ancora": "depois_col",
+    "coluna_n": 5
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é a linha de cima desta iniciativa e o que é essencial em cada entrega?",
+  "capitulos": [
+   {
+    "titulo": "Entregas, essencial e depois",
+    "campos": [
+     "entrega1",
+     "essencial1",
+     "depois1",
+     "entrega2",
+     "essencial2",
+     "depois2",
+     "entrega3",
+     "essencial3",
+     "depois3",
+     "entrega4",
+     "essencial4",
+     "depois4"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "Entrega",
+     "Essencial (fatia fina)",
+     "Depois"
+    ],
+    "por_linha": 3
+   }
+  ]
+ }
+}

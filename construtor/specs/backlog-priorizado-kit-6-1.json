@@ -1,0 +1,203 @@
+{
+ "id": "backlog-priorizado-kit-6-1",
+ "skill": "ga2-backlog-2d",
+ "titulo": "Backlog | 2 Dimensões Priorizado",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Backlog Priorizado.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 694.08,
+  "altura_pt": 499.92,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/backlog-priorizado-kit-6-1.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_da_iniciativa",
+   "rotulo": "Nome da Iniciativa",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    97.0,
+    26,
+    667.0,
+    62
+   ],
+   "area_util": [
+    334,
+    44,
+    470,
+    60
+   ],
+   "tamanho_pt": 6.5
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    97.0,
+    26,
+    667.0,
+    62
+   ],
+   "area_util": [
+    473,
+    44,
+    667.0,
+    60
+   ],
+   "tamanho_pt": 6.5
+  },
+  {
+   "id": "narrativas_das_entregas",
+   "rotulo": "Narrativas das entregas",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    97.0,
+    64,
+    667.0,
+    160.5
+   ],
+   "area_util": [
+    103.0,
+    100,
+    661.0,
+    156
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 70,
+   "tamanho_pt": 6
+  },
+  {
+   "id": "essencial",
+   "rotulo": "E — Essencial (mínimo viável)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    97.0,
+    166.5,
+    667.0,
+    254.5
+   ],
+   "area_util": [
+    103.0,
+    171,
+    661.0,
+    250
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 70,
+   "tamanho_pt": 6
+  },
+  {
+   "id": "desejavel",
+   "rotulo": "D — Desejável",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    97.0,
+    256,
+    667.0,
+    318.5
+   ],
+   "area_util": [
+    103.0,
+    260,
+    661.0,
+    315
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 70,
+   "tamanho_pt": 6
+  },
+  {
+   "id": "opcional",
+   "rotulo": "O — Opcional",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    97.0,
+    320.5,
+    667.0,
+    383
+   ],
+   "area_util": [
+    103.0,
+    324,
+    661.0,
+    379
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 70,
+   "tamanho_pt": 6
+  },
+  {
+   "id": "questionavel",
+   "rotulo": "Q — Questionável",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    97.0,
+    384.5,
+    667.0,
+    455
+   ],
+   "area_util": [
+    103.0,
+    388,
+    661.0,
+    451
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 70,
+   "tamanho_pt": 6
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 6.5,
+  "minimo_pt": 4
+ },
+ "md": {
+  "template": "skills/ga2-backlog-2d/assets/modelos/template-backlog-priorizado-kit-6-1.md",
+  "ancoras": {
+   "nome_da_iniciativa": {
+    "ancora": "caso"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "narrativas_das_entregas": {
+    "ancora": "linha_de_cima"
+   },
+   "essencial": {
+    "ancora": "essencial"
+   },
+   "desejavel": {
+    "ancora": "desejavel"
+   },
+   "opcional": {
+    "ancora": "opcional"
+   },
+   "questionavel": {
+    "ancora": "questionavel"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": true,
+  "pergunta_padrao": "",
+  "capitulos": []
+ }
+}

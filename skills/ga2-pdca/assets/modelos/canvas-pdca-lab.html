@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PDCA (laboratório)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@700&display=swap');
+:root{
+  /* superfícies — DS: cream, white, light-gray */
+  --paper:#FAFAF8; --panel:#FFFFFF; --sunk:#F3F4F6;
+  /* texto — DS: charcoal, gray */
+  --ink:#1F2937; --ink-2:#4B5563; --ink-3:#6B7280; --ink-4:#9CA3AF;
+  /* linhas — DS: border */
+  --rule:#E4E7EB; --rule-2:#D2D7DE;
+  /* marca — DS: teal 500/700/50 */
+  --brand:#3D9B9D; --brand-deep:#2B6F70; --brand-wash:#F0FAFA;
+  /* risco/estimado — DS: orange (escurecido para passar contraste em texto) */
+  --risk:#C2560A; --risk-solid:#F97316; --risk-wash:#FEF1E7;
+  /* medido — mesma família da marca */
+  --ok:#2B6F70; --ok-wash:#F0FAFA;
+  /* em aberto — neutro de propósito: sem dado, sem cor */
+  --open:#576270; --open-wash:#F3F4F6;
+  --shadow:0 1px 3px rgba(17,24,39,.06),0 1px 2px rgba(17,24,39,.04);
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:'Manrope',system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --serif:'Manrope',system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#111827; --panel:#1F2937; --sunk:#172033;
+    --ink:#F3F4F6; --ink-2:#C7CEDA; --ink-3:#9CA3AF; --ink-4:#6B7280;
+    --rule:#2A3444; --rule-2:#3B4757;
+    --brand:#52C7CB; --brand-deep:#A9E3E5; --brand-wash:#1A4243;
+    --risk:#FB923C; --risk-solid:#F97316; --risk-wash:#3A2410;
+    --ok:#7DD5D8; --ok-wash:#1A4243;
+    --open:#A6AEBB; --open-wash:#232C3A;
+    --shadow:0 1px 2px rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"] .lede em{background:linear-gradient(transparent 58%,#225859 58%)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .lede em{background:linear-gradient(transparent 58%,#225859 58%)}}
+:root[data-theme="dark"]{
+  --paper:#111827; --panel:#1F2937; --sunk:#172033;
+  --ink:#F3F4F6; --ink-2:#C7CEDA; --ink-3:#9CA3AF; --ink-4:#6B7280;
+  --rule:#2A3444; --rule-2:#3B4757;
+  --brand:#52C7CB; --brand-deep:#A9E3E5; --brand-wash:#1A4243;
+  --risk:#FB923C; --risk-solid:#F97316; --risk-wash:#3A2410;
+  --ok:#7DD5D8; --ok-wash:#1A4243;
+  --open:#A6AEBB; --open-wash:#232C3A;
+  --shadow:0 1px 2px rgba(0,0,0,.4);
+}
+
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Manrope,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.barra{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:baseline;padding:12px 22px;border-bottom:1px solid var(--rule);background:var(--panel);font-size:13.5px}
+.barra .eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.barra b{font-weight:700}
+.barra .acoes{margin-left:auto;display:flex;gap:8px}
+.barra button{font:inherit;font-size:12.5px;padding:4px 11px;border:1px solid var(--rule-2);border-radius:6px;background:var(--panel);color:var(--ink);cursor:pointer}
+.barra button:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+.scroll{overflow:auto;padding:24px}
+.moldura{position:relative}
+.page{position:relative;width:1190.25pt;height:842.25pt;background:#FFFFFF;box-shadow:0 2px 14px rgba(0,0,0,.14);transform-origin:top left;overflow:hidden}
+.page>svg{position:absolute;left:0;top:0;width:1190.25pt;height:842.25pt;display:block}
+.campo{position:absolute;margin:0;overflow:hidden;white-space:pre-wrap;overflow-wrap:break-word;line-height:1.28;font-family:'Roboto',Arimo,'Liberation Sans',Arial,sans-serif;color:#1A1A1A}
+.campo.postits{display:flex;flex-wrap:wrap;gap:6pt;align-content:flex-start;padding:2pt;white-space:normal}
+.postit{position:relative;padding:6pt 7pt;min-height:46pt;font-size:.92em;line-height:1.25;color:#1F2937;background:#FFF3A0;box-shadow:1px 2px 4px rgba(0,0,0,.18);white-space:pre-wrap;overflow-wrap:break-word;transform:rotate(-.6deg)}
+.postit:nth-child(2n){transform:rotate(.7deg)}
+.postit:nth-child(3n){transform:rotate(-.3deg)}
+.postit.verde{background:#CFF4D6}.postit.azul{background:#CFE8FF}.postit.rosa{background:#FFD6E7}.postit.laranja{background:#FFE0B3}
+.meta{padding:8px 24px 32px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:var(--ink-3);line-height:1.7;max-width:1200px}
+.meta b{color:var(--ink-2);font-weight:500}
+.dbg-caixa{position:absolute;border:1px solid rgba(37,99,235,.75);pointer-events:none}
+.dbg-area{position:absolute;border:1px dashed rgba(220,38,38,.95);background:rgba(220,38,38,.06);pointer-events:none}
+.dbg-id{position:absolute;font:8pt ui-monospace,monospace;color:#B91C1C;background:rgba(255,255,255,.9);padding:0 3px;pointer-events:none;white-space:nowrap}
+@page{size:1190.25pt 842.25pt;margin:0}
+@media print{.barra,.meta{display:none!important}.scroll{overflow:visible;padding:0}.moldura{width:auto!important;height:auto!important}.page{transform:none!important;box-shadow:none}body{background:#FFFFFF}}
+</style>
+</head>
+<body>
+<div class="barra"><span class="eyebrow">Gestão Ágil 2.0 · forma canvas · laboratorio</span><b>PDCA (laboratório)</b><span class="acoes"><button id="btn-ajustar" type="button">ajustar à tela</button><button id="btn-imprimir" type="button">imprimir / PDF</button></span></div>
+<div class="scroll" id="scroll"><div class="moldura" id="moldura"><div class="page" id="page" data-spec="pdca-lab" data-largura-pt="1190.25" data-altura-pt="842.25">
+<svg xmlns="http://www.w3.org/2000/svg" width="1190.25pt" height="842.25pt" viewBox="0 0 1190.25 842.25"><rect x="0" y="0" width="1190.25" height="842.25" fill="#D9D9D9"/><rect x="395" y="45" width="423" height="39" rx="6" fill="#FFFFFF"/><rect x="408" y="53" width="34" height="23" rx="11.5" fill="#596366"/><text x="425" y="69" text-anchor="middle" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="10" fill="#FFFFFF">LAB</text><text x="620" y="71" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="700" font-size="20" fill="#000000">PDCA — CICLO DE MELHORIA</text><text x="19" y="30" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266" letter-spacing="1">GESTÃO ÁGIL 2.0 · MELHORIA CONTÍNUA · CANVAS DO LABORATÓRIO</text><text x="1171.25" y="832.25" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="8" fill="#586266">acréscimo do laboratório · MindMaster · Gestão Ágil 2.0 · sem template oficial no curso — versão de 04/09/2026</text><rect x="19" y="100" width="498.7777777777778" height="60" rx="6" fill="#FFFFFF"/><text x="31" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Melhoria / objetivo</text><text x="31" y="131" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">o que vai melhorar e por quê</text><rect x="527.7777777777778" y="100" width="249.3888888888889" height="60" rx="6" fill="#FFFFFF"/><text x="539.7777777777778" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Origem</text><text x="539.7777777777778" y="131" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">retro · review · A3 · Kaizen · Gemba</text><rect x="787.1666666666667" y="100" width="187.04166666666663" height="60" rx="6" fill="#FFFFFF"/><text x="799.1666666666667" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Responsável</text><text x="799.1666666666667" y="131" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">um nome</text><rect x="984.2083333333334" y="100" width="187.04166666666663" height="60" rx="6" fill="#FFFFFF"/><text x="996.2083333333334" y="117" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Ciclo / data de abertura</text><text x="996.2083333333334" y="131" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">AAAA-Www · dd/mm</text><rect x="19" y="172" width="566" height="323" rx="6" fill="#FFFFFF"/><text x="31" y="194" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#586266">P — PLAN (planejar)</text><rect x="600" y="172" width="571.25" height="323" rx="6" fill="#FFFFFF"/><text x="612" y="194" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#586266">D — DO (executar)</text><rect x="19" y="505" width="566" height="321" rx="6" fill="#FFFFFF"/><text x="31" y="527" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#586266">C — CHECK (verificar contra a linha de base)</text><rect x="600" y="505" width="571.25" height="321" rx="6" fill="#FFFFFF"/><text x="612" y="527" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#586266">A — ACT (agir)</text><rect x="29.0" y="206.0" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="41.0" y="223.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Problema ou sinal com número de hoje</text><text x="41.0" y="237.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">fato, sem culpado</text><rect x="306.0" y="206.0" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="318.0" y="223.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Causa raiz (5 porquês ou A3)</text><rect x="29.0" y="277.75" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="41.0" y="294.75" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Linha de base</text><text x="41.0" y="308.75" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">número de hoje — o que o Check compara</text><rect x="306.0" y="277.75" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="318.0" y="294.75" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Meta</text><text x="318.0" y="308.75" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">número esperado e até quando</text><rect x="29.0" y="349.5" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="41.0" y="366.5" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Ação escolhida (uma só)</text><rect x="306.0" y="349.5" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="318.0" y="366.5" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Plano (o quê · quem · quando)</text><text x="318.0" y="380.5" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">ou link para o 5W2H</text><rect x="29.0" y="421.25" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="41.0" y="438.25" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Dono</text><rect x="306.0" y="421.25" width="269.0" height="63.75" rx="6" fill="#EFEFEF"/><text x="318.0" y="438.25" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Prazo</text><text x="318.0" y="452.25" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">dd/mm</text><rect x="610.0" y="206.0" width="551.25" height="87.66666666666669" rx="6" fill="#EFEFEF"/><text x="622.0" y="223.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">O que foi feito, quando, por quem</text><rect x="610.0" y="301.6666666666667" width="551.25" height="87.66666666666669" rx="6" fill="#EFEFEF"/><text x="622.0" y="318.6666666666667" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Desvios do plano</text><rect x="610.0" y="397.33333333333337" width="551.25" height="87.66666666666669" rx="6" fill="#EFEFEF"/><text x="622.0" y="414.33333333333337" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Prova</text><text x="622.0" y="428.33333333333337" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">commit, carta, arquivo, log</text><rect x="29.0" y="539.0" width="269.0" height="87.0" rx="6" fill="#EFEFEF"/><text x="41.0" y="556.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Número medido</text><rect x="306.0" y="539.0" width="269.0" height="87.0" rx="6" fill="#EFEFEF"/><text x="318.0" y="556.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Linha de base</text><text x="318.0" y="570.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">mesmo número do P</text><rect x="29.0" y="634.0" width="269.0" height="87.0" rx="6" fill="#EFEFEF"/><text x="41.0" y="651.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Bateu? desvio?</text><rect x="306.0" y="634.0" width="269.0" height="87.0" rx="6" fill="#EFEFEF"/><text x="318.0" y="651.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Evidência</text><text x="318.0" y="665.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">caminho real</text><rect x="29.0" y="729.0" width="269.0" height="87.0" rx="6" fill="#EFEFEF"/><text x="41.0" y="746.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Medido em</text><text x="41.0" y="760.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">dd/mm</text><rect x="610.0" y="539.0" width="271.625" height="134.5" rx="6" fill="#EFEFEF"/><text x="622.0" y="556.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Decisão</text><text x="622.0" y="570.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">padronizar · ajustar · descartar</text><rect x="889.625" y="539.0" width="271.625" height="134.5" rx="6" fill="#EFEFEF"/><text x="901.625" y="556.0" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Onde o padrão foi escrito</text><text x="901.625" y="570.0" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">só se padronizar</text><rect x="610.0" y="681.5" width="271.625" height="134.5" rx="6" fill="#EFEFEF"/><text x="622.0" y="698.5" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Próximo ciclo (se ajustar)</text><text x="622.0" y="712.5" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">o que entra no novo P e data</text><rect x="889.625" y="681.5" width="271.625" height="134.5" rx="6" fill="#EFEFEF"/><text x="901.625" y="698.5" text-anchor="start" font-family="Montserrat, Arial, Helvetica, sans-serif" font-weight="700" font-size="9" fill="#586266">Fechado em</text><text x="901.625" y="712.5" text-anchor="start" font-family="Roboto, Arial, Helvetica, sans-serif" font-weight="400" font-size="7" fill="#7A8286">dd/mm</text></svg>
+<div class="campo" data-campo="melhoria" data-min="5" style="left:29.0pt;top:136.0pt;width:478.78pt;height:16.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="origem" data-min="5" style="left:537.78pt;top:136.0pt;width:229.39pt;height:16.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="responsavel" data-min="5" style="left:797.17pt;top:136.0pt;width:167.04pt;height:16.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="ciclo" data-min="5" style="left:994.21pt;top:136.0pt;width:167.04pt;height:16.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="problema" data-min="5" style="left:39.0pt;top:242.0pt;width:249.00pt;height:19.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="causa_raiz" data-min="5" style="left:316.0pt;top:231.0pt;width:249.00pt;height:30.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="linha_base" data-min="5" style="left:39.0pt;top:313.75pt;width:249.00pt;height:19.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="meta" data-min="5" style="left:316.0pt;top:313.75pt;width:249.00pt;height:19.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="acao" data-min="5" style="left:39.0pt;top:374.5pt;width:249.00pt;height:30.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="plano" data-min="5" style="left:316.0pt;top:385.5pt;width:249.00pt;height:19.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="dono" data-min="5" style="left:39.0pt;top:446.25pt;width:249.00pt;height:30.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="prazo" data-min="5" style="left:316.0pt;top:457.25pt;width:249.00pt;height:19.75pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="feito" data-min="5" style="left:620.0pt;top:231.0pt;width:531.25pt;height:54.67pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="desvios" data-min="5" style="left:620.0pt;top:326.67pt;width:531.25pt;height:54.66pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="prova" data-min="5" style="left:620.0pt;top:433.33pt;width:531.25pt;height:43.67pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="numero_medido" data-min="5" style="left:39.0pt;top:564.0pt;width:249.00pt;height:54.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="linha_base_c" data-min="5" style="left:316.0pt;top:575.0pt;width:249.00pt;height:43.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="bateu" data-min="5" style="left:39.0pt;top:659.0pt;width:249.00pt;height:54.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="evidencia" data-min="5" style="left:316.0pt;top:670.0pt;width:249.00pt;height:43.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="medido_em" data-min="5" style="left:39.0pt;top:765.0pt;width:249.00pt;height:43.00pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="decisao" data-min="5" style="left:620.0pt;top:575.0pt;width:251.62pt;height:90.50pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="padrao_onde" data-min="5" style="left:899.62pt;top:575.0pt;width:251.63pt;height:90.50pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="proximo_ciclo" data-min="5" style="left:620.0pt;top:717.5pt;width:251.62pt;height:90.50pt;font-size:9.5pt;text-align:left;font-weight:400"></div><div class="campo" data-campo="fechado_em" data-min="5" style="left:899.62pt;top:717.5pt;width:251.63pt;height:90.50pt;font-size:9.5pt;text-align:left;font-weight:400"></div>
+
+</div></div></div>
+<p class="meta"><b>origem do canvas</b> None · <b>fonte do conteúdo</b> — · <b>gerado</b> 04/09/2026<br>Réplica literal do canvas oficial; o texto preenchido vem do arquivo .md. Modelo gerado por ferramentas/canvas/construir.py — não editar à mão.</p>
+<script>
+(function(){
+  document.querySelectorAll('.campo').forEach(function(el){
+    if(!el.textContent.trim()) return;
+    var min=parseFloat(el.dataset.min||'6.5');
+    var fs=parseFloat(getComputedStyle(el).fontSize)*0.75; var guard=0;
+    var pw=parseFloat(el.dataset.postitW||'110'); var notas=el.querySelectorAll('.postit');
+    while(el.scrollHeight>el.clientHeight+1 && guard<120){
+      if(fs>min){ fs-=0.5; el.style.fontSize=fs+'pt'; }
+      else if(notas.length && pw>56){ pw=Math.max(56,pw*0.9); notas.forEach(function(p){p.style.width=pw+'pt';p.style.minHeight='0';}); }
+      else break;
+      guard++; }
+    if(el.scrollHeight>el.clientHeight+1){ el.setAttribute('data-estourou','1'); }
+  });
+})();
+
+(function(){
+  var page=document.getElementById('page'),moldura=document.getElementById('moldura'),scroll=document.getElementById('scroll'),btn=document.getElementById('btn-ajustar');
+  if(!btn) return;
+  var W=page.offsetWidth,Hh=page.offsetHeight,ajustar=true;
+  function aplicar(){var disp=scroll.clientWidth-48;var s=ajustar?Math.min(2.5,disp/W):1;page.style.transform='scale('+s+')';moldura.style.width=(W*s)+'px';moldura.style.height=(Hh*s)+'px';btn.textContent=ajustar?'ver em 1:1':'ajustar à tela';}
+  btn.addEventListener('click',function(){ajustar=!ajustar;aplicar();});
+  document.getElementById('btn-imprimir').addEventListener('click',function(){window.print();});
+  window.addEventListener('resize',aplicar);aplicar();
+})();
+</script>
+</body>
+</html>

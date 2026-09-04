@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 0.3.0 — 04/09/2026
+
+- 31 habilidades: entra `ga2-canvas-de-planejamento` (a folha de nove blocos da versão ao vivo do curso).
+- Cada habilidade de artefato ganha modelos em `assets/modelos/`: canvas oficial em branco (réplica do PDF do curso), forma documento em branco, `template-<id>.md` com as marcas de campo e `CAMPOS.md`.
+- Construtor em `construtor/`: gera o canvas e o documento a partir do `.md` preenchido, só com Python.
+- Seis canvas desenhados no estilo do kit para artefatos sem canvas oficial (5W2H, PDCA, Ishikawa, DoR/DoD, Quem faz o quê, Folha de experimento), com selo de acréscimo.
+- Seção "Canvas oficial e documento" em cada `SKILL.md` que tem canvas.
+
 ## 0.2.1 — 03/09/2026
 
 - Corrigido o `ga2-me-mostra` para usar o caso de gestão ativo da conversa como objeto visual.

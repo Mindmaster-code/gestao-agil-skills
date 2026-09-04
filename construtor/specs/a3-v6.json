@@ -1,0 +1,328 @@
+{
+ "id": "a3-v6",
+ "skill": "ga2-relatorio-a3",
+ "titulo": "Canvas Editável — A3",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - A3.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/a3-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    102.48,
+    498.96,
+    160.08
+   ],
+   "area_util": [
+    60.94,
+    114.8,
+    477.64,
+    138.9
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    102.48,
+    677.52,
+    160.08
+   ],
+   "area_util": [
+    500.31,
+    114.8,
+    656.22,
+    138.9
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    102.48,
+    819.36,
+    160.08
+   ],
+   "area_util": [
+    678.9,
+    114.8,
+    797.95,
+    138.9
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "contexto",
+   "rotulo": "1 · Contexto",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    148.32,
+    433.68,
+    252.24
+   ],
+   "area_util": [
+    68.03,
+    178.3,
+    405.35,
+    226.37
+   ],
+   "widget": "contexto"
+  },
+  {
+   "id": "situacao_atual",
+   "rotulo": "2 · Situação atual",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    226.32,
+    433.68,
+    330.96
+   ],
+   "area_util": [
+    68.03,
+    256.99,
+    405.35,
+    305.06
+   ],
+   "widget": "situacao_atual"
+  },
+  {
+   "id": "situacao_desejada",
+   "rotulo": "3 · Situação desejada",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    305.04,
+    433.68,
+    409.68
+   ],
+   "area_util": [
+    68.03,
+    335.68,
+    405.35,
+    383.75
+   ],
+   "widget": "situacao_desejada"
+  },
+  {
+   "id": "gap",
+   "rotulo": "4 · Gap",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    383.76,
+    433.68,
+    488.64
+   ],
+   "area_util": [
+    68.03,
+    414.37,
+    405.35,
+    462.44
+   ],
+   "widget": "gap"
+  },
+  {
+   "id": "causa_raiz",
+   "rotulo": "5 · Causa raiz",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.32,
+    462.48,
+    433.68,
+    567.36
+   ],
+   "area_util": [
+    68.03,
+    493.06,
+    405.35,
+    541.13
+   ],
+   "widget": "causa_raiz"
+  },
+  {
+   "id": "contramedidas",
+   "rotulo": "6 · Contramedidas",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    148.32,
+    819.36,
+    252.24
+   ],
+   "area_util": [
+    453.54,
+    178.3,
+    790.87,
+    226.37
+   ],
+   "widget": "contramedidas"
+  },
+  {
+   "id": "plano_acao",
+   "rotulo": "7 · Plano de ação",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    226.32,
+    819.36,
+    330.96
+   ],
+   "area_util": [
+    453.54,
+    256.99,
+    790.87,
+    305.06
+   ],
+   "widget": "plano_acao"
+  },
+  {
+   "id": "metricas",
+   "rotulo": "8 · Métricas — como vou medir",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    305.04,
+    819.36,
+    409.68
+   ],
+   "area_util": [
+    453.54,
+    335.68,
+    790.87,
+    383.75
+   ],
+   "widget": "metricas"
+  },
+  {
+   "id": "acompanhamento",
+   "rotulo": "9 · Acompanhamento — como está indo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    383.76,
+    819.36,
+    488.64
+   ],
+   "area_util": [
+    453.54,
+    414.37,
+    790.87,
+    462.44
+   ],
+   "widget": "acompanhamento"
+  },
+  {
+   "id": "aprendizado",
+   "rotulo": "10 · Aprendizado do ciclo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    425.76,
+    462.48,
+    819.36,
+    567.36
+   ],
+   "area_util": [
+    453.54,
+    493.06,
+    790.87,
+    541.13
+   ],
+   "widget": "aprendizado"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-relatorio-a3/assets/modelos/template-a3-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "plano_acao": {
+    "ancora": "plano",
+    "formato_linha": "{O quê} — {Quem} — {Quando}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Qual é o problema, sua causa e o plano que o resolve?",
+  "capitulos": [
+   {
+    "titulo": "Entender",
+    "campos": [
+     "contexto",
+     "situacao_atual",
+     "situacao_desejada",
+     "gap",
+     "causa_raiz"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Resolver",
+    "campos": [
+     "contramedidas",
+     "plano_acao",
+     "metricas"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Acompanhar",
+    "campos": [
+     "acompanhamento",
+     "aprendizado"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

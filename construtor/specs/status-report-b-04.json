@@ -1,0 +1,190 @@
+{
+ "id": "status-report-b-04",
+ "skill": "ga2-documentos-de-projeto",
+ "titulo": "Status Report — 7 dias (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "04-status-report-7-dias-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/status-report-b-04.svg"
+ },
+ "campos": [
+  {
+   "id": "nome",
+   "rotulo": "Meu nome",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    44.0,
+    184.0,
+    224.0,
+    242.0
+   ],
+   "area_util": [
+    54.0,
+    202.0,
+    214.0,
+    232.0
+   ],
+   "widget": "sr_nome"
+  },
+  {
+   "id": "caso",
+   "rotulo": "Caso / projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    240.0,
+    184.0,
+    450.0,
+    242.0
+   ],
+   "area_util": [
+    250.0,
+    202.0,
+    440.0,
+    232.0
+   ],
+   "widget": "sr_caso"
+  },
+  {
+   "id": "periodo",
+   "rotulo": "Período",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    466.0,
+    184.0,
+    551.0,
+    242.0
+   ],
+   "area_util": [
+    476.0,
+    202.0,
+    541.0,
+    232.0
+   ],
+   "widget": "sr_periodo"
+  },
+  {
+   "id": "compromisso",
+   "rotulo": "1 · O que eu me comprometi a fazer nos 7 dias?",
+   "guia": "A meta prática da semana e a entrega esperada.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    272.0,
+    551.0,
+    372.0
+   ],
+   "area_util": [
+    54.0,
+    326.0,
+    541.0,
+    362.0
+   ],
+   "widget": "sr_compromisso"
+  },
+  {
+   "id": "feito",
+   "rotulo": "2 · O que foi feito?",
+   "guia": "Entregas, tarefas concluídas, conversas feitas, decisões tomadas, evidências coletadas.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    402.0,
+    551.0,
+    527.0
+   ],
+   "area_util": [
+    54.0,
+    456.0,
+    541.0,
+    517.0
+   ],
+   "widget": "sr_feito"
+  },
+  {
+   "id": "resultado",
+   "rotulo": "3 · Que resultado apareceu?",
+   "guia": "Sinais simples: prazo, qualidade, fila, bloqueio removido, feedback observado ou aprendizado.",
+   "tipo": "texto-longo",
+   "caixa": [
+    44.0,
+    557.0,
+    551.0,
+    677.0
+   ],
+   "area_util": [
+    54.0,
+    611.0,
+    541.0,
+    667.0
+   ],
+   "widget": "sr_resultado"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-documentos-de-projeto/assets/modelos/template-status-report-b-04.md",
+  "ancoras": {
+   "nome": {
+    "ancora": "nome"
+   },
+   "caso": {
+    "ancora": "caso"
+   },
+   "periodo": {
+    "ancora": "periodo"
+   },
+   "compromisso": {
+    "ancora": "compromisso"
+   },
+   "feito": {
+    "ancora": "feito"
+   },
+   "resultado": {
+    "ancora": "resultado"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Em que ponto estou, o que entreguei com prova e o que travou?",
+  "capitulos": [
+   {
+    "titulo": "A semana",
+    "campos": [
+     "nome",
+     "caso",
+     "periodo"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Combinado, feito, resultado",
+    "campos": [
+     "compromisso",
+     "feito",
+     "resultado"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

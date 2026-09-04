@@ -1,0 +1,321 @@
+{
+ "id": "ishikawa-lab",
+ "skill": "ga2-causa-raiz",
+ "titulo": "Ishikawa — espinha de peixe (laboratório)",
+ "origem": {
+  "familia": "laboratorio",
+  "arquivo": null,
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/ishikawa-lab.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    19.0,
+    100.0,
+    666.0,
+    160.0
+   ],
+   "area_util": [
+    29.0,
+    125.0,
+    656.0,
+    152.0
+   ]
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    676.0,
+    100.0,
+    999.5,
+    160.0
+   ],
+   "area_util": [
+    686.0,
+    125.0,
+    989.5,
+    152.0
+   ]
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    1009.5,
+    100.0,
+    1171.25,
+    160.0
+   ],
+   "area_util": [
+    1019.5,
+    125.0,
+    1161.25,
+    152.0
+   ]
+  },
+  {
+   "id": "problema",
+   "rotulo": "PROBLEMA (efeito)",
+   "guia": "o problema observado, com número",
+   "tipo": "texto-longo",
+   "caixa": [
+    932.0,
+    355.0,
+    1171.25,
+    505.0
+   ],
+   "area_util": [
+    942.0,
+    393.0,
+    1161.25,
+    497.0
+   ]
+  },
+  {
+   "id": "metodo",
+   "rotulo": "MÉTODO",
+   "guia": "como se faz: processo, regra, padrão",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.0,
+    172.0,
+    315.0,
+    345.0
+   ],
+   "area_util": [
+    50.0,
+    211.0,
+    305.0,
+    337.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "maquina",
+   "rotulo": "MÁQUINA",
+   "guia": "sistema, timer, ferramenta, infra",
+   "tipo": "texto-longo",
+   "caixa": [
+    345.0,
+    172.0,
+    620.0,
+    345.0
+   ],
+   "area_util": [
+    355.0,
+    211.0,
+    610.0,
+    337.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "material",
+   "rotulo": "MATERIAL",
+   "guia": "insumo: dado, arquivo, pasta, credencial",
+   "tipo": "texto-longo",
+   "caixa": [
+    650.0,
+    172.0,
+    925.0,
+    345.0
+   ],
+   "area_util": [
+    660.0,
+    211.0,
+    915.0,
+    337.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "mao_de_obra",
+   "rotulo": "MÃO DE OBRA",
+   "guia": "gente e agente: capacidade, carga, papel",
+   "tipo": "texto-longo",
+   "caixa": [
+    40.0,
+    520.0,
+    315.0,
+    700.0
+   ],
+   "area_util": [
+    50.0,
+    559.0,
+    305.0,
+    692.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "medida",
+   "rotulo": "MEDIÇÃO",
+   "guia": "como se mede; o que ninguém olha",
+   "tipo": "texto-longo",
+   "caixa": [
+    345.0,
+    520.0,
+    620.0,
+    700.0
+   ],
+   "area_util": [
+    355.0,
+    559.0,
+    610.0,
+    692.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "meio_ambiente",
+   "rotulo": "MEIO AMBIENTE",
+   "guia": "contexto: prazo, gate, sessão ocupada, regra externa",
+   "tipo": "texto-longo",
+   "caixa": [
+    650.0,
+    520.0,
+    925.0,
+    700.0
+   ],
+   "area_util": [
+    660.0,
+    559.0,
+    915.0,
+    692.0
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 92
+  },
+  {
+   "id": "ramos_escolhidos",
+   "rotulo": "RAMO(S) ESCOLHIDO(S)",
+   "guia": "por relação causa-efeito e impacto → rode os 5 Porquês em cada ramo escolhido",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    712.0,
+    1171.25,
+    826.0
+   ],
+   "area_util": [
+    29.0,
+    750.0,
+    1161.25,
+    818.0
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700|Montserrat:wght@700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-causa-raiz/assets/modelos/template-ishikawa-lab.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "dono"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "problema": {
+    "ancora": "problema"
+   },
+   "ramos_escolhidos": {
+    "ancora": "ramos_escolhidos"
+   },
+   "metodo": {
+    "ancora": "ishikawa",
+    "linha_tabela": 1,
+    "formato": "{Causas levantadas}"
+   },
+   "maquina": {
+    "ancora": "ishikawa",
+    "linha_tabela": 2,
+    "formato": "{Causas levantadas}"
+   },
+   "material": {
+    "ancora": "ishikawa",
+    "linha_tabela": 3,
+    "formato": "{Causas levantadas}"
+   },
+   "mao_de_obra": {
+    "ancora": "ishikawa",
+    "linha_tabela": 4,
+    "formato": "{Causas levantadas}"
+   },
+   "medida": {
+    "ancora": "ishikawa",
+    "linha_tabela": 5,
+    "formato": "{Causas levantadas}"
+   },
+   "meio_ambiente": {
+    "ancora": "ishikawa",
+    "linha_tabela": 6,
+    "formato": "{Causas levantadas}"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Em que categorias moram as causas do problema, e qual ramo atacamos primeiro?",
+  "capitulos": [
+   {
+    "titulo": "O problema",
+    "campos": [
+     "problema"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Os seis M",
+    "campos": [
+     "metodo",
+     "maquina",
+     "material",
+     "mao_de_obra",
+     "medida",
+     "meio_ambiente"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Ramos escolhidos",
+    "campos": [
+     "ramos_escolhidos"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

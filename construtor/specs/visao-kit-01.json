@@ -1,0 +1,279 @@
+{
+ "id": "visao-kit-01",
+ "skill": "ga2-canvas-de-visao",
+ "titulo": "Canvas de Visão",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Visão .pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/visao-kit-01.svg"
+ },
+ "campos": [
+  {
+   "id": "horizonte_3",
+   "rotulo": "Espaço temporal: 3 anos",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    701,
+    27,
+    875,
+    68
+   ],
+   "area_util": [
+    710,
+    47,
+    720,
+    59
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "horizonte_5",
+   "rotulo": "Espaço temporal: 5 anos",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    701,
+    27,
+    875,
+    68
+   ],
+   "area_util": [
+    766,
+    47,
+    776,
+    59
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "horizonte_10",
+   "rotulo": "Espaço temporal: 10 anos",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    701,
+    27,
+    875,
+    68
+   ],
+   "area_util": [
+    828,
+    47,
+    838,
+    59
+   ],
+   "tamanho_pt": 9,
+   "alinhamento": "center",
+   "opcional": true
+  },
+  {
+   "id": "passado",
+   "rotulo": "Passado",
+   "guia": "Como era a situação antes do espaço temporal escolhido? Resuma a trajetória: principais mudanças, inovações, adaptações, marcos, realizações.",
+   "tipo": "texto-longo",
+   "caixa": [
+    25,
+    180,
+    476,
+    619
+   ],
+   "area_util": [
+    150,
+    456,
+    362,
+    556
+   ]
+  },
+  {
+   "id": "situacao_atual",
+   "rotulo": "Situação atual (Hoje)",
+   "guia": "Detalhe o status atual: principais produtos ou serviços e seus números, clientes ou usuários, desafios e oportunidades.",
+   "tipo": "texto-longo",
+   "caixa": [
+    238,
+    563,
+    618,
+    675
+   ],
+   "area_util": [
+    246,
+    600,
+    610,
+    670
+   ]
+  },
+  {
+   "id": "perspectivas",
+   "rotulo": "Perspectivas e tendências",
+   "guia": "Baseado nas tendências atuais do mercado e da sua área, projete cenários futuros plausíveis.",
+   "tipo": "texto-longo",
+   "caixa": [
+    1014,
+    84,
+    1172,
+    706
+   ],
+   "area_util": [
+    1022,
+    420,
+    1164,
+    698
+   ]
+  },
+  {
+   "id": "futuro_desejado",
+   "rotulo": "Futuro desejado",
+   "guia": "Qual a situação futura desejada para o espaço temporal escolhido? Principais objetivos a serem atingidos.",
+   "tipo": "texto-longo",
+   "caixa": [
+    875,
+    84,
+    1003,
+    710
+   ],
+   "area_util": [
+    892,
+    515,
+    988,
+    690
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "como_chegar",
+   "rotulo": "Como chegar lá",
+   "guia": "Evoluções necessárias para alcançar a visão: ações estratégicas, investimentos, competências, parcerias.",
+   "tipo": "texto-longo",
+   "caixa": [
+    601,
+    343,
+    866,
+    560
+   ],
+   "area_util": [
+    604,
+    440,
+    860,
+    558
+   ]
+  },
+  {
+   "id": "visao_proximos_anos",
+   "rotulo": "Visão próximos anos",
+   "guia": "Uma frase que sintetize a visão de futuro.",
+   "tipo": "texto-longo",
+   "caixa": [
+    46,
+    700,
+    866,
+    812
+   ],
+   "area_util": [
+    320,
+    733,
+    856,
+    806
+   ],
+   "tamanho_pt": 11
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-canvas-de-visao/assets/modelos/template-visao-kit-01.md",
+  "ancoras": {
+   "horizonte_3": {
+    "ancora": "horizonte_3"
+   },
+   "horizonte_5": {
+    "ancora": "horizonte_5"
+   },
+   "horizonte_10": {
+    "ancora": "horizonte_10"
+   },
+   "situacao_atual": {
+    "ancora": "hoje"
+   },
+   "perspectivas": {
+    "ancora": "tendencias"
+   },
+   "futuro_desejado": {
+    "ancora": "futuro"
+   },
+   "visao_proximos_anos": {
+    "ancora": "visao"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "De onde viemos, onde estamos e aonde queremos chegar?",
+  "capitulos": [
+   {
+    "titulo": "De onde viemos",
+    "campos": [
+     "passado"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Onde estamos hoje",
+    "campos": [
+     "situacao_atual"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O que vem aí",
+    "campos": [
+     "perspectivas"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Aonde queremos chegar",
+    "campos": [
+     "futuro_desejado",
+     "horizonte_3",
+     "horizonte_5",
+     "horizonte_10"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Como chegar lá",
+    "campos": [
+     "como_chegar"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "A visão em uma frase",
+    "campos": [
+     "visao_proximos_anos"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

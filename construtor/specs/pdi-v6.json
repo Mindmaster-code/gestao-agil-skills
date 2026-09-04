@@ -1,0 +1,269 @@
+{
+ "id": "pdi-v6",
+ "skill": "ga2-pdi",
+ "titulo": "Canvas PDI (v6)",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas-PDI.pdf",
+  "pagina": 2,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 2
+ },
+ "estatico": {
+  "svg": "estatico/pdi-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "pessoa",
+   "rotulo": "Pessoa e momento (cargo, tempo de casa)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "area_util": [
+    39.69,
+    147.4,
+    802.2,
+    178.58
+   ],
+   "widget": "pdi_pessoa"
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo de desenvolvimento",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    209.76,
+    802.2,
+    255.12
+   ],
+   "area_util": [
+    39.69,
+    209.76,
+    802.2,
+    255.12
+   ],
+   "widget": "pdi_obj"
+  },
+  {
+   "id": "forcas",
+   "rotulo": "Forças a alavancar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    283.46,
+    413.86,
+    357.17
+   ],
+   "area_util": [
+    39.69,
+    283.46,
+    413.86,
+    357.17
+   ],
+   "widget": "pdi_forcas"
+  },
+  {
+   "id": "lacuna",
+   "rotulo": "Lacunas a fechar (uma por ciclo)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    283.46,
+    802.2,
+    357.17
+   ],
+   "area_util": [
+    428.03,
+    283.46,
+    802.2,
+    357.17
+   ],
+   "widget": "pdi_lacunas"
+  },
+  {
+   "id": "acao_70",
+   "rotulo": "Na prática (70%)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    405.35,
+    286.3,
+    476.22
+   ],
+   "area_util": [
+    39.69,
+    405.35,
+    286.3,
+    476.22
+   ],
+   "widget": "pdi_a70"
+  },
+  {
+   "id": "acao_20",
+   "rotulo": "Com pessoas (20%)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    297.64,
+    405.35,
+    544.25,
+    476.22
+   ],
+   "area_util": [
+    297.64,
+    405.35,
+    544.25,
+    476.22
+   ],
+   "widget": "pdi_a20"
+  },
+  {
+   "id": "acao_10",
+   "rotulo": "Formação (10%)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    555.59,
+    405.35,
+    802.2,
+    476.22
+   ],
+   "area_util": [
+    555.59,
+    405.35,
+    802.2,
+    476.22
+   ],
+   "widget": "pdi_a10"
+  },
+  {
+   "id": "marco",
+   "rotulo": "Marco e prazo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    39.69,
+    498.9,
+    413.86,
+    532.91
+   ],
+   "area_util": [
+    39.69,
+    498.9,
+    413.86,
+    532.91
+   ],
+   "widget": "pdi_prazo"
+  },
+  {
+   "id": "acompanhar",
+   "rotulo": "Como vou acompanhar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    428.03,
+    498.9,
+    802.2,
+    532.91
+   ],
+   "area_util": [
+    428.03,
+    498.9,
+    802.2,
+    532.91
+   ],
+   "widget": "pdi_acomp"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-pdi/assets/modelos/template-pdi-v6.md",
+  "ancoras": {
+   "forcas": {
+    "ancora": "forcas_lacuna",
+    "linha_tabela": 1,
+    "coluna": "Forças"
+   },
+   "lacuna": {
+    "ancora": "forcas_lacuna",
+    "linha_tabela": 1,
+    "coluna": "Lacuna"
+   },
+   "acao_70": {
+    "ancora": "acoes",
+    "linha_tabela": 1,
+    "coluna": "Na prática"
+   },
+   "acao_20": {
+    "ancora": "acoes",
+    "linha_tabela": 1,
+    "coluna": "Com pessoas"
+   },
+   "acao_10": {
+    "ancora": "acoes",
+    "linha_tabela": 1,
+    "coluna": "Formação"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Aonde esta pessoa quer chegar, que lacuna fecha neste ciclo e como?",
+  "capitulos": [
+   {
+    "titulo": "Pessoa e direção",
+    "campos": [
+     "pessoa",
+     "objetivo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Forças e lacuna",
+    "campos": [
+     "forcas",
+     "lacuna"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Ações 70-20-10",
+    "campos": [
+     "acao_70",
+     "acao_20",
+     "acao_10"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Marco e acompanhamento",
+    "campos": [
+     "marco",
+     "acompanhar"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

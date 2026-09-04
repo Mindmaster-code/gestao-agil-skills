@@ -1,0 +1,125 @@
+{
+ "id": "politicas-quadro-b-05",
+ "skill": "ga2-politicas-wip-urgencia",
+ "titulo": "Políticas do quadro (editável)",
+ "origem": {
+  "familia": "b",
+  "arquivo": "05-politicas-do-quadro-ga2-editavel.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 595.0,
+  "altura_pt": 842.0,
+  "orientacao": "retrato",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/politicas-quadro-b-05.svg"
+ },
+ "campos": [
+  {
+   "id": "entrada",
+   "rotulo": "Entrada",
+   "guia": "Quando um item entra?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    224.0,
+    559.0,
+    324.0
+   ],
+   "area_util": [
+    47.0,
+    272.0,
+    548.0,
+    314.0
+   ],
+   "widget": "f1"
+  },
+  {
+   "id": "pronto",
+   "rotulo": "Pronto",
+   "guia": "Quando um item termina?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    337.0,
+    559.0,
+    457.0
+   ],
+   "area_util": [
+    47.0,
+    385.0,
+    548.0,
+    447.0
+   ],
+   "widget": "f2"
+  },
+  {
+   "id": "prioridade",
+   "rotulo": "Prioridade",
+   "guia": "Como decidir o próximo item?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    470.0,
+    559.0,
+    565.0
+   ],
+   "area_util": [
+    47.0,
+    518.0,
+    548.0,
+    555.0
+   ],
+   "widget": "f3"
+  },
+  {
+   "id": "bloqueio",
+   "rotulo": "Bloqueio",
+   "guia": "O que fazer quando trava?",
+   "tipo": "texto-longo",
+   "caixa": [
+    36.0,
+    578.0,
+    559.0,
+    673.0
+   ],
+   "area_util": [
+    47.0,
+    626.0,
+    548.0,
+    663.0
+   ],
+   "widget": "f4"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Arimo",
+  "google_fonts": "Arimo:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-politicas-wip-urgencia/assets/modelos/template-politicas-quadro-b-05.md",
+  "ancoras": {}
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Quais são as regras explícitas do quadro?",
+  "capitulos": [
+   {
+    "titulo": "Políticas",
+    "campos": [
+     "entrada",
+     "pronto",
+     "prioridade",
+     "bloqueio"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

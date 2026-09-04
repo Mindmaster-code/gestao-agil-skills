@@ -1,0 +1,509 @@
+{
+ "id": "feedback-360-kit-12",
+ "skill": "ga2-feedback-360",
+ "titulo": "Feedback 360 Graus",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Feedback 360.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/feedback-360-kit-12.svg"
+ },
+ "campos": [
+  {
+   "id": "nome",
+   "rotulo": "Nome (avaliado)",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    87,
+    100,
+    1101,
+    130
+   ],
+   "area_util": [
+    160,
+    108,
+    400,
+    130
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "superiores_quem",
+   "rotulo": "Superiores: nome e data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    87,
+    172,
+    335,
+    311
+   ],
+   "area_util": [
+    96,
+    223,
+    326,
+    302
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "superiores_comecar",
+   "rotulo": "Superiores — Começar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    343,
+    172,
+    591,
+    311
+   ],
+   "area_util": [
+    351,
+    180,
+    583,
+    303
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "superiores_parar",
+   "rotulo": "Superiores — Parar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    172,
+    846,
+    311
+   ],
+   "area_util": [
+    606,
+    180,
+    838,
+    303
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "superiores_continuar",
+   "rotulo": "Superiores — Continuar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    853,
+    172,
+    1101,
+    311
+   ],
+   "area_util": [
+    861,
+    180,
+    1093,
+    303
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "amarelo"
+  },
+  {
+   "id": "pares_quem",
+   "rotulo": "Pares: nome e data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    87,
+    324,
+    335,
+    464
+   ],
+   "area_util": [
+    96,
+    394,
+    326,
+    455
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "pares_comecar",
+   "rotulo": "Pares — Começar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    343,
+    324,
+    591,
+    464
+   ],
+   "area_util": [
+    351,
+    332,
+    583,
+    456
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "pares_parar",
+   "rotulo": "Pares — Parar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    324,
+    846,
+    464
+   ],
+   "area_util": [
+    606,
+    332,
+    838,
+    456
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "pares_continuar",
+   "rotulo": "Pares — Continuar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    853,
+    324,
+    1101,
+    464
+   ],
+   "area_util": [
+    861,
+    332,
+    1093,
+    456
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "amarelo"
+  },
+  {
+   "id": "equipe_quem",
+   "rotulo": "Equipe: nome e data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    87,
+    476,
+    335,
+    616
+   ],
+   "area_util": [
+    96,
+    546,
+    326,
+    607
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "equipe_comecar",
+   "rotulo": "Equipe — Começar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    343,
+    476,
+    591,
+    616
+   ],
+   "area_util": [
+    351,
+    484,
+    583,
+    608
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "equipe_parar",
+   "rotulo": "Equipe — Parar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    476,
+    846,
+    616
+   ],
+   "area_util": [
+    606,
+    484,
+    838,
+    608
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "equipe_continuar",
+   "rotulo": "Equipe — Continuar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    853,
+    476,
+    1101,
+    616
+   ],
+   "area_util": [
+    861,
+    484,
+    1093,
+    608
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "amarelo"
+  },
+  {
+   "id": "autoavaliacao_quem",
+   "rotulo": "Autoavaliação: nome e data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    87,
+    631,
+    335,
+    771
+   ],
+   "area_util": [
+    96,
+    701,
+    326,
+    762
+   ],
+   "tamanho_pt": 9
+  },
+  {
+   "id": "autoavaliacao_comecar",
+   "rotulo": "Autoavaliação — Começar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    343,
+    631,
+    591,
+    771
+   ],
+   "area_util": [
+    351,
+    639,
+    583,
+    763
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "verde"
+  },
+  {
+   "id": "autoavaliacao_parar",
+   "rotulo": "Autoavaliação — Parar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    598,
+    631,
+    846,
+    771
+   ],
+   "area_util": [
+    606,
+    639,
+    838,
+    763
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "rosa"
+  },
+  {
+   "id": "autoavaliacao_continuar",
+   "rotulo": "Autoavaliação — Continuar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    853,
+    631,
+    1101,
+    771
+   ],
+   "area_util": [
+    861,
+    639,
+    1093,
+    763
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105,
+   "postit_cor": "amarelo"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-feedback-360/assets/modelos/template-feedback-360-kit-12.md",
+  "ancoras": {
+   "nome": {
+    "ancora": "nome"
+   },
+   "superiores_comecar": {
+    "ancora": "ouvi",
+    "linha_tabela": 1,
+    "coluna": "Começar"
+   },
+   "superiores_parar": {
+    "ancora": "ouvi",
+    "linha_tabela": 1,
+    "coluna": "Parar"
+   },
+   "superiores_continuar": {
+    "ancora": "ouvi",
+    "linha_tabela": 1,
+    "coluna": "Manter"
+   },
+   "pares_comecar": {
+    "ancora": "ouvi",
+    "linha_tabela": 2,
+    "coluna": "Começar"
+   },
+   "pares_parar": {
+    "ancora": "ouvi",
+    "linha_tabela": 2,
+    "coluna": "Parar"
+   },
+   "pares_continuar": {
+    "ancora": "ouvi",
+    "linha_tabela": 2,
+    "coluna": "Manter"
+   },
+   "equipe_comecar": {
+    "ancora": "ouvi",
+    "linha_tabela": 3,
+    "coluna": "Começar"
+   },
+   "equipe_parar": {
+    "ancora": "ouvi",
+    "linha_tabela": 3,
+    "coluna": "Parar"
+   },
+   "equipe_continuar": {
+    "ancora": "ouvi",
+    "linha_tabela": 3,
+    "coluna": "Manter"
+   },
+   "autoavaliacao_comecar": {
+    "ancora": "ouvi",
+    "linha_tabela": 4,
+    "coluna": "Começar"
+   },
+   "autoavaliacao_parar": {
+    "ancora": "ouvi",
+    "linha_tabela": 4,
+    "coluna": "Parar"
+   },
+   "autoavaliacao_continuar": {
+    "ancora": "ouvi",
+    "linha_tabela": 4,
+    "coluna": "Manter"
+   },
+   "superiores_quem": {
+    "ancora": "superiores_quem"
+   },
+   "pares_quem": {
+    "ancora": "pares_quem"
+   },
+   "equipe_quem": {
+    "ancora": "equipe_quem"
+   },
+   "autoavaliacao_quem": {
+    "ancora": "autoavaliacao_quem"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Como sou visto de todos os lados: o que manter, parar e começar?",
+  "capitulos": [
+   {
+    "titulo": "Quem respondeu",
+    "campos": [
+     "nome",
+     "superiores_quem",
+     "pares_quem",
+     "equipe_quem",
+     "autoavaliacao_quem"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Superiores",
+    "campos": [
+     "superiores_comecar",
+     "superiores_parar",
+     "superiores_continuar"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Pares",
+    "campos": [
+     "pares_comecar",
+     "pares_parar",
+     "pares_continuar"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Equipe",
+    "campos": [
+     "equipe_comecar",
+     "equipe_parar",
+     "equipe_continuar"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Autoavaliação",
+    "campos": [
+     "autoavaliacao_comecar",
+     "autoavaliacao_parar",
+     "autoavaliacao_continuar"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}

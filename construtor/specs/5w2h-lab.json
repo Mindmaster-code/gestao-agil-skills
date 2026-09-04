@@ -1,0 +1,1362 @@
+{
+ "id": "5w2h-lab",
+ "skill": "ga2-5w2h",
+ "titulo": "5W2H — plano de ação (laboratório)",
+ "origem": {
+  "familia": "laboratorio",
+  "arquivo": null,
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/5w2h-lab.svg"
+ },
+ "campos": [
+  {
+   "id": "ligado_a",
+   "rotulo": "Ligado a",
+   "guia": "A3, PDCA ou retro que pede este plano",
+   "tipo": "texto-curto",
+   "caixa": [
+    19.0,
+    100.0,
+    333.65,
+    160.0
+   ],
+   "area_util": [
+    29.0,
+    136.0,
+    323.65,
+    152.0
+   ]
+  },
+  {
+   "id": "causa_raiz",
+   "rotulo": "Causa raiz que este plano ataca",
+   "guia": "uma frase, processo ou regra — nunca pessoa",
+   "tipo": "texto-curto",
+   "caixa": [
+    343.65,
+    100.0,
+    815.62,
+    160.0
+   ],
+   "area_util": [
+    353.65,
+    136.0,
+    805.62,
+    152.0
+   ]
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável pelo plano",
+   "guia": "um nome",
+   "tipo": "texto-curto",
+   "caixa": [
+    825.62,
+    100.0,
+    1035.39,
+    160.0
+   ],
+   "area_util": [
+    835.62,
+    136.0,
+    1025.39,
+    152.0
+   ]
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    1045.39,
+    100.0,
+    1171.25,
+    160.0
+   ],
+   "area_util": [
+    1055.39,
+    125.0,
+    1161.25,
+    152.0
+   ]
+  },
+  {
+   "id": "oque_1",
+   "rotulo": "O QUÊ (what) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    230.0,
+    284.48,
+    316.33
+   ],
+   "area_util": [
+    68.79,
+    233.0,
+    281.48,
+    313.33
+   ]
+  },
+  {
+   "id": "porque_1",
+   "rotulo": "POR QUÊ (why) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    230.0,
+    443.53,
+    316.33
+   ],
+   "area_util": [
+    287.48,
+    233.0,
+    440.53,
+    313.33
+   ]
+  },
+  {
+   "id": "quem_1",
+   "rotulo": "QUEM (who) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    230.0,
+    552.88,
+    316.33
+   ],
+   "area_util": [
+    446.53,
+    233.0,
+    549.88,
+    313.33
+   ]
+  },
+  {
+   "id": "quando_1",
+   "rotulo": "QUANDO (when) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    230.0,
+    642.34,
+    316.33
+   ],
+   "area_util": [
+    555.88,
+    233.0,
+    639.34,
+    313.33
+   ]
+  },
+  {
+   "id": "onde_1",
+   "rotulo": "ONDE (where) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    230.0,
+    761.63,
+    316.33
+   ],
+   "area_util": [
+    645.34,
+    233.0,
+    758.63,
+    313.33
+   ]
+  },
+  {
+   "id": "como_1",
+   "rotulo": "COMO (how) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    230.0,
+    960.44,
+    316.33
+   ],
+   "area_util": [
+    764.63,
+    233.0,
+    957.44,
+    313.33
+   ]
+  },
+  {
+   "id": "quanto_1",
+   "rotulo": "QUANTO (how much) — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    230.0,
+    1059.84,
+    316.33
+   ],
+   "area_util": [
+    963.44,
+    233.0,
+    1056.84,
+    313.33
+   ]
+  },
+  {
+   "id": "status_1",
+   "rotulo": "STATUS — linha 1",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    230.0,
+    1159.25,
+    316.33
+   ],
+   "area_util": [
+    1062.84,
+    233.0,
+    1156.25,
+    313.33
+   ]
+  },
+  {
+   "id": "oque_2",
+   "rotulo": "O QUÊ (what) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    316.33,
+    284.48,
+    402.67
+   ],
+   "area_util": [
+    68.79,
+    319.33,
+    281.48,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "porque_2",
+   "rotulo": "POR QUÊ (why) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    316.33,
+    443.53,
+    402.67
+   ],
+   "area_util": [
+    287.48,
+    319.33,
+    440.53,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quem_2",
+   "rotulo": "QUEM (who) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    316.33,
+    552.88,
+    402.67
+   ],
+   "area_util": [
+    446.53,
+    319.33,
+    549.88,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quando_2",
+   "rotulo": "QUANDO (when) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    316.33,
+    642.34,
+    402.67
+   ],
+   "area_util": [
+    555.88,
+    319.33,
+    639.34,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "onde_2",
+   "rotulo": "ONDE (where) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    316.33,
+    761.63,
+    402.67
+   ],
+   "area_util": [
+    645.34,
+    319.33,
+    758.63,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "como_2",
+   "rotulo": "COMO (how) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    316.33,
+    960.44,
+    402.67
+   ],
+   "area_util": [
+    764.63,
+    319.33,
+    957.44,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quanto_2",
+   "rotulo": "QUANTO (how much) — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    316.33,
+    1059.84,
+    402.67
+   ],
+   "area_util": [
+    963.44,
+    319.33,
+    1056.84,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "status_2",
+   "rotulo": "STATUS — linha 2",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    316.33,
+    1159.25,
+    402.67
+   ],
+   "area_util": [
+    1062.84,
+    319.33,
+    1156.25,
+    399.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "oque_3",
+   "rotulo": "O QUÊ (what) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    402.67,
+    284.48,
+    489.0
+   ],
+   "area_util": [
+    68.79,
+    405.67,
+    281.48,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "porque_3",
+   "rotulo": "POR QUÊ (why) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    402.67,
+    443.53,
+    489.0
+   ],
+   "area_util": [
+    287.48,
+    405.67,
+    440.53,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quem_3",
+   "rotulo": "QUEM (who) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    402.67,
+    552.88,
+    489.0
+   ],
+   "area_util": [
+    446.53,
+    405.67,
+    549.88,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quando_3",
+   "rotulo": "QUANDO (when) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    402.67,
+    642.34,
+    489.0
+   ],
+   "area_util": [
+    555.88,
+    405.67,
+    639.34,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "onde_3",
+   "rotulo": "ONDE (where) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    402.67,
+    761.63,
+    489.0
+   ],
+   "area_util": [
+    645.34,
+    405.67,
+    758.63,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "como_3",
+   "rotulo": "COMO (how) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    402.67,
+    960.44,
+    489.0
+   ],
+   "area_util": [
+    764.63,
+    405.67,
+    957.44,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quanto_3",
+   "rotulo": "QUANTO (how much) — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    402.67,
+    1059.84,
+    489.0
+   ],
+   "area_util": [
+    963.44,
+    405.67,
+    1056.84,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "status_3",
+   "rotulo": "STATUS — linha 3",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    402.67,
+    1159.25,
+    489.0
+   ],
+   "area_util": [
+    1062.84,
+    405.67,
+    1156.25,
+    486.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "oque_4",
+   "rotulo": "O QUÊ (what) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    489.0,
+    284.48,
+    575.33
+   ],
+   "area_util": [
+    68.79,
+    492.0,
+    281.48,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "porque_4",
+   "rotulo": "POR QUÊ (why) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    489.0,
+    443.53,
+    575.33
+   ],
+   "area_util": [
+    287.48,
+    492.0,
+    440.53,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quem_4",
+   "rotulo": "QUEM (who) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    489.0,
+    552.88,
+    575.33
+   ],
+   "area_util": [
+    446.53,
+    492.0,
+    549.88,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quando_4",
+   "rotulo": "QUANDO (when) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    489.0,
+    642.34,
+    575.33
+   ],
+   "area_util": [
+    555.88,
+    492.0,
+    639.34,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "onde_4",
+   "rotulo": "ONDE (where) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    489.0,
+    761.63,
+    575.33
+   ],
+   "area_util": [
+    645.34,
+    492.0,
+    758.63,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "como_4",
+   "rotulo": "COMO (how) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    489.0,
+    960.44,
+    575.33
+   ],
+   "area_util": [
+    764.63,
+    492.0,
+    957.44,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quanto_4",
+   "rotulo": "QUANTO (how much) — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    489.0,
+    1059.84,
+    575.33
+   ],
+   "area_util": [
+    963.44,
+    492.0,
+    1056.84,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "status_4",
+   "rotulo": "STATUS — linha 4",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    489.0,
+    1159.25,
+    575.33
+   ],
+   "area_util": [
+    1062.84,
+    492.0,
+    1156.25,
+    572.33
+   ],
+   "opcional": true
+  },
+  {
+   "id": "oque_5",
+   "rotulo": "O QUÊ (what) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    575.33,
+    284.48,
+    661.67
+   ],
+   "area_util": [
+    68.79,
+    578.33,
+    281.48,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "porque_5",
+   "rotulo": "POR QUÊ (why) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    575.33,
+    443.53,
+    661.67
+   ],
+   "area_util": [
+    287.48,
+    578.33,
+    440.53,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quem_5",
+   "rotulo": "QUEM (who) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    575.33,
+    552.88,
+    661.67
+   ],
+   "area_util": [
+    446.53,
+    578.33,
+    549.88,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quando_5",
+   "rotulo": "QUANDO (when) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    575.33,
+    642.34,
+    661.67
+   ],
+   "area_util": [
+    555.88,
+    578.33,
+    639.34,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "onde_5",
+   "rotulo": "ONDE (where) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    575.33,
+    761.63,
+    661.67
+   ],
+   "area_util": [
+    645.34,
+    578.33,
+    758.63,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "como_5",
+   "rotulo": "COMO (how) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    575.33,
+    960.44,
+    661.67
+   ],
+   "area_util": [
+    764.63,
+    578.33,
+    957.44,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quanto_5",
+   "rotulo": "QUANTO (how much) — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    575.33,
+    1059.84,
+    661.67
+   ],
+   "area_util": [
+    963.44,
+    578.33,
+    1056.84,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "status_5",
+   "rotulo": "STATUS — linha 5",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    575.33,
+    1159.25,
+    661.67
+   ],
+   "area_util": [
+    1062.84,
+    578.33,
+    1156.25,
+    658.67
+   ],
+   "opcional": true
+  },
+  {
+   "id": "oque_6",
+   "rotulo": "O QUÊ (what) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    65.79,
+    661.67,
+    284.48,
+    748.0
+   ],
+   "area_util": [
+    68.79,
+    664.67,
+    281.48,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "porque_6",
+   "rotulo": "POR QUÊ (why) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    284.48,
+    661.67,
+    443.53,
+    748.0
+   ],
+   "area_util": [
+    287.48,
+    664.67,
+    440.53,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quem_6",
+   "rotulo": "QUEM (who) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    443.53,
+    661.67,
+    552.88,
+    748.0
+   ],
+   "area_util": [
+    446.53,
+    664.67,
+    549.88,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quando_6",
+   "rotulo": "QUANDO (when) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    552.88,
+    661.67,
+    642.34,
+    748.0
+   ],
+   "area_util": [
+    555.88,
+    664.67,
+    639.34,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "onde_6",
+   "rotulo": "ONDE (where) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    642.34,
+    661.67,
+    761.63,
+    748.0
+   ],
+   "area_util": [
+    645.34,
+    664.67,
+    758.63,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "como_6",
+   "rotulo": "COMO (how) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    761.63,
+    661.67,
+    960.44,
+    748.0
+   ],
+   "area_util": [
+    764.63,
+    664.67,
+    957.44,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "quanto_6",
+   "rotulo": "QUANTO (how much) — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    960.44,
+    661.67,
+    1059.84,
+    748.0
+   ],
+   "area_util": [
+    963.44,
+    664.67,
+    1056.84,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "status_6",
+   "rotulo": "STATUS — linha 6",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    1059.84,
+    661.67,
+    1159.25,
+    748.0
+   ],
+   "area_util": [
+    1062.84,
+    664.67,
+    1156.25,
+    745.0
+   ],
+   "opcional": true
+  },
+  {
+   "id": "acompanhamento",
+   "rotulo": "Acompanhamento",
+   "guia": "data · linha · o que mudou · prova",
+   "tipo": "texto-longo",
+   "caixa": [
+    19.0,
+    766.0,
+    1171.25,
+    826.0
+   ],
+   "area_util": [
+    29.0,
+    803.0,
+    1161.25,
+    818.0
+   ]
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700|Montserrat:wght@700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 5
+ },
+ "md": {
+  "template": "skills/ga2-5w2h/assets/modelos/template-5w2h-lab.md",
+  "ancoras": {
+   "ligado_a": {
+    "ancora": "ligado_a"
+   },
+   "causa_raiz": {
+    "ancora": "causa_raiz"
+   },
+   "responsavel": {
+    "ancora": "responsavel"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "acompanhamento": {
+    "ancora": "acompanhamento",
+    "formato_linha": "{Data} · {Linha} · {O que mudou} · {Prova}"
+   },
+   "oque_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "O quê"
+   },
+   "porque_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Por quê"
+   },
+   "quem_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Quem"
+   },
+   "quando_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Quando"
+   },
+   "onde_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Onde"
+   },
+   "como_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Como"
+   },
+   "quanto_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Quanto"
+   },
+   "status_1": {
+    "ancora": "plano",
+    "linha_tabela": 1,
+    "coluna": "Status"
+   },
+   "oque_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "O quê"
+   },
+   "porque_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Por quê"
+   },
+   "quem_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Quem"
+   },
+   "quando_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Quando"
+   },
+   "onde_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Onde"
+   },
+   "como_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Como"
+   },
+   "quanto_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Quanto"
+   },
+   "status_2": {
+    "ancora": "plano",
+    "linha_tabela": 2,
+    "coluna": "Status"
+   },
+   "oque_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "O quê"
+   },
+   "porque_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Por quê"
+   },
+   "quem_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Quem"
+   },
+   "quando_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Quando"
+   },
+   "onde_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Onde"
+   },
+   "como_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Como"
+   },
+   "quanto_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Quanto"
+   },
+   "status_3": {
+    "ancora": "plano",
+    "linha_tabela": 3,
+    "coluna": "Status"
+   },
+   "oque_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "O quê"
+   },
+   "porque_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Por quê"
+   },
+   "quem_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Quem"
+   },
+   "quando_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Quando"
+   },
+   "onde_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Onde"
+   },
+   "como_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Como"
+   },
+   "quanto_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Quanto"
+   },
+   "status_4": {
+    "ancora": "plano",
+    "linha_tabela": 4,
+    "coluna": "Status"
+   },
+   "oque_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "O quê"
+   },
+   "porque_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Por quê"
+   },
+   "quem_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Quem"
+   },
+   "quando_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Quando"
+   },
+   "onde_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Onde"
+   },
+   "como_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Como"
+   },
+   "quanto_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Quanto"
+   },
+   "status_5": {
+    "ancora": "plano",
+    "linha_tabela": 5,
+    "coluna": "Status"
+   },
+   "oque_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "O quê"
+   },
+   "porque_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Por quê"
+   },
+   "quem_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Quem"
+   },
+   "quando_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Quando"
+   },
+   "onde_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Onde"
+   },
+   "como_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Como"
+   },
+   "quanto_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Quanto"
+   },
+   "status_6": {
+    "ancora": "plano",
+    "linha_tabela": 6,
+    "coluna": "Status"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que ações, com dono e data, atacam a causa raiz?",
+  "capitulos": [
+   {
+    "titulo": "O plano",
+    "campos": [
+     "oque_1",
+     "porque_1",
+     "quem_1",
+     "quando_1",
+     "onde_1",
+     "como_1",
+     "quanto_1",
+     "status_1",
+     "oque_2",
+     "porque_2",
+     "quem_2",
+     "quando_2",
+     "onde_2",
+     "como_2",
+     "quanto_2",
+     "status_2",
+     "oque_3",
+     "porque_3",
+     "quem_3",
+     "quando_3",
+     "onde_3",
+     "como_3",
+     "quanto_3",
+     "status_3",
+     "oque_4",
+     "porque_4",
+     "quem_4",
+     "quando_4",
+     "onde_4",
+     "como_4",
+     "quanto_4",
+     "status_4",
+     "oque_5",
+     "porque_5",
+     "quem_5",
+     "quando_5",
+     "onde_5",
+     "como_5",
+     "quanto_5",
+     "status_5",
+     "oque_6",
+     "porque_6",
+     "quem_6",
+     "quando_6",
+     "onde_6",
+     "como_6",
+     "quanto_6",
+     "status_6"
+    ],
+    "forma": "tabela",
+    "colunas": [
+     "O quê",
+     "Por quê",
+     "Quem",
+     "Quando",
+     "Onde",
+     "Como",
+     "Quanto",
+     "Status"
+    ],
+    "por_linha": 8
+   },
+   {
+    "titulo": "Acompanhamento",
+    "campos": [
+     "acompanhamento"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

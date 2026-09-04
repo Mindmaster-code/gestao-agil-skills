@@ -47,3 +47,33 @@ afirmação do método.
 - Todo número tem fonte ou está marcado como estimativa ou ponto em aberto.
 - O próximo passo não fica escondido.
 - O Markdown e o HTML dizem a mesma coisa.
+
+## Canvas oficial e documento
+
+Quando o usuário pedir o canvas do curso ("gera o canvas", "no formato oficial", "igual ao PDF") ou o documento
+padrão, use os modelos de `assets/modelos/`:
+
+- `template-<id>.md` — o arquivo a preencher; as marcas `<!-- c:... -->` dizem onde está cada campo e não podem ser apagadas;
+- `canvas-<id>.html` — réplica do canvas oficial, em branco;
+- `documento.html` — a forma documento, em branco;
+- `CAMPOS.md` — nome e texto-guia de cada campo.
+
+Canvas desta habilidade:
+
+- `briefing-processo-kit-5-2` — Briefing de Processo (canvas do kit do curso) — padrão
+- `briefing-produto-kit-5-3` — Briefing de Produto / Serviço (canvas do kit do curso) — padrão
+- `briefing-projeto-kit-5-1` — Briefing de Projeto (canvas do kit do curso) — padrão
+- `briefing-processo-v6` — Canvas Editável — Briefing de Processo (canvas editável v6)
+- `briefing-produto-v6` — Canvas Editável — Briefing de Produto (canvas editável v6)
+- `briefing-projeto-v6` — Canvas Editável — Briefing de Projeto (canvas editável v6)
+
+Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
+
+```bash
+python3 construtor/construir.py briefing-processo-kit-5-2 --documento --md meu-caso.md --saida meu-caso.html
+python3 construtor/construir.py briefing-processo-kit-5-2 --canvas --md meu-caso.md --saida meu-caso-canvas.html
+```
+
+Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
+O `.md` é a fonte; o que não estiver nele não entra no canvas. Canvas marcado como acréscimo do laboratório
+não faz parte do curso.

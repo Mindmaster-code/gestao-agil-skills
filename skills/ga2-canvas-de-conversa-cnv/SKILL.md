@@ -52,3 +52,7 @@ afirmação do método.
 
 Não grave uma conversa privada por padrão. Entregue o texto no chat. Gere arquivo ou HTML
 somente quando o usuário pedir de forma explícita e confirmar que pode salvar esse conteúdo.
+
+## Canvas oficial
+
+O canvas de conversa preenchido é privado: não gere HTML dele. Existe só o modelo em branco `assets/modelos/canvas-cnv-v6.html`, para imprimir ou preencher à mão.

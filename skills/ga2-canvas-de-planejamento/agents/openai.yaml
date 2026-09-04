@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas de Planejamento — a folha do curso"
+  short_description: "Resume numa folha os nove blocos do planejamento: contexto, s..."
+  default_prompt: "Aplique Canvas de Planejamento — a folha do curso ao meu caso, em português simples."

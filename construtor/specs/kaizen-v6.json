@@ -1,0 +1,407 @@
+{
+ "id": "kaizen-v6",
+ "skill": "ga2-quadro-kaizen",
+ "titulo": "Canvas Editável — Quadro Kaizen do Ciclo",
+ "origem": {
+  "familia": "v6",
+  "arquivo": "Canvas Editavel - Quadro Kaizen do Ciclo.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 841.92,
+  "altura_pt": 594.96,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/kaizen-v6.svg"
+ },
+ "campos": [
+  {
+   "id": "caso",
+   "rotulo": "Caso / desafio",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    40.32,
+    125.04,
+    498.96,
+    182.64
+   ],
+   "area_util": [
+    60.94,
+    137.48,
+    477.64,
+    161.57
+   ],
+   "widget": "caso"
+  },
+  {
+   "id": "responsavel",
+   "rotulo": "Responsável",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    479.04,
+    125.04,
+    677.52,
+    182.64
+   ],
+   "area_util": [
+    500.31,
+    137.48,
+    656.22,
+    161.57
+   ],
+   "widget": "responsavel"
+  },
+  {
+   "id": "data",
+   "rotulo": "Data",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    658.32,
+    125.04,
+    819.36,
+    182.64
+   ],
+   "area_util": [
+    678.9,
+    137.48,
+    797.95,
+    161.57
+   ],
+   "widget": "data"
+  },
+  {
+   "id": "ciclo",
+   "rotulo": "Ciclo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    172.35,
+    250.58,
+    196.16
+   ],
+   "area_util": [
+    61.23,
+    172.35,
+    250.58,
+    196.16
+   ],
+   "widget": "ciclo"
+  },
+  {
+   "id": "onde_teste",
+   "rotulo": "Onde roda o teste",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    263.91,
+    172.35,
+    572.31,
+    196.16
+   ],
+   "area_util": [
+    263.91,
+    172.35,
+    572.31,
+    196.16
+   ],
+   "widget": "onde_teste"
+  },
+  {
+   "id": "origem",
+   "rotulo": "Origem do sinal",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    585.64,
+    172.35,
+    797.67,
+    196.16
+   ],
+   "area_util": [
+    585.64,
+    172.35,
+    797.67,
+    196.16
+   ],
+   "widget": "origem"
+  },
+  {
+   "id": "fato",
+   "rotulo": "Sinal (fato, sem culpado)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    257.39,
+    483.02,
+    306.71
+   ],
+   "area_util": [
+    61.23,
+    257.39,
+    483.02,
+    306.71
+   ],
+   "widget": "fato"
+  },
+  {
+   "id": "metrica",
+   "rotulo": "Métrica",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    496.35,
+    257.39,
+    651.69,
+    306.71
+   ],
+   "area_util": [
+    496.35,
+    257.39,
+    651.69,
+    306.71
+   ],
+   "widget": "metrica"
+  },
+  {
+   "id": "hoje",
+   "rotulo": "Número de hoje",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    665.01,
+    257.39,
+    723.97,
+    306.71
+   ],
+   "area_util": [
+    665.01,
+    257.39,
+    723.97,
+    306.71
+   ],
+   "widget": "hoje"
+  },
+  {
+   "id": "meta",
+   "rotulo": "Meta",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    737.29,
+    257.39,
+    797.67,
+    306.71
+   ],
+   "area_util": [
+    737.29,
+    257.39,
+    797.67,
+    306.71
+   ],
+   "widget": "meta"
+  },
+  {
+   "id": "acao",
+   "rotulo": "Uma aposta",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    367.94,
+    409.32,
+    422.93
+   ],
+   "area_util": [
+    61.23,
+    367.94,
+    409.32,
+    422.93
+   ],
+   "widget": "acao"
+  },
+  {
+   "id": "hipotese",
+   "rotulo": "Hipótese (o que esperamos)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    422.65,
+    367.94,
+    648.85,
+    422.93
+   ],
+   "area_util": [
+    422.65,
+    367.94,
+    648.85,
+    422.93
+   ],
+   "widget": "hipotese"
+  },
+  {
+   "id": "dono",
+   "rotulo": "Dono",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    662.17,
+    367.94,
+    723.97,
+    422.93
+   ],
+   "area_util": [
+    662.17,
+    367.94,
+    723.97,
+    422.93
+   ],
+   "widget": "dono"
+  },
+  {
+   "id": "prazo",
+   "rotulo": "Prazo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    737.29,
+    367.94,
+    797.67,
+    422.93
+   ],
+   "area_util": [
+    737.29,
+    367.94,
+    797.67,
+    422.93
+   ],
+   "widget": "prazo"
+  },
+  {
+   "id": "resultado",
+   "rotulo": "Resultado (o número voltou?)",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    61.23,
+    484.16,
+    352.63,
+    530.65
+   ],
+   "area_util": [
+    61.23,
+    484.16,
+    352.63,
+    530.65
+   ],
+   "widget": "resultado"
+  },
+  {
+   "id": "decisao",
+   "rotulo": "Decisão: manter / ajustar / descartar",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    365.95,
+    484.16,
+    572.31,
+    530.65
+   ],
+   "area_util": [
+    365.95,
+    484.16,
+    572.31,
+    530.65
+   ],
+   "widget": "decisao"
+  },
+  {
+   "id": "proximo",
+   "rotulo": "Próximo passo",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    585.64,
+    484.16,
+    797.67,
+    530.65
+   ],
+   "area_util": [
+    585.64,
+    484.16,
+    797.67,
+    530.65
+   ],
+   "widget": "proximo"
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Manrope",
+  "google_fonts": "Manrope:wght@500;700",
+  "cor": "#152A2B",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-quadro-kaizen/assets/modelos/template-kaizen-v6.md",
+  "ancoras": {
+   "caso": {
+    "ancora": "caso"
+   },
+   "responsavel": {
+    "ancora": "responsavel"
+   },
+   "data": {
+    "ancora": "data"
+   },
+   "dono": {
+    "ancora": "dono"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Que sinal real levou a uma aposta, e o que o número disse no fim?",
+  "capitulos": [
+   {
+    "titulo": "O sinal",
+    "campos": [
+     "fato",
+     "metrica",
+     "hoje",
+     "meta",
+     "origem",
+     "ciclo"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "A aposta",
+    "campos": [
+     "acao",
+     "hipotese",
+     "dono",
+     "prazo",
+     "onde_teste"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "O resultado",
+    "campos": [
+     "resultado",
+     "decisao",
+     "proximo"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

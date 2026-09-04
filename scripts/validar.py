@@ -37,8 +37,8 @@ def fail(message: str) -> None:
 
 
 directories = sorted(path for path in SKILLS.glob("ga2-*") if path.is_dir())
-if len(directories) != 30:
-    fail(f"esperadas 30 skills; encontradas {len(directories)}")
+if len(directories) != 31:
+    fail(f"esperadas 31 skills; encontradas {len(directories)}")
 
 for directory in directories:
     required = (
@@ -99,15 +99,26 @@ if documented != expected:
     fail("o mapa das trilhas não cobre exatamente as 30 habilidades")
 
 for path in ROOT.rglob("*"):
-    if not path.is_file() or ".git" in path.parts or path.name == "validar.py":
+    if not path.is_file() or ".git" in path.parts or path.name in {"validar.py", "montar_construtor.py"}:
         continue
-    if path.suffix.lower() not in {".md", ".html", ".yaml", ".yml", ".txt"}:
+    if path.suffix.lower() not in {".md", ".html", ".yaml", ".yml", ".txt", ".json", ".py"}:
         continue
     content = path.read_text(encoding="utf-8", errors="replace")
     for marker in FORBIDDEN:
         if marker in content:
             fail(f"referência interna {marker!r} em {path.relative_to(ROOT)}")
-    if "TODO" in content or "[TODO" in content:
+    if re.search(r"(?<![A-Za-zÀ-ÿ])TODO(?![A-Za-zÀ-ÿ])", content) or "[TODO" in content:
         fail(f"marcador pendente em {path.relative_to(ROOT)}")
 
-print("OK: plug-in, 30 habilidades, seis trilhas e dez testes válidos.")
+construtor = ROOT / "construtor"
+for path in (construtor / "construir.py", construtor / "oficiais" / "manifesto.json", construtor / "template-artefato.html"):
+    if not path.is_file():
+        fail(f"construtor incompleto: falta {path.relative_to(ROOT)}")
+manifesto = json.loads((construtor / "oficiais" / "manifesto.json").read_text(encoding="utf-8"))
+for item in manifesto["oficiais"]:
+    for path in (SKILLS / item["skill"] / "assets" / "modelos" / f"canvas-{item['id']}.html",
+                 SKILLS / item["skill"] / "assets" / "modelos" / f"template-{item['id']}.md"):
+        if not path.is_file():
+            fail(f"modelo ausente: {path.relative_to(ROOT)}")
+
+print(f"OK: plug-in, 31 habilidades, {len(manifesto['oficiais'])} canvas com modelo e template, seis trilhas e dez testes válidos.")

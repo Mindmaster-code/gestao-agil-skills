@@ -1,0 +1,595 @@
+{
+ "id": "okr-kit-02",
+ "skill": "ga2-okr-canvas",
+ "titulo": "OKR Canvas | Objetivos e Resultados-Chaves",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas OKR.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/okr-kit-02.svg"
+ },
+ "campos": [
+  {
+   "id": "objetivo_1",
+   "rotulo": "Objetivo #1",
+   "guia": "Objetivo abrangente, que inspira. Representa \"um grande porquê\" Desafiador, mas alcançável. Alinhado com a visão da empresa. Linguagem clara e motivadora.",
+   "tipo": "texto-longo",
+   "caixa": [
+    18.67,
+    75.23,
+    398.42,
+    184.47
+   ],
+   "area_util": [
+    118.67,
+    111.25,
+    390.42,
+    179.47
+   ],
+   "tamanho_pt": 10.5
+  },
+  {
+   "id": "objetivo_2",
+   "rotulo": "Objetivo #2",
+   "guia": "Objetivo abrangente, que inspira. Representa \"um grande porquê\" Desafiador, mas alcançável. Alinhado com a visão da empresa. Linguagem clara e motivadora.",
+   "tipo": "texto-longo",
+   "caixa": [
+    407.24,
+    75.23,
+    786.98,
+    184.47
+   ],
+   "area_util": [
+    507.24,
+    105.25,
+    778.98,
+    179.47
+   ],
+   "tamanho_pt": 10.5,
+   "opcional": true
+  },
+  {
+   "id": "objetivo_3",
+   "rotulo": "Objetivo #3",
+   "guia": "Objetivo abrangente, que inspira. Representa \"um grande porquê\" Desafiador, mas alcançável. Alinhado com a visão da empresa. Linguagem clara e motivadora.",
+   "tipo": "texto-longo",
+   "caixa": [
+    795.8,
+    75.23,
+    1175.55,
+    184.47
+   ],
+   "area_util": [
+    895.8,
+    106.56,
+    1167.55,
+    179.47
+   ],
+   "tamanho_pt": 10.5,
+   "opcional": true
+  },
+  {
+   "id": "kr_1_1",
+   "rotulo": "KR #1 (Objetivo #1)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    18.67,
+    193.3,
+    398.31,
+    343.74
+   ],
+   "area_util": [
+    36.76,
+    303.72,
+    110.76,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5
+  },
+  {
+   "id": "kr_1_2",
+   "rotulo": "KR #2 (Objetivo #1)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    18.67,
+    193.3,
+    398.31,
+    343.74
+   ],
+   "area_util": [
+    112.84,
+    303.53,
+    186.84,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5
+  },
+  {
+   "id": "kr_1_3",
+   "rotulo": "KR #3 (Objetivo #1)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    18.67,
+    193.3,
+    398.31,
+    343.74
+   ],
+   "area_util": [
+    188.92,
+    303.35,
+    262.92,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5
+  },
+  {
+   "id": "kr_1_4",
+   "rotulo": "KR #4 (Objetivo #1)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    18.67,
+    193.3,
+    398.31,
+    343.74
+   ],
+   "area_util": [
+    264.74,
+    303.35,
+    338.74,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5
+  },
+  {
+   "id": "kr_1_5",
+   "rotulo": "KR #5 (Objetivo #1)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    18.67,
+    193.3,
+    398.31,
+    343.74
+   ],
+   "area_util": [
+    340.56,
+    303.35,
+    395.31,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5
+  },
+  {
+   "id": "kr_2_1",
+   "rotulo": "KR #1 (Objetivo #2)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    407.24,
+    193.3,
+    786.87,
+    343.74
+   ],
+   "area_util": [
+    425.33,
+    303.72,
+    499.33,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_2_2",
+   "rotulo": "KR #2 (Objetivo #2)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    407.24,
+    193.3,
+    786.87,
+    343.74
+   ],
+   "area_util": [
+    501.41,
+    303.53,
+    575.41,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_2_3",
+   "rotulo": "KR #3 (Objetivo #2)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    407.24,
+    193.3,
+    786.87,
+    343.74
+   ],
+   "area_util": [
+    577.48,
+    303.35,
+    651.48,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_2_4",
+   "rotulo": "KR #4 (Objetivo #2)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    407.24,
+    193.3,
+    786.87,
+    343.74
+   ],
+   "area_util": [
+    653.3,
+    303.35,
+    727.3,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_2_5",
+   "rotulo": "KR #5 (Objetivo #2)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    407.24,
+    193.3,
+    786.87,
+    343.74
+   ],
+   "area_util": [
+    729.12,
+    303.35,
+    783.87,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_3_1",
+   "rotulo": "KR #1 (Objetivo #3)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    795.8,
+    193.3,
+    1175.44,
+    343.74
+   ],
+   "area_util": [
+    813.9,
+    303.72,
+    887.9,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_3_2",
+   "rotulo": "KR #2 (Objetivo #3)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    795.8,
+    193.3,
+    1175.44,
+    343.74
+   ],
+   "area_util": [
+    889.97,
+    303.53,
+    963.97,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_3_3",
+   "rotulo": "KR #3 (Objetivo #3)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    795.8,
+    193.3,
+    1175.44,
+    343.74
+   ],
+   "area_util": [
+    966.05,
+    303.35,
+    1040.05,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_3_4",
+   "rotulo": "KR #4 (Objetivo #3)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    795.8,
+    193.3,
+    1175.44,
+    343.74
+   ],
+   "area_util": [
+    1041.87,
+    303.35,
+    1115.87,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "kr_3_5",
+   "rotulo": "KR #5 (Objetivo #3)",
+   "guia": "Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5.",
+   "tipo": "texto-curto",
+   "caixa": [
+    795.8,
+    193.3,
+    1175.44,
+    343.74
+   ],
+   "area_util": [
+    1117.69,
+    303.35,
+    1172.44,
+    339.74
+   ],
+   "tamanho_pt": 7.5,
+   "minimo_pt": 5,
+   "opcional": true
+  },
+  {
+   "id": "iniciativas_1",
+   "rotulo": "Iniciativas (Objetivo #1)",
+   "guia": "Ações, Projetos ou Esforços Específicos que serão executados para atingir os resultados-chave",
+   "tipo": "texto-longo",
+   "caixa": [
+    18.67,
+    353.33,
+    398.47,
+    823.63
+   ],
+   "area_util": [
+    26.67,
+    521.48,
+    390.47,
+    815.63
+   ],
+   "tamanho_pt": 9.5,
+   "apresentacao": "postit",
+   "postit_largura_pt": 108
+  },
+  {
+   "id": "iniciativas_2",
+   "rotulo": "Iniciativas (Objetivo #2)",
+   "guia": "Ações, Projetos ou Esforços Específicos que serão executados para atingir os resultados-chave",
+   "tipo": "texto-longo",
+   "caixa": [
+    407.24,
+    353.33,
+    787.04,
+    823.63
+   ],
+   "area_util": [
+    415.24,
+    521.48,
+    779.04,
+    815.63
+   ],
+   "tamanho_pt": 9.5,
+   "apresentacao": "postit",
+   "postit_largura_pt": 108,
+   "opcional": true
+  },
+  {
+   "id": "iniciativas_3",
+   "rotulo": "Iniciativas (Objetivo #3)",
+   "guia": "Ações, Projetos ou Esforços Específicos que serão executados para atingir os resultados-chave",
+   "tipo": "texto-longo",
+   "caixa": [
+    795.8,
+    353.33,
+    1175.61,
+    823.63
+   ],
+   "area_util": [
+    803.8,
+    521.48,
+    1167.61,
+    815.63
+   ],
+   "tamanho_pt": 9.5,
+   "apresentacao": "postit",
+   "postit_largura_pt": 108,
+   "opcional": true
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 10,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-okr-canvas/assets/modelos/template-okr-kit-02.md",
+  "ancoras": {
+   "objetivo_1": {
+    "ancora": "objetivo_1"
+   },
+   "kr_1_1": {
+    "ancora": "kr_1",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_1_2": {
+    "ancora": "kr_2",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_1_3": {
+    "ancora": "kr_3",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_1_4": {
+    "ancora": "kr_4",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_1_5": {
+    "ancora": "kr_5",
+    "formato": "{Resultado-chave}"
+   },
+   "iniciativas_1": {
+    "ancora": "iniciativas",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}"
+   },
+   "objetivo_2": {
+    "ancora": "objetivo_2"
+   },
+   "kr_2_1": {
+    "ancora": "kr_2_1",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_2_2": {
+    "ancora": "kr_2_2",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_2_3": {
+    "ancora": "kr_2_3",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_2_4": {
+    "ancora": "kr_2_4",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_2_5": {
+    "ancora": "kr_2_5",
+    "formato": "{Resultado-chave}"
+   },
+   "iniciativas_2": {
+    "ancora": "iniciativas_2",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}"
+   },
+   "objetivo_3": {
+    "ancora": "objetivo_3"
+   },
+   "kr_3_1": {
+    "ancora": "kr_3_1",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_3_2": {
+    "ancora": "kr_3_2",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_3_3": {
+    "ancora": "kr_3_3",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_3_4": {
+    "ancora": "kr_3_4",
+    "formato": "{Resultado-chave}"
+   },
+   "kr_3_5": {
+    "ancora": "kr_3_5",
+    "formato": "{Resultado-chave}"
+   },
+   "iniciativas_3": {
+    "ancora": "iniciativas_3",
+    "formato_linha": "{KR} · {Iniciativa} — {Dono}"
+   }
+  },
+  "nota": "template.md descreve um objetivo; Objetivo #2 e #3 só entram se o .md trouxer âncoras objetivo_2/kr_2_n/iniciativas_2 (e _3)."
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "Aonde queremos chegar neste período e que número prova que chegamos?",
+  "capitulos": [
+   {
+    "titulo": "Aonde queremos chegar",
+    "campos": [
+     "objetivo_1",
+     "objetivo_2",
+     "objetivo_3"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Que número prova que chegamos",
+    "campos": [
+     "kr_1_1",
+     "kr_1_2",
+     "kr_1_3",
+     "kr_1_4",
+     "kr_1_5",
+     "kr_2_1",
+     "kr_2_2",
+     "kr_2_3",
+     "kr_2_4",
+     "kr_2_5",
+     "kr_3_1",
+     "kr_3_2",
+     "kr_3_3",
+     "kr_3_4",
+     "kr_3_5"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "O que vamos iniciar",
+    "campos": [
+     "iniciativas_1",
+     "iniciativas_2",
+     "iniciativas_3"
+    ],
+    "forma": "prosa"
+   }
+  ]
+ }
+}

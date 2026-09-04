@@ -1,0 +1,395 @@
+{
+ "id": "briefing-projeto-kit-5-1",
+ "skill": "ga2-briefing-iniciativa",
+ "titulo": "Briefing de Projeto",
+ "origem": {
+  "familia": "kit",
+  "arquivo": "Canvas Briefing de Projeto.pdf",
+  "pagina": 1,
+  "numero": ""
+ },
+ "pagina": {
+  "largura_pt": 1190.25,
+  "altura_pt": 842.25,
+  "orientacao": "paisagem",
+  "paginas_no_pdf": 1
+ },
+ "estatico": {
+  "svg": "estatico/briefing-projeto-kit-5-1.svg"
+ },
+ "campos": [
+  {
+   "id": "nome_do_projeto",
+   "rotulo": "Nome do Projeto",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    555,
+    27,
+    890,
+    50
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "lider",
+   "rotulo": "Líder",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    19,
+    1165,
+    58
+   ],
+   "area_util": [
+    962,
+    27,
+    1160,
+    50
+   ],
+   "tamanho_pt": 12
+  },
+  {
+   "id": "objetivo",
+   "rotulo": "Objetivo",
+   "guia": "O que se pretende alcançar com o projeto? Qual OKR ele está vinculado?",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    80,
+    401,
+    280
+   ],
+   "area_util": [
+    35,
+    140,
+    392,
+    256
+   ]
+  },
+  {
+   "id": "beneficios",
+   "rotulo": "Benefício: ganhos ou impactos positivos",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    409,
+    80,
+    789,
+    280
+   ],
+   "area_util": [
+    430,
+    222,
+    542,
+    272
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "metrica_sucesso",
+   "rotulo": "Como vamos medir seu sucesso?",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    409,
+    80,
+    789,
+    280
+   ],
+   "area_util": [
+    556,
+    222,
+    668,
+    272
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "metrica_progresso",
+   "rotulo": "Como vamos medir seu progresso?",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    409,
+    80,
+    789,
+    280
+   ],
+   "area_util": [
+    678,
+    222,
+    780,
+    272
+   ],
+   "tamanho_pt": 8
+  },
+  {
+   "id": "recursos_necessarios",
+   "rotulo": "Recursos necessários",
+   "guia": "Financeiros, humanos, tecnológicos e materiais: custo e orçamento, pessoas e habilidades, ferramentas.",
+   "tipo": "texto-longo",
+   "caixa": [
+    797,
+    80,
+    1165,
+    280
+   ],
+   "area_util": [
+    808,
+    182,
+    1156,
+    272
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 105
+  },
+  {
+   "id": "o_que_sera_feito",
+   "rotulo": "O que será feito",
+   "guia": "As principais atividades e entregas. O que está incluído e o que não está.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    288,
+    600,
+    527
+   ],
+   "area_util": [
+    35,
+    438,
+    590,
+    519
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 125
+  },
+  {
+   "id": "equipe",
+   "rotulo": "Principais envolvidos: equipe",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    608,
+    288,
+    1164,
+    527
+   ],
+   "area_util": [
+    618,
+    450,
+    880,
+    518
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "parceiros",
+   "rotulo": "Principais envolvidos: parceiros",
+   "guia": "",
+   "tipo": "texto-longo",
+   "caixa": [
+    608,
+    288,
+    1164,
+    527
+   ],
+   "area_util": [
+    890,
+    450,
+    1156,
+    518
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  },
+  {
+   "id": "data_inicio",
+   "rotulo": "Data de início",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    535,
+    810,
+    774
+   ],
+   "area_util": [
+    50,
+    745,
+    135,
+    766
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "data_fim",
+   "rotulo": "Data de fim",
+   "guia": "",
+   "tipo": "texto-curto",
+   "caixa": [
+    23,
+    535,
+    810,
+    774
+   ],
+   "area_util": [
+    696,
+    745,
+    781,
+    766
+   ],
+   "tamanho_pt": 10,
+   "alinhamento": "center"
+  },
+  {
+   "id": "marcos",
+   "rotulo": "Linha do tempo: datas principais",
+   "guia": "Marcos entre o início e o fim.",
+   "tipo": "texto-longo",
+   "caixa": [
+    23,
+    535,
+    810,
+    774
+   ],
+   "area_util": [
+    140,
+    590,
+    700,
+    668
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 150
+  },
+  {
+   "id": "riscos_potenciais",
+   "rotulo": "Riscos potenciais",
+   "guia": "Principais ameaças que precisam ser monitoradas ou mitigadas. O que pode dar errado?",
+   "tipo": "texto-longo",
+   "caixa": [
+    818,
+    535,
+    1164,
+    774
+   ],
+   "area_util": [
+    828,
+    625,
+    1156,
+    766
+   ],
+   "apresentacao": "postit",
+   "postit_largura_pt": 100
+  }
+ ],
+ "preenchimento": {
+  "fonte": "Roboto",
+  "google_fonts": "Roboto:wght@400;700",
+  "cor": "#1A1A1A",
+  "tamanho_pt": 9.5,
+  "minimo_pt": 6
+ },
+ "md": {
+  "template": "skills/ga2-briefing-iniciativa/assets/modelos/template-briefing-projeto-kit-5-1.md",
+  "ancoras": {
+   "nome_do_projeto": {
+    "ancora": "caso"
+   },
+   "lider": {
+    "ancora": "dono"
+   },
+   "o_que_sera_feito": {
+    "ancora": "entregas"
+   },
+   "metrica_sucesso": {
+    "ancora": "criterio_pronto"
+   },
+   "riscos_potenciais": {
+    "ancora": "riscos"
+   },
+   "marcos": {
+    "ancora": "linha_do_tempo"
+   },
+   "recursos_necessarios": {
+    "ancora": "recursos"
+   },
+   "beneficios": {
+    "ancora": "contexto"
+   },
+   "metrica_progresso": {
+    "ancora": "metrica_evolucao"
+   },
+   "equipe": {
+    "ancora": "equipe"
+   },
+   "parceiros": {
+    "ancora": "interessados"
+   },
+   "data_inicio": {
+    "ancora": "data"
+   },
+   "data_fim": {
+    "ancora": "data_fim"
+   }
+  }
+ },
+ "leitura": {
+  "sem_documento": false,
+  "pergunta_padrao": "O que este projeto entrega, para quem, com que recursos e até quando?",
+  "capitulos": [
+   {
+    "titulo": "O que será feito",
+    "campos": [
+     "objetivo",
+     "o_que_sera_feito"
+    ],
+    "forma": "prosa"
+   },
+   {
+    "titulo": "Por que faremos",
+    "campos": [
+     "beneficios",
+     "metrica_sucesso",
+     "metrica_progresso"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Quem faz o quê",
+    "campos": [
+     "lider",
+     "equipe",
+     "parceiros"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Como será feito",
+    "campos": [
+     "recursos_necessarios"
+    ],
+    "forma": "lista"
+   },
+   {
+    "titulo": "Quando e quanto custa",
+    "campos": [
+     "data_inicio",
+     "marcos",
+     "data_fim",
+     "riscos_potenciais"
+    ],
+    "forma": "lista"
+   }
+  ]
+ }
+}
