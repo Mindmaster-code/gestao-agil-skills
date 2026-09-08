@@ -242,15 +242,9 @@ COMMON_BODY = """# {title}
 
 ## Entrega
 
-Quando o pedido criar um artefato, gere uma fonte Markdown e um HTML com o mesmo nome.
-Use `assets/template-artefato.html` como ponto de partida para o HTML.
-
-Use o recurso visual do ambiente quando ele estiver disponível: Artifact no Claude,
-artefato ou visualização no Codex/GPT, prévia no Cursor e o equivalente em outro ambiente.
-O ambiente prevalece sobre o nome do modelo.
-
-Sem recurso visual nativo, salve o HTML e apresente um resumo visual curto no terminal ou
-no chat. Informe o caminho do arquivo. O HTML precisa funcionar sem rede e no celular.
+{delivery}
+Quando HTML for a entrega escolhida, use `assets/template-artefato.html`.
+Apresente o visual no recurso nativo disponível; sem ele, forneça o arquivo HTML autônomo.
 
 Consulte `references/gestao-visual.md` apenas quando precisar escolher ou montar o visual.
 Consulte `references/fontes.md` apenas quando precisar conferir a origem ou a força de uma
@@ -262,7 +256,7 @@ afirmação do método.
 - Uma pessoa sem conhecimento prévio entende os rótulos.
 - Todo número tem fonte ou está marcado como estimativa ou ponto em aberto.
 - O próximo passo não fica escondido.
-- O Markdown e o HTML dizem a mesma coisa.
+- O arquivo ou documento foi reaberto e conferido; suas exportações refletem a fonte atual.
 """
 
 
@@ -270,7 +264,7 @@ ME_MOSTRA_BODY = """# Me Mostra — Gestão Visual GA 2.0
 
 ## Regra principal
 
-Quando houver um caso de gestão identificável, sempre termine com um artefato HTML. Leia
+Quando houver um caso de gestão identificável, gere HTML por padrão e respeite outro formato solicitado. Leia
 `references/metodo.md` por inteiro antes de criar o visual. Mostre o menor visual que permita
 entender o caso e decidir.
 
@@ -307,10 +301,10 @@ Faça somente uma pergunta curta para o usuário indicar qual situação de gest
 3. Escolha a pergunta que libera a próxima decisão.
 4. Separe o que é medido, estimado e ainda está em aberto.
 5. Escolha um visual principal: fluxo, quadro, antes e depois, causa, matriz ou linha do tempo.
-6. Gere o HTML com pergunta, leitura direta, visual, prova e consequência.
+6. Gere a entrega escolhida com pergunta, leitura direta, visual, prova e consequência.
 7. Feche com o que ficou claro, o que segue em aberto e o próximo passo.
 
-Use `assets/template-artefato.html` como ponto de partida. O HTML deve funcionar sem rede,
+Para HTML, use `assets/template-artefato.html` como ponto de partida. Ele deve funcionar sem rede,
 biblioteca externa ou imagem remota.
 
 ## Entrega por ambiente
@@ -320,10 +314,10 @@ biblioteca externa ou imagem remota.
 - No Cursor, use sua prévia ou visualização disponível.
 - Em outro ambiente, use o recurso equivalente.
 - Não escolha pela marca do modelo. Verifique o que o ambiente oferece.
-- Sem recurso nativo, salve `.md` e `.html`, mostre um resumo visual no terminal ou no chat e
-  informe o caminho do HTML.
+- Quando a saída escolhida for HTML e não houver recurso nativo, salve `.html` e mostre um resumo.
+  Markdown acompanha somente quando necessário ao fluxo. Informe o caminho do HTML.
 
-Nunca entregue apenas Markdown, Mermaid, imagem ou diagrama de terminal. O HTML é obrigatório.
+Para entrega visual sem outro formato pedido, gere HTML. Para Word, Docs ou planilhas solicitados, siga a entrega editável.
 
 ## Critério de pronto
 
@@ -332,15 +326,16 @@ Nunca entregue apenas Markdown, Mermaid, imagem ou diagrama de terminal. O HTML 
 - Fato, estimativa e ponto em aberto não se misturam.
 - Título e rótulos não contêm sigla ou jargão sem explicação.
 - O objeto é o caso de gestão ativo, nunca o nome do plug-in por padrão.
-- A entrega gerou HTML e usou a melhor forma disponível no ambiente.
+- A entrega usou o formato solicitado; sem escolha explícita, gerou HTML.
 """
 
 
 CNV_NOTE = """
 ## Privacidade
 
+Esta exceção prevalece sobre o padrão de documento da seção Entrega.
 Não grave uma conversa privada por padrão. Entregue o texto no chat. Gere arquivo ou HTML
-somente quando o usuário pedir de forma explícita e confirmar que pode salvar esse conteúdo.
+somente quando o usuário pedir para salvar. O pedido já autoriza a gravação no destino indicado; não amplie o compartilhamento.
 """
 
 
@@ -357,7 +352,7 @@ def secao_construtor(name: str, construtor: Path | None) -> str:
         return ""
     itens.sort(key=lambda i: (not i.get("padrao"), i["id"]))
     if name == "ga2-canvas-de-conversa-cnv":
-        return ("\n## Canvas oficial\n\nO canvas de conversa preenchido é privado: não gere HTML dele. Existe só o modelo em branco "
+        return ("\n## Canvas oficial\n\nO canvas preenchido fica no chat por padrão; salve no formato pedido quando solicitado. Existe o modelo em branco "
                 f"`assets/modelos/canvas-{itens[0]['id']}.html`, para imprimir ou preencher à mão.\n")
     tem_doc = False
     linhas = []
@@ -370,7 +365,7 @@ def secao_construtor(name: str, construtor: Path | None) -> str:
     padrao = itens[0]["id"]
     partes = ["", "## Canvas oficial e documento", "",
               "Quando o usuário pedir o canvas do curso (\"gera o canvas\", \"no formato oficial\", \"igual ao PDF\") ou o documento",
-              "padrão, use os modelos de `assets/modelos/`:", "",
+              "HTML, use os modelos de `assets/modelos/`:", "",
               "- `template-<id>.md` — o arquivo a preencher; as marcas `<!-- c:... -->` dizem onde está cada campo e não podem ser apagadas;",
               "- `canvas-<id>.html` — réplica do canvas oficial, em branco;",
               *(["- `documento.html` — a forma documento, em branco;"] if tem_doc else []),
@@ -382,13 +377,36 @@ def secao_construtor(name: str, construtor: Path | None) -> str:
               f"python3 construtor/construir.py {padrao} --canvas --md meu-caso.md --saida meu-caso-canvas.html",
               "```", "",
               "Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.",
-              "O `.md` é a fonte; o que não estiver nele não entra no canvas. Canvas marcado como acréscimo do laboratório",
+              "No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório",
               "não faz parte do curso.", ""]
     return "\n".join(partes)
 
 
+
+SHEET_SKILLS = {'ga2-delegacao', 'ga2-quadro-kaizen', 'ga2-plano-do-ciclo', 'ga2-backlog-2d', 'ga2-matriz-esforco-impacto', 'ga2-5w2h', 'ga2-okr-canvas', 'ga2-quem-faz-o-que'}
+VISUAL_SKILLS = {'ga2-painel-do-gestor', 'ga2-canvas-de-planejamento', 'ga2-kanban-canvas', 'ga2-me-mostra'}
+
+
+def entrega_editavel(name: str) -> str:
+    if name in SHEET_SKILLS:
+        formato = "planilha `.xlsx`; Google Sheets quando esse for o destino escolhido"
+    elif name in VISUAL_SKILLS:
+        formato = "visual HTML; Word `.docx`, Google Docs, Excel `.xlsx` ou Google Sheets quando solicitados"
+    else:
+        formato = "documento Word `.docx`; Google Docs quando esse for o destino escolhido"
+    return (
+        "Leia `references/entrega-editavel.md` ao criar ou revisar um artefato.\n"
+        f"Padrão desta skill, sem formato definido: {formato}.\n"
+        "O formato pedido e o documento existente orientam a entrega. Referências de HTML aplicam-se somente à saída visual. Use ferramentas de arquivos ou integração disponível.\n"
+        "Nas revisões, leia e atualize o mesmo documento, preservando edições humanas, IDs e evidências.\n"
+        "Markdown serve ao versionamento quando necessário; HTML sai para visualização ou quando pedido, sem cópias obrigatórias.\n"
+    )
+
+
 def skill_markdown(name: str, skill: Skill, construtor: Path | None = None) -> str:
-    body = ME_MOSTRA_BODY if name == "ga2-me-mostra" else COMMON_BODY.format(title=skill.title)
+    body = ME_MOSTRA_BODY if name == "ga2-me-mostra" else COMMON_BODY.format(title=skill.title, delivery=entrega_editavel(name))
+    if name == "ga2-me-mostra":
+        body += "\n## Entrega editável\n\n" + entrega_editavel(name)
     if name == "ga2-canvas-de-conversa-cnv":
         body += CNV_NOTE
     body += secao_construtor(name, construtor)
@@ -421,6 +439,68 @@ def openai_yaml(name: str, skill: Skill) -> str:
     )
 
 
+
+def referencia_visual(text: str) -> str:
+    """Adapta a referência visual ao contrato de formatos do pacote."""
+    replacements = {'Quando ambos se aplicarem, construa primeiro o artefato e depois apresente o mesmo conteúdo em\nHTML.': 'Quando '
+                                                                                                              'ambos '
+                                                                                                              'se '
+                                                                                                              'aplicarem, '
+                                                                                                              'construa '
+                                                                                                              'primeiro '
+                                                                                                              'o '
+                                                                                                              'artefato '
+                                                                                                              'e '
+                                                                                                              'apresente '
+                                                                                                              'o '
+                                                                                                              'mesmo '
+                                                                                                              'conteúdo '
+                                                                                                              'no '
+                                                                                                              'formato '
+                                                                                                              'escolhido.\n'
+                                                                                                              'HTML '
+                                                                                                              'é '
+                                                                                                              'o '
+                                                                                                              'padrão '
+                                                                                                              'visual '
+                                                                                                              'quando '
+                                                                                                              'não '
+                                                                                                              'houver '
+                                                                                                              'outro '
+                                                                                                              'formato '
+                                                                                                              'solicitado.',
+     '8. Gere um HTML com pergunta, leitura, visual, prova e consequência.': '8. Gere o formato '
+                                                                             'escolhido com pergunta, '
+                                                                             'leitura, visual, prova e '
+                                                                             'consequência.',
+     'Toda execução visual gera HTML. Use a melhor superfície realmente disponível:': 'Quando HTML for '
+                                                                                      'o formato '
+                                                                                      'escolhido, use '
+                                                                                      'a melhor '
+                                                                                      'superfície '
+                                                                                      'realmente '
+                                                                                      'disponível:',
+     '3. arquivo `.html` autocontido e fonte `.md` equivalente.': '3. arquivo `.html` autocontido; '
+                                                                  'fonte `.md` somente quando '
+                                                                  'necessária ao fluxo.',
+     '- O fallback entrega HTML, Markdown equivalente e resumo curto no chat.': '- A alternativa de '
+                                                                                'HTML entrega arquivo '
+                                                                                'autônomo e resumo; '
+                                                                                'outros formatos '
+                                                                                'seguem '
+                                                                                '`entrega-editavel.md`.',
+     'fato → sentimento → necessidade → pedido; sem HTML': 'fato → sentimento → necessidade → pedido; '
+                                                           'chat por padrão',
+     '- A conversa CNV mantém sua exceção de privacidade e não gera HTML.': '- A conversa CNV fica no '
+                                                                            'chat por padrão; salve '
+                                                                            'apenas quando solicitado, '
+                                                                            'sem ampliar o '
+                                                                            'compartilhamento.'}
+    for before, after in replacements.items():
+        text = text.replace(before, after)
+    return text
+
+
 def combine_sources(source_root: Path, relative_sources: tuple[str, ...]) -> str:
     chunks: list[str] = []
     for relative in relative_sources:
@@ -443,12 +523,13 @@ def build(source_root: Path, output_root: Path, construtor: Path | None = None) 
         assets.mkdir(parents=True, exist_ok=True)
         agents.mkdir(parents=True, exist_ok=True)
 
+        shutil.copyfile(Path(__file__).resolve().parents[1] / "docs/SAIDA-EDITAVEL.md", references / "entrega-editavel.md")
         (directory / "SKILL.md").write_text(skill_markdown(name, skill, construtor), encoding="utf-8")
         (references / "metodo.md").write_text(
-            combine_sources(source_root, skill.sources), encoding="utf-8"
+            referencia_visual(combine_sources(source_root, skill.sources)) if name == "ga2-me-mostra" else combine_sources(source_root, skill.sources), encoding="utf-8"
         )
         if name != "ga2-me-mostra":
-            shutil.copyfile(visual_source, references / "gestao-visual.md")
+            (references / "gestao-visual.md").write_text(referencia_visual(visual_source.read_text(encoding="utf-8")), encoding="utf-8")
 
         group = skill.sources[0].split("/", 1)[0]
         shutil.copyfile(

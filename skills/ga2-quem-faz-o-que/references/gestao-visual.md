@@ -6,8 +6,8 @@ Transformar uma situação de gestão no menor visual que permita entender o cas
 perguntar de novo. Esta referência cuida da leitura visual. O arquivo do artefato GA 2.0 cuida
 dos campos, critérios e regras do conteúdo.
 
-Quando ambos se aplicarem, construa primeiro o artefato e depois apresente o mesmo conteúdo em
-HTML. Não crie um segundo artefato paralelo. Use para processo, estado, mudança, problema,
+Quando ambos se aplicarem, construa primeiro o artefato e apresente o mesmo conteúdo no formato escolhido.
+HTML é o padrão visual quando não houver outro formato solicitado. Não crie um segundo artefato paralelo. Use para processo, estado, mudança, problema,
 prioridade, responsabilidade, dependência, cadência ou gate. Não use para ilustração artística,
 peça de marketing ou mockup de interface.
 
@@ -20,7 +20,7 @@ peça de marketing ou mockup de interface.
 5. Aplique o artefato GA 2.0 dono do conteúdo.
 6. Escolha uma primitiva visual principal.
 7. Preserve origem, destino e ponto de decisão; corte os ramos que não mudam a leitura.
-8. Gere um HTML com pergunta, leitura, visual, prova e consequência.
+8. Gere o formato escolhido com pergunta, leitura, visual, prova e consequência.
 9. Feche com o que o visual prova, o que segue em aberto e a próxima ação ou decisão.
 
 ## Roteamento para os artefatos
@@ -50,7 +50,7 @@ peça de marketing ou mockup de interface.
 | melhoria pequena | Quadro Kaizen | sinal → aposta → aprendizado → decisão |
 | hipótese e teste | Folha de Experimento | hipótese → protótipo → teste → critério |
 | números para decidir | Painel do Gestor | três a cinco números-âncora |
-| conversa difícil | Canvas CNV | fato → sentimento → necessidade → pedido; sem HTML |
+| conversa difícil | Canvas CNV | fato → sentimento → necessidade → pedido; chat por padrão |
 
 Se o pedido nomeia o artefato, use esse artefato. Se nomeia uma decisão, use o artefato que
 possui a decisão. Se só pede entendimento, use a fonte do estado. Sem artefato aplicável,
@@ -118,11 +118,11 @@ Primitiva: <tipo escolhido>
 
 ## Contrato do HTML
 
-Toda execução visual gera HTML. Use a melhor superfície realmente disponível:
+Quando HTML for o formato escolhido, use a melhor superfície realmente disponível:
 
 1. preview HTML interativo exposto pela sessão;
 2. Canvas ou visualização equivalente que aceite a fonte HTML;
-3. arquivo `.html` autocontido e fonte `.md` equivalente.
+3. arquivo `.html` autocontido; fonte `.md` somente quando necessária ao fluxo.
 
 Não presuma capacidade por plano, marca ou modelo. Não invente tag, tool call, link ou preview.
 Se o recurso nativo falhar sem correção objetiva, use o arquivo autocontido.
@@ -182,8 +182,8 @@ caso do usuário.
 - Não use fluxograma para esconder incerteza; mostre o aberto.
 - Não misture atual e desejado sem rótulo.
 - Não destaque tudo.
-- A conversa CNV mantém sua exceção de privacidade e não gera HTML.
+- A conversa CNV fica no chat por padrão; salve apenas quando solicitado, sem ampliar o compartilhamento.
 - O visual deve ser entendível em até 90 segundos.
 - Fato, estimativa e aberto permanecem distintos.
 - O fechamento nomeia consequência, decisão ou próximo passo.
-- O fallback entrega HTML, Markdown equivalente e resumo curto no chat.
+- A alternativa de HTML entrega arquivo autônomo e resumo; outros formatos seguem `entrega-editavel.md`.

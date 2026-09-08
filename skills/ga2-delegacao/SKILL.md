@@ -26,15 +26,14 @@ description: "Monta um quadro com assuntos, pessoas e sete níveis claros de dec
 
 ## Entrega
 
-Quando o pedido criar um artefato, gere uma fonte Markdown e um HTML com o mesmo nome.
-Use `assets/template-artefato.html` como ponto de partida para o HTML.
+Leia `references/entrega-editavel.md` ao criar ou revisar um artefato.
+Padrão desta skill, sem formato definido: planilha `.xlsx`; Google Sheets quando esse for o destino escolhido.
+O formato pedido e o documento existente orientam a entrega. Referências de HTML aplicam-se somente à saída visual. Use ferramentas de arquivos ou integração disponível.
+Nas revisões, leia e atualize o mesmo documento, preservando edições humanas, IDs e evidências.
+Markdown serve ao versionamento quando necessário; HTML sai para visualização ou quando pedido, sem cópias obrigatórias.
 
-Use o recurso visual do ambiente quando ele estiver disponível: Artifact no Claude,
-artefato ou visualização no Codex/GPT, prévia no Cursor e o equivalente em outro ambiente.
-O ambiente prevalece sobre o nome do modelo.
-
-Sem recurso visual nativo, salve o HTML e apresente um resumo visual curto no terminal ou
-no chat. Informe o caminho do arquivo. O HTML precisa funcionar sem rede e no celular.
+Quando HTML for a entrega escolhida, use `assets/template-artefato.html`.
+Apresente o visual no recurso nativo disponível; sem ele, forneça o arquivo HTML autônomo.
 
 Consulte `references/gestao-visual.md` apenas quando precisar escolher ou montar o visual.
 Consulte `references/fontes.md` apenas quando precisar conferir a origem ou a força de uma
@@ -46,12 +45,12 @@ afirmação do método.
 - Uma pessoa sem conhecimento prévio entende os rótulos.
 - Todo número tem fonte ou está marcado como estimativa ou ponto em aberto.
 - O próximo passo não fica escondido.
-- O Markdown e o HTML dizem a mesma coisa.
+- O arquivo ou documento foi reaberto e conferido; suas exportações refletem a fonte atual.
 
 ## Canvas oficial e documento
 
 Quando o usuário pedir o canvas do curso ("gera o canvas", "no formato oficial", "igual ao PDF") ou o documento
-padrão, use os modelos de `assets/modelos/`:
+HTML, use os modelos de `assets/modelos/`:
 
 - `template-<id>.md` — o arquivo a preencher; as marcas `<!-- c:... -->` dizem onde está cada campo e não podem ser apagadas;
 - `canvas-<id>.html` — réplica do canvas oficial, em branco;
@@ -71,5 +70,5 @@ python3 construtor/construir.py delegacao-kit-11 --canvas --md meu-caso.md --sai
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-O `.md` é a fonte; o que não estiver nele não entra no canvas. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
 não faz parte do curso.

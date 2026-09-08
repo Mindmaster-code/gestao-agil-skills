@@ -107,9 +107,18 @@ Organiza estas ações em um plano com dono e data.
 
 O ambiente decide qual skill usar. Você também pode citar o nome, como `$ga2-relatorio-a3`.
 
+## Documentos e planilhas editáveis
+
+As skills entregam Word `.docx` ou Google Docs para documentos, Excel `.xlsx` ou Google Sheets
+para planilhas e HTML para visuais. O formato pedido e o documento existente orientam a entrega.
+Nas revisões, atualizam o mesmo documento e preservam edições humanas e evidências.
+Google Docs e Sheets exigem integração com escrita; sem ela, a alternativa é um arquivo editável.
+O pacote contém as instruções do método; o ambiente precisa oferecer a criação de arquivos ou a integração.
+Não é necessário gerar Markdown e HTML junto de cada documento. Veja [o contrato de entrega](docs/SAIDA-EDITAVEL.md).
+
 ## Ambientes com artefato visual
 
-`ga2-me-mostra` sempre gera HTML.
+`ga2-me-mostra` gera HTML por padrão e respeita outro formato solicitado.
 
 - Claude usa Artifact quando esse recurso estiver disponível.
 - Codex e GPT usam o artefato ou a visualização disponível na sessão.
@@ -135,7 +144,7 @@ python3 construtor/construir.py okr-kit-02 --documento --md meu-okr.md --saida m
 python3 construtor/construir.py okr-kit-02 --canvas --md meu-okr.md --saida meu-okr-canvas.html
 ```
 
-O `.md` é a fonte; os dois HTML são gerados dele. A lista dos canvas e o modo de leitura estão em
+Nesse construtor HTML, o `.md` é a entrada. Prepare-a da versão atual do documento; `--documento` gera HTML, não Word. A lista dos canvas e o modo de leitura estão em
 [construtor/README.md](construtor/README.md). Seis canvas (5W2H, PDCA, Ishikawa, portões DoR/DoD,
 Quem faz o quê e Folha de experimento) não existem no curso: foram desenhados no mesmo estilo do kit e
 trazem o selo "acréscimo do laboratório".

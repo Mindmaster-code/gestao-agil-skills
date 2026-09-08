@@ -7,7 +7,7 @@ description: "Use quando o usuário pedir para ver, desenhar ou explicar visualm
 
 ## Regra principal
 
-Quando houver um caso de gestão identificável, sempre termine com um artefato HTML. Leia
+Quando houver um caso de gestão identificável, gere HTML por padrão e respeite outro formato solicitado. Leia
 `references/metodo.md` por inteiro antes de criar o visual. Mostre o menor visual que permita
 entender o caso e decidir.
 
@@ -44,10 +44,10 @@ Faça somente uma pergunta curta para o usuário indicar qual situação de gest
 3. Escolha a pergunta que libera a próxima decisão.
 4. Separe o que é medido, estimado e ainda está em aberto.
 5. Escolha um visual principal: fluxo, quadro, antes e depois, causa, matriz ou linha do tempo.
-6. Gere o HTML com pergunta, leitura direta, visual, prova e consequência.
+6. Gere a entrega escolhida com pergunta, leitura direta, visual, prova e consequência.
 7. Feche com o que ficou claro, o que segue em aberto e o próximo passo.
 
-Use `assets/template-artefato.html` como ponto de partida. O HTML deve funcionar sem rede,
+Para HTML, use `assets/template-artefato.html` como ponto de partida. Ele deve funcionar sem rede,
 biblioteca externa ou imagem remota.
 
 ## Entrega por ambiente
@@ -57,10 +57,10 @@ biblioteca externa ou imagem remota.
 - No Cursor, use sua prévia ou visualização disponível.
 - Em outro ambiente, use o recurso equivalente.
 - Não escolha pela marca do modelo. Verifique o que o ambiente oferece.
-- Sem recurso nativo, salve `.md` e `.html`, mostre um resumo visual no terminal ou no chat e
-  informe o caminho do HTML.
+- Quando a saída escolhida for HTML e não houver recurso nativo, salve `.html` e mostre um resumo.
+  Markdown acompanha somente quando necessário ao fluxo. Informe o caminho do HTML.
 
-Nunca entregue apenas Markdown, Mermaid, imagem ou diagrama de terminal. O HTML é obrigatório.
+Para entrega visual sem outro formato pedido, gere HTML. Para Word, Docs ou planilhas solicitados, siga a entrega editável.
 
 ## Critério de pronto
 
@@ -69,4 +69,12 @@ Nunca entregue apenas Markdown, Mermaid, imagem ou diagrama de terminal. O HTML 
 - Fato, estimativa e ponto em aberto não se misturam.
 - Título e rótulos não contêm sigla ou jargão sem explicação.
 - O objeto é o caso de gestão ativo, nunca o nome do plug-in por padrão.
-- A entrega gerou HTML e usou a melhor forma disponível no ambiente.
+- A entrega usou o formato solicitado; sem escolha explícita, gerou HTML.
+
+## Entrega editável
+
+Leia `references/entrega-editavel.md` ao criar ou revisar um artefato.
+Padrão desta skill, sem formato definido: visual HTML; Word `.docx`, Google Docs, Excel `.xlsx` ou Google Sheets quando solicitados.
+O formato pedido e o documento existente orientam a entrega. Referências de HTML aplicam-se somente à saída visual. Use ferramentas de arquivos ou integração disponível.
+Nas revisões, leia e atualize o mesmo documento, preservando edições humanas, IDs e evidências.
+Markdown serve ao versionamento quando necessário; HTML sai para visualização ou quando pedido, sem cópias obrigatórias.
