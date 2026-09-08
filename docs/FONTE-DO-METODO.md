@@ -32,8 +32,8 @@ O instalador requer Python 3.10 ou superior. Não baixa dependências.
 
 ```bash
 python3 scripts/montar_distribuicao.py --destino /caminho/vazio/skills
-./instalar.sh --destino /caminho/da/instalacao
-./instalar.sh --destino /caminho/da/instalacao --conferir
+bash instalar.sh --destino /caminho/da/instalacao
+bash instalar.sh --destino /caminho/da/instalacao --conferir
 python3 scripts/empacotar_plugin.py --saida-dir /caminho/temporario
 ```
 

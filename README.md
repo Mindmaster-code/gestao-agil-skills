@@ -72,23 +72,23 @@ As habilidades usam português simples. Todo termo técnico aparece com uma expl
 Instalar em todos os ambientes conhecidos:
 
 ```bash
-./instalar.sh --todos
+bash instalar.sh --todos
 ```
 
 Instalar em um ambiente específico:
 
 ```bash
-./instalar.sh --claude
-./instalar.sh --codex
-./instalar.sh --cursor
-./instalar.sh --opencode
-./instalar.sh --agents
+bash instalar.sh --claude
+bash instalar.sh --codex
+bash instalar.sh --cursor
+bash instalar.sh --opencode
+bash instalar.sh --agents
 ```
 
 Instalar em uma pasta escolhida:
 
 ```bash
-./instalar.sh --destino /caminho/para/skills
+bash instalar.sh --destino /caminho/para/skills
 ```
 
 ### Windows
@@ -104,8 +104,10 @@ e `-Destino "C:\caminho\skills"`.
 
 ### Atualizar
 
-Baixe a versão nova e rode o instalador outra vez. O instalador guarda a versão anterior
-em `.ga2-backup` antes de substituir qualquer skill.
+Baixe a versão desejada e rode o instalador outra vez. A instalação registra versão e hashes em `.gestao-agil-2.json`.
+Conteúdo idêntico não é copiado novamente. Alterações locais bloqueiam a atualização para evitar perda de trabalho.
+Se a instalação antiga não tiver registro, mova suas pastas `ga2-*` para uma reserva fora da pasta de skills antes de instalar.
+Confira com `--conferir` e reinicie o assistente.
 
 ## Usar as habilidades
 
