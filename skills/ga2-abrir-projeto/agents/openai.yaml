@@ -1,0 +1,4 @@
+interface:
+  display_name: "Abrir projeto"
+  short_description: "Organiza a base durável de um projeto"
+  default_prompt: "Use $ga2-abrir-projeto para abrir ou organizar este projeto em português simples."
