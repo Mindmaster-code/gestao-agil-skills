@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 VERSION = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
 OUTPUT_DIR = ROOT / "dist"
 OUTPUT = OUTPUT_DIR / f"gestao-agil-2-plugin-{VERSION}.zip"
-INCLUDE_ROOTS = (".codex-plugin", ".claude-plugin", "assets", "skills", "docs", "tests", "construtor")
+INCLUDE_ROOTS = (".codex-plugin", ".claude-plugin", "assets", "skills", "docs", "tests", "construtor", "scripts")
 SKIP_PARTS = {"__pycache__", ".git"}
 INCLUDE_FILES = (
     "README.md",
@@ -55,9 +55,9 @@ def add_file(archive: ZipFile, path: Path) -> None:
     archive.writestr(info, path.read_bytes())
 
 
-def package(output_dir: Path, source: Path) -> tuple[Path, str]:
-    # Um ZIP novo só nasce depois de conferir a fonte atual, não apenas os hashes antigos.
-    subprocess.run([sys.executable, str(ROOT / "scripts/validar.py"), "--fonte", str(source)], check=True)
+def package(output_dir: Path) -> tuple[Path, str]:
+    # A fonte completa está neste checkout; não depende de outro projeto.
+    subprocess.run([sys.executable, str(ROOT / "scripts/validar.py")], check=True)
     if not re.fullmatch(r"\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?", VERSION):
         raise ValueError("VERSION precisa conter uma versão semântica válida")
     buffer = io.BytesIO()
@@ -83,11 +83,10 @@ def package(output_dir: Path, source: Path) -> tuple[Path, str]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--fonte", type=Path, required=True, help="projeto canônico atual; obrigatório para impedir pacote desatualizado")
     parser.add_argument("--saida-dir", type=Path, default=OUTPUT_DIR,
                         help="Destino; use uma pasta temporária para testar antes da versão final")
     args = parser.parse_args()
-    output, digest = package(args.saida_dir, args.fonte)
+    output, digest = package(args.saida_dir)
     print(f"Pacote: {output}")
     print(f"SHA-256: {digest}")
 

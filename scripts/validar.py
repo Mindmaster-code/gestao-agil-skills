@@ -40,10 +40,9 @@ def fail(message: str) -> None:
 
 
 parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument("--fonte", type=Path, help="confere também a paridade com o projeto canônico atual")
 args = parser.parse_args()
 try:
-    verify(SKILLS, args.fonte)
+    verify(SKILLS)
 except (OSError, ValueError, KeyError) as error:
     fail(str(error))
 
@@ -132,5 +131,5 @@ for item in manifesto["oficiais"]:
         if not path.is_file():
             fail(f"modelo ausente: {path.relative_to(ROOT)}")
 
-scope = "integridade e paridade com a fonte" if args.fonte else "integridade do pacote"
+scope = "integridade do pacote canônico"
 print(f"OK: {scope}; {len(directories)} habilidades, {len(manifesto['oficiais'])} canvas e seis trilhas. Dez casos de submissão conferidos estruturalmente, não executados.")

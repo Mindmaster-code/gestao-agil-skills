@@ -1,100 +1,100 @@
-"""Contrato de publicação: método preservado, adaptação explícita, deriva bloqueada."""
+"""Fonte independente, cópia fiel e instalações rastreáveis."""
 import json
 from pathlib import Path
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from exportar_metodo import prepare, write_export, verify
+from exportar_metodo import seal_distribution, verify, inventory
+from instalar import install, RECEIPT
+import montar_distribuicao
 
 
-class ExportTest(unittest.TestCase):
+class DistributionTest(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
-        self.root = Path(self.temp.name)
-        self.source = self.root / "source"
-        self.output = self.root / "skills"
-        self.slug = "ga2-teste"
-        self.skill = self.source / ".claude/skills" / self.slug
-        self.skill.mkdir(parents=True)
-        (self.skill / "SKILL.md").write_text("---\nname: ga2-teste\n---\n# Método\n1. Medir antes de decidir.\n2. Pedir a fonte.\nDestino: pasta-interna\n", encoding="utf-8")
-        (self.skill / "template.md").write_text("# Caso\n<!-- c:dono -->\nDono único: ______\n", encoding="utf-8")
-        (self.skill / "checklist.md").write_text("- [ ] Meta com prazo e prova.\n", encoding="utf-8")
-        (self.skill / "exemplo.md").write_text("DADO REAL QUE NÃO PODE SER PUBLICADO", encoding="utf-8")
-        self.adapt = self.source / "laboratorio/publicacao/adaptacoes" / f"{self.slug}.json"
-        self.adapt.parent.mkdir(parents=True)
-        self.spec = {"skill": self.slug, "files": {
-            "SKILL.md": {"replacements": [{"from": "pasta-interna", "to": "pasta escolhida", "reason": "Destino do aluno"}]},
-            "template.md": {"replacements": []}, "checklist.md": {"replacements": []}},
-            "example": f"exemplos/{self.slug}.md"}
-        self.save_spec()
-        example = self.source / "laboratorio/publicacao" / self.spec["example"]
-        example.parent.mkdir(parents=True)
-        example.write_text("# Exemplo fictício\nNorte-Sul; números ilustrativos.\n", encoding="utf-8")
+        self.root = Path(self.temp.name) / "repo"
+        self.skills = self.root / "skills"
+        self.skill = self.skills / "ga2-teste"
+        (self.skill / "references").mkdir(parents=True)
+        (self.root / "VERSION").write_text("1.0.0\n")
+        (self.skill / "SKILL.md").write_text("Leia `references/metodo.md`.\n")
+        (self.skill / "references/metodo.md").write_text("Meça antes de decidir. Preserve campos e evidências.\n")
+        seal_distribution(self.skills)
+        self.destination = Path(self.temp.name) / "installed"
 
-    def save_spec(self):
-        self.adapt.write_text(json.dumps(self.spec), encoding="utf-8")
+    def test_copia_sem_reescrever_e_sem_fonte_externa(self):
+        with patch.object(montar_distribuicao, "ROOT", self.root):
+            montar_distribuicao.build(self.destination)
+        self.assertEqual(inventory(self.skills), inventory(self.destination))
+        verify(self.destination)
 
-    def export(self):
-        files, manifest = prepare(self.source, {self.slug})
-        write_export(self.output, files, manifest)
-        return files, manifest
+    def test_montagem_nao_sobrescreve_destino_ocupado(self):
+        self.destination.mkdir()
+        file = self.destination / "trabalho.md"
+        file.write_text("edição humana")
+        with patch.object(montar_distribuicao, "ROOT", self.root):
+            with self.assertRaisesRegex(ValueError, "destino vazio"):
+                montar_distribuicao.build(self.destination)
+        self.assertEqual(file.read_text(), "edição humana")
 
-    def test_preserva_metodo_template_checklist_e_exemplo_independente(self):
-        files, _ = self.export()
-        method = files[f"{self.slug}/references/metodo.md"].decode()
-        self.assertEqual(method, "# Método\n1. Medir antes de decidir.\n2. Pedir a fonte.\nDestino: pasta escolhida\n")
-        self.assertIn(b"<!-- c:dono -->", files[f"{self.slug}/references/template.md"])
-        self.assertEqual(files[f"{self.slug}/references/checklist.md"], (self.skill / "checklist.md").read_bytes())
-        self.assertNotIn("DADO REAL", "\n".join(value.decode() for value in files.values()))
-        verify(self.output, self.source)
+    def test_metodo_alterado_exige_novo_manifesto(self):
+        (self.skill / "references/metodo.md").write_text("conteúdo revisto")
+        with self.assertRaisesRegex(ValueError, "divergiu"):
+            verify(self.skills)
 
-    def test_adaptacao_desatualizada_falha_antes_de_gravar(self):
-        self.spec["files"]["SKILL.md"]["replacements"][0]["from"] = "trecho que não existe"
-        self.save_spec()
-        with self.assertRaisesRegex(ValueError, "adaptação desatualizada"):
-            self.export()
-        self.assertFalse(self.output.exists())
-
-    def test_alteracao_na_fonte_reabre_exportacao(self):
-        self.export()
-        with (self.skill / "SKILL.md").open("a", encoding="utf-8") as stream:
-            stream.write("3. Conferir o dono.\n")
-        with self.assertRaisesRegex(ValueError, "fonte divergiu"):
-            verify(self.output, self.source)
-
-    def test_alteracao_no_pacote_e_detectada_sem_projeto_local(self):
-        self.export()
-        (self.output / self.slug / "references/checklist.md").write_text("resumo genérico", encoding="utf-8")
-        with self.assertRaisesRegex(ValueError, "arquivo divergiu"):
-            verify(self.output)
-
-    def test_nao_aceita_substituir_metodo_por_pasta_legada(self):
-        with self.assertRaisesRegex(ValueError, "skills canônicas"):
-            prepare(self.root, {self.slug})
-
-    def test_recurso_metodologico_exige_adaptacao_explicitada(self):
-        self.spec["files"].pop("checklist.md")
-        self.save_spec()
-        with self.assertRaisesRegex(ValueError, "sem adaptação"):
-            self.export()
-
-    def test_referencia_empacotada_nao_pode_apontar_a_modelo_ausente(self):
-        with (self.skill / "SKILL.md").open("a", encoding="utf-8") as stream:
-            stream.write("Use `../assets/modelos/canvas-ausente.html`.\n")
-        self.export()
+    def test_recurso_ausente_e_rejeitado_mesmo_com_hash_atualizado(self):
+        (self.skill / "references/metodo.md").unlink()
+        seal_distribution(self.skills)
         with self.assertRaisesRegex(ValueError, "referência ausente"):
-            verify(self.output)
+            verify(self.skills)
 
-    def test_novo_recurso_auxiliar_na_fonte_exige_revisao(self):
-        self.export()
-        refs = self.skill / "references"
-        refs.mkdir()
-        (refs / "nova-regra.md").write_text("Uma regra nova.\n", encoding="utf-8")
-        with self.assertRaisesRegex(ValueError, "sem adaptação"):
-            verify(self.output, self.source)
+    def test_links_externos_nao_entram_no_pacote(self):
+        (self.skill / "link").symlink_to(self.root / "VERSION")
+        with self.assertRaisesRegex(ValueError, "link não distribuível"):
+            seal_distribution(self.skills)
+
+    def test_instala_e_repete_sem_copias_novas(self):
+        first = install(self.root, self.destination)
+        original = (self.destination / RECEIPT).stat().st_mtime_ns
+        self.assertEqual(install(self.root, self.destination), first)
+        self.assertEqual((self.destination / RECEIPT).stat().st_mtime_ns, original)
+        self.assertEqual(install(self.root, self.destination, check=True), first)
+        self.assertEqual(first["files"], inventory(self.skills))
+
+    def test_atualiza_versao_preservando_skill_privada(self):
+        install(self.root, self.destination)
+        private = self.destination / "rotina-privada"
+        private.mkdir(); (private / "SKILL.md").write_text("contexto local")
+        (self.root / "VERSION").write_text("1.0.1\n")
+        (self.skill / "references/metodo.md").write_text("método melhorado")
+        seal_distribution(self.skills)
+        receipt = install(self.root, self.destination)
+        self.assertEqual(receipt["version"], "1.0.1")
+        self.assertEqual((private / "SKILL.md").read_text(), "contexto local")
+        self.assertEqual(receipt["files"], inventory(self.destination))
+
+    def test_edicao_na_instalacao_nao_e_perdida(self):
+        install(self.root, self.destination)
+        file = self.destination / "ga2-teste/references/metodo.md"
+        file.write_text("edição humana")
+        with self.assertRaisesRegex(ValueError, "alterada localmente"):
+            install(self.root, self.destination)
+        self.assertEqual(file.read_text(), "edição humana")
+
+    def test_pasta_legada_exige_migracao_explicita(self):
+        legacy = self.destination / "ga2-teste"
+        legacy.mkdir(parents=True)
+        with self.assertRaisesRegex(ValueError, "sem registro"):
+            install(self.root, self.destination)
+        self.assertTrue(legacy.exists())
+
+    def test_nao_instala_sobre_a_fonte(self):
+        with self.assertRaisesRegex(ValueError, "sobrepõe"):
+            install(self.root, self.skills)
 
 
 if __name__ == "__main__":

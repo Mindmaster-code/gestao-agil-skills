@@ -6,6 +6,8 @@ from __future__ import annotations
 import hashlib
 from pathlib import Path
 
+from exportar_metodo import seal_distribution
+
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "SHA256SUMS.txt"
@@ -26,6 +28,7 @@ def tracked_files() -> list[Path]:
 
 
 def main() -> None:
+    seal_distribution(ROOT / "skills")
     lines = []
     for path in tracked_files():
         digest = hashlib.sha256(path.read_bytes()).hexdigest()

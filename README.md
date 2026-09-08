@@ -30,7 +30,7 @@ em linguagem comum e deixar o ambiente selecionar a habilidade adequada.
 Para gerar o arquivo de distribuição:
 
 ```bash
-python3 scripts/empacotar_plugin.py --fonte /caminho/do/projeto-canonico
+python3 scripts/empacotar_plugin.py
 ```
 
 Os dez casos de validação e regressão estão em
@@ -39,16 +39,17 @@ de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 
 ## Uma fonte para o método
 
-As 31 skills de método vêm das skills canônicas do projeto, não dos pacotes de GPTs.
-`ga2-abrir-projeto` é a exceção mantida diretamente neste pacote: são 32 no total.
-Cada skill de método inclui instruções completas, template, exemplo fictício e checklist;
-Me Mostra usa os critérios de pronto do próprio método e três referências visuais adicionais.
+Este repositório é a fonte canônica das 32 skills, incluindo método, templates, exemplos, modelos e testes.
+A operação interna e os alunos usam instalações deste pacote. Regras privadas ficam no projeto consumidor.
+Edite aqui, valide e instale uma versão identificada. Não edite instalações, caches ou releases.
 
-As adaptações retiram caminhos e operação privados, sem transformar o método em resumo.
-O manifesto `skills/procedencia.json` registra hashes das fontes e das entregas.
-Leia [Como atualizar sem perder o método](docs/FONTE-DO-METODO.md) antes de regenerar.
+Leia [Fonte canônica e instalação](docs/FONTE-DO-METODO.md) para atualizar sem criar versões paralelas.
+O manifesto `skills/procedencia.json` registra os hashes dos arquivos distribuídos.
 
 ## Instalação das habilidades por pasta
+
+Os instaladores requerem Python 3.10 ou superior e registram versão e hashes.
+Use `--conferir` (PowerShell: `-Conferir`) para comparar a instalação com o pacote.
 
 O pacote também funciona com Claude, Codex, Cursor, OpenCode e ambientes que leem
 pastas no formato `SKILL.md`.
