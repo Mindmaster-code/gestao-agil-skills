@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Monta as skills públicas a partir do conteúdo limpo da suíte de GPTs."""
+"""Monta as skills públicas a partir das skills canônicas e adaptações revisadas."""
 
 from __future__ import annotations
 
@@ -9,172 +9,139 @@ import shutil
 from dataclasses import dataclass
 from pathlib import Path
 
+from exportar_metodo import prepare, write_export, seal_distribution
+
 
 @dataclass(frozen=True)
 class Skill:
     title: str
     description: str
-    sources: tuple[str, ...]
 
 
 SKILLS: dict[str, Skill] = {
     "ga2-5w2h": Skill(
         "5W2H — plano de ação",
         "Cria um plano de ação 5W2H com ação, motivo, dono único, data, local, modo de execução, custo e prova. Use quando pedirem plano de ação, 5W2H, contramedidas ou responsáveis e prazos.",
-        ("diagnostico-a3/conhecimento/04-contramedidas-5w2h.md",),
     ),
     "ga2-backlog-2d": Skill(
         "Backlog 2D — mapa de entregas e tarefas",
         "Monta um Backlog 2D com etapas ou iniciativas, entregas, tarefas, prioridades e o menor primeiro ciclo. Use quando pedirem backlog, quebra de projeto, mapa de trabalho ou recorte do primeiro ciclo.",
-        ("iniciativas-e-ciclos/conhecimento/05-backlog-2d.md",),
     ),
     "ga2-briefing-iniciativa": Skill(
         "Briefing da iniciativa",
         "Cria o acordo inicial de uma iniciativa e escolhe entre projeto, produto e processo. Use quando pedirem briefing, definição de escopo, alinhamento da entrega ou classificação pelos 3 Ps.",
-        ("iniciativas-e-ciclos/conhecimento/03-briefing-da-iniciativa.md",),
     ),
     "ga2-canvas-de-conversa-cnv": Skill(
         "Canvas de conversa",
         "Prepara uma conversa difícil com fato, sentimento, necessidade e pedido. Use quando pedirem conversa difícil, comunicação não violenta, cobrança sem acusação ou Canvas de Conversa.",
-        ("lideranca-e-times/conhecimento/04-canvas-de-conversa-cnv.md",),
     ),
     "ga2-canvas-de-planejamento": Skill(
         "Canvas de Planejamento — a folha do curso",
         "Resume numa folha os nove blocos do planejamento: contexto, situação atual, ideal, gap, causa raiz, lista de objetivos, matriz de priorização, objetivos selecionados e resultados-chave com iniciativas. Use quando pedirem o canvas de planejamento, o canvas do curso numa página ou um resumo do diagnóstico e dos objetivos.",
-        ("estrategia-e-okr/conhecimento/12-canvas-de-planejamento.md",),
     ),
     "ga2-canvas-de-visao": Skill(
         "Canvas de Visão",
         "Define o norte de uma empresa, área ou iniciativa com passado, situação atual, tendências, futuro e frase de visão. Use quando pedirem Canvas de Visão, direção, contexto ou futuro desejado.",
-        ("estrategia-e-okr/conhecimento/02-canvas-de-visao.md",),
     ),
     "ga2-causa-raiz": Skill(
         "Causa raiz",
         "Investiga causas com 5 Porquês ou Ishikawa e exige evidência em cada ligação. Use quando pedirem causa raiz, 5 Porquês, espinha de peixe, post-mortem ou separação entre sintoma e causa.",
-        ("diagnostico-a3/conhecimento/03-causa-raiz.md",),
     ),
     "ga2-checklist-producao-entrega": Skill(
         "Checklist para começar e entregar",
         "Define o que um trabalho precisa para começar e para ser entregue com prova. Use quando perguntarem se algo pode começar, se está pronto, ou citarem DoR, DoD e critério de pronto.",
-        ("operacao-e-fluxo/conhecimento/05-dor-e-dod.md",),
     ),
     "ga2-decisao-projeto-ou-fluxo": Skill(
         "Decisão: projeto ou fluxo",
         "Escolhe entre projeto em ciclos, fluxo contínuo ou modelo híbrido e define como acompanhar. Use quando perguntarem se o trabalho é projeto ou fluxo, ou quando ciclos não parecem funcionar.",
-        ("iniciativas-e-ciclos/conhecimento/02-projeto-fluxo-hibrido.md",),
     ),
     "ga2-delegacao": Skill(
         "Quadro de Delegação",
         "Monta um quadro com assuntos, pessoas e sete níveis claros de decisão. Use quando pedirem matriz de delegação, autonomia, responsáveis por decisões ou Delegation Poker.",
-        ("lideranca-e-times/conhecimento/03-quadro-de-delegacao.md",),
     ),
     "ga2-diagnostico": Skill(
         "Diagnóstico atual e desejado",
         "Compara a situação atual com a desejada, mede a distância e registra a linha de partida. Use quando pedirem diagnóstico, estado atual, meta, distância para a meta ou lado esquerdo do A3.",
-        ("diagnostico-a3/conhecimento/02-diagnostico.md",),
     ),
     "ga2-documentos-de-projeto": Skill(
         "Documentos do projeto",
         "Organiza os documentos necessários em cada fase de um projeto, do contexto ao encerramento. Use quando pedirem dossiê, documentos do projeto, relatório de andamento ou resumo do ciclo.",
-        ("iniciativas-e-ciclos/conhecimento/04-dossie-de-projeto.md",),
     ),
     "ga2-feedback-360": Skill(
         "Feedback 360",
         "Conduz um Feedback 360 com diferentes pontos de vista, padrões e até dois focos com prazo. Use quando pedirem avaliação 360, feedback de líder, pares e equipe ou plano após feedback.",
-        ("lideranca-e-times/conhecimento/05-feedback-360.md",),
     ),
     "ga2-folha-de-experimento": Skill(
         "Folha de experimento",
         "Registra dor, problema, ideia, protótipo, teste e decisão em uma experiência pequena. Use quando pedirem experimento, hipótese, protótipo, teste barato ou portfólio de inovação.",
-        ("melhoria-e-inovacao/conhecimento/05-folha-de-experimento.md",),
     ),
     "ga2-gemba-walk": Skill(
         "Vá e Veja — Gemba Walk",
         "Conduz uma observação no lugar onde o trabalho acontece, com pergunta, fatos e uma ação. Use quando pedirem Gemba, observação direta, investigação no local ou entendimento de uma queda.",
-        ("melhoria-e-inovacao/conhecimento/06-gemba-walk.md",),
     ),
     "ga2-gestao-diaria": Skill(
         "Gestão diária",
         "Conduz uma reunião diária curta diante do quadro, destacando avanço, próximo passo e bloqueio. Use quando pedirem diária, daily, trabalhos parados, registro do dia ou remoção de bloqueios.",
-        ("operacao-e-fluxo/conhecimento/04-gestao-diaria.md",),
     ),
     "ga2-kanban-canvas": Skill(
         "Kanban Canvas",
         "Desenha um quadro Kanban com estados, raias, cartões, limites e regras visíveis. Use quando pedirem Kanban, quadro de trabalho, fluxo, cartões, bloqueios ou políticas do quadro.",
-        ("operacao-e-fluxo/conhecimento/02-kanban-canvas.md",),
     ),
     "ga2-matriz-esforco-impacto": Skill(
         "Matriz Impacto e Esforço",
         "Compara iniciativas pelo impacto e esforço e devolve uma fila com critérios claros. Use quando pedirem prioridade, matriz, ordem das iniciativas ou escolha do próximo trabalho.",
-        ("estrategia-e-okr/conhecimento/03-matriz-impacto-esforco.md",),
     ),
     "ga2-me-mostra": Skill(
         "Me Mostra",
         "Use quando o usuário pedir para ver, desenhar ou explicar visualmente um caso, fluxo, problema, mudança ou decisão de gestão descrito no pedido ou na conversa atual; não use para assuntos sem um caso de gestão.",
-        ("diagnostico-a3/conhecimento/11-gestao-visual-html.md",),
     ),
     "ga2-okr-canvas": Skill(
         "OKR Canvas",
         "Monta e acompanha um OKR Canvas com objetivo, resultados-chave de partida e chegada, iniciativas e revisão periódica. Use quando pedirem OKR, resultado-chave, iniciativa ou acompanhamento de meta.",
-        ("estrategia-e-okr/conhecimento/04-okr-canvas.md",),
     ),
     "ga2-painel-do-gestor": Skill(
         "Painel do Gestor",
         "Monta uma visão curta de um ciclo com poucos números úteis para decidir. Use quando pedirem painel, números do ciclo, indicador principal, leitura da meta ou resumo para o gestor.",
-        ("estrategia-e-okr/conhecimento/05-painel-do-gestor.md",),
     ),
     "ga2-pdca": Skill(
         "PDCA — ciclo de melhoria",
         "Registra uma melhoria em quatro etapas: planejar, executar, verificar e agir. Use quando pedirem PDCA, melhoria de processo, acompanhamento de contramedida ou decisão de padronizar e ajustar.",
-        ("diagnostico-a3/conhecimento/05-pdca-e-acompanhamento.md",),
     ),
     "ga2-pdi": Skill(
         "Plano de Desenvolvimento Individual",
         "Monta um plano de desenvolvimento com objetivo de trabalho, forças, lacuna, ações 70-20-10, marco e acompanhamento. Use quando pedirem PDI, desenvolvimento de pessoa ou evolução profissional.",
-        ("lideranca-e-times/conhecimento/06-pdi.md",),
     ),
     "ga2-plano-do-ciclo": Skill(
         "Plano do ciclo",
         "Planeja um ciclo com uma meta, capacidade segura, trabalhos com dono e data, e critério de pronto. Use quando pedirem plano da semana, sprint, meta do ciclo ou escolha do que entra.",
-        ("iniciativas-e-ciclos/conhecimento/06-plano-do-ciclo.md",),
     ),
     "ga2-politicas-wip-urgencia": Skill(
         "Limite de trabalho e urgência",
         "Define limites de trabalho em andamento, bloqueios e critérios de urgência de um quadro. Use quando pedirem limite do quadro, WIP, gargalo, raia urgente ou política de urgência.",
-        ("operacao-e-fluxo/conhecimento/03-wip-e-urgencia.md",),
     ),
     "ga2-pop": Skill(
         "Procedimento Operacional Padrão",
         "Escreve um procedimento recorrente com dono, gatilho, passos, saída, sistema, indicador, exceção e aprovação. Use quando pedirem POP, procedimento, rotina ou padronização de processo.",
-        ("operacao-e-fluxo/conhecimento/06-pop.md",),
     ),
     "ga2-quadro-kaizen": Skill(
         "Quadro Kaizen",
         "Registra uma melhoria pequena com sinal, aposta, dono, prazo, aprendizado e decisão. Use quando pedirem Kaizen, fila de melhorias, pequeno ajuste ou resposta a indicador parado.",
-        ("melhoria-e-inovacao/conhecimento/04-quadro-kaizen.md",),
     ),
     "ga2-quem-faz-o-que": Skill(
         "Quem faz o quê",
         "Define dono único, quem aceita, quem apoia, quem executa e quem aprova. Use quando pedirem responsáveis, papéis, dono da entrega, matriz de responsabilidade ou decisão de aprovação.",
-        ("lideranca-e-times/conhecimento/02-quem-faz-o-que.md",),
     ),
     "ga2-relatorio-a3": Skill(
         "Relatório A3",
         "Monta um Relatório A3 completo, do contexto e causa raiz ao plano, acompanhamento e aprendizado. Use quando pedirem A3, solução estruturada de problema, queda de indicador ou plano para diretoria.",
-        (
-            "diagnostico-a3/conhecimento/01-fundamentos-a3.md",
-            "diagnostico-a3/conhecimento/06-template-a3.md",
-        ),
     ),
     "ga2-retrospectiva": Skill(
         "Retrospectiva",
         "Conduz uma retrospectiva sobre o modo de trabalhar e escolhe uma melhoria com dono e data. Use quando pedirem retro, manter, melhorar e parar, ou mudança de processo após um ciclo.",
-        ("melhoria-e-inovacao/conhecimento/03-retrospectiva.md",),
     ),
     "ga2-review-do-ciclo": Skill(
         "Revisão do ciclo",
         "Compara o combinado com o entregue, exige prova e registra a decisão seguinte. Use quando pedirem review, revisão do ciclo, demonstração da entrega ou fechamento da semana.",
-        ("melhoria-e-inovacao/conhecimento/02-review-do-ciclo.md",),
     ),
 }
 
@@ -227,7 +194,7 @@ COMMON_BODY = """# {title}
 2. Confirme qual decisão ou resultado o usuário precisa alcançar.
 3. Separe fatos, estimativas e pontos ainda sem resposta.
 4. Aplique os campos e a sequência descritos na referência.
-5. Escolha a forma leve, intermediária ou completa conforme o risco do caso.
+5. Siga o nível de detalhe previsto no método para o caso; não force campos de outra variante.
 6. Feche com consequência, próximo passo, dono e data quando esses dados existirem.
 
 ## Linguagem obrigatória
@@ -409,6 +376,14 @@ def skill_markdown(name: str, skill: Skill, construtor: Path | None = None) -> s
         body += "\n## Entrega editável\n\n" + entrega_editavel(name)
     if name == "ga2-canvas-de-conversa-cnv":
         body += CNV_NOTE
+    body += (
+        "\n## Recursos específicos desta habilidade\n\n"
+        "O método completo está em `references/metodo.md`; ele define a sequência e as regras específicas.\n"
+        "Ao preencher o artefato, leia `references/template.md` por inteiro e preserve seus campos.\n"
+        "Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nunca evidência do caso do usuário.\n"
+        + ("Antes de entregar, confira os critérios de pronto de `references/metodo.md`.\n" if name == "ga2-me-mostra" else
+           "Antes de entregar, aplique `references/checklist.md` por inteiro.\n")
+    )
     body += secao_construtor(name, construtor)
     return (
         "---\n"
@@ -440,82 +415,24 @@ def openai_yaml(name: str, skill: Skill) -> str:
 
 
 
-def referencia_visual(text: str) -> str:
-    """Adapta a referência visual ao contrato de formatos do pacote."""
-    replacements = {'Quando ambos se aplicarem, construa primeiro o artefato e depois apresente o mesmo conteúdo em\nHTML.': 'Quando '
-                                                                                                              'ambos '
-                                                                                                              'se '
-                                                                                                              'aplicarem, '
-                                                                                                              'construa '
-                                                                                                              'primeiro '
-                                                                                                              'o '
-                                                                                                              'artefato '
-                                                                                                              'e '
-                                                                                                              'apresente '
-                                                                                                              'o '
-                                                                                                              'mesmo '
-                                                                                                              'conteúdo '
-                                                                                                              'no '
-                                                                                                              'formato '
-                                                                                                              'escolhido.\n'
-                                                                                                              'HTML '
-                                                                                                              'é '
-                                                                                                              'o '
-                                                                                                              'padrão '
-                                                                                                              'visual '
-                                                                                                              'quando '
-                                                                                                              'não '
-                                                                                                              'houver '
-                                                                                                              'outro '
-                                                                                                              'formato '
-                                                                                                              'solicitado.',
-     '8. Gere um HTML com pergunta, leitura, visual, prova e consequência.': '8. Gere o formato '
-                                                                             'escolhido com pergunta, '
-                                                                             'leitura, visual, prova e '
-                                                                             'consequência.',
-     'Toda execução visual gera HTML. Use a melhor superfície realmente disponível:': 'Quando HTML for '
-                                                                                      'o formato '
-                                                                                      'escolhido, use '
-                                                                                      'a melhor '
-                                                                                      'superfície '
-                                                                                      'realmente '
-                                                                                      'disponível:',
-     '3. arquivo `.html` autocontido e fonte `.md` equivalente.': '3. arquivo `.html` autocontido; '
-                                                                  'fonte `.md` somente quando '
-                                                                  'necessária ao fluxo.',
-     '- O fallback entrega HTML, Markdown equivalente e resumo curto no chat.': '- A alternativa de '
-                                                                                'HTML entrega arquivo '
-                                                                                'autônomo e resumo; '
-                                                                                'outros formatos '
-                                                                                'seguem '
-                                                                                '`entrega-editavel.md`.',
-     'fato → sentimento → necessidade → pedido; sem HTML': 'fato → sentimento → necessidade → pedido; '
-                                                           'chat por padrão',
-     '- A conversa CNV mantém sua exceção de privacidade e não gera HTML.': '- A conversa CNV fica no '
-                                                                            'chat por padrão; salve '
-                                                                            'apenas quando solicitado, '
-                                                                            'sem ampliar o '
-                                                                            'compartilhamento.'}
-    for before, after in replacements.items():
-        text = text.replace(before, after)
-    return text
-
-
-def combine_sources(source_root: Path, relative_sources: tuple[str, ...]) -> str:
-    chunks: list[str] = []
-    for relative in relative_sources:
-        path = source_root / relative
-        if not path.is_file():
-            raise FileNotFoundError(f"Fonte não encontrada: {path}")
-        chunks.append(path.read_text(encoding="utf-8").rstrip())
-    return "\n\n---\n\n".join(chunks) + "\n"
-
-
 def build(source_root: Path, output_root: Path, construtor: Path | None = None) -> None:
-    visual_source = source_root / "diagnostico-a3/conhecimento/11-gestao-visual-html.md"
+    # Valide TODAS as adaptações antes da primeira gravação. Não há fallback para GPTs.
+    catalog = {path.name for path in (source_root / ".claude/skills").glob("ga2-*") if path.is_dir()}
+    if catalog and catalog != set(SKILLS):
+        raise ValueError(f"catálogo canônico mudou; revise metadados e adaptações: {sorted(catalog ^ set(SKILLS))}")
+    files, manifest = prepare(source_root, set(SKILLS))
+    package_root = Path(__file__).resolve().parents[1]
+    # Esta habilidade é mantida no pacote; não deriva da suíte de GPTs.
+    opening_source = Path(__file__).resolve().parents[1] / "skills" / "ga2-abrir-projeto"
+    opening_target = output_root / "ga2-abrir-projeto"
+    if opening_source.resolve() != opening_target.resolve():
+        shutil.copytree(opening_source, opening_target, dirs_exist_ok=True)
 
     for name, skill in SKILLS.items():
         directory = output_root / name
+        existing = package_root / "skills" / name
+        if existing.resolve() != directory.resolve():
+            shutil.copytree(existing, directory, dirs_exist_ok=True)
         references = directory / "references"
         assets = directory / "assets"
         agents = directory / "agents"
@@ -525,24 +442,31 @@ def build(source_root: Path, output_root: Path, construtor: Path | None = None) 
 
         shutil.copyfile(Path(__file__).resolve().parents[1] / "docs/SAIDA-EDITAVEL.md", references / "entrega-editavel.md")
         (directory / "SKILL.md").write_text(skill_markdown(name, skill, construtor), encoding="utf-8")
-        (references / "metodo.md").write_text(
-            referencia_visual(combine_sources(source_root, skill.sources)) if name == "ga2-me-mostra" else combine_sources(source_root, skill.sources), encoding="utf-8"
-        )
+        method = files[f"{name}/references/metodo.md"].decode("utf-8")
         if name != "ga2-me-mostra":
-            (references / "gestao-visual.md").write_text(referencia_visual(visual_source.read_text(encoding="utf-8")), encoding="utf-8")
-
-        group = skill.sources[0].split("/", 1)[0]
-        shutil.copyfile(
-            source_root / group / "conhecimento/10-fontes-e-procedencia.md",
-            references / "fontes.md",
-        )
+            (references / "gestao-visual.md").write_text(
+                "# Escolha visual\n\nSiga primeiro o método desta habilidade e o formato escolhido em `entrega-editavel.md`.\n"
+                "Um fluxo mostra sequência; um quadro mostra estados; uma matriz compara alternativas.\n"
+                "Use pergunta, leitura direta, visual, prova e próximo passo. Separe medido, estimado e em aberto.\n"
+                "Quando disponível, `ga2-me-mostra` explica o mesmo caso visualmente. Não substitua o artefato por um resumo genérico.\n",
+                encoding="utf-8")
+        origin = method.split("## Fonte no método", 1)
+        source_notes = origin[1].split("\n## ", 1)[0].strip() if len(origin) == 2 else "Consulte a procedência indicada no método desta habilidade."
+        (references / "fontes.md").write_text(
+            "# Fontes e procedência\n\n" + source_notes + "\n\n"
+            "As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.\n"
+            "O método, template e critérios aplicáveis estão nos arquivos vizinhos.\n"
+            "A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.\n"
+            "Exemplos são fictícios e independentes; não comprovam resultados do usuário.\n", encoding="utf-8")
         (assets / "template-artefato.html").write_text(HTML_TEMPLATE, encoding="utf-8")
         (agents / "openai.yaml").write_text(openai_yaml(name, skill), encoding="utf-8")
+    write_export(output_root, files, manifest)
+    seal_distribution(output_root, manifest)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--fonte", required=True, type=Path)
+    parser.add_argument("--fonte", required=True, type=Path, help="projeto canônico com .claude/skills e laboratorio/publicacao; não a suíte de GPTs")
     parser.add_argument("--destino", default=Path("skills"), type=Path)
     parser.add_argument("--construtor", default=Path("construtor"), type=Path, help="pasta do construtor exportado (montar_construtor.py --exportar)")
     args = parser.parse_args()

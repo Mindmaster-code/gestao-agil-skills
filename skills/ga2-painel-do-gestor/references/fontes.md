@@ -1,28 +1,12 @@
 # Fontes e procedência
 
-## Skills consolidadas
+- Base do método — Passo 7: Ferramentas, IA e Painel do Gestor §2.6–2.7 (dois painéis; meta, tendência e leitura), §3 regras 11–13, §4.3 (campos do HTML e da planilha), §4.9 (cockpit em Sheets, referência).
+- Base do método — Passo 5: Melhoria Contínua §2.10 (Teoria do Caiaque: os três pilares) e §2.12 (North Star Metric).
+- Aulas: ao vivo M07 A06–A11 (métricas de sucesso, p1–p5); v6 pasta 08 aula 02 ("Painel do Gestor").
+- Templates oficiais: `painel-do-gestor-ga2-PREENCHER.html` (editável, salva PDF), `Painel-do-Gestor.xlsx` / `painel-do-gestor-ga2-scorecard.xlsx` (abas Modelo, Exemplo, Evolução), `painel-do-gestor-ga2-exemplo-preenchido.pdf`. PDF do curso: `painel-do-gestor-ga2.pdf`.
+- Métricas de fluxo derivadas pelo laboratório: apêndice de `template.md` (ver adaptação).
 
-- `ga2-canvas-de-visao`: passado, hoje, tendências, futuro, caminho e frase de visão.
-- `ga2-matriz-esforco-impacto`: quadrantes e fila ordenada de iniciativas.
-- `ga2-okr-canvas`: Ponte A3→OKR, objetivo, KRs, iniciativas e check-in.
-- `ga2-painel-do-gestor`: negócio, time, produtividade, North Star e evolução.
-
-Foram usados `SKILL.md`, `template.md`, `exemplo.md` e `checklist.md` de cada skill.
-
-## Base do método
-
-Síntese dos passos de contexto, gestão visual, ritmo e medição do Gestão Ágil 2.0, incluindo
-as versões ao vivo e v6 documentadas pelas skills.
-
-## Decisões de normalização
-
-- O Knowledge contém o método público, não a operação interna que originou os exemplos.
-- Nomes, caminhos, sistemas, dados e responsabilidades internas foram removidos.
-- O exemplo integrado usa uma empresa fictícia e declara essa condição.
-- A Ponte A3→OKR foi preservada antes da escrita do objetivo.
-- A régua inicial usa um objetivo e até três KRs; o limite maior permanece uma exceção justificada.
-
-## Acréscimos do laboratório
-
-O ledger de evidências, o rótulo explícito de estado dos números e a separação entre check-in e
-checkpoint tornam a procedência auditável. Eles complementam o método e não substituem a aula.
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

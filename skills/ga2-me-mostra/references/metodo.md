@@ -1,189 +1,185 @@
-# Me Mostra — Gestão Visual GA 2.0
+# Me mostra — Gestão Visual GA 2.0
 
-## Finalidade
+## Entrega editável
 
-Transformar uma situação de gestão no menor visual que permita entender o caso e decidir sem
-perguntar de novo. Esta referência cuida da leitura visual. O arquivo do artefato GA 2.0 cuida
-dos campos, critérios e regras do conteúdo.
+Ao criar ou revisar um artefato, leia [entrega-editavel.md](entrega-editavel.md). O formato pedido e o documento existente orientam a entrega.
+Padrão desta skill, sem formato definido: visual HTML; Word `.docx`, Google Docs, Excel `.xlsx` ou Google Sheets quando solicitados.
+Use ferramentas de arquivos ou a integração disponível para gerar e conferir a entrega real.
+Nas revisões, leia e atualize o mesmo documento, preservando edições humanas, IDs e evidências.
+Markdown serve ao versionamento quando necessário; HTML sai para visualização ou quando pedido, sem cópias obrigatórias.
 
-Quando ambos se aplicarem, construa primeiro o artefato e apresente o mesmo conteúdo no formato escolhido.
-HTML é o padrão visual quando não houver outro formato solicitado. Não crie um segundo artefato paralelo. Use para processo, estado, mudança, problema,
-prioridade, responsabilidade, dependência, cadência ou gate. Não use para ilustração artística,
-peça de marketing ou mockup de interface.
+## Objetivo
 
-## Sequência
+Mostre o menor visual que permita entender o caso e decidir sem perguntar de novo.
 
-1. Escreva a pergunta que o visual responde em uma frase.
-2. Escolha a pergunta que libera a próxima decisão e declare o recorte.
-3. Classifique a intenção: estado atual, mudança, diagnóstico ou decisão.
-4. Marque cada fato ou número como medido, estimado ou em aberto. Registre fonte e data.
-5. Aplique o artefato GA 2.0 dono do conteúdo.
-6. Escolha uma primitiva visual principal.
-7. Preserve origem, destino e ponto de decisão; corte os ramos que não mudam a leitura.
-8. Gere o formato escolhido com pergunta, leitura, visual, prova e consequência.
-9. Feche com o que o visual prova, o que segue em aberto e a próxima ação ou decisão.
+Sem outro formato solicitado, cada uso termina com um artefato HTML. Apresente esse HTML na forma visual nativa do ambiente.
+Se ela não existir ou não estiver exposta, grave o HTML e mostre uma versão visual resumida
+no terminal.
 
-## Roteamento para os artefatos
+Esta skill define a **leitura visual**. A skill do artefato GA 2.0 define o conteúdo e suas
+regras. Quando as duas se aplicarem, use primeiro a skill do artefato e depois esta skill
+para apresentar o resultado. Não crie um segundo artefato paralelo.
 
-| Sinal no pedido | Artefato dono | Visual indicado |
+Use para processo, estado, mudança, problema, prioridade, responsabilidade, dependência,
+ritmo de trabalho ou ponto de aprovação. Não use para ilustração artística, peça de
+marketing ou desenho de interface.
+
+## Linguagem obrigatória
+
+Escreva em PT-BR simples. A pessoa precisa entender o visual sem conhecer Gestão Ágil 2.0.
+
+- Use a palavra comum antes do termo técnico.
+- Explique toda sigla na primeira aparição, na mesma linha.
+- Evite inglês quando houver uma palavra comum em português.
+- Preserve o nome oficial de um artefato quando necessário e explique sua função.
+- Use frases curtas, voz ativa e verbos diretos.
+- Aplique esta regra no título, nos rótulos, nas legendas, nas dicas, no texto alternativo e
+  na resposta final.
+
+| Evite | Escreva |
+|---|---|
+| `WIP 2/3` | `2 de 3 trabalhos em andamento (WIP)` |
+| `gate pendente` | `falta aprovação; pessoa responsável decide` |
+| `DRI` | `dono único da entrega` |
+| `handoff` | `passagem do trabalho` |
+| `baseline` | `número de partida` |
+| `as-is` | `como funciona hoje` |
+
+Se o usuário trouxer um jargão, preserve-o apenas quando ajudar a referência. Traduza-o na
+mesma frase. Nunca use uma sigla solta como rótulo principal.
+
+Antes de entregar, releia apenas o texto visível. Sigla sem explicação ou jargão com
+substituto comum reabre o trabalho.
+
+## Como conduzir
+
+1. **Escreva a pergunta que o visual responde.** Uma frase. Se houver várias perguntas,
+   escolha a que libera a próxima decisão e cite o recorte.
+2. **Classifique a intenção.** Use uma das quatro:
+   - entender o estado atual;
+   - entender uma mudança;
+   - diagnosticar um problema;
+   - tomar uma decisão.
+3. **Separe o que é conhecido.** Marque fatos e números como `medido`, `estimado` ou
+   `em aberto`. Ponha a fonte junto da afirmação. Não transforme hipótese em fato.
+4. **Roteie para o artefato certo.** Leia
+   [`roteamento-ga2.md`](roteamento-ga2.md) quando o caso pertencer
+   a um artefato ou ritual do método.
+5. **Escolha uma forma visual principal.** Processo pede fluxo; trabalho em curso pede
+   quadro visual do trabalho (Kanban);
+   diferença pede antes/depois; falha pede esperado/observado; causa pede 5 Porquês ou
+   Ishikawa; escolha pede matriz ou árvore. Leia
+   [`primitivas-visuais.md`](primitivas-visuais.md) quando precisar
+   desenhar.
+6. **Mostre só o contexto necessário.** Preserve origem, destino e ponto de decisão. Corte
+   ramos que não mudam a leitura e marque a continuação com `…`.
+7. **Escolha a forma de entrega.** Leia
+   [`artefatos-por-harness.md`](artefatos-por-harness.md). Detecte o
+   ambiente e as capacidades realmente expostas. Essa referência orienta apenas a saída HTML;
+   para Word, Docs ou planilhas solicitados, siga Entrega editável. O ambiente prevalece sobre o modelo.
+8. **Gere e apresente o formato escolhido.** Preserve pergunta, visual, prova e consequência.
+   Para HTML, use a forma nativa quando disponível. Para documentos, siga a entrega editável.
+9. **Feche com consequência.** Diga o que o visual prova, o que segue em aberto e qual
+   decisão ou ação vem agora. Se houver ação, nomeie um dono e uma data. Se houver
+   aprovação, nomeie quem decide.
+
+## Escolha pela intenção
+
+| Intenção | Visual principal | A leitura precisa responder |
 |---|---|---|
-| norte, futuro, contexto estratégico | Canvas de Visão | passado → hoje → tendência → visão |
-| atual, desejado, meta, gap | Diagnóstico | atual × desejado e régua do gap |
-| problema, causa e plano | Relatório A3 | lado esquerdo → lado direito |
-| causa raiz | 5 Porquês ou Ishikawa | cadeia dominante ou causas paralelas |
-| ação, dono e prazo | 5W2H | plano por linha ou linha do tempo |
-| projeto, produto ou processo | Briefing | mapa dos 3 Ps e fronteiras |
-| projeto ou fluxo contínuo | Decisão Projeto ou Fluxo | árvore de decisão |
-| objetivo, KR e iniciativa | OKR Canvas | objetivo → resultado-chave → iniciativa |
-| prioridade | Matriz Impacto × Esforço | matriz 2 × 2 e fila resultante |
-| jornada, entregas e fatia fina | Backlog 2D | mapa 2D e corte do primeiro ciclo |
-| colunas, WIP e bloqueio | Kanban Canvas | quadro com limite e idade |
-| limite, urgência ou congestionamento | Políticas de WIP | fluxo com limite e classe crítica |
-| passo recorrente | POP | gatilho → passos → exceção → saída |
-| papéis e responsabilidade | Quem Faz o Quê | raias ou matriz curta |
-| autonomia de decisão | Delegação | assuntos × níveis de delegação |
-| meta e capacidade do ciclo | Plano do Ciclo | linha do ciclo e carga a 70% |
-| andamento diário | Gestão Diária | fotografia do quadro e bloqueios |
-| prometido contra entregue | Review | antes/depois com prova |
-| manter, melhorar e parar | Retrospectiva | três colunas e uma ação escolhida |
-| melhoria em ciclos | PDCA | Plan → Do → Check → Act |
-| melhoria pequena | Quadro Kaizen | sinal → aposta → aprendizado → decisão |
-| hipótese e teste | Folha de Experimento | hipótese → protótipo → teste → critério |
-| números para decidir | Painel do Gestor | três a cinco números-âncora |
-| conversa difícil | Canvas CNV | fato → sentimento → necessidade → pedido; chat por padrão |
+| Estado atual | mapa de estado, Kanban ou painel | onde estamos e o que chama atenção? |
+| Mudança | antes/depois, linha do tempo ou mapa de transição | o que muda, onde e com qual efeito? |
+| Diagnóstico | esperado/observado, fluxo com ruptura, 5 Porquês ou Ishikawa | onde a realidade diverge e por quê? |
+| Decisão | matriz, árvore de decisão ou opções comparadas | qual opção vence por qual critério? |
 
-Se o pedido nomeia o artefato, use esse artefato. Se nomeia uma decisão, use o artefato que
-possui a decisão. Se só pede entendimento, use a fonte do estado. Sem artefato aplicável,
-produza somente a leitura visual; não invente um componente do método.
+Use **um visual principal por pergunta**. Uma tabela curta pode servir como legenda ou
+prova. Dois visuais só entram quando respondem perguntas diferentes e ambas são necessárias
+para a mesma decisão.
 
-## Primitivas visuais
+## Semântica visual fixa
 
-| Relação que precisa aparecer | Primitiva | Regra principal |
-|---|---|---|
-| ordem, handoff ou espera | fluxo | rotule a condição apenas quando ela muda o caminho |
-| distribuição, limite, idade e bloqueio | fotografia Kanban | mostre limite na coluna e bloqueio no cartão |
-| papéis e esperas | raias | pessoa e executor ficam em linhas distintas |
-| meta e gap | atual × desejado | compare a mesma medida, unidade, escopo e período |
-| regra ou processo alterado | antes × depois | destaque só o ponto que mudou |
-| falha | esperado × observado | destaque a primeira divergência |
-| cadeia dominante de causa | 5 Porquês | cada elo pede evidência |
-| causas paralelas | Ishikawa | cada ramo traz evidência e fonte |
-| origem e destino de um item | dependência ou linhagem | foco destacado, contexto comprimido |
-| escolha por duas dimensões | matriz | posição sem critério medido fica estimada |
-| respostas que mudam o caminho | árvore | cada folha termina em decisão ou aberto |
-| cadência ou marcos | linha do tempo | compromissos usam datas exatas |
-| três a cinco números | painel | número sem fonte não vira gráfico |
-| muitos atributos exatos | tabela | priorize leitura precisa, não decoração |
+- **Base:** contexto necessário, sem destaque.
+- **Foco:** elemento que responde à pergunta.
+- **Exceção:** risco, bloqueio ou divergência que pede atenção.
+- **Prova:** fonte, data e selo de procedência perto do dado.
 
-Use um visual principal por pergunta. Acrescente uma tabela curta apenas como legenda ou prova.
-Remova um nó: se a decisão não mudar, mantenha o nó removido. Tire as cores: o significado deve
-continuar legível. Leia apenas título, foco e fechamento: a resposta deve continuar clara.
+Em HTML, use os tokens dos modelos públicos: teal para marca, medido e ok; laranja para risco e
+estimativa; cinza para em aberto. Não use cor por decoração. Nunca dependa apenas da cor:
+repita o significado em texto, rótulo ou forma.
 
-## Semântica fixa
+## Contrato de saída
 
-- Base: contexto necessário, sem destaque.
-- Foco: elemento que responde à pergunta.
-- Exceção: risco, bloqueio ou divergência.
-- Prova: fonte, data e procedência perto do dado.
-- Teal: marca, medido e ok.
-- Laranja: risco e estimativa.
-- Cinza: em aberto.
+Quando a entrega escolhida for HTML, siga esta ordem. Para Word, Docs ou planilhas solicitados,
+siga a seção Entrega editável e preserve a informação do visual em conteúdo editável:
 
-Não dependa só da cor. Use rótulo, texto, borda, ícone textual ou forma para repetir o sentido.
+1. crie a fonte HTML;
+2. apresente-a na janela nativa do ambiente, como Artifact, Canvas, visualização ou prévia;
+3. se não houver forma nativa, grave o HTML autônomo e mostre o resumo visual no
+   terminal;
+4. informe o caminho do HTML apenas na alternativa ou quando o ambiente pedir;
+5. feche com prova, ponto em aberto e decisão ou próximo passo.
 
-## Molde da fonte Markdown
+Use a capacidade realmente disponível. Não invente comando, link ou artefato nativo.
+Se o recurso nativo falhar e o erro trouxer uma correção objetiva, faça uma correção. Sem
+progresso, aplique a alternativa e diga qual capacidade faltou.
 
-```markdown
-# <pergunta que o visual responde>
+### HTML nativo
 
-## Leitura
-<resposta direta em uma frase>
+- Siga o contrato de estrutura, tema, segurança e referência da superfície ativa.
+- Preserve a semântica GA 2.0: foco, exceção, prova, medido, estimado e em aberto.
+- Um fragmento `.html` é válido quando o ambiente exigir esse formato para mostrar o visual.
+- Não duplique no chat os dados que o artefato nativo já mostra.
 
-## Visual
-Intenção: <estado atual | mudança | diagnóstico | decisão>
-Primitiva: <tipo escolhido>
-<visual principal>
+### HTML autônomo
 
-## Prova
-| Afirmação | Selo | Fonte e data |
-|---|---|---|
-| | medido / estimado / em aberto | |
+Use HTML autônomo quando não houver superfície nativa ou quando o artefato precisar circular:
 
-## Decisão ou próximo passo
-- O que acontece agora:
-- Dono: <nome ou não definido>
-- Data: <data ou não definida>
-- Gate: <decisor ou nenhum>
-```
+1. leia `primitivas-visuais.md`;
+2. parta de `../assets/template-artefato.html`;
+3. gere HTML a partir da fonte atual; mantenha `.md` quando o fluxo precisar de versionamento;
+4. use o destino definido pela skill dona do artefato;
+5. sem destino definido, use a pasta escolhida pelo usuário, com nome curto para o HTML e fonte Markdown somente se necessária;
+6. use SVG inline apenas quando mostrar uma relação que a tabela não mostra;
+7. não acrescente biblioteca, CDN ou asset externo;
+8. valide abertura do arquivo, tema claro, tema escuro e leitura no celular.
 
-## Contrato do HTML
+O título do HTML é a pergunta. A frase de abertura responde essa pergunta. Todo número tem
+selo e fonte. A seção final mostra o que ainda está em aberto.
 
-Quando HTML for o formato escolhido, use a melhor superfície realmente disponível:
+### Resumo no terminal
 
-1. preview HTML interativo exposto pela sessão;
-2. Canvas ou visualização equivalente que aceite a fonte HTML;
-3. arquivo `.html` autocontido; fonte `.md` somente quando necessária ao fluxo.
+Mostre o resumo apenas na alternativa sem visual nativo. Use, nesta ordem:
 
-Não presuma capacidade por plano, marca ou modelo. Não invente tag, tool call, link ou preview.
-Se o recurso nativo falhar sem correção objetiva, use o arquivo autocontido.
+1. leitura em uma frase;
+2. tabela curta ou diagrama de texto monoespaçado;
+3. prova e pontos em aberto;
+4. decisão ou próximo passo;
+5. caminho absoluto do HTML.
 
-O HTML precisa:
+Só use Mermaid se o terminal confirmar que renderiza Mermaid. Mesmo assim, o Mermaid não
+substitui o HTML.
 
-- usar a pergunta como título;
-- responder em uma frase na abertura;
-- conter um único visual principal;
-- pôr fonte, data e selo perto de cada número;
-- encerrar com consequência, pontos em aberto e próxima decisão;
-- funcionar sem rede, CDN, biblioteca, fonte ou imagem externa;
-- usar SVG inline apenas quando ele revelar uma relação melhor que uma tabela;
-- adaptar-se a celular e aos temas claro e escuro;
-- preservar leitura sem cor.
+## Guardrails
 
-Estrutura mínima:
+- Não invente dado, causa, dono, prazo, aprovação ou vínculo entre itens.
+- Não desenhe uma árvore quando a resposta cabe em três linhas.
+- Não use um fluxograma para esconder incerteza; mostre o ponto em aberto.
+- Não misture estado atual e desejado sem rótulos claros.
+- Não destaque tudo. Se tudo chama atenção, nada orienta a decisão.
+- Não escolha a forma de entrega pelo nome do modelo. Escolha pelo ambiente e pelas capacidades
+  expostas nesta sessão.
+- CNV fica no chat por padrão; salve apenas quando solicitado, sem ampliar o compartilhamento.
+- Criar o visual não autoriza publicá-lo nem ampliar seu compartilhamento. Respeite o destino e as pessoas autorizados pelo usuário.
 
-```html
-<!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pergunta do visual</title>
-  <style>/* estilos internos, responsivos e sem dependência externa */</style>
-</head>
-<body>
-  <main>
-    <header><h1>Pergunta</h1><p>Leitura direta.</p></header>
-    <section aria-label="Visual principal"><!-- fluxo, matriz, cartões, SVG ou tabela --></section>
-    <section><h2>Prova</h2><!-- fontes, datas e selos --></section>
-    <section><h2>Decisão ou próximo passo</h2><!-- consequência e abertos --></section>
-  </main>
-</body>
-</html>
-```
+## Critério de pronto
 
-## Exemplo didático
-
-Pergunta: Onde o fluxo esperado divergiu do observado?
-
-```text
-ESPERADO   gatilho → executar → produzir entregas → leitura → decisão
-                       │
-OBSERVADO  gatilho → ERRO ───────────────→ nenhuma entrega
-                       ^ primeira divergência medida
-```
-
-A prova deve registrar a fonte do erro e a contagem observada. O efeito esperado da correção
-continua em aberto até uma execução real. Nomes, datas e valores do exemplo nunca viram dados do
-caso do usuário.
-
-## Guardrails e pronto
-
-- Não invente dado, causa, dono, prazo, gate ou vínculo.
-- Não use fluxograma para esconder incerteza; mostre o aberto.
-- Não misture atual e desejado sem rótulo.
-- Não destaque tudo.
-- A conversa CNV fica no chat por padrão; salve apenas quando solicitado, sem ampliar o compartilhamento.
-- O visual deve ser entendível em até 90 segundos.
-- Fato, estimativa e aberto permanecem distintos.
+- A pergunta aparece antes do visual.
+- O visual principal responde à pergunta em até 90 segundos.
+- A relação importante é legível sem depender de cor.
+- Fato, estimativa e ponto em aberto não se misturam.
+- A fonte está ao lado da afirmação que sustenta.
 - O fechamento nomeia consequência, decisão ou próximo passo.
-- A alternativa de HTML entrega arquivo autônomo e resumo; outros formatos seguem `entrega-editavel.md`.
+- Título, rótulos e fechamento não contêm jargão ou sigla sem explicação.
+- Uma pessoa sem vocabulário do método entende a leitura e a próxima decisão.
+- A execução entregou o formato solicitado; sem escolha explícita, gerou HTML.
+- A alternativa visual contém HTML autônomo e resumo; Markdown acompanha quando necessário ao fluxo.

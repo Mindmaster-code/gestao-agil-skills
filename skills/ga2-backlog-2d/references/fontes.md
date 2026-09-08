@@ -1,26 +1,13 @@
 # Fontes e procedência
 
-## Skills consolidadas
+- Passo 2 — Organizar o Trabalho: backlog, Backlog 2D, regras e diferenças entre as duas leituras.
+- Passo 4 — Ritmo Ágil: Backlog 2D (M06 A04) e refinamento contínuo.
+- Aulas: M04 A16 (backlog), A17 (Backlog 2D), A18 (tarefas pequenas); M06 A04; v6, módulo 03, aulas 08 (story map) e 09 (fechamento).
+- Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
+- Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
+- Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
 
-- `ga2-decisao-projeto-ou-fluxo`
-- `ga2-briefing-iniciativa`
-- `ga2-documentos-de-projeto`
-- `ga2-backlog-2d`
-- `ga2-plano-do-ciclo`
-
-Foram usados `SKILL.md`, `template.md`, `exemplo.md` e `checklist.md` de cada skill.
-
-## Conteúdo preservado
-
-Classificação por trabalho, três Ps, regra híbrida de quem cede, núcleo e variantes do briefing,
-sequência documental, Backlog 2D, E/D/O/Q, fatia fina, capacidade a 70%, dono, data e “pronto é”.
-
-## Normalização
-
-Exemplos reais, nomes, caminhos, cadências internas e regras de operação foram removidos. O
-exemplo usa uma empresa fictícia. Termos internos foram substituídos por papéis genéricos.
-
-## Acréscimos do laboratório
-
-O registro explícito de consumidor por documento, a regra de fonte única e a tabela de
-procedência por item tornam o dossiê auditável. São complementos identificados, não novas aulas.
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

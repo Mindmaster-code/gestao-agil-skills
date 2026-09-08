@@ -1,257 +1,112 @@
-# Fundamentos do Relatório A3
+# Relatório A3
 
-## O que é
+## O que é e quando usar
 
-O Relatório A3 organiza um problema e sua solução numa folha. O nome vem do formato do papel:
-dois A4 lado a lado.
+O A3 é o problema e a solução numa folha só (dois A4): lado esquerdo entende (contexto,
+situação atual, desejada, gap, causa raiz), lado direito resolve (contramedidas, plano de
+ação, métricas, acompanhamento, aprendizado). Contém o PDCA: Plan à esquerda; fim do Plan,
+Do, Check e Act à direita. "Um caso, um A3, um ciclo de melhoria."
 
-O limite de espaço força síntese. Se o caso não cabe, talvez existam dois problemas ou o
-diagnóstico ainda esteja confuso.
+Entra: um problema com gap grande o bastante (muda dinheiro, número, reputação ou
+decisão). Sai: o A3 vivo, revisado toda semana, que alimenta o briefing, o OKR e o
+backlog. Cadeia: **Canvas → A3 → Briefing → OKR → Backlog 2D → Kanban.** Nesta adaptação, todo projeto novo nasce com A3 antes do documento de abertura; toda métrica que cai vira A3.
 
-Regra central: **um caso, um A3, um ciclo de melhoria**.
+Esta skill monta o A3 inteiro. Para preencher por partes: `ga2-diagnostico` (campos 1–4)
+e `ga2-causa-raiz` (campo 5). Aqui o foco é o lado direito (6–10) e a folha fechada.
 
-## Quando usar
+## Fonte no método
 
-Use o A3 quando o gap muda dinheiro, número, cliente, reputação, risco ou decisão.
+- Passo 1 — Entender o Contexto: sete campos ao vivo (M03 A08), dez campos v6 (aulas 02, 03 e 05), PDCA no A3 e plano de ação.
+- Passo 0 — Fundamentos: PDCA e 5W2H (M02 A07); a aula permite usar o 5W2H no plano.
+- Templates oficiais: “Canvas Editável — A3” (v6, dez campos); Artefato 04 — “Template A3 GA2 editável”; M10 — “Relatório A3” (ao vivo, sete campos); “A3 plano de ação GA2”.
+- Materiais de demonstração: A3 lado esquerdo e A3 lado direito.
+- Exemplos do curso: M03 A08 — “A3 — Exemplo” (Lucro Total); Kit Implementação — Relatório A3 (Norte-Sul).
+- As diferenças de campos e a extensão do 5W2H estão explicadas abaixo; a revisão semanal é uma adaptação de acompanhamento.
 
-Não use um A3 completo para uma correção pequena, evidente e de baixo risco. Nesse caso,
-execute a ação direta e registre a prova.
+**Campos: 10 da v6 como superconjunto.** Os 7 do ao vivo são 1, 2, 3, 5, 6, 7, 8 (no ao
+vivo o gap mora dentro da "Análise de causa raiz"). Os campos **4 Gap, 9 Acompanhamento e
+10 Aprendizado** são só v6. O 5W2H no plano de ação é adaptação metodológica identificada: a aula exige o
+quê/quem/quando; as outras quatro colunas são `(adaptação metodológica)`.
+## Como conduzir
 
-Uma métrica que cai deve abrir investigação. Não use a métrica para procurar culpado.
+**Lado esquerdo (Plan)** — preencha da esquerda para a direita; nada de solução ainda.
 
-## Ordem do método
+1. **Cabeçalho:** Caso/Desafio · Responsável (dono único) · Data · Ciclo · Empresa.
+2. **1 Contexto** — por que importa, por que agora (2–3 frases; receita, cliente, custo, risco).
+3. **2 Situação atual** — só fato com número, fonte, data. Recuse "está ruim".
+4. **3 Situação desejada (ideal)** — número e prazo. Meta sem número volta.
+5. **4 Gap** — ideal − atual. Vale um A3? Se não, pare e arquive.
+6. **5 Causa raiz** — resultado dos 5 Porquês/Ishikawa; processo ou regra, nunca pessoa.
 
-O A3 liga entendimento e execução:
+**Lado direito (fim do Plan, Do, Check, Act)**
 
-1. Contexto;
-2. Situação atual;
-3. Situação desejada;
-4. Gap;
-5. Causa raiz;
-6. Contramedidas;
-7. Plano de ação;
-8. Métricas;
-9. Acompanhamento;
-10. Aprendizado.
+7. **6 Contramedidas** — uma por causa. Pergunta: "Isso ataca a causa? Se eu cortar, a causa continua?" Se não conecta, corta. Até 3.
+8. **7 Plano de ação (5W2H)** — uma linha por ação. Obrigatório: **o quê, quem (dono único), quando (data)**. Por quê vem da causa; como, onde e quanto custa completam quando há mais de um passo. Recuse linha sem dono ou sem data. Cartão maior que uma semana: cortar.
+9. **8 Métricas — como vou medir** — a **mesma medida** do campo 2, com frequência e onde mora. Se a métrica muda, volte ao campo 2.
+10. **9 Acompanhamento — como está indo** — quando revisa, com quem, e o registro por semana ("semana 4: caiu para 40h"). Adaptação de acompanhamento: revisão semanal, no dia combinado com o dono; não é frequência atribuída à aula.
+11. **10 Aprendizado do ciclo** — no fim: o que repetir, o que evitar, o que vai para o próximo ciclo. O A3 é vivo; não é para emoldurar.
+12. **Leia a folha como história**, da esquerda para a direita, com o dono. Submeta ao decisor se o plano precisa de aprovação (verba, pessoa, estrutura → aprovação do decisor competente).
 
-Preencha da esquerda para a direita. Não proponha contramedida antes de entender o gap e a
-causa.
+## Regras do método que valem aqui
 
-## Duas versões compatíveis
+- **Preencha da esquerda para a direita.** "A coluna da direita só fica boa depois que a da esquerda tiver número." (v6 aula 03)
+- **Contramedida tem que atacar a causa raiz. Se não conecta, corta.** (v6 aula 05)
+- **Plano de ação sem dono e prazo é intenção.** Cada linha: o quê, quem, quando. (M03 A08; v6 aula 05)
+- **Métrica do lado direito = mesma medida do lado esquerdo.** (v6 aula 05)
+- **O A3 é vivo: volte, meça, ajuste e registre o aprendizado.** (v6 aula 05)
+- **Cabe numa página.** "Se não cabe, você ainda não entendeu o problema." (v6 aula 02; M03 A08)
+- **Um caso por A3.** (Canvas Editável A3)
+- **O A3 dá início a um PDCA**; Plan = contexto até contramedidas; Do = plano; Check e Act = acompanhamento. (M02 A07)
+- **Como, onde e quanto** ficam para o briefing e o planejamento quando não cabem na folha. (M03 A08)
 
-O material ao vivo usa sete campos:
+## Saída
 
-1. Contexto;
-2. Situação atual;
-3. Situação ideal;
-4. Análise de causa raiz, com o gap;
-5. Solução proposta ou contramedidas;
-6. Plano de ação;
-7. Métricas de acompanhamento.
+- Mantenha um único documento do A3, com os dois lados, na pasta escolhida pelo usuário. Atualize o existente.
+- Depois: contramedidas viram iniciativas na ponte A3 → OKR; o plano vira Backlog 2D; as métricas alimentam os KRs e o acompanhamento do período.
+- Integre a revisão semanal ao ritual de revisão do ciclo e ao informe do responsável. O cartão no portfólio registra o quê, por quê, dono, pronto é, prazo e dependências.
 
-A versão v6 usa dez campos. Ela separa o Gap e acrescenta Acompanhamento e Aprendizado.
+## Formas de saída
 
-Este GPT usa os dez campos como superconjunto. Ao revisar um A3 antigo de sete campos, não o
-trate como errado. Mapeie os conteúdos equivalentes e mostre apenas as lacunas reais.
+Leia [Entrega editável](entrega-editavel.md). O pedido e o documento existente definem formato e destino.
+Padrão desta skill, sem formato definido: documento Word `.docx`; Google Docs quando esse for o destino escolhido.
+Gere e reabra a entrega real; em revisões, atualize o mesmo documento, preservando edições humanas, IDs e evidências.
+Markdown serve ao versionamento quando necessário. HTML sai quando escolhido; não é cópia obrigatória de Word, Docs ou planilhas.
+Preserve os campos e a ordem de [template.md](template.md) e confira [checklist.md](checklist.md).
 
-## A3 e PDCA
+Modelos para HTML/canvas quando essa for a entrega escolhida:
 
-| PDCA | Parte do A3 | Conteúdo |
+| Modelo | Origem | Pedido que o escolhe | Estado |
+|---|---|---|---|
+| `../assets/modelos/canvas-a3-kit-10.html` **(padrão)** | Relatório A3 · família kit 10 | "no canvas do kit" | pronto |
+| `../assets/modelos/canvas-a3-v6.html` | Canvas Editável — A3 · família v6 | "no canvas v6" | pronto |
+
+
+Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
+Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.
+Confira IDs, campos sem preencher, ausência de `{{` residual, conteúdo sem estouro e uma página quando o modelo exigir.
+
+### Regras da forma HTML
+
+Use as cores e a tipografia do modelo, sem CSS criado do zero nem paleta genérica. Teal `#3D9B9D` indica marca e medido; laranja `#F97316`, risco e estimado; cinza `#576270`, em aberto; tipografia Manrope.
+Linguagem curta e autoexplicativa: frases de 20–25 palavras, uma ideia por frase, termos comuns e jargão traduzido na primeira aparição. O título diz a consequência. Corte palavras, nunca números ou fontes.
+Todo número tem estado (medido, estimado com premissa, ou em aberto) e fonte reconferível. O que o sistema faria permanece em aberto, não medido. Não apresente número sem fonte.
+Identifique dono do resultado, participantes, decisor e quem aceita a entrega. Se houver agentes de IA, separe-os das pessoas. Sem nome na fonte, escreva “não definido”.
+No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a conferência de Entrega editável.
+
+## Adaptação
+
+| Régua | Quando | O que preencher |
 |---|---|---|
-| Plan — planejar | lado esquerdo e início do direito | contexto, atual, desejado, gap, causa, contramedidas e plano |
-| Do — executar | lado direito | plano executado e prova |
-| Check — verificar | lado direito | métrica comparada com a linha de base e acompanhamento |
-| Act — agir | lado direito | aprendizado, padronizar, ajustar ou descartar |
-
-O A3 inicia o PDCA. O documento continua vivo durante a execução.
-
-## Cadeia dos artefatos
-
-Quando houver visão e desdobramento estratégico, use esta cadeia:
-
-**Canvas de Visão → A3 → Briefing → OKR → Backlog 2D → Kanban**.
-
-- O Canvas define o norte.
-- O A3 entende o gap e escolhe contramedidas.
-- O Briefing detalha a iniciativa.
-- O OKR transforma o resultado em objetivo e medidas.
-- O Backlog corta o trabalho em entregas.
-- O Kanban controla a execução.
-
-Não force toda a cadeia quando o usuário só precisa diagnosticar um caso.
-
-## Regras de evidência
-
-Classifique toda afirmação:
-
-- **Medido:** fonte e data permitem reconferir.
-- **Estimado:** premissa e conta estão explícitas.
-- **Opinião:** percepção de alguém, sem prova suficiente.
-- **Hipótese:** explicação que ainda será testada.
-- **Em aberto:** informação necessária ainda não disponível.
-
-Não invente número, fonte, causa, dono ou decisão.
-
-## Régua de adaptação
-
-### Leve
-
-Uma pessoa, menos de um mês e causa evidente. Use contexto curto, atual, desejado, causa,
-contramedida, plano mínimo e acompanhamento.
-
-### Intermediária
-
-Uma área ou caso de um a três meses. Use os dez campos, 5W2H e revisão periódica.
-
-### Robusta
-
-Várias áreas, dinheiro, reputação ou aprovação externa. Acrescente Ishikawa, custo por ação,
-dependências e decisor.
-
-A forma muda. A ordem não muda.
-
-## Critério de bem feito
-
-O A3 lê como uma história:
-
-**isto importa → hoje acontece X → queremos Y → o gap é Z → a causa provada é C → faremos
-M → mediremos a mesma coisa → aprendemos A**.
-
-Se alguma seta dessa história não se sustenta, o A3 ainda não está pronto.
-
----
-
-# Template do Relatório A3 — dez campos
-
-Use este modelo na saída final. Remova ajudas e linhas vazias depois de preencher.
-
-## Cabeçalho
-
-| Campo | Conteúdo |
-|---|---|
-| Caso ou desafio | |
-| Responsável único | |
-| Área ou empresa | |
-| Data | |
-| Ciclo ou período | |
-| Régua | leve / intermediária / robusta |
-| Recorte | entra / fica fora |
-
-## Lado esquerdo — entender o problema
-
-### 1. Contexto
-
-Por que importa e por que agora. Impacto, afetados e restrições. Duas ou três frases.
-
-### 2. Situação atual
-
-| Fato | Número e unidade | Período | Fonte | Data | Estado |
-|---|---|---|---|---|---|
-| | | | | | medido / estimado / em aberto |
-
-#### Mapa atual do fluxo — quando necessário `(acréscimo do laboratório)`
-
-| Etapa | Dono | Entrada | Saída | Execução | Espera | Trava ou retorno |
-|---|---|---|---|---|---|---|
-| | | | | | | |
-
-#### Linha de base `(acréscimo do laboratório)`
-
-| Métrica | Valor | Período | Fonte | Frequência | Quem lê |
-|---|---:|---|---|---|---|
-| | | | | | |
-
-### 3. Situação desejada
-
-De ______ para ______ até ____/____/______.
-
-### 4. Gap
-
-| Métrica | Atual | Desejado | Gap | Conta | Vale um A3? |
-|---|---:|---:|---:|---|---|
-| | | | | | |
-
-### 5. Causa raiz
-
-#### Cadeia dos 5 Porquês
-
-| Nível | Resposta | Evidência | Estado |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-
-**Causa prioritária:**
-
-**Dependências:**
-
-## Lado direito — escolher e acompanhar a solução
-
-### 6. Contramedidas
-
-| # | Contramedida | Causa atacada | Mecanismo | Evidência de efeito | Risco |
-|---|---|---|---|---|---|
-| C1 | | | | | |
-
-### 7. Plano de ação
-
-| # | O quê | Por quê | Quem | Quando | Onde | Como | Quanto | Pronto é | Estado |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | | |
-
-O quê, Quem e Quando são obrigatórios. Onde, Como, Quanto e Pronto é completam a execução
-como `(acréscimo do laboratório)`.
-
-### 8. Métricas
-
-| Métrica | Linha de base | Meta | Frequência | Fonte | Quem lê |
-|---|---:|---:|---|---|---|
-| | | | | | |
-
-### 9. Acompanhamento
-
-| Data | Número medido | O que travou | Ajuste | Prova |
-|---|---:|---|---|---|
-| | | | | |
-
-**Próxima revisão:**
-
-**Participantes:**
-
-### 10. Aprendizado
-
-| Campo | Conteúdo |
-|---|---|
-| O que funcionou | |
-| O que não funcionou | |
-| O que repetir | |
-| O que evitar | |
-| Act | padronizar / ajustar / descartar |
-| Onde foi padronizado ou próximo ciclo | |
-
-## Evidências e fontes
-
-| Afirmação | Fonte | Data | Estado |
-|---|---|---|---|
-| | | | |
-
-## Informações em aberto
-
-| Informação | Por que importa | Quem obtém | Até quando | O que bloqueia |
-|---|---|---|---|---|
-| | | | | |
-
-## Próxima decisão
-
-| Decisão | Decisor | Data do pedido | Critério | Estado |
-|---|---|---|---|---|
-| | | | | |
-
-## Classificação final
-
-- Pronto para executar;
-- Pronto com ressalvas;
-- Bloqueado por evidência;
-- Bloqueado por decisão.
+| Leve | 1 pessoa, < 1 mês, causa evidente | campos 1–3, 5–8 em uma página; plano só com o quê/quem/quando; acompanhamento numa linha |
+| Intermediária | área, 1–3 meses | os 10 campos; plano 5W2H; revisão semanal registrada |
+| Robusta | atravessa áreas, dinheiro, aprovação da direção ou conselho | os 10 campos + Ishikawa anexo + custo por linha + submissão formal ao decisor + métricas espelhando KR |
+
+## Erros comuns
+
+- Pular para a solução antes da causa — "vira mural decorativo".
+- Contramedida que não conecta com nenhuma causa escrita.
+- Plano com "time" como dono ou "em breve" como data.
+- Métrica do lado direito diferente da situação atual — impossível comparar antes e depois.
+- A3 emoldurado: nenhuma linha em "Acompanhamento" depois de três semanas.
+- Texto que não cabe numa página — sinal de que o caso não está entendido ou são dois casos.
+- Submeter à diretoria sem número no lado esquerdo.

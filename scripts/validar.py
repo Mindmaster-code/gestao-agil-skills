@@ -3,10 +3,13 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
 from pathlib import Path
+
+from exportar_metodo import verify
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,9 +39,17 @@ def fail(message: str) -> None:
     raise SystemExit(1)
 
 
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--fonte", type=Path, help="confere também a paridade com o projeto canônico atual")
+args = parser.parse_args()
+try:
+    verify(SKILLS, args.fonte)
+except (OSError, ValueError, KeyError) as error:
+    fail(str(error))
+
 directories = sorted(path for path in SKILLS.glob("ga2-*") if path.is_dir())
-if len(directories) != 31:
-    fail(f"esperadas 31 skills; encontradas {len(directories)}")
+if len(directories) != 32:
+    fail(f"esperadas 32 skills; encontradas {len(directories)}")
 
 for directory in directories:
     required = (
@@ -96,10 +107,10 @@ trails = (ROOT / "docs/TRILHAS.md").read_text(encoding="utf-8")
 documented = set(re.findall(r"`(ga2-[a-z0-9-]+)`", trails))
 expected = {directory.name for directory in directories}
 if documented != expected:
-    fail("o mapa das trilhas não cobre exatamente as 30 habilidades")
+    fail("o mapa das trilhas não cobre exatamente as 32 habilidades")
 
 for path in ROOT.rglob("*"):
-    if not path.is_file() or ".git" in path.parts or path.name in {"validar.py", "montar_construtor.py"}:
+    if not path.is_file() or ".git" in path.parts or path.name in {"validar.py", "montar_construtor.py", "exportar_metodo.py"}:
         continue
     if path.suffix.lower() not in {".md", ".html", ".yaml", ".yml", ".txt", ".json", ".py"}:
         continue
@@ -121,4 +132,5 @@ for item in manifesto["oficiais"]:
         if not path.is_file():
             fail(f"modelo ausente: {path.relative_to(ROOT)}")
 
-print(f"OK: plug-in, 31 habilidades, {len(manifesto['oficiais'])} canvas com modelo e template, seis trilhas e dez testes válidos.")
+scope = "integridade e paridade com a fonte" if args.fonte else "integridade do pacote"
+print(f"OK: {scope}; {len(directories)} habilidades, {len(manifesto['oficiais'])} canvas e seis trilhas. Dez casos de submissão conferidos estruturalmente, não executados.")

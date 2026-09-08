@@ -1,32 +1,10 @@
 # Fontes e procedência
 
-## Skills consolidadas
+- Base do método — Passo 6: Liderança de Times §2.15 (feedback: quatro frases, quatro regras, pedir antes de dar), §4.9 (as duas versões e exemplos), §6.1 ("Feedback 360 do Gestor Ágil"), §8.3 (divergência).
+- Aulas: v6 pasta 07 aula 08 (caso da Ana: seis pessoas, padrão "combina na revisão e na segunda vem diferente"). Ao vivo: sem transcrição; slides GA — Aula Canvas Feedback 360, M08 (7 páginas) e `Exemplo Canvas Feedback 360.pdf` (Armando Júnior). A09 cita o Feedback Canvas do Appelo (sem template).
+- Templates: v6 Feedback 360 e Roteiro, Passo 6, v6; ao vivo Canvas Feedback 360, Kit M10; exemplo Kit Feedback 360 preenchido, Kit de Implementação (referência bibliográfica) (Mariana).
 
-- `ga2-quem-faz-o-que`
-- `ga2-delegacao`
-- `ga2-canvas-de-conversa-cnv`
-- `ga2-feedback-360`
-- `ga2-pdi`
-
-Foram lidos `SKILL.md`, `template.md`, `exemplo.md` e `checklist.md` de cada skill.
-
-## Preservado
-
-Papéis e fronteiras, sete níveis, marcação silenciosa, quatro passos da CNV, 4–6 perspectivas,
-padrão de duas respostas, dois focos, PDI cocriado, uma lacuna e 70-20-10.
-
-## Normalização
-
-Nomes, avaliações, caminhos, dados e estruturas internas foram removidos. O exemplo é fictício.
-O Knowledge não inclui conteúdo pessoal real nem regras de autoridade de uma organização específica.
-
-## Divergências documentadas
-
-Materiais anteriores usam quatro níveis de delegação com leitura invertida; a referência principal
-usa sete. Versões de PDI de carreira e por ciclo também diferem. O GPT deve declarar a variante
-quando isso afetar a saída.
-
-## Acréscimos do laboratório
-
-Separação formal de gate/aceite, privacidade do canvas CNV e minimização de dados reforçam uso
-seguro. Não substituem políticas humanas ou legais da organização.
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

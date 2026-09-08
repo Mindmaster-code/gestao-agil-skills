@@ -1,26 +1,10 @@
 # Fontes e procedência
 
-## Skills consolidadas
+- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; v6 aula 08.
+- Template oficial: Canvas Editável — Roteiro do Vá e Veja, v6, Passo 5 (referência de origem; modelo público nos assets).
+- Regra de verificação adotada pelo laboratório: "pronto só depois de verificar pelo caminho real do usuário".
 
-- `ga2-review-do-ciclo`
-- `ga2-retrospectiva`
-- `ga2-quadro-kaizen`
-- `ga2-folha-de-experimento`
-- `ga2-gemba-walk`
-
-Foram lidos `SKILL.md`, `template.md`, `exemplo.md` e `checklist.md` de cada skill.
-
-## Preservado
-
-Meta copiada, prova real, decisão por compromisso, ação única da retro, sinal→aposta→aprendizado,
-seis perguntas do experimento, perda limitada, gate e observação sem corrigir.
-
-## Normalização
-
-Casos, nomes, números, caminhos e comandos internos foram removidos. O exemplo é fictício. Regras
-específicas de report e infraestrutura não pertencem ao Knowledge do aluno.
-
-## Acréscimos do laboratório
-
-Fila de Kaizen, rótulo explícito de procedência e destino formal do fato do Gemba complementam
-os artefatos. Estão identificados como apoio operacional, não como substituição do método.
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

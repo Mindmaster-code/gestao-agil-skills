@@ -1,26 +1,13 @@
 # Fontes e procedência
 
-## Skills consolidadas
+- Passo 2 — Organizar o Trabalho: conceito de POP, regras e campos consolidados.
+- Aula e slides: M04 A13 — “Padronizando Processos — POP”; não há aula v6 de POP.
+- Template legado: M10 — “Canvas POP” (PDF estático, 11 blocos); sem editável nas fontes citadas.
+- Exemplo da aula: M04 A13 — “Exemplo Canvas POP” (aprovação de projetos, APPROJ001).
+- Exemplo do curso: Kit Implementação — “Conferência padrão de separação” (POP-SEP-001).
+- Critério de qualidade e revisão são adaptações metodológicas; a origem de cada campo está na tabela abaixo.
 
-- `ga2-kanban-canvas`
-- `ga2-politicas-wip-urgencia`
-- `ga2-gestao-diaria`
-- `ga2-checklist-producao-entrega`
-- `ga2-pop`
-
-Foram lidos `SKILL.md`, `template.md`, `exemplo.md` e `checklist.md` de cada skill.
-
-## Preservado
-
-Desenho do fluxo, cartão e políticas; bloqueado na coluna; WIP atual menos um como início;
-urgência em cinco linhas; diária de 15 minutos; DoR/DoD; POP completo e teste por pessoa nova.
-
-## Normalização
-
-Foram removidos sistemas, comandos, nomes, dados e regras de infraestrutura. O exemplo integrado
-é fictício. Instruções específicas de agentes não entram no Knowledge do aluno.
-
-## Acréscimos do laboratório
-
-Procedência por número, verbo honesto de entrega e registro explícito de gate/aceite complementam
-o método. Não alteram as regras centrais de fluxo.
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

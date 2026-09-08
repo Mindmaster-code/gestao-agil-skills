@@ -7,6 +7,8 @@ import argparse
 import hashlib
 import io
 import re
+import subprocess
+import sys
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
@@ -53,7 +55,9 @@ def add_file(archive: ZipFile, path: Path) -> None:
     archive.writestr(info, path.read_bytes())
 
 
-def package(output_dir: Path) -> tuple[Path, str]:
+def package(output_dir: Path, source: Path) -> tuple[Path, str]:
+    # Um ZIP novo só nasce depois de conferir a fonte atual, não apenas os hashes antigos.
+    subprocess.run([sys.executable, str(ROOT / "scripts/validar.py"), "--fonte", str(source)], check=True)
     if not re.fullmatch(r"\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?", VERSION):
         raise ValueError("VERSION precisa conter uma versão semântica válida")
     buffer = io.BytesIO()
@@ -79,10 +83,11 @@ def package(output_dir: Path) -> tuple[Path, str]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--fonte", type=Path, required=True, help="projeto canônico atual; obrigatório para impedir pacote desatualizado")
     parser.add_argument("--saida-dir", type=Path, default=OUTPUT_DIR,
                         help="Destino; use uma pasta temporária para testar antes da versão final")
     args = parser.parse_args()
-    output, digest = package(args.saida_dir)
+    output, digest = package(args.saida_dir, args.fonte)
     print(f"Pacote: {output}")
     print(f"SHA-256: {digest}")
 

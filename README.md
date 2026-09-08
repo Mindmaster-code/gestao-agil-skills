@@ -24,18 +24,29 @@ No ChatGPT, digite `@` e escolha o plug-in ou uma habilidade. No Codex, cite uma
 habilidade com `$`, como `$ga2-relatorio-a3`. Também é possível pedir o resultado
 em linguagem comum e deixar o ambiente selecionar a habilidade adequada.
 
-> Status: publicado no diretório público de plug-ins. A versão atual está indicada em
-> [VERSION](VERSION).
+> A versão deste checkout está em [VERSION](VERSION). Alterar este repositório não
+> atualiza o diretório nem o plugin instalado. Esta revisão local ainda não foi publicada.
 
 Para gerar o arquivo de distribuição:
 
 ```bash
-python3 scripts/empacotar_plugin.py
+python3 scripts/empacotar_plugin.py --fonte /caminho/do/projeto-canonico
 ```
 
 Os dez casos de validação e regressão estão em
 [tests/plugin-submission-cases.json](tests/plugin-submission-cases.json). O roteiro
 de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
+
+## Uma fonte para o método
+
+As 31 skills de método vêm das skills canônicas do projeto, não dos pacotes de GPTs.
+`ga2-abrir-projeto` é a exceção mantida diretamente neste pacote: são 32 no total.
+Cada skill de método inclui instruções completas, template, exemplo fictício e checklist;
+Me Mostra usa os critérios de pronto do próprio método e três referências visuais adicionais.
+
+As adaptações retiram caminhos e operação privados, sem transformar o método em resumo.
+O manifesto `skills/procedencia.json` registra hashes das fontes e das entregas.
+Leia [Como atualizar sem perder o método](docs/FONTE-DO-METODO.md) antes de regenerar.
 
 ## Instalação das habilidades por pasta
 

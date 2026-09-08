@@ -11,7 +11,7 @@ description: "Registra uma melhoria pequena com sinal, aposta, dono, prazo, apre
 2. Confirme qual decisão ou resultado o usuário precisa alcançar.
 3. Separe fatos, estimativas e pontos ainda sem resposta.
 4. Aplique os campos e a sequência descritos na referência.
-5. Escolha a forma leve, intermediária ou completa conforme o risco do caso.
+5. Siga o nível de detalhe previsto no método para o caso; não force campos de outra variante.
 6. Feche com consequência, próximo passo, dono e data quando esses dados existirem.
 
 ## Linguagem obrigatória
@@ -46,6 +46,13 @@ afirmação do método.
 - Todo número tem fonte ou está marcado como estimativa ou ponto em aberto.
 - O próximo passo não fica escondido.
 - O arquivo ou documento foi reaberto e conferido; suas exportações refletem a fonte atual.
+
+## Recursos específicos desta habilidade
+
+O método completo está em `references/metodo.md`; ele define a sequência e as regras específicas.
+Ao preencher o artefato, leia `references/template.md` por inteiro e preserve seus campos.
+Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nunca evidência do caso do usuário.
+Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 ## Canvas oficial e documento
 

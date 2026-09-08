@@ -78,3 +78,10 @@ Padrão desta skill, sem formato definido: visual HTML; Word `.docx`, Google Doc
 O formato pedido e o documento existente orientam a entrega. Referências de HTML aplicam-se somente à saída visual. Use ferramentas de arquivos ou integração disponível.
 Nas revisões, leia e atualize o mesmo documento, preservando edições humanas, IDs e evidências.
 Markdown serve ao versionamento quando necessário; HTML sai para visualização ou quando pedido, sem cópias obrigatórias.
+
+## Recursos específicos desta habilidade
+
+O método completo está em `references/metodo.md`; ele define a sequência e as regras específicas.
+Ao preencher o artefato, leia `references/template.md` por inteiro e preserve seus campos.
+Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nunca evidência do caso do usuário.
+Antes de entregar, confira os critérios de pronto de `references/metodo.md`.
