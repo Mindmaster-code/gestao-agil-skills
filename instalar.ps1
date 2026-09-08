@@ -41,6 +41,7 @@ if ($Targets.Count -eq 0) {
 foreach ($Target in ($Targets | Select-Object -Unique)) {
     New-Item -ItemType Directory -Force -Path $Target | Out-Null
     $Backup = Join-Path $Target ".ga2-backup\$Timestamp"
+    $InstalledCount = 0
 
     foreach ($Source in Get-ChildItem -Path $SkillsDir -Directory -Filter "ga2-*") {
         $Destination = Join-Path $Target $Source.Name
@@ -49,7 +50,8 @@ foreach ($Target in ($Targets | Select-Object -Unique)) {
             Move-Item -Path $Destination -Destination (Join-Path $Backup $Source.Name)
         }
         Copy-Item -Path $Source.FullName -Destination $Destination -Recurse
+        $InstalledCount++
     }
 
-    Write-Output "Instaladas 31 skills em $Target"
+    Write-Output "Instaladas $InstalledCount skills em $Target"
 }

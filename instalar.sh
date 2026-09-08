@@ -13,6 +13,7 @@ install_to() {
   local target="$1"
   local backup="$target/.ga2-backup/$TIMESTAMP"
   local source name destination
+  local count=0
 
   mkdir -p "$target"
 
@@ -26,9 +27,10 @@ install_to() {
     fi
 
     cp -R "$source" "$destination"
+    count=$((count + 1))
   done
 
-  printf 'Instaladas 31 skills em %s\n' "$target"
+  printf 'Instaladas %s skills em %s\n' "$count" "$target"
 }
 
 if [[ $# -eq 0 ]]; then
