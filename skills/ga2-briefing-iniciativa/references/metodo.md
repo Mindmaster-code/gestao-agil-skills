@@ -37,6 +37,7 @@ dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), nã
 5. **Escopo: entra / fica de fora.** Pergunta: "O que fica de fora de propósito?" Recuse escopo sem "fica de fora".
 6. **Campo de destaque do tipo:**
    - **Projeto:** entregas e marcos (o quê, até quando) · prazo · **critério de pronto** (frase verificável).
+     **Se o gestor não trouxe as entregas, proponha.** Ele quase nunca chega com a lista pronta; ela nasce aqui. Monte de 4 a 7 entregas macro a partir do que a entrevista, o A3 ou a conversa disseram que "entra" no escopo: cada item do "entra" vira uma entrega escrita como resultado que existe no fim ("processo de conferência escrito e validado", não "escrever processo"). Ordene na sequência natural do projeto (entender → desenhar → construir → testar → implantar), pergunte quem responde por cada uma e puxe o marco de trás para frente a partir do prazo final e do marco intermediário que o gestor já deu. Apresente a lista inteira de uma vez, cada linha marcada `[confirmar]`, e peça aceite item a item: aceita, troca ou corta. Só grave o que ele aceitou. Se o projeto tem equipe, sugira levar a lista à reunião de abertura e registrar o que o time mudou.
    - **Produto:** pra quem é · valor entregue · **métrica de evolução** (de → para, com prazo).
    - **Processo:** fluxo — como é hoje → como passa a ser · **indicador do processo** (de → para, com prazo).
    Recuse "número que prova" ausente.

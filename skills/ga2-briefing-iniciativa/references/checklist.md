@@ -9,6 +9,7 @@
 - [ ] Escopo tem "entra" **e** "fica de fora".
 - [ ] Campo de destaque do tipo preenchido com número e prazo:
   - projeto → entregas/marcos, prazo, critério de pronto verificável pelo caminho real;
+    (entregas que o gestor não trouxe foram propostas a partir do "entra", com marco puxado do prazo, e aceitas item a item — nenhuma gravada sem aceite);
   - produto → pra quem, valor, métrica de evolução de → para;
   - processo → fluxo hoje → passa a ser, indicador de → para.
 - [ ] Equipe e interessados nomeados; "quem precisa saber antes" respondido.
@@ -29,6 +30,7 @@
 | Sem número que prova | "vai ficar melhor" | critério de pronto / métrica / indicador com prazo |
 | Mora na cabeça | pedido por mensagem, sem arquivo | escrever, ler junto, salvar no documento escolhido pelo usuário |
 | Página inchada | recursos, riscos e história em três páginas | régua leve: 8 linhas |
+| Entregas em branco | gestor diz "não sei quais são as entregas" e o briefing para, ou a IA inventa | propor 4–7 a partir do "entra", marcar `[confirmar]`, aceitar item a item |
 | Antes do A3 | briefing de solução sem problema medido | voltar a `ga2-diagnostico` |
 | Gate escondido | descobrir uma decisão externa por vez | mapear todas em "onde trava" |
 
