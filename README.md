@@ -1,6 +1,6 @@
 # Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório distribui 31 habilidades do Gestão Ágil 2.0 em um único plug-in e
+Este repositório distribui 32 habilidades do Gestão Ágil 2.0 em um único plug-in e
 mantém os instaladores por pasta para ambientes compatíveis.
 
 O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
@@ -9,7 +9,10 @@ autenticação externa.
 ## Plug-in Gestão Ágil 2.0
 
 O aluno instala o plug-in uma vez e usa as habilidades dentro do Projeto do seu
-caso real. O conteúdo está organizado pedagogicamente em seis trilhas:
+caso real. **Comece por Abrir projeto (`ga2-abrir-projeto`)** para criar ou organizar
+a pasta do caso, definir o responsável e registrar o próximo passo.
+
+Depois, o conteúdo está organizado pedagogicamente em seis trilhas:
 
 1. Diagnóstico e A3;
 2. Estratégia e objetivos;
@@ -53,6 +56,17 @@ Use `--conferir` (PowerShell: `-Conferir`) para comparar a instalação com o pa
 
 O pacote também funciona com Claude, Codex, Cursor, OpenCode e ambientes que leem
 pastas no formato `SKILL.md`.
+
+## Primeira habilidade: Abrir projeto
+
+`ga2-abrir-projeto` adapta a organização de projetos da `project-scaffold` para
+o contexto de qualquer equipe. Reúne definição do projeto, andamento, decisões e
+evidências numa pasta durável, com um único responsável pela entrega.
+
+Peça: “Abra meu projeto e organize o objetivo, os responsáveis e os documentos.”
+Se a pasta já existir, a habilidade a mantém sem duplicar o projeto.
+Sem acesso a arquivos, entrega os documentos para copiar. As demais habilidades
+continuam disponíveis diretamente para pedidos pontuais.
 
 ## O que uma habilidade faz
 

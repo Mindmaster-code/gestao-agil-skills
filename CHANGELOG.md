@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 0.4.0 — 06/09/2026
+
+- 32 habilidades: entra `ga2-abrir-projeto`, adaptação pública da `project-scaffold`.
+- Abertura de projeto passa a ser o primeiro passo do catálogo e da jornada integrada.
+- A nova habilidade organiza responsável, definição do projeto, andamento, aprovações e evidências; também mantém projetos existentes.
+
 ## 0.3.0 — 04/09/2026
 
 - 31 habilidades: entra `ga2-canvas-de-planejamento` (a folha de nove blocos da versão ao vivo do curso).

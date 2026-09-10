@@ -4,6 +4,14 @@ As trilhas organizam o aprendizado; as habilidades continuam independentes. O al
 pode chamar uma habilidade diretamente ou descrever o resultado esperado para o
 plug-in escolher o fluxo adequado.
 
+## Comece aqui — Abrir projeto
+
+- `ga2-abrir-projeto` — primeira habilidade da jornada: cria ou mantém a pasta do
+  caso, com definição do projeto, responsável, andamento, decisões e evidências.
+
+Use ao iniciar um trabalho que atravessa várias sessões. Uma dúvida ou um artefato
+pontual pode ir direto à habilidade correspondente, sem abrir projeto.
+
 ## 1. Diagnóstico e A3
 
 - `ga2-diagnostico`
@@ -59,6 +67,7 @@ visual sem criar uma segunda versão conceitual do documento.
 
 ## Caminho integrado do método
 
+0. `ga2-abrir-projeto` — organizar a pasta e o contexto do caso;
 1. `ga2-relatorio-a3` — entender e estruturar o problema;
 2. `ga2-okr-canvas` — traduzir a mudança em objetivo e resultados-chave;
 3. `ga2-backlog-2d` — organizar entregas e tarefas;

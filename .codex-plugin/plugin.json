@@ -1,7 +1,7 @@
 {
   "name": "gestao-agil-2",
-  "version": "0.3.0",
-  "description": "Kit educacional com 31 habilidades do método Gestão Ágil 2.0.",
+  "version": "0.4.0",
+  "description": "Kit educacional com 32 habilidades do método Gestão Ágil 2.0.",
   "author": {
     "name": "MindMaster",
     "url": "https://mindmaster.com.br/"
@@ -33,6 +33,7 @@
     "privacyPolicyURL": "https://github.com/Mindmaster-code/gestao-agil-skills/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/Mindmaster-code/gestao-agil-skills/blob/main/TERMS.md",
     "defaultPrompt": [
+      "Abra meu projeto com objetivo, responsável, documentos e próximo passo.",
       "Diagnostique meu caso e monte um Relatório A3.",
       "Conecte A3, OKR, Backlog 2D, Kanban e o próximo ciclo.",
       "Mostre visualmente onde este fluxo trava e qual decisão tomar."
