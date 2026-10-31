@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agenda visual"
+  short_description: "Agenda de projeto em HTML inline ou imagem"
+  default_prompt: "Use $agenda-visual para visualizar este plano com fases, datas, responsabilidades e próxima ação; pergunte entre HTML e imagem se o formato não estiver definido."

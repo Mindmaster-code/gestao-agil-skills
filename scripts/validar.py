@@ -9,7 +9,7 @@ import re
 import sys
 from pathlib import Path
 
-from exportar_metodo import verify
+from exportar_metodo import EXTRA_SKILLS, skill_directories, verify
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -46,18 +46,19 @@ try:
 except (OSError, ValueError, KeyError) as error:
     fail(str(error))
 
-directories = sorted(path for path in SKILLS.glob("ga2-*") if path.is_dir())
-if len(directories) != 32:
-    fail(f"esperadas 32 skills; encontradas {len(directories)}")
+directories = skill_directories(SKILLS)
+core = [path for path in directories if path.name.startswith("ga2-")]
+if len(core) != 32 or {path.name for path in directories} != {path.name for path in core} | set(EXTRA_SKILLS):
+    fail("esperadas 32 skills GA2 e agenda-visual")
 
 for directory in directories:
-    required = (
-        directory / "SKILL.md",
-        directory / "references/metodo.md",
-        directory / "references/fontes.md",
-        directory / "assets/template-artefato.html",
-        directory / "agents/openai.yaml",
-    )
+    required = (directory / "SKILL.md", directory / "agents/openai.yaml")
+    if directory.name in EXTRA_SKILLS:
+        required += (directory / "references/prompt-imagem.md",
+                     directory / "references/html-por-ambiente.md")
+    else:
+        required += (directory / "references/metodo.md", directory / "references/fontes.md",
+                     directory / "assets/template-artefato.html")
     for path in required:
         if not path.is_file():
             fail(f"arquivo ausente: {path.relative_to(ROOT)}")
@@ -103,10 +104,10 @@ if case_types.count("positive") != 6 or case_types.count("negative") != 4:
     fail("esperados seis testes positivos e quatro negativos")
 
 trails = (ROOT / "docs/TRILHAS.md").read_text(encoding="utf-8")
-documented = set(re.findall(r"`(ga2-[a-z0-9-]+)`", trails))
+documented = set(re.findall(r"`((?:ga2-[a-z0-9-]+)|agenda-visual)`", trails))
 expected = {directory.name for directory in directories}
 if documented != expected:
-    fail("o mapa das trilhas não cobre exatamente as 32 habilidades")
+    fail("o mapa das trilhas não cobre exatamente as habilidades do pacote")
 
 for path in ROOT.rglob("*"):
     if not path.is_file() or ".git" in path.parts or path.name in {"validar.py", "montar_construtor.py", "exportar_metodo.py"}:

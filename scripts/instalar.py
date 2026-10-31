@@ -10,7 +10,7 @@ import shutil
 import subprocess
 import tempfile
 
-from exportar_metodo import SOURCE, digest, inventory, verify
+from exportar_metodo import SOURCE, digest, inventory, skill_directories, verify
 
 ROOT = Path(__file__).resolve().parents[1]
 RECEIPT = ".gestao-agil-2.json"
@@ -39,7 +39,7 @@ def install(root: Path, destination: Path, check: bool = False) -> dict:
                "files": files}
     # base_commit identifica a base Git; content_sha256 identifica os bytes, mesmo em teste local.
     receipt_path = destination / RECEIPT
-    existing = sorted(destination.glob("ga2-*"))
+    existing = skill_directories(destination)
     old = json.loads(receipt_path.read_text()) if receipt_path.exists() else None
     if existing:
         if not old:

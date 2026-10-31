@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 0.4.2 — 31/10/2026
+
+- 33 habilidades: entra `agenda-visual`, que transforma o planejamento de qualquer projeto em agenda, calendário ou linha do tempo, com fases, datas, responsabilidades e pendências.
+- Pergunta entre HTML e imagem quando o formato não estiver definido. HTML usa o recurso inline do ambiente ou um arquivo independente; imagem só quando o usuário escolhe, com o modelo requerido, e sem ele entrega o briefing e o prompt.
+- Instalador, exportação do método e validação passam a aceitar a habilidade sem o prefixo `ga2-`; testes de exportação ampliados.
+- Versão própria, fechada antes do lote de rotinas (0.5.0).
+
 ## 0.4.1 — 10/09/2026
 
 - `ga2-briefing-iniciativa`: quando o gestor não traz as entregas do projeto, a habilidade propõe de 4 a 7 a partir do "entra" do escopo, puxa o marco do prazo e pede aceite item a item. Antes, o campo ficava em branco ou parava a conversa.

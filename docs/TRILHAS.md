@@ -65,6 +65,14 @@ pontual pode ir direto à habilidade correspondente, sem abrir projeto.
 `ga2-me-mostra` atende às seis trilhas. Ela transforma o conteúdo em uma apresentação
 visual sem criar uma segunda versão conceitual do documento.
 
+`agenda-visual` transforma o planejamento de qualquer projeto em agenda,
+calendário ou linha do tempo, com fases, datas, responsabilidades e pendências.
+Pergunta entre HTML e imagem quando o formato não estiver definido.
+HTML usa o recurso inline disponível na LLM ou um arquivo independente como alternativa.
+Imagegen entra quando o usuário escolhe imagem; sem ferramenta ou modelo requerido,
+entrega o briefing e o prompt e informa que a imagem não foi gerada.
+Complementa as seis trilhas e pode ser usada sem abrir um projeto GA2.
+
 ## Caminho integrado do método
 
 0. `ga2-abrir-projeto` — organizar a pasta e o contexto do caso;

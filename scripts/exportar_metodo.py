@@ -9,6 +9,15 @@ import re
 
 MANIFEST = "procedencia.json"
 SOURCE = "https://github.com/Mindmaster-code/gestao-agil-skills"
+EXTRA_SKILLS = ("agenda-visual",)
+
+
+def skill_directories(root: Path) -> list[Path]:
+    """Inclui as ferramentas GA2 e as habilidades transversais do pacote."""
+    candidates = list(root.glob("ga2-*"))
+    candidates.extend(root / name for name in EXTRA_SKILLS
+                      if (root / name).exists() or (root / name).is_symlink())
+    return sorted(candidates)
 
 
 def digest(data: bytes) -> str:
@@ -25,7 +34,7 @@ def safe_path(root: Path, relative: str) -> Path:
 
 def inventory(root: Path) -> dict[str, str]:
     files = {}
-    for directory in sorted(root.glob("ga2-*")):
+    for directory in skill_directories(root):
         if directory.is_symlink() or not directory.is_dir():
             raise ValueError(f"skill precisa ser uma pasta real: {directory.name}")
         for path in sorted(directory.rglob("*")):

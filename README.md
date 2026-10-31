@@ -1,6 +1,6 @@
 # Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório distribui 32 habilidades do Gestão Ágil 2.0 em um único plug-in e
+Este repositório distribui 33 habilidades do Gestão Ágil 2.0 em um único plug-in e
 mantém os instaladores por pasta para ambientes compatíveis.
 
 O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
@@ -42,7 +42,7 @@ de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 
 ## Uma fonte para o método
 
-Este repositório é a fonte canônica das 32 skills, incluindo método, templates, exemplos, modelos e testes.
+Este repositório é a fonte canônica das 33 skills, incluindo método, templates, exemplos, modelos e testes.
 A operação interna e os alunos usam instalações deste pacote. Regras privadas ficam no projeto consumidor.
 Edite aqui, valide e instale uma versão identificada. Não edite instalações, caches ou releases.
 
@@ -147,6 +147,12 @@ Não é necessário gerar Markdown e HTML junto de cada documento. Veja [o contr
 ## Ambientes com artefato visual
 
 `ga2-me-mostra` gera HTML por padrão e respeita outro formato solicitado.
+
+`agenda-visual` mostra fases, datas e responsabilidades de qualquer projeto.
+Sem formato definido, pergunta entre HTML e imagem. HTML usa a prévia nativa do
+ambiente; sem esse recurso, entrega um arquivo independente. Imagegen entra
+somente quando o usuário escolhe imagem, com ferramenta e modelo requerido;
+sem esse acesso, entrega o briefing e o prompt, sem alegar geração.
 
 - Claude usa Artifact quando esse recurso estiver disponível.
 - Codex e GPT usam o artefato ou a visualização disponível na sessão.

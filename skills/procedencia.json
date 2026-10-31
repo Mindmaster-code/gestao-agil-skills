@@ -2,6 +2,10 @@
   "schema": 2,
   "source": "https://github.com/Mindmaster-code/gestao-agil-skills",
   "outputs": {
+    "agenda-visual/SKILL.md": "429f451e1217d2facf7c93b10b2c145d7a1ea31d4cf54f05310552d0977a97ed",
+    "agenda-visual/agents/openai.yaml": "5add6586699ae49af6a4c5c1c4912285b7d2f7af63e8c1d83bb848511d5c2878",
+    "agenda-visual/references/html-por-ambiente.md": "efff8e17de19d3c13e2a9887700eae3f974e1d701640f5aabbe842a578403010",
+    "agenda-visual/references/prompt-imagem.md": "a03da5da618499d28f1ea4d3348cd8f72945300cd731306e34331b76265b4304",
     "ga2-5w2h/SKILL.md": "f3b9200fa82d5c65409ef23834d20ff781268129bf9ec0f4406ecaf4da92035c",
     "ga2-5w2h/agents/openai.yaml": "309da9773ebcf256376af9ce46acef8b09a6dc3e05a9dd9c96f0c4e055a2ace5",
     "ga2-5w2h/assets/modelos/CAMPOS.md": "352a76b8e11d7bc44879bc2177c978396a8ce30cbd4dae51ee867470dafae879",

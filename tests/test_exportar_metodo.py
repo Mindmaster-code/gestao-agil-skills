@@ -77,6 +77,32 @@ class DistributionTest(unittest.TestCase):
         self.assertEqual((private / "SKILL.md").read_text(), "contexto local")
         self.assertEqual(receipt["files"], inventory(self.destination))
 
+    def test_agenda_sem_prefixo_e_distribuida_e_atualizada(self):
+        install(self.root, self.destination)
+        agenda = self.skills / "agenda-visual"
+        agenda.mkdir()
+        (agenda / "SKILL.md").write_text("Gere uma agenda com as datas do plano.")
+        seal_distribution(self.skills)
+        with patch.object(montar_distribuicao, "ROOT", self.root):
+            montar_distribuicao.build(Path(self.temp.name) / "build")
+        receipt = install(self.root, self.destination)
+        self.assertIn("agenda-visual/SKILL.md", receipt["files"])
+        (agenda / "SKILL.md").write_text("Mantenha propostas identificadas na agenda.")
+        seal_distribution(self.skills)
+        install(self.root, self.destination)
+        self.assertEqual((self.destination / "agenda-visual/SKILL.md").read_bytes(),
+                         (agenda / "SKILL.md").read_bytes())
+        receipt = install(self.root, self.destination, check=True)
+        self.assertEqual(receipt["files"], inventory(self.destination))
+
+    def test_agenda_legada_sem_registro_nao_e_sobrescrita(self):
+        agenda = self.destination / "agenda-visual"
+        agenda.mkdir(parents=True)
+        (agenda / "SKILL.md").write_text("edição humana")
+        with self.assertRaisesRegex(ValueError, "sem registro"):
+            install(self.root, self.destination)
+        self.assertEqual((agenda / "SKILL.md").read_text(), "edição humana")
+
     def test_edicao_na_instalacao_nao_e_perdida(self):
         install(self.root, self.destination)
         file = self.destination / "ga2-teste/references/metodo.md"
