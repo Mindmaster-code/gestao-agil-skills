@@ -13,6 +13,7 @@
 - 14 habilidades ganham modos novos: `ga2-gestao-diaria` (preparar o dia e fechar o expediente), `ga2-delegacao` (levantamento das aprovações), `ga2-pdi` (PDI do próprio líder e conversa de carreira), `ga2-politicas-wip-urgencia` (antes de abrir vaga e canal oficial por tipo de pedido), `ga2-abrir-projeto` (pasta de área ou de rotina), `ga2-backlog-2d` (poda mensal), `ga2-pop` (cobertura e substituto), `ga2-quem-faz-o-que` (papel previsto contra papel assumido e transição), `ga2-plano-do-ciclo` (capacidade e carga por pessoa), `ga2-5w2h` (orçado, contratado e realizado), `ga2-kanban-canvas` (dependência entre áreas), `ga2-review-do-ciclo` (voz do cliente do mês), `ga2-folha-de-experimento` (testar ferramenta) e `ga2-feedback-360` (revisão de desempenho, feedback na hora e reconhecimento).
 - `ga2-me-mostra` roteia os pedidos visuais para as sete habilidades novas, e `docs/TRILHAS.md` ganha a trilha 7.
 - `scripts/validar.py` passa a derivar da pasta `skills/` e de `docs/TRILHAS.md` a contagem de habilidades e de trilhas, em vez de exigir um número fixo.
+- `scripts/atualizar_checksums.py` deixa de fora a pasta `.pytest_cache`. O `SHA256SUMS.txt` sai sem as quatro entradas de cache de teste que entraram na 0.4.2.
 
 ## 0.4.2 — 31/10/2026
 

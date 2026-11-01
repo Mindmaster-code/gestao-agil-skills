@@ -11,7 +11,7 @@ from exportar_metodo import seal_distribution
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "SHA256SUMS.txt"
-SKIP_PARTS = {".git", ".claude-plugin", "_to_delete", "dist", "__pycache__"}
+SKIP_PARTS = {".git", ".claude-plugin", "_to_delete", "dist", "__pycache__", ".pytest_cache"}
 
 
 def tracked_files() -> list[Path]:
