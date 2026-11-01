@@ -16,19 +16,34 @@ Limite de WIP
 Urgência
 - [ ] As cinco linhas estão escritas: o que é · quem chama · quantas · pausado · onde.
 - [ ] "Quem chama" é **uma** pessoa (ou papel) nomeada.
-- [ ] "Quantas" é um número; o laboratório reservou 2 vagas na raia.
+- [ ] "Quantas" é um número; o acréscimo do método reserva 2 vagas na raia.
 - [ ] O cartão pausado recebe marca, motivo e data; volta na frente.
-- [ ] A política está no topo do quadro, não em carta, chat ou PDF.
+- [ ] A política está no topo do quadro, não em mensagem escrita, chat ou PDF.
 - [ ] A mecânica (cartão vermelho ou raia) está escolhida e é a mesma em todo o quadro.
 - [ ] O contador do ciclo existe e vai para a retro.
 - [ ] Urgência não dispensa a definição de pronto.
 
-Classe Crítica (acréscimo do laboratório)
+Classe Crítica (acréscimo do método)
 - [ ] Toda demanda Apta tem classe: Crítica, Com prazo ou Normal.
 - [ ] Crítica = dano relevante acontecendo agora, com fonte do fato.
-- [ ] Quem validou a Crítica tem autoridade para interromper (diretor, política de incidente ou Prioridade explícita).
+- [ ] Quem validou a Crítica tem autoridade para interromper (responsável pela área, política de incidente ou Prioridade explícita).
 - [ ] O trabalho deslocado está registrado no cartão pausado.
 - [ ] Pedido direto sem Prioridade explícita entrou na fila normal.
+
+Antes de abrir vaga (ficha E06)
+- [ ] A etapa em que a fila se forma foi achada com os três sinais do quadro, antes de qualquer pedido de vaga.
+- [ ] Redistribuir, mudar o processo e desenvolver alguém foram examinados, um por um, com evidência.
+- [ ] Se ainda falta gente, o perfil e o benefício esperado estão ligados a resultados que dá para verificar.
+- [ ] A decisão está com quem tem orçamento e autoridade aprovados.
+- [ ] O efeito da decisão sobre entrega, carga e custo será revisto, com data.
+
+Canal oficial por tipo de pedido (ficha F10)
+- [ ] Cada tipo de pedido tem um canal oficial de entrada e um lugar onde a decisão fica registrada.
+- [ ] O prazo de resposta de cada canal é compatível com a operação e não exige disponibilidade contínua.
+- [ ] Quem faz plantão ou atendimento tem cobertura antes de a consulta ser limitada a mensagens.
+- [ ] O caminho da urgência aponta quem chama, por qual canal e para quê.
+- [ ] As regras estão escritas ao lado do quadro, e o pedido que chega por outro caminho volta ao canal oficial.
+- [ ] O acordo foi testado em casos reais, com revisão mensal marcada.
 
 ## Erros comuns (da aula)
 
@@ -45,6 +60,9 @@ Classe Crítica (acréscimo do laboratório)
 | Pausar sem marca | "por que atrasou?" sem resposta | marca + motivo + data no cartão |
 | Política no chat | ninguém acha a regra no calor | topo do quadro |
 | Confundir pedido com prioridade | pedido direto do chefe vira interrupção | fila normal; só Prioridade explícita interrompe (§9) |
+| Abrir vaga antes de testar | "precisamos de mais gente" sem a coluna mais cheia identificada | redistribuir, mudar o processo ou desenvolver alguém primeiro |
+| Dois canais oficiais para o mesmo pedido | pedidos duplicados e perdidos | um canal por tipo de pedido, com o registro da decisão |
+| Prazo que exige disponibilidade contínua | a equipe vive de olho no celular | prazo combinado e cobertura para plantão |
 
 ## Formas de saída
 

@@ -8,10 +8,11 @@
 - [ ] As linhas de discordância foram conversadas e o combinado está escrito.
 - [ ] Existe pelo menos um assunto em que o time decide sem o líder — e todo mundo sabe qual.
 - [ ] Rodapé completo: combinado em, visível em, revisamos em.
-- [ ] O quadro está pendurado ao lado do Kanban (ou linkado no portfólio), não na gaveta.
+- [ ] O quadro está pendurado ao lado do Kanban (ou linkado na carteira de iniciativas), não na gaveta.
 - [ ] Na data de revisão, só sobe de nível o assunto em que o time errou.
 - [ ] Para agentes: coluna "onde está escrito" preenchida; nível 1–2 tem hook, gate ou guardrail, não só texto.
 - [ ] Tradução dos 7 níveis presente na primeira vez que aparecem.
+- [ ] Os assuntos vieram do levantamento das duas últimas semanas (fatos da agenda real), com o critério de cada um marcado como escrito ou só na cabeça do líder.
 
 ## Erros comuns (da aula)
 
@@ -24,6 +25,7 @@
 - Usar o template de 4 níveis com a leitura dos 7 (a autonomia fica do lado errado).
 - Subir nível por desconfiança geral em vez de por erro naquele assunto.
 - Para agente: autoridade "combinada" sem fonte (arquivo, linha, hora) — o outro agente recusa.
+- Montar o quadro de memória, com os assuntos de que o líder lembra, e não com os que mais voltaram.
 
 ## Formas de saída
 

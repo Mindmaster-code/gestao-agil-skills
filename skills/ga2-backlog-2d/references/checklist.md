@@ -36,6 +36,13 @@ adaptação de corte por ciclo.
 - [ ] Registro de manutenção: o que entrou, saiu, quebrou, reordenou, e quando.
 - [ ] Mapa bate com o registro atual do trabalho do dono; se não bate, está velho.
 
+**Poda mensal (ficha F09)**
+- [ ] A poda aconteceu no mês, com o conjunto escolhido e a régua de "parado" escrita.
+- [ ] Os itens Q e os parados passaram pela decisão do dono: manter, quebrar, arquivar ou apagar.
+- [ ] O critério de guarda foi confirmado antes de arquivar ou apagar; nenhum registro obrigatório saiu.
+- [ ] Quem pediu os itens arquivados ou apagados foi avisado.
+- [ ] A poda foi registrada em Manutenção, e a lista continua legível: o tempo para achar um item diminuiu.
+
 ## Erros comuns
 
 | Erro | Onde a aula fala | Como recusar |
@@ -51,6 +58,9 @@ adaptação de corte por ciclo.
 | Usar só o editável Mod 2 (E/D/O/Q sem narrativa) | nota metodológica sobre as duas leituras | "Virou lista 1D. Cadê a linha de cima?" |
 | Fatia fina sem "pronto é" | adaptação: entrega conferida | "Como eu vejo isso pronto pelo caminho real?" |
 | Mapa que ninguém atualiza | M06 apostila §4 (grooming) | "Data da última mudança? Bate com o registro atual do trabalho?" |
+| Apagar sem olhar a guarda | item com obrigação de guarda ou valor de evidência some | confirmar o critério de guarda antes de arquivar ou apagar |
+| Faixa Q que só cresce | o questionável se acumula todo mês | decisão do dono na poda: manter, quebrar, arquivar ou apagar |
+| Poda que vira reorganização total | meia manhã mexendo na lista sem ganho de leitura | podar o que perdeu o sentido e simplificar só o que atrapalha |
 
 ## Formas de saída
 

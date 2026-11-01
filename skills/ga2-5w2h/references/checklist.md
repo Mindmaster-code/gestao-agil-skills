@@ -14,6 +14,13 @@
 - [ ] Linhas viraram cartão ou compromisso do plano do ciclo.
 - [ ] Ação técnica ou de produção está com o responsável autorizado, não automaticamente com quem facilita o plano.
 
+Orçamento (ficha A06)
+- [ ] Todo "Quanto" foi escrito antes de a iniciativa começar, e a soma foi comparada com o orçamento antes de aprovar.
+- [ ] A revisão do mês compara o orçado, o contratado e o realizado, e não só o realizado.
+- [ ] O desvio foi separado em valor, prazo e volume.
+- [ ] O ajuste escolhido está na alçada (gasto, sequência ou escopo); o que passa dela foi ao responsável financeiro, com motivo, alternativas e impacto.
+- [ ] Despesa, lucro e disponibilidade de caixa não foram misturados, e nenhum valor foi preenchido sem fonte.
+
 ## Erros comuns (da aula e desta adaptação)
 
 - "Quem" com dois nomes (M07 §4.10).

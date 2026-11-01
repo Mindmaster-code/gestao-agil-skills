@@ -2,7 +2,7 @@
 # Kanban Canvas — template
 
 Três blocos. Preencha só o que a régua do caso pede (leve = bloco A; intermediária = A + B;
-robusta = A + B + C). Campo sem fonte na aula vem marcado `(acréscimo do laboratório)`.
+robusta = A + B + C). Campo sem fonte na aula vem marcado `(acréscimo do método)`.
 
 ---
 
@@ -106,31 +106,62 @@ Prova: (link / arquivo / log / mensagem)
 
 ### B6. Bloqueio — representação escolhida
 
-- [ ] A. marca no cartão, coluna mantida (**padrão do laboratório**)
+- [ ] A. marca no cartão, coluna mantida (**padrão desta referência**)
 - [ ] B. coluna "Bloqueados"
 - [ ] C. área "Impedimentos" separada
 
-Escalada: parado __ dias → pergunta na diária; __ dias → carta de cobrança; __ dias → sobe para ______.
+Escalada: parado __ dias → pergunta na diária; __ dias → cobrança por escrito, com data; __ dias → sobe para ______.
 
 ---
 
-## Bloco C — Kanban de portfólio (formato de registro do portfólio na pasta do caso)
+### B7. Dependência entre áreas (ficha B06) `(adaptação metodológica)`
+
+Acrescente ao cartão padrão do B4 os dois campos abaixo, e a coluna "Aguardando outra área" ao fluxo do B2, com limite próprio.
+
+```
+Depende de: ______ (área, pessoa) · data de passagem: __/__   Entrega para: ______ (área, pessoa) · data: __/__
+```
+
+| Campo | Resposta |
+|---|---|
+| Coluna "Aguardando outra área": limite de cartões | |
+| Quem move o cartão para fora dessa coluna, e com qual aceite | |
+
+Encontro entre as áreas (20 a 45 minutos, toda semana ou a cada quinze dias):
+
+| Campo | Resposta |
+|---|---|
+| Entrega final e contribuição de cada área | |
+| Quem participa por área (com poder de assumir compromisso) | |
+| Custo do encontro (duração × pessoas) | |
+
+| Dependência | Área que entrega | Área que recebe | O que precisa ser entregue, com que qualidade | Data de passagem | Dono | Aceite | Próxima verificação |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Impedimentos e mudanças desde o último encontro: ______________________________
+
+Conflito que as áreas não têm alçada para resolver, e quem responde pelo resultado das duas: ______________________________
+
+## Bloco C — Kanban da carteira de iniciativas (formato de registro da carteira na pasta do caso)
 
 ### C1. Políticas do quadro
 
 - Entra só frente com dono único nomeado.
 - WIP por dono em execução: __.
-- Parado ≥ __ dias úteis → carta; ≥ __ dias → escala.
+- Parado ≥ __ dias úteis → cobrança por escrito; ≥ __ dias → escala.
 - "Em gate" exige decisor nomeado e data do pedido.
 - "Entregue" só com prova pelo caminho real.
-- "Aceito" é do Aceitante, nunca do Gestor.
+- "Aceito" é do Aceitante, nunca de quem conduz o método.
 - Estado vem de arquivo, não de memória.
 
 ### C2. Raias
 
-`Empresa A` · `Empresa B` · `Compartilhado` · `Processo interno`
+`Área A` · `Área B` · `Compartilhado` · `Processo interno`
 
-### C3. Colunas (estados comuns do modelo operacional §7, reduzidos para o portfólio)
+### C3. Colunas (estados comuns do modelo operacional §7, reduzidos para a carteira de iniciativas)
 
 `Sem dono` · `Sem STATUS` · `Em preparação` · `Em execução` · `Em gate` (condição) · `Bloqueado` (condição) · `Parado` (condição) · `Entregue` · `Aceito`
 
@@ -140,7 +171,7 @@ Escalada: parado __ dias → pergunta na diária; __ dias → carta de cobrança
 |---|---|---|---|---|---|---|---|---|
 | P-__ | | | | | | | | |
 
-### C5. Leitura da fotografia (acréscimo do laboratório)
+### C5. Leitura da fotografia (acréscimo do método)
 
 - Total de frentes: __ · sem STATUS: __ · sem dono: __
 - Cartões parados > 10 dias: __

@@ -10,21 +10,22 @@ da iniciativa) e antes do Ritmo (o quadro é o que a diária, a review e a retro
 Cadeia: contramedida do A3 → iniciativa do OKR → entrega do Backlog 2D → tarefa → **cartão**.
 
 Três produtos desta skill: (1) o **Kanban Canvas completo** de uma frente ou área; (2) o
-**quadro mínimo** de 3 colunas (v6, artefato 07) para caso pequeno; (3) o **Kanban de
-portfólio** do laboratório, que é registro do portfólio na pasta do caso.
+**quadro mínimo** de 3 colunas (v6, artefato 07) para caso pequeno; (3) o **Kanban da
+carteira de iniciativas**, que é o registro da carteira na pasta do caso.
 
 ## Fonte no método
 
 - Base do método: Passo 3 — Gestão Visual §2.10–2.20 (Kanban, cinco passos, não dá ré, três erros, raias),
-  §4.3–4.9 (artefatos), §6.1 (Kanban de portfólio do laboratório), §8 item 4 (bloqueio).
+  §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio).
 - Aulas: M05 A07 (Kanban, professor), A08 (Kanban Canvas), A09–A13 (fluxo, quadro vivo,
   hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas
   03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
 - Templates: folha individual «kanban-canvas-ga2.pdf» (artefato 07, v6) e
   `kanban-quadro-imprimir-ga2.pdf`; «Mod 03 — Kanban Mínimo GA2 Editável»;
   legado «M10 — Kanban Canvas» (A08) e `Canvas Kanban Avançado.pdf` (7.1).
-- Modelo operacional do laboratório: modelo operacional de demandas (acréscimo do laboratório, com regras incorporadas nesta referência) §7–8
+- Modelo operacional: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §7–8
   (estados comuns, condições, Kanbans hierárquicos).
+- Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas `(adaptação metodológica)`.
 
 ## Como conduzir
 
@@ -35,7 +36,7 @@ portfólio** do laboratório, que é registro do portfólio na pasta do caso.
    sem olhar o fluxo real (Kanban melancia). Toda equipe tem pelo menos fila, fazendo e pronto.
 3. **Separe tipos de demanda em raias.** Pergunta: "Que tipos de trabalho entram? Têm caminhos
    diferentes?" Mais de um tipo = raias horizontais, não quadros soltos. Colunas comuns
-   (Feito) são compartilhadas. No laboratório: `Empresa A · Empresa B · Compartilhado · Processo interno`.
+   (Feito) são compartilhadas. No acréscimo do método: `Área A · Área B · Compartilhado · Processo interno`.
 4. **Fixe o cartão padrão.** Campos: origem (etiqueta do OKR/entrega), o que é numa frase,
    dono (nome de pessoa, nunca área), prazo, idade em dias, checklist de pronto, marca de
    bloqueio, prova. Recuse cartão maior que uma semana ("quando fica pronto?" sem resposta = quebra no mapa).
@@ -50,6 +51,24 @@ portfólio** do laboratório, que é registro do portfólio na pasta do caso.
 10. **Teste de bem feito:** alguém decide sem perguntar; as três políticas estão no quadro;
     cada cartão tem dono, idade e prova.
 
+## Dependência entre áreas (ficha B06)
+
+Os quadros conversam entre si: o cartão do quadro da liderança da organização se desdobra no quadro da área e depois no quadro de cada equipe. Quando uma equipe depende de outra, a dependência fica escrita no cartão e o cartão espera numa coluna própria. As duas equipes enxergam a mesma coisa, e ninguém descobre o atraso só na hora de precisar do material. O encontro entre as áreas leva de 20 a 45 minutos, toda semana, ou a cada quinze dias enquanto houver dependência importante. Dono: quem responde pelo processo ou pela entrega integrada. Fonte: ficha B06 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+
+11. **Escreva a dependência no cartão,** no campo "depende de" (a área, a pessoa e a data de passagem) e, do outro lado, no campo "entrega para".
+12. **Crie a coluna "Aguardando outra área",** com limite próprio. O cartão que espera outra área vai para ela, com a data em que deve receber o que falta, e não volta para trás.
+13. **Mostre o mesmo cartão nos quadros das duas áreas,** ou desdobre pela hierarquia dos quadros, para as duas equipes enxergarem a mesma coisa.
+14. **Marque o encontro entre as áreas,** com quem pode assumir compromisso por cada uma. Calcule o custo: duração vezes pessoas.
+15. **Siga a pauta curta:**
+    - confirme a entrega final e a contribuição de cada área;
+    - combine o que cada área precisa receber, com que qualidade e em que data de passagem;
+    - veja os impedimentos e o que mudou;
+    - negocie compromissos que cada área consegue cumprir;
+    - feche cada dependência com dono, aceite e próxima verificação.
+16. **Feche cada dependência crítica com dono e aceite** (`ga2-quem-faz-o-que`). Está pronto quando nenhuma dependência crítica fica sem dono.
+17. **Se as áreas não têm alçada para resolver o conflito,** a decisão sobe para quem responde pelo resultado das duas, com a leitura do quadro.
+18. **Acompanhe os atrasos nas passagens** e as devoluções por informação incompleta. Revise as causas de espera recorrente.
+
 ## Bloqueio — três representações, uma escolhida
 
 O acervo tem três jeitos de mostrar cartão travado (Base do método: Passo 3 — Gestão Visual §8.4):
@@ -60,11 +79,11 @@ O acervo tem três jeitos de mostrar cartão travado (Base do método: Passo 3 �
 | B. Coluna "Bloqueados" | template GA 2.0 `04-quadro-de-execucao` | cartão sai do fluxo para uma coluna própria, com "o que travou e quem destrava" |
 | C. Área "Impedimentos" separada | Canvas 7/7.1 e M05 A13 | o impedimento vira post-it numa área fora do fluxo; o cartão não se move |
 
-**O laboratório adota A**, por três motivos: é a única compatível com "Kanban não dá ré" (regra 13);
+**Esta referência adota A**, por três motivos: é a única compatível com "Kanban não dá ré" (regra 13);
 o modelo operacional aprovado diz que "Bloqueada, Gate pendente e Apta para integração são
 condições, não colunas" (§7–8); e preserva a medida de dias parado por coluna. O cartão ganha a
-marca na coluna "Gate / trava" do portfólio, com motivo, decisor e data do pedido.
-A escolha da representação nos materiais do curso permanece uma divergência editorial; esta referência explicita a opção A do laboratório e preserva as três origens.
+marca na coluna "Gate / trava" da carteira de iniciativas, com motivo, decisor e data do pedido.
+A escolha da representação nos materiais do curso permanece uma divergência editorial; esta referência explicita a opção A e preserva as três origens.
 
 ## Regras do método que valem aqui
 
@@ -76,20 +95,23 @@ A escolha da representação nos materiais do curso permanece uma divergência e
 - Políticas escritas no próprio quadro, onde valem. (A11, v6 05)
 - Mais de um tipo de demanda = raias, não quadros soltos. (A14)
 - Cartão do tamanho de uma semana; vem do Backlog 2D, não se inventa no quadro. (v6 04)
-- Um quadro por contexto; quadros se conversam em hierarquia (portfólio → área → projeto → pessoa). (A11)
+- Um quadro por contexto; quadros se conversam em hierarquia (carteira de iniciativas → área → projeto → pessoa). (A11)
 - "Um quadro que mente é pior que quadro nenhum." (v6 05)
+- Dependência boa é dependência à vista: o cartão diz de quem depende e para quem entrega, e espera em coluna própria. (aula 9; ficha B06)
+- Quando as áreas não têm alçada, a decisão sobe para quem responde pelo resultado comum.
 
 ## Saída
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Quadro de uma frente ou área: quadro Kanban na pasta do caso (acréscimo do laboratório:
+- Quadro de uma frente ou área: quadro Kanban na pasta do caso (acréscimo do método:
   a aula não fixa caminho). Nome: `<area>-kanban.md`, ex.: `delivery-kanban.md`.
-- Kanban de portfólio do laboratório: registro do portfólio na pasta do caso (já existe; esta skill é quem o mantém).
-- Cartão novo no portfólio entra com as 6 linhas do padrão de comunicação
-  (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava (acréscimo do laboratório) §1).
+- Kanban da carteira de iniciativas: registro da carteira na pasta do caso (já existe; esta skill é quem o mantém).
+- Cartão novo na carteira de iniciativas entra com as 6 linhas do padrão de comunicação
+  (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava (acréscimo do método) §1).
 - Depois: políticas de WIP e urgência (`ga2-politicas-wip-urgencia`), plano do ciclo
   (`ga2-plano-do-ciclo`), diária (`ga2-gestao-diaria`).
+- Dependência entre áreas: campos "depende de" e "entrega para" no cartão, coluna "Aguardando outra área" e acordos entre áreas com entradas, saídas e datas de passagem.
 
 ## Formas de saída
 
@@ -104,7 +126,7 @@ Os modelos abaixo atendem ao fluxo de geração de HTML e canvas quando essa for
 | Forma | Arquivo | Quando sai | Modelo |
 |---|---|---|---|
 | Fonte | `<nome>.md` (este `template.md` preenchido) | quando o fluxo precisar de fonte Markdown | `template.md` |
-| Documento | `<nome>.html` — documento corrido no design system do laboratório | quando HTML for escolhido | modelo de documento HTML desta variante ainda indisponível no pacote; os canvas abaixo continuam disponíveis |
+| Documento | `<nome>.html` — documento corrido no design system dos modelos públicos | quando HTML for escolhido | modelo de documento HTML desta variante ainda indisponível no pacote; os canvas abaixo continuam disponíveis |
 | Canvas | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-kanban-kit-07.html` |
 
 Modelos canvas desta skill (specs `kanban-kit-07`, `kanban-avancado-kit-7-1`, `kanban-politicas-kit-7-2`, `kanban-canvas-v6`):
@@ -153,7 +175,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 |---|---|---|
 | Leve | uma pessoa, um caso, fila curta | quadro mínimo v6: 3 colunas, limite em Fazendo, "feito" escrito, revisão semanal de 15 min. Sem raias. |
 | Intermediária | uma área, 2–5 tipos de demanda | colunas do fluxo real, raias por tipo, cartão padrão completo, 5 políticas, marca de bloqueio |
-| Robusta | portfólio de várias áreas | tudo acima + hierarquia de quadros, estados comuns do modelo operacional, dias parado e gate medidos, report semanal |
+| Robusta | carteira de iniciativas de várias áreas | tudo acima + hierarquia de quadros, estados comuns do modelo operacional, dias parado e gate medidos, report semanal |
 
 Corte o que não tem dono de atualização. Coluna que ninguém move não existe.
 
@@ -166,4 +188,7 @@ Corte o que não tem dono de atualização. Coluna que ninguém move não existe
 - Mover cartão para trás quando trava — estraga a métrica.
 - Política num documento que ninguém abre, em vez de no quadro.
 - Cartão de iniciativa inteira (seis semanas) em vez de tarefa de uma semana.
-- Quadro com 14 colunas para impressionar; o dirigente responsável lê no celular.
+- Quadro com 14 colunas para impressionar; o responsável pela área lê no celular.
+- Dependência entre áreas que só existe em conversa: o cartão não diz de quem depende.
+- Coluna "Aguardando outra área" sem limite nem data: vira depósito de cartão esquecido.
+- Encontro entre áreas sem quem possa assumir compromisso, que termina sem dono nem próxima verificação.

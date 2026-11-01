@@ -22,6 +22,7 @@ um único executor.
 - Exemplo da aula: M04 A13 — “Exemplo Canvas POP” (aprovação de projetos, APPROJ001).
 - Exemplo do curso: Kit Implementação — “Conferência padrão de separação” (POP-SEP-001).
 - Critério de qualidade e revisão são adaptações metodológicas; a origem de cada campo está na tabela abaixo.
+- Fichas C09 (preservar e transferir conhecimento) e E10 (planejar ausências, cobertura e sucessão) do Guia completo de rotinas de gestão; aula 7 do curso de rotinas (cobrir as ausências) e modelo T13, página 2 (cobertura), para a seção de cobertura `(adaptação metodológica)`.
 ## Campos — de onde vem cada um
 
 | # | Campo | Origem | Nome usado nesta adaptação |
@@ -52,7 +53,7 @@ um único executor.
    Escreve nome, data, código mnemônico (ex.: `POP-COB-001`), versão `v1.0`.
 3. **Objetivo e escopo.** Pergunta: "para que existe? o que fica fora?" Recusa: objetivo sem
    o resultado ("padronizar" não é objetivo; "todo pedido sai certo na primeira" é).
-4. **Responsabilidades.** Pergunta por papel: "quem executa? quem é dono e cobra? quem aprova
+4. **Responsabilidades.** Pergunta por papel: "quem faz? quem é dono e cobra? quem aprova
    exceção? quem recebe a saída?" Recusa: passo sem responsável; dois donos.
 5. **Entrada (gatilho).** Pergunta: "o que faz o processo começar — evento, insumo, data?"
    Recusa: "quando der" — precisa de gatilho observável.
@@ -71,6 +72,21 @@ um único executor.
     Recusa: POP sem versão nem aprovação — "é rascunho".
 12. **Teste real.** Alguém que nunca fez executa só com o POP. Onde travou, o POP está errado.
 
+## Cobertura: este processo sobrevive às suas férias? (fichas E10 e C09)
+
+O POP responde metade da pergunta. A outra metade é um substituto que já fez o trabalho antes da ausência, com alguém olhando. Dono: o gestor da área. Um mapa mensal de 30 a 60 minutos e, a cada semestre, a revisão da cobertura e da sucessão das funções mais críticas. Fonte: fichas E10 e C09, aula 7 do curso de rotinas e modelo T13, página 2 `(adaptação metodológica)`. Programações e decisões formais de ausência seguem o processo da organização e da área de pessoas.
+
+13. **Faça a pergunta das férias:** "Este processo sobrevive às férias de quem faz?" Responda Sim, Só em parte ou Não. Se a resposta não for Sim, anote o que falta: o procedimento escrito, um substituto que praticou, ou os dois.
+14. **Monte o mapa de cobertura,** uma linha por atividade crítica: o titular, o substituto, a última vez que o substituto fez a atividade de verdade, quem observou, o teste marcado (data) e o preparo com o limite de decisão na cobertura.
+15. **Olhe o calendário da área uma vez por mês,** por 30 a 60 minutos: as ausências que vêm por aí e as funções sem substituto preparado. Identifique quem depende de uma pessoa só.
+16. **Ensine com um caso real.** Selecione quem precisa aprender e qual execução vai demonstrar o domínio. Explique o procedimento por um caso real e acompanhe a execução do aprendiz, corrigindo as dúvidas.
+17. **Teste o substituto numa situação pertinente antes da ausência,** com a execução acompanhada. A cobertura está pronta quando o substituto consegue executar ou encaminhar as situações previstas.
+18. **Registre os contatos de escalada** e as responsabilidades durante a cobertura, com o limite de decisão do substituto.
+19. **Atualize o POP com o que a execução mostrou** e confirme o acesso necessário à continuidade. Credenciais e dados restritos seguem a política de acesso, sem compartilhar senhas pessoais.
+20. **Compartilhe a lição com quem faz trabalho parecido.** O que se aprende numa cobertura não fica na cabeça de ninguém: vai para o POP. No Lean, esse compartilhamento se chama Yokoten.
+21. **Evite a dupla carga permanente** de quem cobre. Se não houver cobertura possível, reduza o escopo ou negocie reforço com antecedência.
+22. **Acompanhe as atividades críticas sem cobertura** e os problemas durante as substituições, e revise o material depois de mudanças relevantes.
+
 ## Regras do método que valem aqui
 
 - **POP documenta passo a passo com dono, entrada, saída, sistema e como acessar** (M04 A13).
@@ -80,11 +96,14 @@ um único executor.
 - **Estabeleça monitoramento contínuo para prevenir riscos** (A13).
 - **Bem feito = uma pessoa nova executa do mesmo jeito que o veterano** (critério de bem feito do Passo 2).
 - **Classifique antes:** POP é para processo; projeto e produto têm briefing próprio (M04 A10).
+- **Este processo sobrevive às suas férias?** O POP responde metade; um substituto que já fez o trabalho, com alguém olhando, responde a outra metade. (aula 7; fichas E10 e C09)
+- **A lição de uma cobertura vai para o POP** e é compartilhada com quem faz trabalho parecido (Yokoten).
 
 ## Saída
 
 - Salve o POP identificado por código, versão e nome na pasta escolhida pelo usuário. Se o responsável já mantém o documento, atualize-o ou faça referência a ele.
 - Depois: o indicador de adesão entra no painel ou relatório do processo; a revisão entra na agenda; cada exceção aprovada recebe registro datado.
+- Cobertura: mapa com atividade crítica, titular, substituto, última execução do substituto, teste marcado e limite de decisão, mais os contatos de escalada.
 - Automação ou produção: a execução cabe ao responsável técnico autorizado. Antes de executar, registre custos, frequência e controles para não repetir trabalho sem mudança de estado.
 
 ## Formas de saída
@@ -129,3 +148,6 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 - POP de processo que ninguém questionou (a planilha de 2–3 h a cada dois dias que "mandaram fazer", A12).
 - Indicador de esforço ("X POPs escritos") no lugar de adesão e resultado.
 - Checklist que vira carimbo automático sem conferência real (Kit, risco 2) — a saída visível (etiqueta, registro) é o que denuncia.
+- Cobertura que nunca foi testada: o substituto só leu o POP, nunca fez o trabalho com alguém olhando.
+- Substituto sem limite de decisão nem contato de escalada.
+- Dupla carga permanente para quem cobre, sem reduzir o escopo ou pedir reforço.

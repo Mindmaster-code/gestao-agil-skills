@@ -8,8 +8,9 @@
 - Política de urgência v6: cinco linhas transcritas em `template.md` — o que é, quem chama, quantas, pausado e onde fica escrito.
 - Templates: só slides. «Mod 03 — Políticas do Quadro GA2 Editável» e
   «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
-- Classe de atendimento do laboratório: modelo operacional de demandas (acréscimo do laboratório, com regras incorporadas nesta referência) §8 (limite
+- Classe de atendimento: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §8 (limite
   por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
+- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão `(adaptação metodológica)`; regra "contratar é a última saída": aula A19.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

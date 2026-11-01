@@ -19,8 +19,9 @@ um número parado pede um ângulo diferente; a pessoa responsável pela coordena
 ## Fonte no método
 
 - Base do método — Passo 5: Melhoria Contínua (antifragilidade: M07 A05 ao vivo; v6 pasta 06 aula 02 "Antifrágil — o erro é informação").
-- Política e folha derivadas pelo laboratório: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
+- Política e folha acrescentadas pelo método: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
 - Webinar GAIA2k (w143), 01:15:40–01:17:32; curso de Design Thinking, aulas do curso. Referências bibliográficas de origem, sem presumir acesso aos arquivos internos.
+- Ficha B10 (avaliar fornecedores, ferramentas e recursos de trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 5) do curso de rotinas, para o modo de testar uma ferramenta ou um fornecedor `(adaptação metodológica)`.
 - A fonte original registra uma lacuna de curadoria sobre Design Thinking, barbell e antifragilidade; as aulas e o webinar acima são a procedência deste recorte.
 - Distinção de fontes: a proporção barbell 80–90/10–20 vem do webinar citado, não das transcrições ao vivo do GA 2.0. A versão v6 a incorpora na aula de Melhoria Contínua.
 
@@ -40,7 +41,7 @@ preenchem antes; a 6 no fim, com o resultado junto. Matar é resultado bom.
 
 ## Como conduzir
 
-1. **Peça a prova da dor.** "Quem sofre, e onde isso está gravado?" Por área: ticket e VoC (entrega), transcrição de venda e pergunta na sala (receita), conversa com empresa (B2B), turma e matrícula (MBA), pedido repetido de diretor (tecnologia), número que ninguém enxerga (CFOs). Sem prova, devolva a folha.
+1. **Peça a prova da dor.** "Quem sofre, e onde isso está gravado?" Por área: ticket e VoC (entrega), transcrição de venda e pergunta na sala (receita), conversa com empresa (B2B), turma e matrícula (MBA), pedido repetido de quem lidera a área (tecnologia), número que ninguém enxerga (CFOs). Sem prova, devolva a folha.
 2. **Uma frase, na voz de quem sofre.** Se precisar de duas, o problema ainda não está entendido.
 3. **Empurre para o diferente.** "Qual o jeito mais diferente de atacar isso?" Se a resposta é "o mesmo com outro título", recuse.
 4. **Protótipo com nome e prazo em horas ou dias.** Defina quem constrói o protótipo; IA pode apoiar a cadência, conforme as capacidades disponíveis. Protótipo nasce para ser jogado fora.
@@ -53,21 +54,22 @@ preenchem antes; a 6 no fim, com o resultado junto. Matar é resultado bom.
 
 - O erro é informação; manter / descartar / testar uma coisa nova a cada ciclo. (M07 A05; v6 06/02)
 - 80–90% não se mexe; 10–20% testa o mais diferente possível, toda semana, em aposta pequena. (GAIA2k 01:15)
-- Sem dor com prova, não roda. Critério escrito antes. Variação tímida conta como zero. (folha derivada pelo laboratório)
+- Sem dor com prova, não roda. Critério escrito antes. Variação tímida conta como zero. (folha acrescentada pelo método)
 - Pequeno, com prazo, sem tocar o guardrail nem o caminho quente. Acabou o prazo, morre ou vira decisão. (política de inovação, limites descritos nesta referência)
 - Taxa de falha alta não é problema; falta de experimento é — quem não rodou aparece pelo nome. (regras do placar descritas nesta referência)
 - Acerto que mexe em dinheiro/preço/produto ou falha que virou risco: report na hora, não na sexta.
+- Ferramenta que não devolve tempo não entra: o teste curto mede o tempo devolvido, e a decisão é manter, ajustar, substituir ou encerrar. (aula 9; ficha B10)
 
-## Como cobrar áreas sem experimento (papel do Gestor)
+## Como cobrar áreas sem experimento (papel de quem conduz o método)
 
-Ritmo: pelo menos 1 experimento novo por área por quinzena, registrado antes de rodar. O Gestor:
+Ritmo: pelo menos 1 experimento novo por área por quinzena, registrado antes de rodar. Quem conduz o método:
 
 1. Na quinta, consulte o registro de experimentos de cada área e conte folhas com data nos últimos 14 dias.
-2. Área sem folha → cobrança ao diretor responsável: item "barbell — experimento da quinzena"; pronto é = registro salvo com perguntas 1–5 preenchidas; prazo = sexta do placar.
-3. Folha sem pergunta 1 com prova, ou critério escrito depois → conta como não rodado; carta diz qual pergunta falta.
-4. Duas quinzenas sem folha → nome no bloco "O que trava" do relatório ao responsável pela coordenação. O Gestor cobra o registro; não julga a ideia — isso é do diretor.
+2. Área sem folha → cobrança ao responsável pela área: item "barbell — experimento da quinzena"; pronto é = registro salvo com perguntas 1–5 preenchidas; prazo = sexta do placar.
+3. Folha sem pergunta 1 com prova, ou critério escrito depois → conta como não rodado; a cobrança por escrito diz qual pergunta falta.
+4. Duas quinzenas sem folha → nome no bloco "O que trava" do relatório ao responsável pela coordenação. Quem conduz o método cobra o registro; não julga a ideia — isso é de quem responde pela área.
 
-## Como compilar o placar (a pessoa responsável pela coordenação compila; o Gestor prepara)
+## Como compilar o placar (a pessoa responsável pela coordenação compila; quem conduz o método prepara)
 
 Fonte: as pastas `experimentos/`. Arquivo: placar com data no destino escolhido.
 Corpo = explicação, não quadro: para cada área que agiu, três linhas — **o que testou**,
@@ -76,14 +78,31 @@ esperando sim da autoridade competente em destaque. Quem não rodou, pelo nome. 
 apêndice. Teste antes de enviar: "quem decide entende sem perguntar nada?" O texto do canal de comunicação
 e o arquivo são o mesmo; divergiu, vale o arquivo.
 
+## Modo: testar uma ferramenta ou um fornecedor (ficha B10)
+
+A regra é uma só: ferramenta que não devolve tempo não entra. Antes de renovar ou de contratar uma ferramenta ou um fornecedor crítico, gaste de 30 a 60 minutos para avaliar, e faça o teste curto com esta folha. A revisão dos itens críticos é mensal, e a de cada item vem antes da renovação. Dono: o responsável pelo recurso ou pelo contrato, com os usuários, o financeiro e os especialistas conforme a decisão. Fonte: ficha B10 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+
+**Aviso de alçada.** Esta habilidade conduz o teste e a decisão pelo tempo devolvido. Preço, contrato, contratação e cancelamento seguem as alçadas da organização e os termos aplicáveis. Chame o especialista quando houver impacto técnico ou contratual. O teste não assina contrato nem cancela nada.
+
+9. **Liste os recursos críticos,** o responsável interno de cada um e a data de decisão (a renovação mais próxima primeiro). Use o inventário de contratos e de custos que a área já tem.
+10. **Compare o uso e o desempenho com a necessidade que motivou a contratação.** Examine os custos completos, os riscos e as alternativas.
+11. **Escreva a dor, na pergunta 1:** o que a ferramenta deveria devolver, com prova do que se perde hoje.
+12. **Teste a candidata por um período curto,** com a folha de experimento: qual é a dor, o que se espera, como vai medir e quando decide. Plano grátis ou teste do fornecedor evita tocar contrato e verba.
+13. **Escreva o critério antes de rodar,** com o tempo devolvido como número: minutos por semana, por pessoa, contra a linha de base de antes do teste.
+14. **No fim do teste, pergunte quanto tempo ela devolveu,** e confira também a utilização, as falhas e o custo.
+15. **Decida: manter, ajustar, substituir ou encerrar,** dentro da sua alçada. Decisão que passa dela sobe a quem tem autoridade, com o resultado do teste.
+16. **Planeje a transição, os acessos e a comunicação** para a operação continuar, inclusive de quem usava a ferramenta antiga.
+17. **Revise o benefício depois da mudança,** e observe falhas, utilização, custo e os compromissos de atendimento que o contrato prevê.
+
 ## Saída
 
 Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
 - Folha: registro de experimento da área, com data e nome, no destino escolhido (modelo em `template.md`; as áreas que já têm `modelo-folha-de-experimento.md` usam o delas).
 - Placar: placar com data no destino escolhido (sexta), `mensal-AAAA-MM.md` (primeira semana do mês).
-- Portfólio: cartão de acompanhamento de experimentos atualizado com a contagem por área; área sem folha entra na coluna "Gate / trava".
-- Escalou → vira cartão novo no portfólio com dono e "pronto é"; problema grande → ciclo completo de DT, um por mês por empresa.
+- Carteira de iniciativas: cartão de acompanhamento de experimentos atualizado com a contagem por área; área sem folha entra na coluna "Gate / trava".
+- Teste de ferramenta: tabela de ferramentas, com a decisão e o tempo devolvido, e o plano de transição quando houver troca.
+- Escalou → vira cartão novo na carteira de iniciativas com dono e "pronto é"; problema grande → ciclo completo de DT, um por mês por área.
 
 ## Formas de saída
 
@@ -105,7 +124,7 @@ Modelos canvas desta skill (specs `folha-experimento-lab`):
 
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
-| `../assets/modelos/canvas-folha-experimento-lab.html` **(padrão)** | Folha de experimento (laboratório) · família laboratorio | "no canvas do laboratório" | pronto |
+| `../assets/modelos/canvas-folha-experimento-lab.html` **(padrão)** | Folha de experimento · família acréscimo do método | "no canvas do método" | pronto |
 
 Como gerar HTML ou canvas quando escolhido:
 
@@ -159,3 +178,6 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - Deixar vivo depois do prazo "pra ver no que dá".
 - Placar em quadro comprimido que "não dá para entender nada".
 - Contar experimento declarado em chat sem arquivo no disco.
+- Testar ferramenta sem medir antes: sem linha de base, não se sabe quanto tempo ela devolveu.
+- Contratar ou cancelar por conta do teste, sem passar pela alçada e pelos termos do contrato.
+- Manter a assinatura antiga depois de decidir substituir, sem plano de transição nem acessos tratados.

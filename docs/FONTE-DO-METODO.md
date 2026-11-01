@@ -1,6 +1,6 @@
 # Fonte canônica e instalação
 
-Este repositório é a fonte das 33 skills do pack GA2, seus métodos, templates, exemplos, modelos e testes.
+Este repositório é a fonte das 40 skills do pack GA2, seus métodos, templates, exemplos, modelos e testes.
 Edite na `main` do checkout canônico. Instalação, cache e release são cópias de uso; nunca fontes de edição.
 
 ## Onde editar

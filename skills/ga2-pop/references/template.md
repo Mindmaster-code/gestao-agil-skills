@@ -103,6 +103,29 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita vai m
 |---|---|---|---|---|
 | v1.0 | | primeira versão | | |
 
+## 14. Cobertura e substituto (fichas E10 e C09) `(adaptação metodológica)`
+
+Este processo sobrevive às férias de quem faz? [ ] Sim [ ] Só em parte [ ] Não
+
+O que falta, se a resposta não for Sim (procedimento escrito, substituto que praticou, ou os dois):
+
+> ______________________________________________
+
+| Atividade crítica | Titular | Substituto | Última vez que o substituto fez (data) | Observado por | Teste marcado (data) | Preparo e limite de decisão na cobertura |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+| Campo | Resposta |
+|---|---|
+| Execução que vai demonstrar o preparo da cobertura | |
+| Contatos de escalada durante a cobertura | |
+| Responsabilidades durante a cobertura | |
+| Acesso confirmado, sem compartilhar senha pessoal | |
+| Lição para compartilhar com quem faz trabalho parecido (Yokoten) | |
+| Revisão da cobertura e da sucessão (a cada semestre), em | |
+
 ## Teste de bem feito (antes de aprovar)
 
 - [ ] Alguém que nunca fez executou só com este POP e chegou na mesma saída do veterano.

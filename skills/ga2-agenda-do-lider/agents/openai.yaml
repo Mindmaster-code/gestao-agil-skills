@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agenda do líder"
+  short_description: "Monta a agenda da semana do líder com blocos de concentração..."
+  default_prompt: "Aplique Agenda do líder ao meu caso, em português simples."

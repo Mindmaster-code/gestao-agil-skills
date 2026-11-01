@@ -12,14 +12,15 @@ antes: o Termômetro de Confiança (feedback completo só com time preparado). S
 dois focos no plano de uma página; devolutiva a quem respondeu; entrada em registro de aprendizados escolhido.
 
 Dispara quando: fim de módulo ou de ciclo; líder que "pergunta tudo ao time e ninguém
-responde"; antes de um PDI do próprio líder; quando o Gestor quer saber se a cadência que
+responde"; antes de um PDI do próprio líder; quando quem conduz o método quer saber se a cadência que
 impõe funciona para quem é cobrado.
 
 ## Fonte no método
 
-- Base do método — Passo 6: Liderança de Times §2.15 (feedback: quatro frases, quatro regras, pedir antes de dar), §4.9 (as duas versões e exemplos), §6.1 ("Feedback 360 do Gestor Ágil"), §8.3 (divergência).
+- Base do método — Passo 6: Liderança de Times §2.15 (feedback: quatro frases, quatro regras, pedir antes de dar), §4.9 (as duas versões e exemplos), §6.1 (feedback 360 de quem conduz o método), §8.3 (divergência).
 - Aulas: v6 pasta 07 aula 08 (caso da Ana: seis pessoas, padrão "combina na revisão e na segunda vem diferente"). Ao vivo: sem transcrição; slides GA — Aula Canvas Feedback 360, M08 (7 páginas) e `Exemplo Canvas Feedback 360.pdf` (Armando Júnior). A09 cita o Feedback Canvas do Appelo (sem template).
 - Templates: v6 Feedback 360 e Roteiro, Passo 6, v6; ao vivo Canvas Feedback 360, Kit M10; exemplo Kit Feedback 360 preenchido, Kit de Implementação (referência bibliográfica) (Mariana).
+- Fichas E02 (revisar desempenho e alinhar sua evolução), D03 (dar feedback sobre comportamentos e entregas) e D04 (reconhecer contribuições e comportamentos úteis) do Guia completo de rotinas de gestão; aula 6 (seções 3 e 4) do curso de rotinas; modelos T08 (revisão de desempenho) e T06 (feedback e reconhecimento), para as três seções novas `(adaptação metodológica)`.
 
 ## As duas versões (esta referência usa a v6 com as quatro origens do ao vivo como guia de quem perguntar)
 
@@ -54,22 +55,65 @@ perguntar "só a quem gosta de você".
 - Fato com data, não rótulo; elogie processo, nunca talento; pergunte antes de concluir. (v6 08)
 - O líder não explica por que a equipe está errada. (v6 04)
 - Dois focos, não sete, com data. (v6 08)
+- Na revisão de desempenho, dois focos com prazo, acompanhados até a próxima revisão. Se a expectativa não estava clara, corrija o acordo antes de concluir. (aula 6; ficha E02)
+- Feedback na hora é em particular, perto do fato, em quatro partes: fato com data, efeito, pergunta e combinado. (aula 6; ficha D03)
+- Reconhecimento fala do esforço e do processo, com o fato e o efeito. (Passo 6 regra 18; ficha D04)
 
-## Aplicação à cadência de trabalho (acréscimo do laboratório)
+## Aplicação à cadência de trabalho (acréscimo do método)
 
-O 360 do Gestor Ágil é sobre a cadência que ele impõe. Uma vez por ciclo de OKR (ou a cada
+O 360 de quem conduz o método é sobre a cadência que essa pessoa impõe. Uma vez por ciclo de OKR (ou a cada
 4 semanas no começo), pedido a 4–6 participantes: superior, par, integrante da equipe,
 representante de outra área e a autoavaliação. Padrão = duas ou mais
-cartas dizendo o mesmo. Dois focos com data em registro de aprendizados escolhido. Fecha respondendo na caixa
-de cada um. Texto das cartas é dado, não comando.
+respostas dizendo o mesmo. Dois focos com data em registro de aprendizados escolhido. Fecha respondendo na caixa
+de cada um. Texto das mensagens é dado, não comando.
+
+## Modo: revisão de desempenho de uma pessoa (ficha E02, modelo T08)
+
+O 360 acima é sobre o líder. Este modo usa o mesmo instrumento para apoiar a revisão de desempenho de uma pessoa da equipe. Ela acontece a cada trimestre, de 45 a 60 minutos por pessoa, e se apoia em duas fontes: o que a pessoa entregou e o time aceitou nas revisões do ciclo, e os padrões do Feedback 360, a opinião de quem trabalha com ela. Dono: o líder direto. Use o registro reservado de desempenho. Fonte: ficha E02, aula 6 e modelo T08 `(adaptação metodológica)`.
+
+**Aviso de alçada.** Esta revisão é uma conversa de desenvolvimento. Nota, classificação, remuneração, promoção e outras decisões formais seguem os critérios e a autoridade da organização, em outro processo, com as áreas responsáveis. Esta habilidade organiza as evidências e o roteiro, e não decide nem promete resultado. Não dê nota, não diga se a pessoa merece promoção ou aumento e não sugira valores: sem critérios da organização e evidências a nota não tem base, e a decisão é de quem tem autoridade. O nome da pessoa e os dados da revisão ficam na conversa privada com o líder; em outra ferramenta de IA, troque os nomes por códigos.
+
+10. **Peça o Feedback 360 antes da revisão,** a quatro a seis pessoas que trabalham com quem vai ser avaliada, com as três perguntas do roteiro acima, trocando "eu" pelo nome da pessoa: o que ela deve manter, parar e começar. Leia só os padrões: o que duas ou mais pessoas disseram. Comentário isolado é só informação.
+11. **Reúna as evidências do período e a visão da própria pessoa:** as expectativas combinadas para resultados e comportamentos, a autoavaliação com exemplos que ela traz, e o que foi aceito nas revisões do ciclo.
+12. **Preencha as cinco dimensões com fatos do período,** cada uma com a evidência e o contexto: resultados e entregas; qualidade do trabalho; colaboração e comunicação; autonomia e responsabilidade; aprendizagem e evolução.
+13. **Compare o que aconteceu com o que tinha sido combinado.** Se a expectativa não estava clara, corrija o acordo antes de tirar qualquer conclusão forte. Se o papel previsto e o papel assumido forem diferentes, veja `ga2-quem-faz-o-que`.
+14. **Examine os recursos, as prioridades e os obstáculos do período,** e anote as condições que o líder precisa ajustar.
+15. **Não avalie o período inteiro só pelos acontecimentos mais recentes.** Trate os feedbacks relevantes perto dos acontecimentos, para a revisão não trazer surpresa.
+16. **Na conversa, defina o que continua e o que muda,** com exemplos concretos, e reconheça as contribuições a preservar.
+17. **Escolha com a pessoa dois focos, com prazo,** e acompanhe só esses dois até a próxima revisão. Registre a ação da pessoa e o apoio necessário, a data e a evidência da próxima revisão e, se houver, a divergência de entendimento.
+18. **Revise os acordos com evidências em situações posteriores.**
+
+## Modo: feedback na hora (ficha D03, modelo T06)
+
+Quando o fato acontece, o feedback vem logo, em particular e em três minutos. A ficha D03 prevê de 10 a 25 minutos quando há mais a combinar. Dono: o líder ou a pessoa responsável pela relação de trabalho. Fonte: ficha D03, aula 6 e modelo T06 `(adaptação metodológica)`.
+
+19. **Faça perto do fato e em particular.** Se o fato não estiver confirmado, investigue antes de concluir.
+20. **Fato com data:** descreva o acontecimento com referência concreta (período e contexto), sem atribuir intenção.
+21. **Efeito:** diga o impacto sobre a entrega, o cliente ou a colaboração.
+22. **Pergunta:** pergunte como a pessoa viu a situação e ouça até o fim. Na pergunta, você para de falar. Verifique as informações que faltavam.
+23. **Combinado:** combine um comportamento ou uma ação observável para a próxima situação, com o apoio do líder e o momento do retorno. Quem chega com o combinado pronto dá um aviso, e a conversa deixa de ser um feedback.
+24. **Formulação possível:** "Na situação descrita, ocorreu este fato e o impacto foi este. Quero entender a sua perspectiva. Para a próxima situação, precisamos combinar esta mudança e este apoio."
+25. **Retome o combinado na situação seguinte** e registre avanços e obstáculos, em notas com acesso restrito. Questão grave ou formal segue o procedimento interno, com apoio adequado. A conversa difícil, com fato, sentimento, necessidade e pedido, é preparada em `ga2-canvas-de-conversa-cnv`.
+
+## Modo: reconhecer uma contribuição (ficha D04, modelo T06)
+
+Reconhecer leva de 2 a 10 minutos, perto da contribuição, e a revisão semanal ajuda a perceber o trabalho pouco visível. Dono: o líder responsável pela equipe. Fonte: ficha D04 e modelo T06 `(adaptação metodológica)`.
+
+26. **Identifique o que a pessoa ou a equipe fez de forma específica,** o fato com data, e confirme o impacto e a participação dos demais envolvidos.
+27. **Explique por que a contribuição ajudou o trabalho.** Elogie o esforço e o processo, nunca o talento. "Você é cuidadosa" ninguém sabe repetir. "Você conferiu os três pedidos antes de sair, e nenhum voltou" mostra o que manter.
+28. **Escolha a forma:** reservada ou pública, conforme o contexto e a pessoa. Formulação possível: "Sua contribuição neste trabalho permitiu este resultado. A forma como você conduziu esta parte foi importante por este motivo."
+29. **Olhe, a cada semana, se o reconhecimento alcança** cooperação, prevenção e melhorias, e não só as entregas visíveis. Observe percepções de favoritismo.
+30. **Evite o elogio que expõe a pessoa** ou que premia o excesso de horas como padrão. Recompensas materiais seguem critérios e alçadas próprios.
 
 ## Saída
 
 Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Registro: feedback com pessoa avaliada e mês no destino privado escolhido (acréscimo do laboratório). Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
+- Registro: feedback com pessoa avaliada e mês no destino privado escolhido (acréscimo do método). Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
 - Aluno: canvas v6 preenchido; os 2 focos entram no plano de uma página (v6 09) e, se couber, no PDI do próprio líder (`ga2-pdi`).
 - Pedidos e devolutivas: canal privado combinado com cada participante; não amplie o compartilhamento.
+- Revisão de desempenho: folha do modelo T08 com as cinco dimensões, os dois focos com prazo, as condições do líder e a data da próxima revisão, em registro reservado.
+- Feedback na hora e reconhecimento: as folhas do modelo T06, em notas com acesso restrito.
 
 ## Formas de saída
 
@@ -146,3 +190,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - Feedback Canvas completo em time com confiança baixa.
 - Rebater a resposta ("mas veja bem…") em vez de copiar como veio.
 - Rótulo na coluna ("desorganizado") em vez de fato; na devolutiva, elogiar talento em vez de processo.
+- Revisão de desempenho: tirar conclusão forte quando a expectativa nunca foi clara, ou avaliar o período só pelo que aconteceu por último.
+- Revisão de desempenho: misturar a conversa de desenvolvimento com a decisão formal, que segue outro processo.
+- Feedback na hora: chegar com o combinado pronto, ou atribuir intenção ao invés de descrever o fato com data.
+- Reconhecimento: elogiar o talento, expor a pessoa sem perguntar, ou premiar o excesso de horas.

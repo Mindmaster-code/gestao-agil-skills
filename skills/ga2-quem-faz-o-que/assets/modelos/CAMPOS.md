@@ -2,18 +2,18 @@
 
 Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
-## `quem-faz-o-que-lab` — Quem faz o quê (laboratório)
+## `quem-faz-o-que-lab` — Quem faz o quê
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
 | `frente` | Frente / demanda |  | `<!-- c:frente -->` |
 | `entrega` | Entrega (resultado, não tarefa) |  | `<!-- c:entrega -->` |
-| `empresa` | Empresa | Treinamentos · Educação · Compartilhado | `<!-- c:empresa -->` |
-| `cartao` | Cartão no portfólio | P-__ | `<!-- c:cartao -->` |
+| `empresa` | Área | Área A · Área B · Compartilhado | `<!-- c:empresa -->` |
+| `cartao` | Cartão no quadro | P-__ | `<!-- c:cartao -->` |
 | `data` | Data desta matriz |  | `<!-- c:data -->` |
-| `p1_nome` | Dono / DRI — nome |  | `<!-- c:matriz -->` (coluna: Nome) |
-| `p1_faz` | Dono / DRI — o que faz |  | `<!-- c:matriz -->` (coluna: O que faz) |
-| `p1_nao` | Dono / DRI — o que não faz |  | `<!-- c:matriz -->` (coluna: O que não faz) |
+| `p1_nome` | Dono — nome |  | `<!-- c:matriz -->` (coluna: Nome) |
+| `p1_faz` | Dono — o que faz |  | `<!-- c:matriz -->` (coluna: O que faz) |
+| `p1_nao` | Dono — o que não faz |  | `<!-- c:matriz -->` (coluna: O que não faz) |
 | `p2_nome` | Aceitante — nome |  | `<!-- c:matriz -->` (coluna: Nome) |
 | `p2_faz` | Aceitante — o que faz |  | `<!-- c:matriz -->` (coluna: O que faz) |
 | `p2_nao` | Aceitante — o que não faz |  | `<!-- c:matriz -->` (coluna: O que não faz) |

@@ -76,3 +76,30 @@ Placar em três linhas:
 - Achou: no cenário, 32 minutos e zero troca, contra 48 minutos de partida.
 - Agora: Lucas prepara piloto; Mariana decide antes de qualquer mudança real.
 
+
+## Modo testar ferramenta (exemplo de outro ramo)
+
+Vera coordena a recepção de uma clínica de fisioterapia. As faltas sem aviso atrapalham a agenda, e a recepção liga para confirmar cada consulta. Em 02/11/2026, ela avaliou uma ferramenta de lembrete por mensagem, antes da renovação da assinatura antiga de agenda, que vence em 30/11/2026. Os números são ilustrativos.
+
+| Campo | Resposta |
+|---|---|
+| Recurso crítico em avaliação e responsável interno | Lembrete de consultas, Vera |
+| Data de decisão | 20/11/2026 |
+| Dor com prova | A recepção gasta cerca de 25 minutos por dia ligando para confirmar, e as faltas sem aviso aparecem na planilha da semana. |
+| Linha de base | 125 minutos por semana na recepção (cinco dias de 25 minutos) |
+| Critério escrito em 02/11/2026 | A ferramenta só entra se devolver pelo menos 60 minutos por semana à recepção, sem aumentar as faltas sem aviso. |
+| Período do teste | de 03/11 a 16/11/2026, no plano grátis |
+
+| Ferramenta | O que faz | Quando usar | Limite | Plano grátis |
+|---|---|---|---|---|
+| Lembrete de consultas | Envia mensagem 24 horas antes e recebe a confirmação | Consultas marcadas com telefone válido | 100 mensagens por mês | Sim |
+
+| Resultado do teste | Resposta |
+|---|---|
+| Tempo devolvido | 90 minutos por semana, porque a recepção só liga para quem não respondeu |
+| Utilização, falhas e custo completo | Uma mensagem não chegou por telefone antigo; o plano pago custaria o que a agenda antiga custava |
+| Decisão | Substituir: a ferramenta entra e a assinatura antiga de agenda não é renovada, dentro da alçada de Vera e conforme os termos do contrato |
+| Plano de transição | Vera migra a agenda antes de 30/11/2026, confirma os acessos e avisa a equipe |
+| Revisão do benefício | 18/12/2026, com a mesma conta de minutos por semana |
+
+O teste mediu o tempo devolvido contra a linha de base de antes. A ferramenta que não passasse do critério não entraria.

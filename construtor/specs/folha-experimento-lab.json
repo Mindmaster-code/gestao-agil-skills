@@ -1,9 +1,9 @@
 {
  "id": "folha-experimento-lab",
  "skill": "ga2-folha-de-experimento",
- "titulo": "Folha de experimento (laboratório)",
+ "titulo": "Folha de experimento",
  "origem": {
-  "familia": "laboratorio",
+  "familia": "acréscimo do método",
   "arquivo": null,
   "pagina": 1,
   "numero": ""

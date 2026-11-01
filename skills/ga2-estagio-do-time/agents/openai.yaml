@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estágio do time"
+  short_description: "Lê em que estágio de Tuckman o time está e qual é a jogada do..."
+  default_prompt: "Aplique Estágio do time ao meu caso, em português simples."

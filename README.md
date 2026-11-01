@@ -1,6 +1,6 @@
 # Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório distribui 33 habilidades do Gestão Ágil 2.0 em um único plug-in e
+Este repositório distribui 40 habilidades do Gestão Ágil 2.0 em um único plug-in e
 mantém os instaladores por pasta para ambientes compatíveis.
 
 O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
@@ -12,14 +12,15 @@ O aluno instala o plug-in uma vez e usa as habilidades dentro do Projeto do seu
 caso real. **Comece por Abrir projeto (`ga2-abrir-projeto`)** para criar ou organizar
 a pasta do caso, definir o responsável e registrar o próximo passo.
 
-Depois, o conteúdo está organizado pedagogicamente em seis trilhas:
+Depois, o conteúdo está organizado pedagogicamente em sete trilhas:
 
 1. Diagnóstico e A3;
 2. Estratégia e objetivos;
 3. Iniciativas e ciclos;
 4. Operação e fluxo;
 5. Melhoria e inovação;
-6. Liderança e times.
+6. Liderança e times;
+7. Rotinas do gestor.
 
 A relação completa entre trilhas e habilidades está em [docs/TRILHAS.md](docs/TRILHAS.md).
 
@@ -42,7 +43,7 @@ de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 
 ## Uma fonte para o método
 
-Este repositório é a fonte canônica das 33 skills, incluindo método, templates, exemplos, modelos e testes.
+Este repositório é a fonte canônica das 40 skills, incluindo método, templates, exemplos, modelos e testes.
 A operação interna e os alunos usam instalações deste pacote. Regras privadas ficam no projeto consumidor.
 Edite aqui, valide e instale uma versão identificada. Não edite instalações, caches ou releases.
 
@@ -181,7 +182,7 @@ python3 construtor/construir.py okr-kit-02 --canvas --md meu-okr.md --saida meu-
 Nesse construtor HTML, o `.md` é a entrada. Prepare-a da versão atual do documento; `--documento` gera HTML, não Word. A lista dos canvas e o modo de leitura estão em
 [construtor/README.md](construtor/README.md). Seis canvas (5W2H, PDCA, Ishikawa, portões DoR/DoD,
 Quem faz o quê e Folha de experimento) não existem no curso: foram desenhados no mesmo estilo do kit e
-trazem o selo "acréscimo do laboratório".
+trazem o selo de acréscimo ao curso.
 
 ## Conteúdo e privacidade
 

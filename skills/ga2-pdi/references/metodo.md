@@ -19,6 +19,7 @@ saída, afogada ou com salário torto — "resolva isso primeiro".
 - Base do método — Passo 6: Liderança de Times §4.8 (os dois templates; passo a passo; "quatro jeitos de matar um PDI"), §4.6 (Mapa de Motivação), §6.1 ("PDI vira plano de evolução de skill"), §8.2 (divergência entre versões).
 - Aulas: v6 pasta 07 aula 06 (caso do Bruno) — única aula narrada. Ao vivo: sem transcrição; só slides GA Aula — PDI, M08 (10 páginas) e `Exemplo Canvas PDI.pdf` (Armando Neto).
 - Templates: v6 Canvas PDI, Passo 6, v6; ao vivo Canvas PDI, Kit M10; exemplo Kit PDI preenchido, Kit de Implementação (referência bibliográfica) (Carlos, líder de separação).
+- Fichas G08 (estudar e desenvolver competências profissionais) e E04 (conversar sobre carreira e perspectivas) do Guia completo de rotinas de gestão, para o PDI do próprio líder e o roteiro da conversa de carreira `(adaptação metodológica)`.
 
 ## As duas versões (documentadas; esta referência adota a v6)
 
@@ -47,6 +48,31 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 10. **Marco e prazo:** "12 de fevereiro, um mês publicando sem passar por mim". Recusa: sem data.
 11. **Como vou acompanhar:** conversa que já existe com um assunto a mais. Recusa: reunião nova só para o PDI.
 
+## Modo PDI do próprio líder (ficha G08)
+
+Serve ao líder que quer ampliar uma competência que limita ou amplia a contribuição dele. É um PDI de si mesmo: os mesmos campos da v6, mais um percurso curto de estudo ligado a um problema real. Semanal, com revisão mensal da aplicação. Fonte: ficha G08 do Guia completo de rotinas de gestão `(adaptação metodológica)`. O Feedback 360 como ponto de partida (`ga2-feedback-360`) e a nota "faça o PDI primeiro do líder que segura seu gargalo" (Kit) vêm do método.
+
+1. **Escolha uma competência** que limita ou amplia a sua contribuição atual. Uma por ciclo. A melhor fonte é o seu Feedback 360 (os padrões que duas ou mais pessoas apontaram); sem ele, use uma situação recente em que a falta dessa competência custou tempo ou resultado.
+2. **Defina o problema real em que vai aplicar:** uma situação do seu trabalho nas próximas semanas. Recuse "estudar o assunto" sem um caso.
+3. **Escolha a fonte e o tempo.** A fonte é o menor pedaço que resolve, um módulo e não um curso. O tempo de partida é de um ou dois blocos de 30 a 60 minutos por semana; marque os blocos na agenda (`ga2-agenda-do-lider`).
+4. **Aplique em uma situação real e peça retorno** a quem viu. Se a fonte ou a técnica exceder a sua capacidade de avaliar, procure apoio especializado.
+5. **Registre a evolução e decida o próximo aprofundamento.** Revise a aplicação uma vez por mês. A quantidade de conteúdo consumido é só um dado de atividade; o que vale é a aplicação.
+
+Como os campos da v6 se encaixam: objetivo = o problema real; lacuna = a competência; 70% = a aplicação no caso real; 20% = o retorno de quem viu e a troca com um mentor, colega ou especialista; 10% = a fonte de estudo; marco = a revisão mensal; como vou acompanhar = os blocos marcados na agenda. Mentalidade de crescimento: "eu não sou bom nisso ainda" (M08 A13). Se a agenda não tem espaço para os blocos, o problema é capacidade e não competência: comece por `ga2-agenda-do-lider` e `ga2-delegacao`.
+
+## Roteiro da conversa de carreira (ficha E04)
+
+Conversa do líder direto com uma pessoa do time sobre o que ela deseja assumir e sobre os caminhos possíveis. Semestral, ou quando houver mudança relevante de função ou de interesse, com 45 a 60 minutos. O registro dos acordos é reservado: a conversa e o roteiro ficam no chat, e o registro só é guardado onde o líder escolher, em destino privado. A ficha E04 não tem aula de origem `(adaptação metodológica)`; o roteiro usa o apêndice de carreira que já existe no `template.md` (versão ao vivo, canvas `pdi-kit`: objetivos de carreira de curto prazo, 1 ano; de médio, 2 a 3 anos; de longo, 5 anos ou mais) e o Mapa de Motivação 3.0 (Passo 6 §4.6). O PDI que nascer da conversa segue a v6, como o resto desta referência.
+
+1. **Ouça o que move a pessoa antes de falar de cargo:** autonomia (decidir como trabalha), maestria (ficar cada vez melhor) ou propósito (servir a algo maior). Pergunta: "Que parte do seu trabalho você faria mesmo se ninguém pedisse?" Deixe o silêncio. Pergunte, não anuncie.
+2. **Ouça o tipo de trabalho e de responsabilidade que ela deseja assumir,** nos horizontes do apêndice: curto (1 ano), médio (2 a 3 anos) e longo (5 anos ou mais).
+3. **Examine forças, experiências e lacunas** ligadas à direção escolhida, com fatos.
+4. **Explique as oportunidades, os critérios e as restrições que você conhece.** Diga o que você pode fazer, o que depende de outras pessoas e o que você não sabe. Não prometa posição, promoção, aumento nem vaga: isso é decisão de quem tem a alçada.
+5. **Combine experiências de desenvolvimento** e formas de demonstrar preparo. Se a pessoa quiser, leve o combinado para um PDI: uma lacuna por ciclo, ações 70-20-10 e marco com data. As três travas do PDI (de saída, afogada ou com salário torto) valem para o PDI e não para a conversa: se existir alguma, a conversa acontece e o PDI espera a trava ser resolvida.
+6. **Marque o retorno,** com data e com o nome de quem dá o próximo passo. Registre o que foi dito em lugar reservado.
+
+Se não houver oportunidade disponível, diga com clareza e avalie alternativas viáveis; intenção não vira promessa de promoção. Se o assunto virar remuneração ou outra decisão fora da sua alçada, encaminhe a quem decide, com apoio da área de pessoas quando houver, e registre. No acompanhamento, revise as experiências realizadas e as evidências de preparo, e registre mudanças de interesse ou de contexto da organização.
+
 ## Regras do método que valem aqui
 
 - PDI se combina, não se entrega pronto. (v6 06)
@@ -57,7 +83,7 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 - "Faça o PDI primeiro do líder que segura seu gargalo." (Kit)
 - "Ainda": lacuna é "não sou bom nisso ainda". (v6 07)
 
-## Aplicação a agentes: PDI de agente = plano de evolução de skill (acréscimo do laboratório)
+## Aplicação a agentes: PDI de agente = plano de evolução de skill (acréscimo do método)
 
 | Campo v6 | Para agente |
 |---|---|
@@ -66,10 +92,10 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 | Forças | o que já roda com prova |
 | Lacuna | uma por ciclo |
 | 70% | uso real em projeto da organização |
-| 20% | revisão da coordenação ou do dono da área (carta, report de sexta) |
+| 20% | revisão da coordenação ou do dono da área (mensagem escrita ou relato do fim da semana) |
 | 10% | leitura da base do método e da aula original disponível |
 | Marco | data e prova pelo caminho real |
-| Acompanhar | bloco do report de sexta, não ritual novo |
+| Acompanhar | bloco do relato do fim da semana, não ritual novo |
 
 O dono da skill revisa o plano — nunca "entregue pronto".
 
@@ -79,7 +105,9 @@ Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Do
 
 - Pessoa: PDI com nome e mês no destino privado escolhido; Word/Docs para editar, PDF para leitura. Assinado a dois: líder e pessoa.
 - Agente/skill: plano de evolução no registro da skill ou em sua fila de desenvolvimento.
-- Depois: o marco entra como compromisso do plano do ciclo em que vence; o acompanhamento vira linha no report de sexta; feedback de processo quando o marco chega.
+- Líder (modo próprio): o PDI do líder, no destino privado dele, com os blocos de estudo marcados na agenda e a revisão mensal da aplicação.
+- Carreira: o registro reservado da conversa, com o horizonte discutido, os limites explicados, as experiências combinadas e a data do retorno.
+- Depois: o marco entra como compromisso do plano do ciclo em que vence; o acompanhamento vira linha no relato do fim da semana; feedback de processo quando o marco chega.
 
 ## Formas de saída
 
@@ -144,7 +172,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 ## Adaptação
 
 - **Leve** (uma pessoa, uma lacuna óbvia): pule a hipótese escrita; vá direto à conversa de 30 min com objetivo e lacuna; 70-20-10 em uma linha cada; data.
-- **Intermediária** (líder de equipe, agente): canvas completo + Mapa de Motivação antes; acompanhamento no report de sexta.
+- **Intermediária** (líder de equipe, agente): canvas completo + Mapa de Motivação antes; acompanhamento no relato do fim da semana.
 - **Robusta** (carreira, aluno): v6 como base + horizonte de carreira da versão ao vivo como apêndice (1 / 2–3 / 5+ anos) e métrica de sucesso por ação.
 
 ## Erros comuns
@@ -155,3 +183,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - Acompanhamento em ritual novo — morre na segunda semana.
 - PDI para quem está de saída, afogado ou com salário torto.
 - Para agente: plano sem "pronto é" verificável e sem revisão do dono da skill.
+- PDI do líder: acumular cursos sem aplicar em um caso real.
+- Conversa de carreira: falar de cargo antes de ouvir o que move a pessoa.
+- Conversa de carreira: prometer posição, promoção, aumento ou vaga fora da alçada do líder.
+- Conversa de carreira: guardar o registro onde outras pessoas têm acesso.

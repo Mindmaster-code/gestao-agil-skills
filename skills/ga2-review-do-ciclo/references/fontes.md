@@ -7,6 +7,7 @@
   roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
   individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
+- Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês `(adaptação metodológica)`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

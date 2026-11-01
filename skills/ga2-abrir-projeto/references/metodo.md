@@ -48,6 +48,31 @@ Se o pedido for apenas por pastas, crie apenas a estrutura. Dados ausentes ficam
 Mantenha a pasta e o histórico. A estrutura anterior pode mapear visão e contexto para abertura, evidências para suas fases e operação para continuidade.
 Esse mapa orienta a navegação; não autoriza mover arquivos ou renomear pastas sem necessidade e sem considerar os links existentes.
 
+## Pasta de área ou de rotina (ficha F08)
+
+Para o trabalho que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas e os registros de uma equipe. O projeto tem começo, meio e fim e usa as seis pastas acima. A área ou a rotina precisa que as pessoas encontrem a versão vigente, saibam quem responde por ela e tenham o acesso certo. Dono: o dono da informação ou do processo. Fonte: ficha F08 do Guia completo de rotinas de gestão `(adaptação metodológica)`.
+
+**O que a pasta tem à vista**
+
+- **Local oficial.** Um só, conhecido por quem usa. Dois locais para o mesmo conteúdo viram duas verdades; se existirem duas cópias, diga qual é a fonte principal.
+- **Nome que identifica o conteúdo.** Quem lê o nome sabe o que é sem abrir o arquivo.
+- **Dono, versão e validade,** quando o uso pedir. Dono é uma pessoa, não uma área. Validade é a data em que o documento deve ser revisto.
+- **Versão de referência separada da substituída.** A de referência é a que se usa hoje. A substituída fica guardada, identificada e fora do caminho de quem procura. O rascunho fica à parte.
+- **Guia da pasta** (modelo `PASTA-DE-AREA.md`): dono da pasta, local oficial, como pedir acesso e o registro dos documentos.
+
+**Como montar**
+
+1. Defina o local oficial e o nome.
+2. Registre dono, versão e validade dos documentos mais usados.
+3. Separe referência, substituída e rascunho.
+4. Confira o acesso como item de checklist: quem precisa ler, quem precisa editar, a sensibilidade da informação e a revisão do acesso quando alguém muda de função ou sai. Esta habilidade não concede nem altera permissões.
+5. Teste: peça a quem usa o conteúdo que encontre a versão vigente sozinho. Se não achar, o nome ou o local falhou.
+6. Aponte a pasta no quadro de trabalho, quando houver: um único procedimento vigente, com o histórico separado e a referência no quadro.
+
+**Ao longo do tempo.** Revise ao criar ou alterar um documento e, todo mês, os conjuntos mais usados (de 10 a 30 minutos por conjunto). Acompanhe a procura frustrada, o uso de versão antiga e os pedidos repetidos de acesso.
+
+**Cuidados.** Respeite as regras de retenção e de confidencialidade. Não apague registro obrigatório nem amplie o acesso só para facilitar uma transferência. Nunca registre senha ou credencial no guia. Para tirar da pasta o que perdeu o sentido, use a poda mensal do `ga2-backlog-2d` como modelo e confirme o critério de guarda antes de arquivar ou apagar. Se a rotina virar um projeto, abra a pasta de projeto e aponte para a da rotina, sem copiar os documentos.
+
 ## Critério de qualidade
 
 Outra pessoa deve entender o problema, resultado esperado, limites, responsável, evidências e próximo passo sem recuperar a conversa.

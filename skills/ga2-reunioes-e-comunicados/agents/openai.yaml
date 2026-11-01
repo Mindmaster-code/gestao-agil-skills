@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reuniões e comunicados"
+  short_description: "Prepara reuniões que terminam em decisão escrita e comunica..."
+  default_prompt: "Aplique Reuniões e comunicados ao meu caso, em português simples."

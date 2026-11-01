@@ -6,6 +6,7 @@
 - Exemplo da aula: M04 A13 — “Exemplo Canvas POP” (aprovação de projetos, APPROJ001).
 - Exemplo do curso: Kit Implementação — “Conferência padrão de separação” (POP-SEP-001).
 - Critério de qualidade e revisão são adaptações metodológicas; a origem de cada campo está na tabela abaixo.
+- Fichas C09 (preservar e transferir conhecimento) e E10 (planejar ausências, cobertura e sucessão) do Guia completo de rotinas de gestão; aula 7 do curso de rotinas (cobrir as ausências) e modelo T13, página 2 (cobertura), para a seção de cobertura `(adaptação metodológica)`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

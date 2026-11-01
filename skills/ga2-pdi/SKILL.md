@@ -1,6 +1,6 @@
 ---
 name: ga2-pdi
-description: "Monta um plano de desenvolvimento com objetivo de trabalho, forças, lacuna, ações 70-20-10, marco e acompanhamento. Use quando pedirem PDI, desenvolvimento de pessoa ou evolução profissional."
+description: "Monta um plano de desenvolvimento com objetivo de trabalho, forças, lacuna, ações 70-20-10, marco e acompanhamento. Também monta o PDI do próprio líder e conduz a conversa de carreira. Use quando pedirem PDI, desenvolvimento de pessoa, evolução profissional, estudar uma competência ou conversar sobre carreira."
 ---
 
 # Plano de Desenvolvimento Individual
@@ -77,5 +77,5 @@ python3 construtor/construir.py pdi-kit --canvas --md meu-caso.md --saida meu-ca
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

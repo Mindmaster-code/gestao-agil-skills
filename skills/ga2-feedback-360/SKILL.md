@@ -1,6 +1,6 @@
 ---
 name: ga2-feedback-360
-description: "Conduz um Feedback 360 com diferentes pontos de vista, padrões e até dois focos com prazo. Use quando pedirem avaliação 360, feedback de líder, pares e equipe ou plano após feedback."
+description: "Conduz um Feedback 360 com diferentes pontos de vista, padrões e até dois focos com prazo. Também prepara a revisão de desempenho de uma pessoa, o feedback na hora e o reconhecimento de uma contribuição. Use quando pedirem avaliação 360, feedback de líder, pares e equipe, plano após feedback, revisão de desempenho, dar feedback a alguém ou reconhecer uma pessoa."
 ---
 
 # Feedback 360
@@ -77,5 +77,5 @@ python3 construtor/construir.py feedback-360-kit-12 --canvas --md meu-caso.md --
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

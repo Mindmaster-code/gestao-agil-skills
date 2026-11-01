@@ -29,6 +29,13 @@ campos, regras e destino. `ga2-me-mostra` determina o recorte e a apresentação
 | hipótese e teste | `ga2-folha-de-experimento` | hipótese → protótipo → teste → critério |
 | números para quem decide | `ga2-painel-do-gestor` | painel com 3–5 números-âncora |
 | conversa difícil | `ga2-canvas-de-conversa-cnv` | fato → sentimento → necessidade → pedido |
+| agenda do líder, tempo para trabalho importante, pedra grande da semana | `ga2-agenda-do-lider` | semana em blocos, com a pedra grande primeiro e a folga |
+| calendário de rotinas, inventário de reuniões, custo por semana, plano de 90 dias | `ga2-sistema-de-rotinas` | calendário do dia ao ano e linha dos 90 dias |
+| conversa individual, conversa de motivação, permanência | `ga2-conversa-individual` | rodízio das conversas ao longo das semanas |
+| contratar, abrir vaga, integrar quem chega | `ga2-contratar-e-integrar` | gargalo no quadro e degraus com pontos em 7, 30, 60 e 90 dias |
+| reunião, pauta, custo da reunião, comunicado de mudança | `ga2-reunioes-e-comunicados` | custo da reunião e três grupos com a frase de cada um |
+| decisão registrada, riscos da área | `ga2-registro-de-decisoes-e-riscos` | decisão com dono e data de rever, e riscos por prioridade |
+| estágio do time, termômetro de confiança, mudança no time | `ga2-estagio-do-time` | cinco estágios com a jogada do líder e a distribuição das respostas |
 
 ## Regra de desempate
 

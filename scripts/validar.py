@@ -48,8 +48,8 @@ except (OSError, ValueError, KeyError) as error:
 
 directories = skill_directories(SKILLS)
 core = [path for path in directories if path.name.startswith("ga2-")]
-if len(core) != 32 or {path.name for path in directories} != {path.name for path in core} | set(EXTRA_SKILLS):
-    fail("esperadas 32 skills GA2 e agenda-visual")
+if not core or {path.name for path in directories} != {path.name for path in core} | set(EXTRA_SKILLS):
+    fail("as pastas de skills devem ser as ga2-* mais agenda-visual")
 
 for directory in directories:
     required = (directory / "SKILL.md", directory / "agents/openai.yaml")
@@ -133,4 +133,5 @@ for item in manifesto["oficiais"]:
             fail(f"modelo ausente: {path.relative_to(ROOT)}")
 
 scope = "integridade do pacote canônico"
-print(f"OK: {scope}; {len(directories)} habilidades, {len(manifesto['oficiais'])} canvas e seis trilhas. Dez casos de submissão conferidos estruturalmente, não executados.")
+trilhas = len(re.findall(r"^## \d+\. ", trails, flags=re.M))
+print(f"OK: {scope}; {len(directories)} habilidades, {len(manifesto['oficiais'])} canvas e {trilhas} trilhas. Dez casos de submissão conferidos estruturalmente, não executados.")

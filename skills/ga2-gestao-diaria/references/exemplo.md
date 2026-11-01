@@ -79,3 +79,31 @@ Sem dono / gate sem decisor: nenhum.
 Cadência: ciclo W38 tem plano e diária; review e retro previstas para 18/09.
 Cobrança de hoje: nenhuma; impedimento com Lucas, prazo 16/09 às 14h.
 ```
+
+## 4. Modo pessoal: exemplo de um escritório de advocacia
+
+Exemplo fictício e independente. Marcos é sócio de um escritório de advocacia e mantém um quadro de prazos. Pessoas, datas e casos são ilustrativos.
+
+### 4.1 Fechamento em 05/11/2026, às 18h
+
+| Campo | Resposta |
+|---|---|
+| Quadro em dia | sim: a contestação do caso 12 foi para Validação; a reunião com o cliente foi concluída; o recurso do caso 9 ficou bloqueado, com motivo e data |
+| Estado das entregas | contestação enviada para revisão da sócia; recurso parado à espera de um documento do cliente; falta a petição inicial do caso 14 |
+| Retornos enviados | ao cliente do recurso: "O documento ainda não chegou e, sem ele, não protocolamos. Retorno em 12/11, às 10h." |
+| O que ficou sem destino | pedido de orçamento de um possível cliente virou o cartão "Orçamento", com prazo em 06/11; a ideia de um modelo de contrato foi para a lista de melhorias |
+| Ocorrência urgente em andamento | nenhuma |
+| Recursos encerrados e ambiente pronto | pasta do caso 14 aberta na última versão da minuta |
+
+### 4.2 Preparo para 06/11
+
+| Campo | Resposta |
+|---|---|
+| Compromissos do dia e o preparo de cada um | 9h, reunião com o cliente do caso 14 (levar a minuta e o resumo); 14h, ligação com o perito (levar as perguntas) |
+| Entrega prioritária que dá para fazer com a capacidade do dia | protocolar a petição inicial do caso 14 até as 17h |
+| Primeiro passo e materiais | abrir a minuta na versão 3 e conferir os anexos |
+| Dependências a resolver antes | a assistente confirma o comprovante de pagamento das custas até as 10h |
+| Período de execução reservado | 10h30 às 12h |
+| Alternativa, se o trabalho for imprevisível | se a ligação com o perito atrasar, a petição é protocolada antes das 14h |
+
+Na diária de 06/11, Marcos responde "entreguei" com a contestação, "puxo hoje" com a petição e "me trava" com o documento do cliente.

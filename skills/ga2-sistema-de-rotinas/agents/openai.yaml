@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sistema de rotinas"
+  short_description: "Monta o sistema de rotinas de um gestor: o calendário do dia..."
+  default_prompt: "Aplique Sistema de rotinas ao meu caso, em português simples."

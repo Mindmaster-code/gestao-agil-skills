@@ -1,0 +1,4 @@
+interface:
+  display_name: "Registro de decisões e de riscos"
+  short_description: "Mantém em dia o registro de decisões, de compromissos e de..."
+  default_prompt: "Aplique Registro de decisões e de riscos ao meu caso, em português simples."

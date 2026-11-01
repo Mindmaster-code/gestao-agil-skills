@@ -46,6 +46,18 @@ Leitura invertida e escala diferente entre a aula (A09, 7) e o template que o al
 
 Conversão para quem tem o template de 4: N4 Líder Decide = 1–2 · N3 Consulta o Líder = 3–5 · N2 Consulta Equipe = 4 · N1 Decide Sozinho = 6–7.
 
+## Antes da reunião: o levantamento das aprovações (duas semanas)
+
+Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fatos da agenda real. Este levantamento é a parte da auditoria da agenda (`ga2-agenda-do-lider`) que alimenta o quadro. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma. Fonte: ficha G06 do Guia completo de rotinas de gestão `(adaptação metodológica)`.
+
+- **Reúna duas semanas de rastros de aprovação:** pedidos de "posso?", "pode?" ou "aprova?", assinaturas, decisões tomadas em reunião e mensagens que esperaram resposta do líder. Sem registro, o líder anota cada pedido durante duas semanas.
+- **Faça uma linha por assunto, no verbo:** quem pediu (pelo papel), quantas vezes, o que o líder decidiu e o critério que usou. Marque se o critério está escrito ou só na cabeça do líder.
+- **Agrupe os que se repetem** (mesmo assunto, mesma resposta).
+- **Separe dois tipos.** Onde o líder respondeu sempre igual, escreva o critério: é o que permite ao time decidir sem perguntar (níveis 5 a 7). Onde a resposta mudou conforme o caso, o critério ainda não existe: converse com o time antes de subir o nível.
+- **Leve quatro assuntos ao passo 1 de "Como conduzir",** os que mais voltaram. Mais de 6 linhas na primeira rodada continua sendo recusa.
+
+Cuidados: o levantamento lista fatos, não impressões, e não julga quem pediu. O tempo que a delegação liberar precisa de um destino relevante. Delegar exige que quem recebe tenha responsabilidade, acesso e verificação; evite transferir um problema para quem não tem condições de resolvê-lo.
+
 ## Como conduzir (1 hora, v6 02)
 
 1. **Liste os assuntos.** "Quais quatro assuntos fazem alguém vir te perguntar 'posso?'" Um por linha, **no verbo**: "responder reclamação fora do padrão". Recusa: assunto largo ("atendimento"); mais de 6 linhas na primeira rodada.
@@ -55,7 +67,7 @@ Conversão para quem tem o template de 4: N4 Líder Decide = 1–2 · N3 Consult
 5. **Preencha o rodapé:** Combinado em (data da reunião) · Visível em ("onde o time vê, não na sua gaveta") · Revisamos em (data). Recusa: "revisamos em" em branco — "é a que todo mundo deixa em branco".
 6. **Pendure ao lado do quadro de tarefas.** Na data de revisão, reabra só as linhas em que a decisão voltou ao líder ou o time errou.
 
-## Aplicação aos agentes (acréscimo do laboratório)
+## Aplicação aos agentes (acréscimo do método)
 
 Para agente, delegação por nível não é boa prática, é enforcement: "gente intui limite;
 agente executa o que o prompt permitir" (Base do método — Passo 6 §6.2). Tradução dos níveis para uma operação com agentes; os papéis devem ter autoridade registrada, não presumida:
@@ -63,10 +75,10 @@ agente executa o que o prompt permitir" (Base do método — Passo 6 §6.2). Tra
 | Nível | Quem decide | Onde está escrito | Exemplo |
 |---|---|---|---|
 | 1–2 | autoridade humana competente decide e explica | política de autorização, controle técnico e registro da aprovação do projeto | preço, verba, contrato, estrutura, produto, pessoa, deploy em produção, DNS, exclusão de dado, mídia paga |
-| 3 | autoridade de coordenação ouve o diretor e decide | acordo de autoridade da organização | prioridade entre áreas, mudança de dono, fronteira entre diretores |
-| 4 | coordenação e diretor por acordo | demanda com o que, por quê, dono, pronto é, prazo, onde trava; status com gate e decisor nomeado | prazo de negócio, corte de escopo |
-| 5 | Diretor decide depois de ouvir a coordenação | STATUS do projeto | sequência de entregas dentro da área |
-| 6 | Diretor/head decide e conta no report de sexta | identidade canônica do agente | "diretor pede direto ao time técnico, dentro da autoridade registrada" |
+| 3 | autoridade de coordenação ouve o responsável pela área e decide | acordo de autoridade da organização | prioridade entre áreas, mudança de dono, fronteira entre áreas |
+| 4 | coordenação e responsável pela área por acordo | demanda com o que, por quê, dono, pronto é, prazo, onde trava; status com gate e decisor nomeado | prazo de negócio, corte de escopo |
+| 5 | Responsável pela área decide depois de ouvir a coordenação | STATUS do projeto | sequência de entregas dentro da área |
+| 6 | Responsável pela área decide e conta no relato do fim da semana | identidade canônica do agente | "o responsável pela área pede direto ao time técnico, dentro da autoridade registrada" |
 | 7 | Agente decide sem contar | identidade canônica, "Autoridade" | formato de artefato interno, pauta de ritual, classificar cartão como parado |
 
 Célula sem nome = agente que age sem autoridade ou trava sem motivo. Autoridade só viaja
@@ -85,8 +97,9 @@ com fonte (arquivo, linha, hora, texto).
 
 Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Organização: um quadro pelo `template.md`, no destino escolhido e vinculado ao portfólio. Por frente, crie um quadro próprio apenas quando necessário.
+- Organização: um quadro pelo `template.md`, no destino escolhido e vinculado à carteira de iniciativas. Por frente, crie um quadro próprio apenas quando necessário.
 - Aluno: canvas v6 preenchido, pendurado ao lado do Kanban, foto no STATUS.
+- Antes do quadro: a lista de aprovações das duas semanas, guardada junto dele como prova de onde vieram os assuntos.
 - Depois: o assunto que subiu para 6–7 vira os 70% do PDI da pessoa (`ga2-pdi`); linha em que dois donos discordam vai à autoridade de coordenação como fronteira, não como caso.
 
 ## Formas de saída
@@ -162,3 +175,4 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - Dois nomes na célula para "não brigar". É a fronteira mal escrita — a linha vai à autoridade de coordenação.
 - Subir de nível por desconfiança geral, e não por erro naquele assunto.
 - Para agente: célula 1–2 sem hook ou gate escrito — vira só texto, e texto não segura agente.
+- Montar o quadro com os assuntos de que o líder lembra, e não com os que mais voltaram nas duas últimas semanas.

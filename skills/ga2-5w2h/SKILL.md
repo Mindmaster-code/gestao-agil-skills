@@ -1,6 +1,6 @@
 ---
 name: ga2-5w2h
-description: "Cria um plano de ação 5W2H com ação, motivo, dono único, data, local, modo de execução, custo e prova. Use quando pedirem plano de ação, 5W2H, contramedidas ou responsáveis e prazos."
+description: "Cria um plano de ação 5W2H com ação, motivo, dono único, data, local, modo de execução, custo e prova. Também compara, a cada mês, o orçado, o contratado e o realizado de cada iniciativa. Use quando pedirem plano de ação, 5W2H, contramedidas, responsáveis e prazos, custo das iniciativas, orçamento ou desvio de gasto."
 ---
 
 # 5W2H — plano de ação
@@ -66,7 +66,7 @@ HTML, use os modelos de `assets/modelos/`:
 
 Canvas desta habilidade:
 
-- `5w2h-lab` — 5W2H — plano de ação (laboratório) (desenhado no estilo do kit; não está no curso) — padrão
+- `5w2h-lab` — 5W2H — plano de ação (desenhado no estilo do kit; não está no curso) — padrão
 
 Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
 
@@ -76,5 +76,5 @@ python3 construtor/construir.py 5w2h-lab --canvas --md meu-caso.md --saida meu-c
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

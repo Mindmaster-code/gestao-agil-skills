@@ -32,6 +32,13 @@ Kit Implementação (POP-SEP-001).
 - [ ] Onde travou, o POP foi corrigido.
 - [ ] Cabe em uma página (canvas) ou em duas telas; manual longo não é POP.
 
+**Cobertura (fichas E10 e C09)**
+- [ ] A pergunta das férias foi feita e respondida (Sim, Só em parte ou Não), e o que falta está anotado.
+- [ ] Cada atividade crítica tem titular, substituto e a última vez que o substituto fez de verdade.
+- [ ] O substituto foi testado numa situação pertinente antes da ausência, com a execução acompanhada.
+- [ ] Há contatos de escalada e limite de decisão do substituto.
+- [ ] A lição foi para o POP e foi compartilhada com quem faz trabalho parecido.
+
 ## Erros comuns
 
 | Erro | Onde a aula fala | Como recusar |
@@ -48,6 +55,9 @@ Kit Implementação (POP-SEP-001).
 | Gatilho "quando der" | canvas: "descreva como o processo inicia" | "O que faz começar? Evento, data, insumo." |
 | POP sem teste com quem nunca fez | Passo 2, critério de bem feito | "Quem executou só com o POP? Onde travou?" |
 | Segredo escrito no POP | regra de segurança desta adaptação | "Nunca. Aponta onde o acesso é pedido." |
+| Cobertura que nunca foi testada | aula 7; ficha E10 | "O substituto já fez isso com alguém olhando? Quando?" |
+| Substituto sem limite de decisão | aula 7; modelo T13 | "Até onde ele decide sozinho? A quem escala?" |
+| Dupla carga permanente de quem cobre | ficha E10 | "Quem cobre largou o quê? Se não, reduza o escopo ou peça reforço." |
 
 ## Formas de saída
 

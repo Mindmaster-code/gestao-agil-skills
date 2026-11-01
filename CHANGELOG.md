@@ -1,5 +1,19 @@
 # Histórico de versões
 
+## 0.5.0 - 01/11/2026
+
+- 40 habilidades: entram sete habilidades de rotinas do gestor, reunidas na nova trilha 7, "Rotinas do gestor".
+  - `ga2-sistema-de-rotinas`: calendário do dia ao ano, inventário com o custo por semana de cada rotina e plano de implantação em 90 dias.
+  - `ga2-agenda-do-lider`: a semana de quem coordena trabalho e gente, com a pedra grande primeiro, blocos de concentração e a revisão pessoal do líder.
+  - `ga2-conversa-individual`: acompanhamento de pauta aberta, conversa de motivação, acompanhamento do PDI e conversa de permanência.
+  - `ga2-contratar-e-integrar`: teste do gargalo antes da vaga, seleção com critérios escritos antes e integração em degraus.
+  - `ga2-reunioes-e-comunicados`: reunião que termina em decisão escrita, com teto e custo, revisão mensal e comunicado de mudança em três grupos.
+  - `ga2-registro-de-decisoes-e-riscos`: decisão com motivo, dono e data de rever, lista de riscos com sinal e resposta, e revisão da decisão.
+  - `ga2-estagio-do-time`: estágios de Tuckman, Termômetro da Confiança e plano de transição de uma mudança.
+- 14 habilidades ganham modos novos: `ga2-gestao-diaria` (preparar o dia e fechar o expediente), `ga2-delegacao` (levantamento das aprovações), `ga2-pdi` (PDI do próprio líder e conversa de carreira), `ga2-politicas-wip-urgencia` (antes de abrir vaga e canal oficial por tipo de pedido), `ga2-abrir-projeto` (pasta de área ou de rotina), `ga2-backlog-2d` (poda mensal), `ga2-pop` (cobertura e substituto), `ga2-quem-faz-o-que` (papel previsto contra papel assumido e transição), `ga2-plano-do-ciclo` (capacidade e carga por pessoa), `ga2-5w2h` (orçado, contratado e realizado), `ga2-kanban-canvas` (dependência entre áreas), `ga2-review-do-ciclo` (voz do cliente do mês), `ga2-folha-de-experimento` (testar ferramenta) e `ga2-feedback-360` (revisão de desempenho, feedback na hora e reconhecimento).
+- `ga2-me-mostra` roteia os pedidos visuais para as sete habilidades novas, e `docs/TRILHAS.md` ganha a trilha 7.
+- `scripts/validar.py` passa a derivar da pasta `skills/` e de `docs/TRILHAS.md` a contagem de habilidades e de trilhas, em vez de exigir um número fixo.
+
 ## 0.4.2 — 31/10/2026
 
 - 33 habilidades: entra `agenda-visual`, que transforma o planejamento de qualquer projeto em agenda, calendário ou linha do tempo, com fases, datas, responsabilidades e pendências.

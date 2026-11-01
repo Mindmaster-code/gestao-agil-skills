@@ -21,8 +21,9 @@ como decisão de calibragem na retrospectiva.
 - Política de urgência v6: cinco linhas transcritas em `template.md` — o que é, quem chama, quantas, pausado e onde fica escrito.
 - Templates: só slides. «Mod 03 — Políticas do Quadro GA2 Editável» e
   «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
-- Classe de atendimento do laboratório: modelo operacional de demandas (acréscimo do laboratório, com regras incorporadas nesta referência) §8 (limite
+- Classe de atendimento: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §8 (limite
   por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
+- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5 `(adaptação metodológica)`.
 
 ## Como conduzir
 
@@ -49,28 +50,51 @@ como decisão de calibragem na retrospectiva.
 8. **O que é urgente aqui.** Pergunta: "O que conta como incêndio?" Escreva em uma linha.
    Modelo v6: "cliente parado, receita travada ou risco legal; o resto entra na fila".
 9. **Quem pode chamar.** Uma pessoa só. "Urgência que qualquer um decreta deixa de ser urgência."
-10. **Quantas cabem por vez.** Uma. A segunda espera a primeira terminar. No laboratório, o portfólio
-    reserva **2 vagas** na raia de urgência (acréscimo do laboratório: uma por empresa, porque
-    as duas empresas têm donos diferentes; revisar na retro do primeiro mês).
+10. **Quantas cabem por vez.** Uma. A segunda espera a primeira terminar. No acréscimo do método, a carteira de iniciativas
+    reserva **2 vagas** na raia de urgência (uma por área, porque
+    as duas áreas têm donos diferentes; revisar na retro do primeiro mês).
 11. **O que acontece com o pausado.** Ganha marca de pausa com motivo e data; volta na frente da
     fila quando a urgente sai. "Se alguém perguntar por que atrasou, você sabe" (A21).
-12. **Onde fica escrito.** No alto do quadro, à vista. Recuse política em carta ou chat.
+12. **Onde fica escrito.** No alto do quadro, à vista. Recuse política em mensagem escrita ou chat.
 13. **Escolha a mecânica:** cartão vermelho que pausa o item em curso **ou** raia inferior só
     para urgências (colunas iguais ou menos: fila → execução → feito). A raia permite contar.
-    O laboratório usa raia.
+    O acréscimo do método usa raia.
 14. **Ligue o contador.** Por ciclo: quantas urgências entraram · o que tiraram do plano · quem foi
     avisado. Uma ou duas o ritmo absorve; metade do quadro em vermelho é sintoma → pauta da retro.
 
-### Parte 3 — Classe Crítica (modelo operacional do laboratório, §9)
+### Parte 3 — Classe Crítica (modelo operacional do método, §9)
 
-15. Toda demanda do laboratório tem **classe de atendimento**: Crítica, Com prazo ou Normal. Crítica =
+15. Neste modelo, toda demanda tem **classe de atendimento**: Crítica, Com prazo ou Normal. Crítica =
     "dano relevante acontecendo agora". O solicitante pode sugerir; quem valida e interrompe é o
-    diretor, uma política de incidente aprovada ou a Autoridade competente por Prioridade explícita.
+    responsável pela área, uma política de incidente aprovada ou a Autoridade competente por Prioridade explícita.
 16. Se a Crítica ultrapassar o WIP, **registre qual trabalho foi deslocado** (§9). É o mesmo
     "cartão pausado com marca" da aula, com nome do modelo.
-17. Pedido direto do dirigente responsável entra na fila normal; só **Prioridade explícita** manda interromper,
-    com o custo da troca registrado (§9–10). Carta com comando no escopo do remetente é executada e
+17. Pedido direto do responsável pela área entra na fila normal; só **Prioridade explícita** manda interromper,
+    com o custo da troca registrado (§9–10). Mensagem escrita com comando no escopo do remetente é executada e
     arquivada; não vira urgência por si (Base do método: Passo 4 — Ritmo Ágil §6.5).
+
+### Parte 4: antes de abrir vaga (ficha E06)
+
+O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?"** vem antes de qualquer pedido de contratação. Serve a quem responde pela área, antes de abrir vaga ou mudar a estrutura, e a cada revisão trimestral. Conversa com a operação, o financeiro e a área de pessoas, conforme a decisão. Fonte: ficha E06 do Guia completo de rotinas de gestão `(adaptação metodológica)`; a regra "contratar é a última saída" é da aula A19.
+
+18. **Ache a etapa em que a fila se forma,** com os três sinais do passo 5: a coluna mais cheia, o cartão mais velho e quanto o time entrega por semana. Se faltarem dados, observe o trabalho antes de assumir um quadro definitivo.
+19. **Pergunte, uma de cada vez:**
+    - **Redistribuir:** há gente com folga em outra etapa? "Quem ficou sem trabalho ajuda a terminar o que está lá."
+    - **Mudar o processo:** a espera é por aprovação, informação ou retrabalho, e não por falta de mãos? Cotações paradas à espera da assinatura de uma só pessoa se resolvem com um critério escrito, não com mais um comprador.
+    - **Desenvolver alguém:** falta uma competência específica, embora a quantidade de horas pareça suficiente?
+20. **Só então descreva o perfil necessário e o benefício esperado** da contratação, ligados a resultados e a uma capacidade que dá para verificar. Contratação depende de orçamento e de autoridade aprovados: leve a decisão a quem a tem.
+21. **Revise o efeito da decisão** sobre entrega, carga e custo, e atualize a previsão quando a demanda mudar.
+
+### Parte 5: canal oficial por tipo de pedido (ficha F10)
+
+Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.md`) e a política de urgência da Parte 2. Define onde os pedidos entram, onde as decisões ficam registradas e como o assunto urgente chega às pessoas, para que a equipe responda com previsibilidade. Dono: o gestor da equipe ou quem cuida da comunicação. Definição inicial de 30 a 45 minutos; revisão mensal ou quando houver falhas recorrentes. Fonte: ficha F10 do Guia completo de rotinas de gestão `(adaptação metodológica)`. Escolher o aplicativo de mensagem em si fica fora desta habilidade.
+
+22. **Liste os tipos de pedido e os canais que usam hoje** (conversa de corredor, mensagem, e-mail, ligação). Pergunta: "Por onde chegou o último pedido de cada tipo?"
+23. **Defina um canal oficial de entrada por tipo de pedido** e onde a decisão fica registrada. A demanda entra pelo quadro.
+24. **Combine o prazo de resposta** de cada canal, compatível com a operação. Recuse exigir disponibilidade contínua sem acordo. Funções de plantão ou de atendimento precisam de cobertura antes de limitar a consulta a mensagens.
+25. **Ligue o caminho da urgência** às cinco linhas da Parte 2: quem pode chamar (uma pessoa), por qual canal e para quê.
+26. **Escreva as regras ao lado do quadro.** Quando alguém pedir por outro caminho, aponte a regra e leve o pedido para o canal oficial.
+27. **Teste o acordo em casos reais** e ajuste a comunicação aos solicitantes. Acompanhe pedidos perdidos, duplicados e urgências fora do critério.
 
 ## Regras do método que valem aqui
 
@@ -82,16 +106,19 @@ como decisão de calibragem na retrospectiva.
 - Conte as urgências por ciclo; muitas = causa a investigar. (v6 06)
 - Urgência não elimina a definição de pronto. (modelo operacional §11)
 - "Você nunca mais vai fazer Kanban sem limite de WIP." (A21)
+- Antes de abrir vaga, pergunte se redistribuir, mudar o processo ou desenvolver alguém resolve. (A19; ficha E06)
+- Cada tipo de pedido tem um canal oficial de entrada e um prazo de resposta combinado; o pedido que chega por outro caminho volta ao canal. (ficha F10)
 
 ## Saída
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Texto das políticas no topo do quadro da área (quadro Kanban na pasta do caso) ou do
-  portfólio (registro do portfólio na pasta do caso, seção "Políticas do quadro").
-- Registro de calibragem: histórico de limites na pasta do caso (acréscimo do laboratório), uma linha
+- Texto das políticas no topo do quadro da área (quadro Kanban na pasta do caso) ou da
+  carteira de iniciativas (registro na pasta do caso, seção "Políticas do quadro").
+- Registro de calibragem: histórico de limites na pasta do caso (acréscimo do método), uma linha
   por mudança: data · coluna · limite antigo → novo · sinal observado · quem decidiu.
 - Contador de urgências do ciclo: campo no Retrospectiva na pasta do caso.
+- Canal oficial por tipo de pedido: tabela com o canal de entrada, o registro da decisão, o prazo de resposta e o caminho da urgência, ao lado das políticas do quadro.
 - Depois: retrospectiva (`ga2-plano-do-ciclo`, `ga2-review-do-ciclo` e `ga2-retrospectiva`) decide a calibragem; urgência demais vira A3.
 
 ## Formas de saída
@@ -107,7 +134,7 @@ Os modelos abaixo atendem ao fluxo de geração de HTML e canvas quando essa for
 | Forma | Arquivo | Quando sai | Modelo |
 |---|---|---|---|
 | Fonte | `<nome>.md` (este `template.md` preenchido) | quando o fluxo precisar de fonte Markdown | `template.md` |
-| Documento | `<nome>.html` — documento corrido no design system do laboratório | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
+| Documento | `<nome>.html` — documento corrido no design system dos modelos públicos | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
 | Canvas | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-politicas-quadro-b-05.html` |
 
 Modelos canvas desta skill (specs `politicas-quadro-b-05`):
@@ -153,7 +180,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 |---|---|---|
 | Leve (uma pessoa) | um número em Fazendo (começa em 2) | uma linha: "só eu chamo urgente; uma por vez; a pausada volta na frente" |
 | Intermediária (área) | limite por coluna de execução + por pessoa; três sinais lidos na sexta | cinco linhas + raia ou cartão vermelho + contador |
-| Robusta (portfólio) | limite por dono (3) e por raia; registro de calibragem com data; gargalo no report ao dirigente responsável | cinco linhas + raia com 2 vagas + classe Crítica do modelo operacional + trabalho deslocado registrado |
+| Robusta (carteira de iniciativas) | limite por dono (3) e por raia; registro de calibragem com data; gargalo no report ao responsável pela área | cinco linhas + raia com 2 vagas + classe Crítica do modelo operacional + trabalho deslocado registrado |
 
 ## Erros comuns
 
@@ -165,3 +192,6 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Pausar sem marca: três semanas depois ninguém sabe por que atrasou.
 - Não contar: metade do quadro em vermelho e ninguém leva para a retro.
 - Confundir pedido direto (fila normal) com Prioridade explícita (interrompe).
+- Abrir vaga antes de testar se redistribuir, mudar o processo ou desenvolver alguém resolve.
+- Vários canais oficiais para o mesmo tipo de pedido: pedidos duplicados e perdidos.
+- Prazo de resposta que exige disponibilidade contínua, sem acordo nem cobertura.

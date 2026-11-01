@@ -1,6 +1,6 @@
 ---
 name: ga2-pop
-description: "Escreve um procedimento recorrente com dono, gatilho, passos, saída, sistema, indicador, exceção e aprovação. Use quando pedirem POP, procedimento, rotina ou padronização de processo."
+description: "Escreve um procedimento recorrente com dono, gatilho, passos, saída, sistema, indicador, exceção e aprovação. Também monta o mapa de cobertura de ausências, com titular, substituto que já fez o trabalho e teste antes das férias. Use quando pedirem POP, procedimento, rotina, padronização de processo, cobertura de férias, substituto ou transferência de conhecimento."
 ---
 
 # Procedimento Operacional Padrão
@@ -76,5 +76,5 @@ python3 construtor/construir.py pop-kit --canvas --md meu-caso.md --saida meu-ca
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

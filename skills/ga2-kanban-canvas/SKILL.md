@@ -1,6 +1,6 @@
 ---
 name: ga2-kanban-canvas
-description: "Desenha um quadro Kanban com estados, raias, cartões, limites e regras visíveis. Use quando pedirem Kanban, quadro de trabalho, fluxo, cartões, bloqueios ou políticas do quadro."
+description: "Desenha um quadro Kanban com estados, raias, cartões, limites e regras visíveis. Também mostra no cartão a dependência entre áreas e organiza o encontro semanal entre elas. Use quando pedirem Kanban, quadro de trabalho, fluxo, cartões, bloqueios, políticas do quadro, dependência de outra área ou alinhamento entre áreas."
 ---
 
 # Kanban Canvas
@@ -79,5 +79,5 @@ python3 construtor/construir.py kanban-kit-07 --canvas --md meu-caso.md --saida 
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

@@ -1,6 +1,6 @@
 ---
 name: ga2-abrir-projeto
-description: "Abre ou organiza a pasta durável de um projeto com responsável, acordo inicial, status, fases e evidências, localmente ou no Google Drive. Use para iniciar ou arrumar um projeto; não use para uma dúvida pontual."
+description: "Abre ou organiza a pasta durável de um projeto com responsável, acordo inicial, status, fases e evidências, localmente ou no Google Drive. Também organiza a pasta de uma área ou de uma rotina, com local oficial, dono, versão e validade. Use para iniciar ou arrumar um projeto, ou a pasta de uma área ou de uma rotina; não use para uma dúvida pontual."
 ---
 
 # Abrir projeto
@@ -64,6 +64,18 @@ No Drive, confira os IDs das pastas e seus pais; uma raiz criada não comprova q
 Depois de criar, liste o conteúdo em cada destino e reabra os documentos produzidos para conferir conteúdo e links.
 Informe separadamente o que foi criado e o que ficou pendente em cada local. Nunca use a conferência local como prova do Drive.
 Duas cópias não ficam sincronizadas automaticamente. Quando houver ambas, identifique qual será atualizada como fonte principal e registre essa escolha no guia.
+
+## Pasta de área ou de rotina
+
+Use este modo quando o pedido é organizar os arquivos de uma área ou de uma rotina que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas de uma equipe. Não crie as seis pastas de projeto para isso.
+
+Leia a seção "Pasta de área ou de rotina" de [references/metodo.md](references/metodo.md). Em resumo:
+
+- Defina o local oficial e um nome que identifique o conteúdo. Registre dono, versão e validade quando o uso pedir.
+- Separe a versão de referência (a que se usa hoje) das versões substituídas e dos rascunhos.
+- Teste a localização e o acesso com quem precisa usar o conteúdo. O acesso entra só como item de checklist: esta habilidade não concede nem altera permissões.
+- Use [assets/templates/PASTA-DE-AREA.md](assets/templates/PASTA-DE-AREA.md) como modelo de conteúdo do guia da pasta e do registro dos documentos.
+- Se a rotina virar um projeto, abra a pasta de projeto e aponte para a pasta da rotina. Não copie os documentos.
 
 ## Entrega
 

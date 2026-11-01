@@ -51,3 +51,46 @@ Travas conferidas antes: de saída? <não> · afogada? <não> · salário torto?
 ---
 
 Apêndice opcional (versão ao vivo, para horizonte de carreira): Objetivos de carreira — curto (1 ano) / médio (2–3) / longo (5+); Plano de ação — Ação · Recursos · Prazo · Métrica de sucesso.
+
+---
+
+## Modo PDI do próprio líder (ficha G08)
+
+| Campo | Resposta |
+|---|---|
+| Líder e período (revisão mensal em) | |
+| Competência que limita ou amplia a minha contribuição (uma por ciclo) | |
+| De onde veio (Feedback 360 ou situação recente) | |
+| Problema real em que vou aplicar | |
+| Fonte (o menor pedaço que resolve) | |
+| Tempo (um ou dois blocos de 30 a 60 minutos por semana) e onde estão marcados na agenda | |
+| Aplicação: situação real e data | |
+| Retorno: quem viu e o que disse | |
+| O que aconteceu e o próximo aprofundamento | |
+| Apoio especializado, se a fonte excede o que consigo avaliar | |
+
+---
+
+## Roteiro da conversa de carreira (ficha E04)
+
+Registro reservado. Guarde em destino privado. Os horizontes seguem o apêndice opcional acima (versão ao vivo, canvas `pdi-kit`).
+
+| Campo | Resposta |
+|---|---|
+| Pessoa, líder e data | |
+| O que move a pessoa (autonomia, maestria ou propósito) e o que ela faria mesmo se ninguém pedisse | |
+| Trabalho e responsabilidade que ela deseja assumir | |
+| Horizonte: curto (1 ano), médio (2 a 3 anos) ou longo (5 anos ou mais) | |
+| Forças, experiências e lacunas ligadas à direção escolhida | |
+
+| Possibilidades que conheço | Limites e critérios | Quem decide |
+|---|---|---|
+| | | |
+
+| Campo | Resposta |
+|---|---|
+| Experiências de desenvolvimento combinadas e como demonstrar preparo | |
+| O que não prometi (posição, promoção, aumento, vaga) | |
+| Encaminhamento para um PDI, se a pessoa quiser (as três travas conferidas) | |
+| Retorno marcado para | |
+| Mudanças de interesse ou de contexto a registrar no acompanhamento | |

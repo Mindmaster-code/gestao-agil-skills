@@ -1,6 +1,6 @@
 # Folha de experimento — bem feito e erros comuns
 
-## Bem feito (folha derivada pelo laboratório; política de inovação descrita no método; M07 A05)
+## Bem feito (folha do acréscimo do método; política de inovação descrita no método; M07 A05)
 
 - [ ] Pergunta 1 tem pessoa real e prova gravada (arquivo, ticket, transcrição, consulta) — não "eu acho".
 - [ ] Problema em uma frase, na voz de quem sofre.
@@ -15,6 +15,14 @@
 - [ ] Número de dinheiro vem com a empresa (identifique a empresa correta).
 - [ ] Entrou no placar de sexta em três linhas: testou / achou / agora.
 
+Testar ferramenta ou fornecedor (ficha B10)
+- [ ] O recurso crítico tem responsável interno e data de decisão, e a renovação mais próxima veio primeiro.
+- [ ] A dor tem prova, e a linha de base do tempo gasto foi medida antes do teste.
+- [ ] O critério foi escrito antes de rodar, com o tempo devolvido como número.
+- [ ] O teste foi curto e não tocou contrato nem verba; o plano grátis ou o teste do fornecedor foi usado quando existia.
+- [ ] A decisão é manter, ajustar, substituir ou encerrar, dentro da alçada, e o contrato foi conferido nos termos aplicáveis.
+- [ ] Há plano de transição, com acessos e comunicação, e revisão do benefício depois da mudança.
+
 ## Erros comuns
 
 - Rodar sem a dor com prova.
@@ -24,8 +32,9 @@
 - Ficar vivo depois do prazo "pra ver no que dá".
 - Experimento declarado no chat e sem arquivo no disco.
 - Placar como quadro comprimido; quem decide precisa entender sem perguntar.
-- Cobrar a qualidade da ideia em vez do registro — a ideia é do diretor; o registro é o que o Gestor cobra.
+- Cobrar a qualidade da ideia em vez do registro — a ideia é de quem responde pela área; quem conduz o método cobra o registro.
 - Reportar acerto de dinheiro só na sexta quando a regra manda "na hora".
+- Testar ferramenta sem linha de base, ou contratar e cancelar fora da alçada e dos termos do contrato.
 
 ## Formas de saída
 

@@ -99,7 +99,7 @@ Prova: quatro registros simulados concluídos; quinto em aberto. Não entregue.
 
 Opção A: marca no cartão, coluna mantida. Um dia parado entra na diária; três dias úteis geram cobrança ao dono; dez dias escalam a Mariana.
 
-## Bloco C — Portfólio ilustrativo
+## Bloco C — Carteira de iniciativas ilustrativa
 
 ### C1. Políticas
 
@@ -131,3 +131,22 @@ Primeira ação: Lucas completar SIM-05 até 14h. Nenhuma cobrança por atraso �
 ### C6. Atualização
 
 Lucas relê as fontes simuladas na quarta e sexta, às 09h. Só muda estado com nova prova e atualiza os dias parados.
+
+## Dependência entre áreas (exemplo de outro ramo)
+
+Marta coordena a pré-impressão de uma gráfica. O pedido 3482, de cartões de visita, depende do atendimento, que precisa do arquivo aprovado pelo cliente. Depois da pré-impressão, a impressão depende dela.
+
+```
+Pedido 3482 · cartões de visita
+Dono: Hugo (pré-impressão)
+Depende de: atendimento, Letícia · arquivo aprovado pelo cliente · data de passagem: 10/11/2026   Entrega para: impressão, Davi · data: 11/11/2026
+```
+
+O cartão fica na coluna "Aguardando outra área", com limite de 4 cartões, até Letícia entregar o arquivo aprovado. As três áreas se reúnem por 30 minutos em 09/11/2026, com uma pessoa de cada uma que pode assumir compromisso.
+
+| Dependência | Área que entrega | Área que recebe | O que entregar, com que qualidade | Data de passagem | Dono | Aceite | Próxima verificação |
+|---|---|---|---|---|---|---|---|
+| Arquivo aprovado do pedido 3482 | Atendimento | Pré-impressão | Arquivo no formato da gráfica, com a aprovação do cliente anexada | 10/11/2026 | Letícia | Hugo | 10/11/2026 |
+| Prova de cor liberada | Pré-impressão | Impressão | Prova conferida, com a tabela de cores indicada | 11/11/2026 | Hugo | Davi | 11/11/2026 |
+
+Custo do encontro: 30 minutos vezes 3 pessoas, ou 90 minutos. No encontro, apareceu uma devolução por informação incompleta: o arquivo chegava sem a aprovação anexada. A regra passou a ser que o atendimento só passa o cartão com a aprovação anexada.

@@ -1,6 +1,6 @@
 ---
 name: ga2-delegacao
-description: "Monta um quadro com assuntos, pessoas e sete níveis claros de decisão. Use quando pedirem matriz de delegação, autonomia, responsáveis por decisões ou Delegation Poker."
+description: "Monta um quadro com assuntos, pessoas e sete níveis claros de decisão. Também levanta as aprovações que passaram pelo líder em duas semanas para escolher os assuntos do quadro. Use quando pedirem matriz de delegação, autonomia, responsáveis por decisões, Delegation Poker ou disserem que tudo passa por eles."
 ---
 
 # Quadro de Delegação
@@ -77,5 +77,5 @@ python3 construtor/construir.py delegacao-kit-11 --canvas --md meu-caso.md --sai
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

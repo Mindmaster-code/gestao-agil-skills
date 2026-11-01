@@ -77,3 +77,23 @@ Meta do ciclo em uma frase: ______
 | | | |
 
 Regra: o que está perto de ser puxado fica detalhado; o distante fica macro. Mapa que não bate com o registro atual do trabalho está velho.
+
+## 6. Poda mensal `(adaptação metodológica)`
+
+Ficha F09 do Guia completo de rotinas de gestão. Mensal, de 20 a 40 minutos.
+
+| Campo | Resposta |
+|---|---|
+| Data da poda e dono | |
+| Conjunto podado (backlog ou lista) | |
+| O que conta como "parado" (régua escrita, a mesma todo mês) | |
+| Itens antes e depois da poda | |
+| Critério de guarda aplicado (obrigação de guarda, valor de evidência) | |
+| Onde fica o arquivo (local, com data e motivo) | |
+
+| Item | Faixa (Q ou parado) | Ainda move algum resultado-chave? | Decisão (manter, quebrar, arquivar ou apagar) | Critério de guarda | Quem foi avisado |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+Registre também a poda na tabela de Manutenção (seção 5).

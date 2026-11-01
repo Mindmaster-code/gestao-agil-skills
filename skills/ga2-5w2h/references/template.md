@@ -27,3 +27,27 @@ Regras: linha sem "quem" ou "quando" não entra. "Quem" com dois nomes volta. "Q
 | Data | Linha | O que mudou | Prova |
 |---|---|---|---|
 | | | | |
+
+## Orçamento: orçado, contratado e realizado (ficha A06) `(adaptação metodológica)`
+
+Valor financeiro vem do responsável financeiro e de relatório autorizado. Não preencha valor sem fonte.
+
+| Campo | Resposta |
+|---|---|
+| Período orçamentário revisado | |
+| Orçamento disponível do período | |
+| Soma dos "Quanto" escritos nos planos de ação | |
+| Compromissos ainda não registrados e impacto na operação | |
+
+| Iniciativa | Orçado | Contratado | Realizado | O que mudou (valor, prazo ou volume) | Ajuste escolhido (gasto, sequência ou escopo) |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| Total | | | | | |
+
+| Campo | Resposta |
+|---|---|
+| Pedido de recurso adicional: motivo, alternativas e impacto | |
+| Aprovação do responsável financeiro (nome e data), se o compromisso passa da alçada | |
+| Desvio entre previsão e realizado, e pendências de aprovação | |

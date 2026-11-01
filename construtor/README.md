@@ -75,16 +75,16 @@ Os ids e o texto-guia de cada campo estão em `assets/modelos/CAMPOS.md` da skil
 | `sprint-plano-ciclo-c` | Sprint / Plano do Ciclo (jornada) | `ga2-plano-do-ciclo` | jornada |  |
 | `status-report-b-04-p2` | Status Report — 7 dias (editável), página 2 | `ga2-documentos-de-projeto` | módulo |  |
 | `resumo-ciclo-b-04-p2` | Resumo do Ciclo (editável), página 2 | `ga2-documentos-de-projeto` | módulo |  |
-| `5w2h-lab` | 5W2H — plano de ação (laboratório) | `ga2-5w2h` | laboratório | sim |
+| `5w2h-lab` | 5W2H — plano de ação | `ga2-5w2h` | laboratório | sim |
 | `pdca-lab` | PDCA (laboratório) | `ga2-pdca` | laboratório | sim |
 | `ishikawa-lab` | Ishikawa — espinha de peixe (laboratório) | `ga2-causa-raiz` | laboratório |  |
 | `dor-dod-lab` | Portões DoR / DoD (laboratório) | `ga2-checklist-producao-entrega` | laboratório | sim |
-| `quem-faz-o-que-lab` | Quem faz o quê (laboratório) | `ga2-quem-faz-o-que` | laboratório | sim |
-| `folha-experimento-lab` | Folha de experimento (laboratório) | `ga2-folha-de-experimento` | laboratório | sim |
+| `quem-faz-o-que-lab` | Quem faz o quê | `ga2-quem-faz-o-que` | laboratório | sim |
+| `folha-experimento-lab` | Folha de experimento | `ga2-folha-de-experimento` | laboratório | sim |
 
 Família: **kit** = canvas do kit do curso (padrão quando existe); **v6** = canvas editável da versão v6;
 **módulo** = editável por módulo; **jornada** = folha individual da jornada; **laboratório** = canvas que
-não existe no curso, desenhado no mesmo estilo do kit e marcado como acréscimo.
+não existe no curso, desenhado no mesmo estilo do kit e marcado como acréscimo. "laboratorio" é só o código interno da família; o selo que o canvas mostra é "acréscimo do método".
 
 ## Como o construtor lê o `.md`
 

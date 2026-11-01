@@ -1,6 +1,6 @@
 ---
 name: ga2-backlog-2d
-description: "Monta um Backlog 2D com etapas ou iniciativas, entregas, tarefas, prioridades e o menor primeiro ciclo. Use quando pedirem backlog, quebra de projeto, mapa de trabalho ou recorte do primeiro ciclo."
+description: "Monta um Backlog 2D com etapas ou iniciativas, entregas, tarefas, prioridades e o menor primeiro ciclo. Também faz a poda mensal da lista, com os itens questionáveis e os parados. Use quando pedirem backlog, quebra de projeto, mapa de trabalho, recorte do primeiro ciclo, limpar a lista ou arquivar o que parou."
 ---
 
 # Backlog 2D — mapa de entregas e tarefas
@@ -78,5 +78,5 @@ python3 construtor/construir.py backlog-2d-kit-06 --canvas --md meu-caso.md --sa
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

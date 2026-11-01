@@ -62,7 +62,7 @@ Contratar não entrou na decisão: o cenário aponta espera por informação, n�
 
 ### 2.1 Mecânica
 
-Raia inferior Urgência, com fila → execução → feito; uma vaga. A exceção de duas vagas para duas empresas não se aplica a esta frente.
+Raia inferior Urgência, com fila → execução → feito; uma vaga. A exceção de duas vagas para duas áreas não se aplica a esta frente.
 
 ### 2.2 Contador do ciclo
 
@@ -93,3 +93,35 @@ Uma urgência não prova problema recorrente. Metade do quadro em vermelho exige
 | Definição de pronto | endereço conferido, pedido liberado e registro da liberação; urgência não dispensa prova |
 
 Pedido direto sem prioridade explícita continua na fila normal. Ao encerrar NS-U1, NS-12 retoma na frente.
+
+## 4. Canal oficial por tipo de pedido: exemplo de uma oficina mecânica
+
+Exemplo fictício e independente. Pessoas, prazos e registros são ilustrativos. Dono: Ricardo · Definido em: 02/11/2026 · Revisão mensal em: 02/12/2026.
+
+| Tipo de pedido | Canal oficial de entrada | Onde a decisão fica registrada | Prazo de resposta | Caminho da urgência |
+|---|---|---|---|---|
+| Orçamento de cliente novo | balcão ou mensagem no número da oficina | cartão "Orçamento" no quadro | até o fim do dia seguinte | não se aplica |
+| Peça que falta numa ordem em andamento | cartão na coluna "Aguardando peça" | o próprio cartão | no mesmo dia | carro parado no elevador: Ricardo chama o comprador pelo celular |
+| Retorno de carro com o mesmo problema | cartão novo, ligado à ordem anterior | o cartão novo | no mesmo dia | só Ricardo classifica como urgência |
+| Carro de cliente de frota parado | ligação para Ricardo | cartão na raia de urgência | na hora | a própria ligação |
+
+Cobertura: a atendente do balcão responde às mensagens enquanto Ricardo está no pátio.
+
+| Data | Pedido real | Entrou pelo canal oficial? | Ajuste |
+|---|---|---|---|
+| 05/11/2026 | orçamento pedido ao mecânico no corredor | não | o mecânico apontou a regra e abriu o cartão; Ricardo avisou o cliente |
+| 06/11/2026 | peça que faltava, avisada pelo cartão | sim | nenhum |
+
+## 5. Antes de abrir vaga: exemplo da secretaria de uma faculdade
+
+Exemplo fictício e independente. Cleide coordena a secretaria de uma faculdade e pediu mais um atendente porque as matrículas atrasam. Pessoas, números e datas são ilustrativos.
+
+| Passo | Resposta (com evidência do quadro) |
+|---|---|
+| Onde a fila se forma | a coluna "Conferência de documentos" é a mais cheia; o cartão mais velho está parado há nove dias; o time conclui cerca de 20 matrículas por semana |
+| Redistribuir | duas atendentes têm folga à tarde e podem conferir documentos |
+| Mudar o processo | a conferência espera o carimbo de uma só pessoa; uma lista de conferência permite que uma segunda pessoa carimbe |
+| Desenvolver alguém | uma atendente não sabe conferir diploma estrangeiro; um treino curto resolve |
+| Se ainda falta gente | não, por enquanto; a vaga fica em espera |
+| Decisão | Cleide decide a redistribuição e a lista de conferência; abrir vaga depende do orçamento e da direção |
+| Efeito a revisar | em um ciclo: cartão mais velho, entregas por semana e carga das duas atendentes |

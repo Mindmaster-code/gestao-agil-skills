@@ -17,16 +17,16 @@ passam por revisão de ninguém.
 |---|---|---|---|
 | Claude — app de computador | `dist/gestao-agil-2.plugin` | arrastar e clicar | nenhuma |
 | Claude — navegador | `dist/skills-claude-web/*.zip` | 1 upload por habilidade | nenhuma |
-| ChatGPT | link dos 6 GPTs | abrir o link | nenhuma |
+| ChatGPT | link dos 7 GPTs | abrir o link | nenhuma |
 | Claude Code / Codex / Cursor | `instalar.sh` / `instalar.ps1` | rodar um comando | nenhuma |
 | Marketplace no GitHub | `.claude-plugin/marketplace.json` | 1 comando no terminal | nenhuma |
 
 ## O gargalo do navegador
 
-No claude.ai o aluno sobe um `.zip` por habilidade. Trinta uploads é barreira real
+No claude.ai o aluno sobe um `.zip` por habilidade. Quarenta uploads é barreira real
 para gestor não técnico. Duas saídas:
 
-1. Recortar por trilha. Entregar 5 ou 6 habilidades por módulo do curso, no momento
+1. Recortar por trilha. Entregar de 5 a 7 habilidades por módulo do curso, no momento
    em que cada trilha começa. O aluno instala pouco e usa o que instalou.
 2. Empurrar o aluno para o aplicativo de computador, onde o `.plugin` resolve em
    um clique, e tratar o navegador como exceção.
@@ -37,7 +37,7 @@ Serve aluno que usa terminal. O comando é `/plugin marketplace add` apontando p
 o repositório, seguido de `/plugin install gestao-agil-2@mindmaster`.
 
 Decisão pendente antes de divulgar: repositório público significa que qualquer
-pessoa instala as 30 habilidades do curso pago sem comprar. Repositório privado
+pessoa instala as 40 habilidades do curso pago sem comprar. Repositório privado
 protege o conteúdo, mas obriga o aluno a ter conta no GitHub com acesso concedido,
 o que reintroduz atrito justamente com quem se quer proteger.
 

@@ -7,6 +7,19 @@
 | Responsável <!-- c:dono --> | <líder> |
 | Data <!-- c:data --> | <AAAA-MM-DD> |
 
+## Levantamento prévio: aprovações que passaram pelo líder em duas semanas
+
+Uma linha por assunto, no verbo. Os assuntos que mais voltaram alimentam a tabela de assuntos abaixo. Use o papel de quem pediu, não o nome.
+
+| Assunto (no verbo) | Quem pediu (papel) | Quantas vezes | O que o líder decidiu | Critério usado (escrito ou só na cabeça) | Candidato ao quadro? |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+## Assuntos e níveis
+
 Níveis: 1 Dizer · 2 Vender · 3 Consultar (você decide) · 4 Concordar (juntos) · 5 Aconselhar · 6 Perguntar · 7 Delegar (o time decide). Escreva o **nome** de quem decide na célula do nível combinado — uma célula por linha.
 
 <!-- c:assuntos -->

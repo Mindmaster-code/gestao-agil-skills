@@ -72,3 +72,26 @@ E1 → E2 → E3 atravessa todo o mapa. O cliente recebe o lote conferido; o cic
 
 O mapa será atualizado no mesmo documento. Aceite, evidência causal e execução continuam pendentes.
 
+## 6. Poda mensal: exemplo de uma secretaria escolar
+
+Exemplo fictício e independente. Vera coordena a secretaria de uma escola e mantém a lista de pedidos de relatório da direção. Pessoas, números e datas são ilustrativos.
+
+| Campo | Resposta |
+|---|---|
+| Data da poda e dono | 30/11/2026, Vera |
+| Conjunto podado | lista de pedidos de relatório da direção |
+| O que conta como "parado" | sem movimento nos três últimos ciclos |
+| Itens antes e depois da poda | 40 antes e 23 depois |
+| Critério de guarda aplicado | relatórios de matrícula e de frequência seguem a regra de guarda da escola; os demais pedidos não têm obrigação de guarda |
+| Onde fica o arquivo | pasta "Pedidos arquivados 2026", com data e motivo em cada linha |
+
+A tabela mostra quatro das decisões do mês.
+
+| Item | Faixa | Ainda move algum resultado-chave? | Decisão | Critério de guarda | Quem foi avisado |
+|---|---|---|---|---|---|
+| Relatório de frequência por turma, formato antigo | parado | não: o formato novo o substituiu | arquivar | guarda obrigatória | direção |
+| Painel de evasão por bairro | Q | não se sabe; ninguém pediu de novo | perguntar à direção; sem resposta até a próxima poda, arquivar | sem obrigação de guarda | direção |
+| Planilha de brindes da festa de 2019 | parado | não | apagar | sem obrigação de guarda | quem pediu na época |
+| Relatório mensal de matrícula | ativo | sim | quebrar em dois pedidos menores: matrículas novas e transferências | guarda obrigatória | direção |
+
+Registro em Manutenção: 30/11/2026, 18 itens saíram da lista, 1 foi quebrado em dois (o total passou de 40 para 23) e a ordem do que ficou foi revista com a direção.

@@ -70,3 +70,43 @@ Mariana confere o registro normal da separação, sem reunião ou relatório exc
 Revisão conjunta no roteiro fictício: Mariana e Lucas concordaram em 01/09.
 Apêndice de carreira não usado: esta versão v6 trata o trabalho do ciclo, não um horizonte de anos.
 
+## Modo PDI do próprio líder: exemplo de uma oficina mecânica
+
+Exemplo fictício e independente. Ricardo é dono de uma oficina mecânica e quer decidir uma compra com números, não só com a intuição. Pessoas, valores e datas são ilustrativos.
+
+| Campo | Resposta |
+|---|---|
+| Competência | ler o fluxo de caixa |
+| De onde veio | a contadora comentou, em duas conversas, que as compras eram decididas sem olhar os meses seguintes |
+| Problema real em que vou aplicar | decidir, no próximo trimestre, se compra um elevador novo para a oficina |
+| Fonte | um módulo curto sobre fluxo de caixa, não um curso inteiro |
+| Tempo | dois blocos de 45 minutos por semana, marcados na agenda |
+| Aplicação | montar o fluxo de caixa dos três meses seguintes, com e sem a compra, ao lado da contadora |
+| Retorno | a contadora conferiu as entradas e apontou um gasto fixo esquecido |
+| O que aconteceu e o próximo aprofundamento | a compra ficou para o mês seguinte; próximo passo: estudar custos fixos e variáveis |
+| Revisão mensal | todo dia 5 do mês |
+
+## Roteiro da conversa de carreira: exemplo de um supermercado
+
+Exemplo fictício e independente. Aline gerencia um supermercado e conversa com Júlio, repositor há dois anos. Pessoas e datas são ilustrativas.
+
+| Campo | Resposta |
+|---|---|
+| Pessoa, líder e data | Júlio, Aline, 12/11/2026 |
+| O que move a pessoa | maestria e autonomia; ele faria mesmo se ninguém pedisse: organizar o fluxo de reposição da manhã |
+| Trabalho e responsabilidade que ela deseja assumir | liderar um setor |
+| Horizonte | médio (2 a 3 anos): líder de setor |
+| Forças, experiências e lacunas | conhece o fluxo de reposição melhor que o setor; nunca organizou o trabalho de outras pessoas |
+
+| Possibilidades que conheço | Limites e critérios | Quem decide |
+|---|---|---|
+| Coordenar a conferência de entrega do hortifrúti por um mês | só sem atrapalhar a reposição; Aline define o horário | Aline |
+| Acompanhar a líder da padaria na montagem da escala | depende da agenda da líder | Aline e a líder da padaria |
+| Assumir como líder de setor | não há vaga aberta hoje; abrir vaga e promover são decisões da dona da rede | dona da rede |
+
+| Campo | Resposta |
+|---|---|
+| Experiências de desenvolvimento combinadas | coordenar a conferência do hortifrúti; meia hora por semana com a líder da padaria; um módulo curto sobre escala de trabalho |
+| O que não prometi | vaga, promoção e aumento |
+| Encaminhamento para um PDI | sim, com uma lacuna: organizar o trabalho de outras pessoas; Júlio não está de saída, nem sobrecarregado, nem com salário fora do combinado |
+| Retorno marcado para | 11/12/2026 |

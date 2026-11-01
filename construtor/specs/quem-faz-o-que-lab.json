@@ -1,9 +1,9 @@
 {
  "id": "quem-faz-o-que-lab",
  "skill": "ga2-quem-faz-o-que",
- "titulo": "Quem faz o quê (laboratório)",
+ "titulo": "Quem faz o quê",
  "origem": {
-  "familia": "laboratorio",
+  "familia": "acréscimo do método",
   "arquivo": null,
   "pagina": 1,
   "numero": ""
@@ -56,8 +56,8 @@
   },
   {
    "id": "empresa",
-   "rotulo": "Empresa",
-   "guia": "Treinamentos · Educação · Compartilhado",
+   "rotulo": "Área",
+   "guia": "Área A · Área B · Compartilhado",
    "tipo": "texto-curto",
    "caixa": [
     719.97,
@@ -74,7 +74,7 @@
   },
   {
    "id": "cartao",
-   "rotulo": "Cartão no portfólio",
+   "rotulo": "Cartão no quadro",
    "guia": "P-__",
    "tipo": "texto-curto",
    "caixa": [
@@ -110,7 +110,7 @@
   },
   {
    "id": "p1_nome",
-   "rotulo": "Dono / DRI — nome",
+   "rotulo": "Dono — nome",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -129,7 +129,7 @@
   },
   {
    "id": "p1_faz",
-   "rotulo": "Dono / DRI — o que faz",
+   "rotulo": "Dono — o que faz",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -148,7 +148,7 @@
   },
   {
    "id": "p1_nao",
-   "rotulo": "Dono / DRI — o que não faz",
+   "rotulo": "Dono — o que não faz",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -681,7 +681,7 @@
  },
  "leitura": {
   "sem_documento": false,
-  "pergunta_padrao": "Quem responde pelo resultado desta frente, quem aceita, quem executa e quem decide a trava?",
+  "pergunta_padrao": "Quem responde pelo resultado desta frente, quem aceita, quem faz e quem decide a trava?",
   "capitulos": [
    {
     "titulo": "Papéis",

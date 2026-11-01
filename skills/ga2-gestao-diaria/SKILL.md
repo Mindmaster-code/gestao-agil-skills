@@ -1,6 +1,6 @@
 ---
 name: ga2-gestao-diaria
-description: "Conduz uma reunião diária curta diante do quadro, destacando avanço, próximo passo e bloqueio. Use quando pedirem diária, daily, trabalhos parados, registro do dia ou remoção de bloqueios."
+description: "Conduz uma reunião diária curta diante do quadro, destacando avanço, próximo passo e bloqueio. Também fecha o expediente e prepara o próximo dia de uma pessoa. Use quando pedirem diária, daily, trabalhos parados, registro do dia, remoção de bloqueios, fechar o expediente ou preparar o dia de amanhã."
 ---
 
 # Gestão diária
@@ -74,5 +74,5 @@ python3 construtor/construir.py gestao-diaria-v6 --canvas --md meu-caso.md --sai
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

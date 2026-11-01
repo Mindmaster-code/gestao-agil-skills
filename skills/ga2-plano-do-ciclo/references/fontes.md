@@ -7,7 +7,8 @@
   pasta 05 aulas 02 (ciclo) e 03 (planejamento do ciclo).
 - Templates: v6 «Canvas Editável — Plano do Ciclo» (campos e exemplo da versão v6); ao vivo
   «M06 A05 — Canvas Sprint Plan»; individual folha individual «sprint-plano-ciclo-ga2.pdf».
-- Acréscimo do laboratório: plano segunda 09h, até 3 compromissos por diretor; variante consolidada em `template.md`.
+- Acréscimo do método: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
+- Ficha A05 (revisar capacidade e distribuição do trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 3) do curso de rotinas, para a seção de capacidade e carga por pessoa `(adaptação metodológica)`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

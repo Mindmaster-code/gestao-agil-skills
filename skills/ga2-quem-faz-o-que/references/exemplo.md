@@ -8,8 +8,8 @@ Exemplo fictício, novo e independente. Pessoas, datas, números e registros aba
 |---|---|
 | Frente / demanda <!-- c:frente --> | Conferência de pedidos da Distribuidora Norte-Sul |
 | Entrega <!-- c:entrega --> | Checklist de conferência usado em cinco pedidos simulados, com divergências registradas |
-| Empresa <!-- c:empresa --> | Norte-Sul — Expedição |
-| Cartão no portfólio <!-- c:cartao --> | NS-01 |
+| Área <!-- c:empresa --> | Norte-Sul — Expedição |
+| Cartão no quadro <!-- c:cartao --> | NS-01 |
 | Data desta matriz <!-- c:data --> | 14/09/2026 |
 
 ## Matriz de papéis
@@ -17,7 +17,7 @@ Exemplo fictício, novo e independente. Pessoas, datas, números e registros aba
 <!-- c:matriz -->
 | Papel | Nome | O que faz nesta frente | O que não faz |
 |---|---|---|---|
-| Dono / DRI | Mariana | responde pelo resultado; prioriza a frente; apresenta a prova consolidada | não promete a capacidade de Lucas; não amplia a própria alçada |
+| Dono | Mariana | responde pelo resultado; prioriza a frente; apresenta a prova consolidada | não promete a capacidade de Lucas; não amplia a própria alçada |
 | Aceitante | Mariana | recebe o resultado; confere os cinco registros na review; marca Aceita | não executa o checklist nem aceita por impressão |
 | Executor | Lucas | prepara e aplica o checklist; decide como executar | não muda a prioridade da frente |
 | Apoio | Não necessário nesta frente | nenhum apoio previsto | não há co-dono |
@@ -72,3 +72,27 @@ O ciclo usa somente pedidos simulados. A alteração em produção não está au
 ```text
 Dono: Mariana · Aceitante: Mariana · Gate: Mariana (mudança em produção, pedido 14/09, decisão prevista 21/09) · Executa: Lucas · Apoio: nenhum
 ```
+
+## Revisão de responsabilidades (exemplo de outro ramo)
+
+Beatriz gerencia uma loja de papelaria. Vanessa foi contratada como vendedora, mas há oito meses cuida também do estoque e do pedido semanal ao fornecedor. Na revisão semestral, em 28/11/2026, Beatriz abriu o registro reservado.
+
+| Responsabilidade ou entrega | Papel previsto | Papel assumido | Desde quando | Evidência de contribuição |
+|---|---|---|---|---|
+| Atendimento no balcão | Vanessa | Vanessa | contratação | Sem queixa de cliente no semestre |
+| Estoque | Beatriz | Vanessa | março de 2026 | Contagem mensal feita por ela, com as diferenças anotadas |
+| Pedido semanal ao fornecedor | Beatriz | Vanessa | abril de 2026 | Pedidos feitos no prazo, com ruptura de estoque menor |
+
+Beatriz comparou com o caso de outra loja da rede, em que o estoque é uma responsabilidade própria com enquadramento próprio, e levou a proposta a quem decide na rede em 30/11/2026, com a evidência, o impacto e a justificativa. Não prometeu reajuste a Vanessa. Depois da decisão, comunicou o resultado a ela individualmente, com os critérios que podiam ser explicados.
+
+## Transição de responsabilidades (exemplo de outro ramo)
+
+Eduardo, analista de compras de uma distribuidora de hortifruti, muda de função em 30/11/2026. Fernanda, líder da área, planejou a transição em 40 minutos e alinhou antes a condução com a área de pessoas.
+
+| Entrega | POP escrito | Novo dono | Aceitou por escrito em | Trabalho feito uma vez com quem sai ao lado |
+|---|---|---|---|---|
+| Pedido semanal aos fornecedores | POP-COMP-01, v1.0 | Daniela | 16/11/2026 | 18/11/2026 |
+| Conferência das notas de entrada | POP-COMP-02, v1.0 | Daniela | 16/11/2026 | 23/11/2026 |
+| Cadastro de fornecedor novo | POP-COMP-03, v1.0 | Marcelo | 17/11/2026 | 25/11/2026 |
+
+Nas duas primeiras execuções, Daniela perguntou onde ficava a lista de preços combinada. A resposta entrou no POP-COMP-01, e Eduardo confirmou o texto. Até o aceite escrito de cada um, Eduardo continuou respondendo pela entrega. Os acessos foram tratados pela área responsável, no dia combinado com ela.

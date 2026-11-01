@@ -1,6 +1,6 @@
 ---
 name: ga2-quem-faz-o-que
-description: "Define dono único, quem aceita, quem apoia, quem executa e quem aprova. Use quando pedirem responsáveis, papéis, dono da entrega, matriz de responsabilidade ou decisão de aprovação."
+description: "Define dono único, quem aceita, quem apoia, quem faz e quem aprova. Também compara o papel previsto com o papel assumido e conduz a transferência de responsabilidades quando alguém muda de função ou sai. Use quando pedirem responsáveis, papéis, dono da entrega, matriz de responsabilidade, decisão de aprovação, revisão de responsabilidades ou transição de quem sai."
 ---
 
 # Quem faz o quê
@@ -66,7 +66,7 @@ HTML, use os modelos de `assets/modelos/`:
 
 Canvas desta habilidade:
 
-- `quem-faz-o-que-lab` — Quem faz o quê (laboratório) (desenhado no estilo do kit; não está no curso) — padrão
+- `quem-faz-o-que-lab` — Quem faz o quê (desenhado no estilo do kit; não está no curso) — padrão
 
 Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
 
@@ -76,5 +76,5 @@ python3 construtor/construir.py quem-faz-o-que-lab --canvas --md meu-caso.md --s
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

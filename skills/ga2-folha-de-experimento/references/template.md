@@ -47,3 +47,35 @@ Preencha 1 a 5 **antes** de rodar. A 6 no fim, com o resultado junto. Sem a 1 co
 ---
 
 Registro: registro de experimento da área, com data e nome, no destino escolhido · Entra no placar de: <sexta AAAA-MM-DD> · Na hora? <sim, se acerto mexe em dinheiro/preço/produto ou falha virou risco>
+
+## Modo: testar uma ferramenta ou um fornecedor (ficha B10) `(adaptação metodológica)`
+
+Preço, contrato, contratação e cancelamento seguem as alçadas e os termos aplicáveis. Esta folha mede o tempo devolvido.
+
+| Campo | Resposta |
+|---|---|
+| Recurso crítico em avaliação e responsável interno | |
+| Data de decisão (renovação ou nova contratação) | |
+| Necessidade que motivou a contratação | |
+| Dor com prova (pergunta 1) | |
+| Linha de base: tempo gasto hoje (minutos por semana, por pessoa) | |
+| Critério escrito antes de rodar (em <data>): tempo devolvido que conta como "deu certo" | |
+| Período do teste (data de início e de fim) | |
+| Plano grátis ou teste do fornecedor usado, sem tocar contrato nem verba | |
+
+Tabela de ferramentas:
+
+| Ferramenta | O que faz | Quando usar | Limite | Plano grátis |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+
+| Resultado do teste | Resposta |
+|---|---|
+| Tempo devolvido (minutos por semana, por pessoa) | |
+| Utilização, falhas e custo completo | |
+| Riscos e alternativas | |
+| Decisão (manter, ajustar, substituir ou encerrar) | |
+| Quem decidiu, e a alçada | |
+| Plano de transição: acessos, comunicação e continuidade da operação | |
+| Revisão do benefício depois da mudança, em | |

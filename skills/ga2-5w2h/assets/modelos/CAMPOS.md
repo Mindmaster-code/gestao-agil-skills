@@ -2,7 +2,7 @@
 
 Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
-## `5w2h-lab` — 5W2H — plano de ação (laboratório)
+## `5w2h-lab` — 5W2H — plano de ação
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|

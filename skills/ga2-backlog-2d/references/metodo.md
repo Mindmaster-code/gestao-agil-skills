@@ -20,6 +20,7 @@ do tamanho de uma semana. Cadeia: A3 → OKR → Matriz → **Backlog 2D** → K
 - Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
 - Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
+- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal `(adaptação metodológica)`; lente do 5S: Passo 0 §2.14.
 ## As duas leituras — e qual usar
 
 | | Ao vivo (M04 A17, canvas 6/6.1) | v6 (aula 08, Story Map de Patton adaptado) |
@@ -59,6 +60,19 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
    ser puxado fica detalhado; o distante fica macro. Pergunta na varredura: "o mapa ainda
    bate com o registro atual do trabalho?"
 
+## Poda mensal da lista (ficha F09)
+
+A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão `(adaptação metodológica)`; o refinamento contínuo e a faixa Q são do método.
+
+1. **Escolha o conjunto** que dá trabalho para manter ou para achar o que importa: o backlog de uma iniciativa ou a lista do plano.
+2. **Separe os itens em grupos:** ativos (no ciclo ou perto dele), referências úteis, parados e sem uso. O dono escreve no cabeçalho o que conta como "parado" (por exemplo, sem movimento por vários ciclos) e usa a mesma régua todo mês.
+3. **Decida os itens Q e os parados.** A faixa Q (questionável) traz as propostas de corte para o dono. Pergunta: "Isso ainda move algum KR (resultado-chave)?" Se sim, o item volta para E, D ou O, ou se quebra em pedaços menores. Se não, arquive ou apague.
+4. **Confirme o critério de guarda antes de arquivar ou apagar.** Item com obrigação de guarda ou valor de evidência segue as regras que se aplicam; não apague registro obrigatório. Arquivar é guardar com data, motivo e local.
+5. **Simplifique** colunas, categorias e nomes que atrapalham a leitura. Evite reorganizar a lista inteira sem benefício de uso.
+6. **Avise quem pediu** os itens arquivados ou apagados, e registre a poda na seção Manutenção do template.
+
+Sinais: o tempo para achar um item e o esforço para manter a lista. Se o acúmulo volta rápido, reavalie a entrada de itens, e não só a poda.
+
 ## Regras do método que valem aqui
 
 - **Backlog é lista viva e ordenada por valor ao cliente final.** Topo detalhado, fundo macro; num lugar fácil de editar, não em papel (M04 A16).
@@ -77,6 +91,7 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
 - Depois: cada item da fatia fina vira cartão no Kanban com dono, pronto é e data. A faixa Q contém propostas de corte para decisão do dono.
 - O Checkpoint do Plano (`ga2-okr-canvas`, bloco 4) confere “sei o que faço segunda de manhã?”.
 - Adaptação de acompanhamento: cartão parado por três dias úteis recebe pedido de atualização ao dono, com data e prova esperada, pelo canal combinado.
+- Poda: a lista menor, o arquivo com data e motivo e o registro na seção Manutenção.
 
 ## Formas de saída
 
@@ -122,3 +137,6 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 - Começar pelo backlog sem OKR nem matriz (M04 A16).
 - Backlog em papel ou sem dono: morre em uma semana (M04 A16).
 - Editável Mod 2 como único template: virou 1D (só E/D/O/Q, sem narrativa) — use o canvas legado ou a Ficha para a linha de cima (nota metodológica sobre as duas leituras).
+- Apagar sem olhar o critério de guarda: o item tinha obrigação de guarda ou valor de evidência.
+- Deixar a faixa Q crescer todo mês, sem decisão do dono.
+- Poda que vira reorganização da lista inteira, sem ganho de leitura.

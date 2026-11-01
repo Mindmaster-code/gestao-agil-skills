@@ -7,7 +7,7 @@ Desenho
 - [ ] As colunas foram desenhadas a partir do fluxo **atual**, com quem faz o trabalho.
 - [ ] Há pelo menos fila, execução e pronto; não é o "melancia" genérico.
 - [ ] Mais de um tipo de demanda virou raia, não quadro solto.
-- [ ] Quadros de níveis diferentes se conversam: um cartão no portfólio = um quadro na área.
+- [ ] Quadros de níveis diferentes se conversam: um cartão na carteira de iniciativas = um quadro na área.
 
 Cartão
 - [ ] Todo cartão tem origem (OKR/entrega), o que é numa frase, dono com nome de pessoa, prazo, idade.
@@ -20,7 +20,7 @@ Políticas
 - [ ] Limite de WIP está no topo de cada coluna de execução, como número.
 - [ ] Ritmo de atualização tem dia, hora e duração.
 - [ ] Entrada, prioridade, bloqueio e atualização estão escritas **no quadro**, não em documento à parte.
-- [ ] A representação de bloqueio está escolhida (laboratório: marca no cartão) e a escalada tem dias e nome.
+- [ ] A representação de bloqueio está escolhida (opção A do método: marca no cartão) e a escalada tem dias e nome.
 
 Uso
 - [ ] Alguém decide sem perguntar olhando o quadro (teste v6 aula 02).
@@ -28,11 +28,19 @@ Uso
 - [ ] O quadro é usado na diária, na review e na retro.
 - [ ] Estado vem de arquivo, não de memória.
 
-Portfólio do laboratório
+Carteira de iniciativas (acréscimo do método)
 - [ ] Cada cartão tem fonte (caminho do STATUS, backlog ou demanda).
 - [ ] Dias parado e gate (decisor + data) estão preenchidos ou marcados "?".
-- [ ] Número nunca cruza raia (uma empresa ≠ outra empresa).
+- [ ] Número nunca cruza raia (uma área ≠ outra área).
 - [ ] A "leitura da fotografia" diz qual é a primeira cobrança que sai.
+
+Dependência entre áreas (ficha B06)
+- [ ] O cartão tem "depende de" e "entrega para", com a pessoa e a data de passagem.
+- [ ] Existe a coluna "Aguardando outra área", com limite próprio, e o cartão que espera nela não volta para trás.
+- [ ] As duas áreas veem o mesmo cartão.
+- [ ] O encontro entre áreas tem quem possa assumir compromisso, pauta curta e custo calculado.
+- [ ] Cada dependência crítica fechou com dono, aceite e próxima verificação.
+- [ ] O conflito sem alçada subiu a quem responde pelo resultado das duas áreas.
 
 ## Erros comuns (da aula)
 
@@ -47,6 +55,8 @@ Portfólio do laboratório
 | Política na gaveta | regra num PDF que ninguém abre | três regras mínimas no topo do quadro |
 | Quadro decorativo | "está lá só para tirar foto" | "um quadro que mente é pior que quadro nenhum" |
 | Coluna invisível | cartões somem por dias numa validação externa | criar a coluna com WIP próprio (M06 A20) |
+| Dependência só na conversa | a outra área descobre o atraso na hora de precisar | escrever "depende de" e "entrega para" no cartão |
+| Encontro entre áreas sem poder de decisão | sai sem dono nem próxima verificação | chamar quem pode assumir compromisso pela área |
 
 ## Formas de saída
 

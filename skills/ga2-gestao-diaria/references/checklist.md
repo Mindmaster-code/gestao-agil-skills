@@ -13,18 +13,26 @@ Ritual (equipe)
 - [ ] Durou até 15 min; tempo real registrado.
 - [ ] Ninguém "prestou contas ao chefe"; SM e PO não conduziram.
 
-Diária entre agentes (acréscimo do laboratório)
-- [ ] Caixa lida; carta com comando entrou na lista do dia.
-- [ ] Portfólio respondeu só três perguntas: mais parado, sem dono, gate sem decisor.
-- [ ] Pulsos e STATUS usados só para atualizar "Última prova".
+Diária entre agentes (acréscimo do método)
+- [ ] Caixa lida; mensagem com comando entrou na lista do dia.
+- [ ] A carteira de iniciativas respondeu só três perguntas: mais parado, sem dono, gate sem decisor.
+- [ ] Resumos diários e documentos de acompanhamento usados só para atualizar "Última prova".
 - [ ] Cadência conferida por arquivo (reports e registros do ciclo), não por memória.
 - [ ] Compromisso do plano que perdeu a data marcado `atrasado dd/mm` hoje.
 - [ ] Uma cobrança escolhida pelo critério: dinheiro/meta → processo bloqueado → mais dias parado.
-- [ ] Carta com as 6 linhas (o que, por que, dono, pronto é, prazo, onde trava).
+- [ ] Cobrança por escrito com as 6 linhas (o que, por que, dono, pronto é, prazo, onde trava).
 - [ ] Registro de 5 linhas escrito, salvo e versionado.
 - [ ] Levou menos de 10 min.
 
-## Erros comuns (da aula e do laboratório)
+Modo pessoal (fichas F05 e F06)
+- [ ] O fechamento levou de 5 a 15 minutos e o preparo, de 5 a 10.
+- [ ] O quadro está em dia: cartões movidos, bloqueios marcados e o que falta escrito.
+- [ ] Cada compromisso ou risco de prazo teve retorno a quem espera, com data nova e o nome de quem dá o próximo retorno. Quem envia é a pessoa.
+- [ ] Todo assunto novo ganhou destino (cartão, pessoa ou lista) ou foi descartado.
+- [ ] A prioridade do dia seguinte dá para fazer com a capacidade do dia e tem primeiro passo, materiais e período reservado.
+- [ ] As dependências foram avisadas antes, e há uma alternativa se o trabalho for imprevisível.
+
+## Erros comuns (da aula e do método)
 
 | Erro | Sinal | Correção |
 |---|---|---|
@@ -34,10 +42,13 @@ Diária entre agentes (acréscimo do laboratório)
 | Sem meta no alto | ninguém sabe por que está fazendo | copiar a meta do plano no topo |
 | Quadro atualizado em lote | sexta de manhã todo mundo move 10 cartões | mover na diária, todo dia |
 | Impedimento sem dono | reaparece três dias seguidos | dono + prazo + "com quem" |
-| Agente lê tudo e não cobra | status de 40 linhas, zero carta | três perguntas, uma cobrança |
-| Agente cobra cinco | cinco cartas no mesmo dia, nenhuma respondida | uma por dia; resto na varredura de quarta |
+| Agente lê tudo e não cobra | status de 40 linhas, zero cobrança | três perguntas, uma cobrança |
+| Agente cobra cinco | cinco cobranças no mesmo dia, nenhuma respondida | uma por dia; resto na varredura de quarta |
 | Cobrança sem data | "quando puder" | sem data não é cobrança |
 | Estado de memória | "acho que o responsável já resolveu" | abrir o log / o arquivo |
+| Modo pessoal: fechar sem atualizar o quadro | a diária gasta o tempo descobrindo o que já mudou | atualizar o quadro antes de sair |
+| Modo pessoal: lista maior que a capacidade | o dia começa com muitos itens e nenhum primeiro passo | uma prioridade, primeiro passo e período reservado |
+| Modo pessoal: risco de prazo calado | quem espera descobre o atraso sozinho | retorno com fato, efeito e data nova |
 
 ## Formas de saída
 

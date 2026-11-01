@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contratar e integrar"
+  short_description: "Conduz a entrada de uma pessoa na equipe: o teste do gargalo..."
+  default_prompt: "Aplique Contratar e integrar ao meu caso, em português simples."

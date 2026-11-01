@@ -4,6 +4,7 @@
 - Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; v6 aula 05).
 - Passo 5 — Melhoria Contínua: exemplo da Ana.
 - Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma adaptação metodológica, com essa origem explicitada.
+- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento `(adaptação metodológica)`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

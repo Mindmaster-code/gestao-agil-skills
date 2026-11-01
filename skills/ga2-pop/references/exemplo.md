@@ -103,3 +103,18 @@ Pendente: Lucas, responsável pela operação, decidirá após o piloto e o test
 - [ ] Mariana registrará travas e corrigirá o documento antes de pedir aprovação.
 - [ ] Resultado ainda não existe; não declarar que alguém executou.
 
+
+## 14. Cobertura e substituto (exemplo de outro ramo)
+
+Rosângela coordena o departamento pessoal de um escritório de contabilidade. A analista Telma fecha a folha de pagamento e vai tirar férias de 14/12/2026 a 02/01/2027. Rosângela fez a pergunta das férias. Resposta: Só em parte. O POP existe, mas ninguém além de Telma fechou a folha de verdade.
+
+| Atividade crítica | Titular | Substituto | Última vez que o substituto fez (data) | Observado por | Teste marcado (data) | Preparo e limite de decisão na cobertura |
+|---|---|---|---|---|---|---|
+| Fechamento da folha do mês | Telma | Júlio | nunca | | 27/11/2026 | Júlio fecha a folha de novembro com Telma ao lado. Na cobertura, decide sozinho os ajustes de rotina e leva a Rosângela qualquer pagamento fora da folha. |
+| Envio das guias de recolhimento | Telma | Priscila | 10/10/2026 | Telma | 10/12/2026 | Priscila envia sozinha. Dúvida de valor sobe a Rosângela. |
+
+| Campo | Resposta |
+|---|---|
+| Execução que vai demonstrar o preparo | Júlio fecha a folha de novembro em 27/11/2026, e o POP é corrigido onde ele travar |
+| Contatos de escalada | Rosângela e o sócio responsável pelo departamento |
+| Lição para compartilhar | O setor fiscal também depende de uma pessoa só para as guias; Rosângela leva a lição à reunião do setor |

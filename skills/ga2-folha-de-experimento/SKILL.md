@@ -1,6 +1,6 @@
 ---
 name: ga2-folha-de-experimento
-description: "Registra dor, problema, ideia, protótipo, teste e decisão em uma experiência pequena. Use quando pedirem experimento, hipótese, protótipo, teste barato ou portfólio de inovação."
+description: "Registra dor, problema, ideia, protótipo, teste e decisão em uma experiência pequena. Também conduz o teste curto de uma ferramenta ou de um fornecedor, pelo tempo que ele devolve. Use quando pedirem experimento, hipótese, protótipo, teste barato, apostas de inovação, testar uma ferramenta ou avaliar uma renovação."
 ---
 
 # Folha de experimento
@@ -66,7 +66,7 @@ HTML, use os modelos de `assets/modelos/`:
 
 Canvas desta habilidade:
 
-- `folha-experimento-lab` — Folha de experimento (laboratório) (desenhado no estilo do kit; não está no curso) — padrão
+- `folha-experimento-lab` — Folha de experimento (desenhado no estilo do kit; não está no curso) — padrão
 
 Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
 
@@ -76,5 +76,5 @@ python3 construtor/construir.py folha-experimento-lab --canvas --md meu-caso.md 
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

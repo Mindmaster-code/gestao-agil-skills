@@ -71,3 +71,26 @@ Documento revisado e revisão aceita são estados diferentes; vale o critério e
 | 3 | 2 | 66,7%, dois de três | 2 | 100% dos dois entregues |
 
 No cenário, a review durou 25 min. Mariana tomou as decisões; o registro alimenta a retro das 16h30.
+
+## 9. Voz do cliente do mês (exemplo de outro ramo)
+
+Edna cuida da experiência de uma marmitaria que entrega refeições por assinatura. Na revisão de 30/11/2026, ela juntou o mês inteiro, de 01/11 a 30/11/2026, sem escolher só os casos bons. Os números são ilustrativos.
+
+| Tipo de necessidade | Etapa da experiência | Quantas manifestações | Exemplo, nas palavras do cliente |
+|---|---|---|---|
+| Receber a refeição sem vazamento | Embalagem e transporte | 9 | "A sopa chegou derramada dentro da sacola." |
+| Receber no horário combinado | Entrega | 6 | "Combinei o almoço e chegou depois do meio-dia." |
+| Receber o prato que escolhi | Montagem do pedido | 4 | "Pedi o frango e veio o peixe." |
+| Reconhecimento | Entrega | 3 | "O entregador foi muito atencioso." |
+| Total | | 22 | |
+
+Edna conversou com três dos clientes que reclamaram do vazamento e viu que o problema era o fecho da embalagem da sopa. Escolheu um ajuste só, o fecho novo, com dono e jeito de conferir.
+
+| Campo | Resposta |
+|---|---|
+| Ajuste escolhido | Trocar o fecho da embalagem da sopa, com um teste de duas semanas |
+| Dono do ajuste | Rogério, da cozinha |
+| Como vou conferir | O número de manifestações sobre vazamento na revisão de dezembro |
+| Retorno ao cliente | Edna respondeu aos cinco clientes que pediram retorno, sem prometer reembolso fora da regra da casa |
+
+Os 6 atrasos e as 4 trocas de pedido ficaram para os meses seguintes, anotados na lista. Um cliente que tinha contratado a refeição de um evento ficou sem a entrega no dia: o caso foi tratado na hora pela rotina de urgência, e não esperou a revisão do mês.

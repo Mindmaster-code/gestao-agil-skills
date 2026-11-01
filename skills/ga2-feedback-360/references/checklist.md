@@ -13,6 +13,19 @@
 - [ ] Os focos viraram compromisso (plano do ciclo, PDI ou registro de aprendizados escolhido).
 - [ ] Próxima rodada marcada e abre com o que mudou.
 
+Revisão de desempenho de uma pessoa (ficha E02)
+- [ ] O Feedback 360 foi pedido a quatro a seis pessoas, e só os padrões (duas ou mais) entraram.
+- [ ] As evidências do período, as expectativas combinadas e a autoavaliação com exemplos estão na folha, nas cinco dimensões.
+- [ ] A expectativa estava clara; se não estava, o acordo foi corrigido antes de qualquer conclusão forte.
+- [ ] O período inteiro foi considerado, e não só o mais recente.
+- [ ] Há dois focos com prazo, as condições que o líder ajusta, o apoio e a data da próxima revisão.
+- [ ] A conversa de desenvolvimento ficou separada das decisões formais, e o registro é reservado.
+
+Feedback na hora e reconhecimento (fichas D03 e D04)
+- [ ] O feedback foi em particular, perto do fato, com fato e data, efeito, pergunta e combinado.
+- [ ] A pessoa foi ouvida até o fim antes do combinado, e o combinado é observável, com apoio e retorno.
+- [ ] O reconhecimento diz o fato e o efeito, elogia esforço e processo, e foi reservado ou público conforme a pessoa.
+
 ## Erros comuns (da aula)
 
 - Perguntar só a quem gosta de você.
@@ -23,6 +36,9 @@
 - Rebater o que veio ("mas veja bem…"); o líder não explica por que a equipe está errada.
 - Rótulo no lugar de fato; elogio de talento no lugar de processo.
 - Nome de pessoa colado em prompt de IA para "consolidar" as respostas (regra 7 do Passo 7).
+- Revisão de desempenho com conclusão forte sobre expectativa que nunca foi clara, ou misturada com decisão formal.
+- Feedback na hora com combinado pronto, ou com intenção atribuída no lugar do fato com data.
+- Reconhecimento de talento, ou que premia o excesso de horas.
 
 ## Formas de saída
 

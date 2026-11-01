@@ -1,6 +1,6 @@
 ---
 name: ga2-politicas-wip-urgencia
-description: "Define limites de trabalho em andamento, bloqueios e critérios de urgência de um quadro. Use quando pedirem limite do quadro, WIP, gargalo, raia urgente ou política de urgência."
+description: "Define limites de trabalho em andamento, bloqueios e critérios de urgência de um quadro. Também combina o canal oficial de cada tipo de pedido e pergunta o que resolve antes de abrir vaga. Use quando pedirem limite do quadro, WIP, gargalo, raia urgente, política de urgência, por onde entram os pedidos ou se vale contratar."
 ---
 
 # Limite de trabalho e urgência
@@ -76,5 +76,5 @@ python3 construtor/construir.py politicas-quadro-b-05 --canvas --md meu-caso.md 
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

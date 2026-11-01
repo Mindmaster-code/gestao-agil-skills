@@ -15,6 +15,20 @@
 - [ ] A pessoa corrigiu o objetivo e escolheu a lacuna — escreveu junto.
 - [ ] Agente/skill: "pronto é" verificável e revisão do dono da skill registrada.
 
+PDI do próprio líder (ficha G08)
+- [ ] Há uma competência só, ligada ao que limita ou amplia a contribuição do líder.
+- [ ] Há um problema real em que ela será aplicada, e não "estudar o assunto".
+- [ ] A fonte é o menor pedaço que resolve, e os blocos de estudo estão marcados na agenda.
+- [ ] Houve aplicação em situação real e retorno de quem viu.
+- [ ] A evolução foi registrada e a revisão mensal está marcada.
+
+Conversa de carreira (ficha E04)
+- [ ] A pessoa foi ouvida antes de qualquer fala sobre cargo: o que a move e o que deseja assumir.
+- [ ] Possibilidades, critérios e restrições foram explicados, e ficou claro o que depende de outras pessoas.
+- [ ] Nada foi prometido fora da alçada do líder (posição, promoção, aumento, vaga).
+- [ ] Há experiências de desenvolvimento combinadas e retorno marcado com data.
+- [ ] O registro é reservado.
+
 ## Erros comuns (da aula)
 
 - Começar pelo curso.
@@ -26,6 +40,8 @@
 - Ritual novo só para o PDI — morre na segunda semana.
 - PDI como substituto de resolver impedimento (saída, sobrecarga, salário).
 - Elogiar talento na seção de forças ("é muito inteligente") em vez de processo observável.
+- PDI do líder: acumular cursos sem aplicar em um caso real.
+- Conversa de carreira: prometer posição, promoção, aumento ou vaga fora da alçada, ou falar de cargo antes de ouvir o que move a pessoa.
 
 ## Formas de saída
 

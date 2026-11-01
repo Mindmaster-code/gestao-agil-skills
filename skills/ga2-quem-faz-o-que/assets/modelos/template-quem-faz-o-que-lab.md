@@ -1,6 +1,6 @@
 <!-- spec: quem-faz-o-que-lab · gerado pelo construtor (construir.py --template); preencha as células e os blocos sem apagar as marcas de campo (os comentários c:...) -->
 
-# Quem faz o quê (laboratório)
+# Quem faz o quê
 
 Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: um dono por artefato (nome de pessoa); todo número com fonte e data; o que não souber fica em branco, nunca inventado.
 
@@ -10,8 +10,8 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 |---|---|
 | **Frente / demanda** <!-- c:frente --> | |
 | **Entrega (resultado, não tarefa)** <!-- c:entrega --> | |
-| **Empresa** — Treinamentos · Educação · Compartilhado <!-- c:empresa --> | |
-| **Cartão no portfólio** — P-__ <!-- c:cartao --> | |
+| **Área** — Área A · Área B · Compartilhado <!-- c:empresa --> | |
+| **Cartão no quadro** — P-__ <!-- c:cartao --> | |
 | **Data desta matriz** <!-- c:data --> | |
 
 ## Papéis

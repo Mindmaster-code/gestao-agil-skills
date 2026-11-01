@@ -14,8 +14,8 @@ Meta
 
 Capacidade e puxada
 - [ ] Capacidade real contada; planejado ~70%.
-- [ ] Acréscimo do laboratório: no máximo 3 compromissos por diretor.
-- [ ] Quem executa escolheu o que entra; o dono do rumo só apontou prioridade.
+- [ ] Acréscimo do método: no máximo 3 compromissos por responsável de área.
+- [ ] Quem faz escolheu o que entra; o dono do rumo só apontou prioridade.
 - [ ] Todo item veio do Backlog 2D (fatia fina primeiro); nenhum inventado na reunião.
 - [ ] Nenhum item maior que uma semana.
 
@@ -31,8 +31,17 @@ Rituais e riscos
 - [ ] Riscos do briefing com resposta e dono.
 
 Registro
-- [ ] Arquivo salvo em Plano do Ciclo na pasta do caso (ou `plano-<diretor>.md`).
+- [ ] Arquivo salvo em Plano do Ciclo na pasta do caso (ou `plano-<responsável>.md`).
 - [ ] Versão e data registradas; commit quando houver repositório. Ritual que não produziu arquivo não aconteceu.
+
+Capacidade e carga por pessoa (ficha A05)
+- [ ] A capacidade foi contada por pessoa: dias do ciclo, ausências e trabalho fixo, e o planejado ficou em cerca de 70%.
+- [ ] O histórico dos ciclos anteriores sustentou a conta, sem chute.
+- [ ] A carga de cada pessoa foi revista na semana: volume em andamento e idade dos cartões.
+- [ ] A conversa com a pessoa veio antes de interpretar o número dela.
+- [ ] O trabalho que depende de uma pessoa só e o trabalho invisível foram apontados.
+- [ ] A redistribuição ou a redução de compromissos tem apoio, transferência de conhecimento e data para olhar de novo.
+- [ ] Demanda acima do que o time consegue subiu a quem tem autoridade, com as opções.
 
 ## Erros comuns (da aula)
 
@@ -49,6 +58,8 @@ Registro
 | Ciclo elástico | "esta semana vamos de 2 semanas" | manter o tamanho; calibrar o conteúdo |
 | Rituais sem hora | "a gente combina" | dia, hora, lugar no plano |
 | Plano só na cabeça | sem arquivo | salvar e registrar a versão |
+| Capacidade só do time | uma pessoa com a carga de duas, e o total fecha | contar dias disponíveis por pessoa e rever a carga toda semana |
+| Número lido sem conversa | a pessoa mais carregada é cobrada pelo atraso | conversar sobre as causas antes de interpretar |
 
 ## Formas de saída
 

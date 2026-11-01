@@ -2,7 +2,7 @@
 
 Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
-## `folha-experimento-lab` — Folha de experimento (laboratório)
+## `folha-experimento-lab` — Folha de experimento
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|

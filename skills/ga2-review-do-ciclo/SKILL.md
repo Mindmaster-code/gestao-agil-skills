@@ -1,6 +1,6 @@
 ---
 name: ga2-review-do-ciclo
-description: "Compara o combinado com o entregue, exige prova e registra a decisão seguinte. Use quando pedirem review, revisão do ciclo, demonstração da entrega ou fechamento da semana."
+description: "Compara o combinado com o entregue, exige prova e registra a decisão seguinte. Também junta, uma vez por mês, a voz do cliente, agrupada por necessidade e etapa, com um ajuste que tem dono. Use quando pedirem review, revisão do ciclo, demonstração da entrega, fechamento da semana, voz do cliente ou reclamações do mês."
 ---
 
 # Revisão do ciclo
@@ -77,5 +77,5 @@ python3 construtor/construir.py revisao-kit-08 --canvas --md meu-caso.md --saida
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

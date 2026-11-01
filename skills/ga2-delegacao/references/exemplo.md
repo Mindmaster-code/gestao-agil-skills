@@ -57,3 +57,15 @@ A autonomia fica do lado oposto; não leia esta versão com a direção da escal
 Reordenar pedidos da mesma rota sem mudar prazo, nível 6 → 70% do PDI de Lucas.
 Mariana acompanha dentro da conversa de fechamento que já existe.
 
+## Levantamento prévio das aprovações: exemplo de uma loja de roupas
+
+Exemplo fictício e independente. Carla gerencia uma loja de roupas. Pessoas, números e datas são ilustrativos.
+
+| Assunto (no verbo) | Quem pediu | Quantas vezes | O que a gerente decidiu | Critério usado | Candidato ao quadro? |
+|---|---|---|---|---|---|
+| Trocar peça sem nota fiscal | vendedoras | 12 | aceitou todas | a peça está dentro do prazo da política de troca | sim |
+| Dar desconto acima da tabela | vendedoras | 9 | aceitou a metade | depende do cliente e do estoque; ainda sem critério escrito | sim, depois de escrever o critério |
+| Autorizar compra de reposição | vendedoras | 6 | aceitou todas | o item está abaixo do estoque mínimo da lista | sim |
+| Ajustar a escala de folgas | vendedoras | 4 | aceitou três | a loja fica com a cobertura mínima | sim |
+
+Os quatro assuntos seguem para o passo 1: cada pessoa marca sozinha o nível antes de comparar. O desconto acima da tabela é a linha em que mais se espera discordância, porque ainda não há critério escrito. Os níveis ficam em aberto até a conversa do time; o levantamento não os define.

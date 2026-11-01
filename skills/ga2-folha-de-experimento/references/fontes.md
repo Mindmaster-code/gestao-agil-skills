@@ -1,8 +1,9 @@
 # Fontes e procedência
 
 - Base do método — Passo 5: Melhoria Contínua (antifragilidade: M07 A05 ao vivo; v6 pasta 06 aula 02 "Antifrágil — o erro é informação").
-- Política e folha derivadas pelo laboratório: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
+- Política e folha acrescentadas pelo método: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
 - Webinar GAIA2k (w143), 01:15:40–01:17:32; curso de Design Thinking, aulas do curso. Referências bibliográficas de origem, sem presumir acesso aos arquivos internos.
+- Ficha B10 (avaliar fornecedores, ferramentas e recursos de trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 5) do curso de rotinas, para o modo de testar uma ferramenta ou um fornecedor `(adaptação metodológica)`.
 - A fonte original registra uma lacuna de curadoria sobre Design Thinking, barbell e antifragilidade; as aulas e o webinar acima são a procedência deste recorte.
 - Distinção de fontes: a proporção barbell 80–90/10–20 vem do webinar citado, não das transcrições ao vivo do GA 2.0. A versão v6 a incorpora na aula de Melhoria Contínua.
 

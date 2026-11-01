@@ -71,3 +71,28 @@ Exemplo fictício, novo e independente. Datas, pessoas, números, cartões e pro
 | O que pode atrapalhar <!-- c:riscos --> | urgência sem marca de pausa; item novo empurrado no meio da semana |
 
 Aplicar cerca de 70% da capacidade. Uma meta só. Fica fora pelo nome: alterar a regra de expedição em produção.
+
+## Capacidade e carga por pessoa (exemplo de outro ramo)
+
+Silvana lidera a manutenção de um edifício comercial com quatro pessoas. O ciclo vai de 09/11/2026 a 13/11/2026, com cinco dias úteis.
+
+| Pessoa | Dias do ciclo | Ausências (dias) | Trabalho fixo (dias) | Dias disponíveis | Cartões que terminou nos últimos ciclos | Planejável (cerca de 70%) |
+|---|---|---|---|---|---|---|
+| Osvaldo | 5 | 0 | 1,5 | 3,5 | 4 | 2,45 |
+| Telma | 5 | 1 | 1 | 3 | 3 | 2,1 |
+| Rui | 5 | 0 | 0,5 | 4,5 | 5 | 3,15 |
+| Lia | 5 | 0 | 2 | 3 | 3 | 2,1 |
+| Total | 20 | 1 | 5 | 14 | 15 | 9,8 |
+
+Os números são ilustrativos. O total planejável é 70% de 14 dias, ou 9,8 dias-pessoa. Os 30% restantes ficam para o imprevisto.
+
+Na revisão semanal de 20 minutos, Silvana olhou a carga:
+
+| Pessoa | Em andamento | Cartão mais velho | De férias? | Trabalho que depende só dela | Decisão |
+|---|---|---|---|---|---|
+| Osvaldo | 3 | 9 dias | não | A chave do quadro de comando do elevador B | Manter; Rui acompanha uma execução |
+| Telma | 2 | 3 dias | não | Nenhum | Manter |
+| Rui | 3 | 4 dias | não | Nenhum | Manter |
+| Lia | 5 | 12 dias | não | A rotina de inspeção dos extintores, que ninguém mais conhece | Reduzir: sai um cartão do ciclo, e Telma aprende a inspeção com ela |
+
+Silvana conversou com Lia antes de decidir. Lia estava cobrindo a ausência de um colega e não tinha dito nada. Um cartão saiu do ciclo, renegociado com quem recebia a entrega, e a data para olhar de novo ficou em 20/11/2026.

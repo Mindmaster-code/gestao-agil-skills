@@ -5,7 +5,7 @@
 |---|---|
 | Caso / frente <!-- c:caso --> | <frente ou projeto> |
 | Responsável (dono do ciclo) <!-- c:dono --> | <nome> |
-| Quem recebe o resultado (aprova na review) | <nome — PO, cliente, diretoria> |
+| Quem recebe o resultado (aprova na review) | <nome — PO, cliente, liderança da área> |
 | Data da review <!-- c:data --> | <dd/mm/aaaa hh:mm> |
 | Ciclo e período <!-- c:periodo --> | <Ciclo N · seg dd/mm a sex dd/mm> |
 
@@ -55,3 +55,29 @@ Regra: linha sem prova = não entregue.
 | Compromissos | Entregues na data | % data cumprida | Aceitos na 1ª | % aceite |
 |---|---|---|---|---|
 | | | | | |
+
+## 9. Voz do cliente do mês (ficha B09) `(adaptação metodológica)`
+
+Uma vez por mês, de 30 a 60 minutos. Reúna as manifestações sem escolher só os casos bons. Proteja os dados dos clientes.
+
+| Campo | Resposta |
+|---|---|
+| Mês revisado | <mm/aaaa> |
+| Fontes reunidas (reclamações, elogios, pedidos, devoluções, dados de uso ou de atendimento) | |
+| Total de manifestações | |
+
+| Tipo de necessidade | Etapa da experiência | Quantas manifestações | Exemplo, nas palavras do cliente |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+| Campo | Resposta |
+|---|---|
+| Clientes com quem conversei para entender os casos mais importantes | |
+| Ajuste escolhido (um só) | |
+| Dono do ajuste | |
+| Como vou conferir (o número do mesmo tipo de manifestação no mês seguinte) | |
+| Retorno dado ao cliente quando houve compromisso (quem e quando) | |
+| Caso crítico tratado pela rotina de urgência, se houve | |

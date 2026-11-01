@@ -7,8 +7,8 @@ mostrado funcionando, na frente de quem recebe o resultado. Olha **produto**, n�
 (processo é a Retrospectiva, que vem logo depois).
 
 Vive no **Passo 4 — Ritmo Ágil**: review e retro pertencem a esse passo.
-Entra antes: `plano.md` do ciclo (a meta e os compromissos) e os reports de sexta dos
-diretores. Sai depois: decisão por compromisso, cartões do próximo ciclo, sinal de resultado
+Entra antes: `plano.md` do ciclo (a meta e os compromissos) e os relatos do fim da semana de quem
+responde pelas áreas. Sai depois: decisão por compromisso, cartões do próximo ciclo, sinal de resultado
 para o Quadro Kaizen e a entrada da Retrospectiva.
 
 Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review** → Retro → PDCA.
@@ -22,6 +22,7 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
   roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
   individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
+- Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês `(adaptação metodológica)`.
 
 ## Os 5 formatos, consolidados em um
 
@@ -38,7 +39,7 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 | O que muda no próximo ciclo | próximo sprint | — | sim | próximo ciclo | o que levo |
 
 Variantes: o legado A07 não tem meta nem data; só o Roteiro Mod 05 traz "decisões
-necessárias"; o `--help` 10 é individual. A consolidação é `(acréscimo do laboratório)`:
+necessárias"; o `--help` 10 é individual. A consolidação é `(acréscimo do método)`:
 o campo "Decisão" generaliza "aprovar, ajustar, cortar" do Roteiro para
 continua / para / corta / escala, que é o vocabulário de acordo de cadência do time regra 2.
 
@@ -53,12 +54,26 @@ continua / para / corta / escala, que é o vocabulário de acordo de cadência d
    (situação, não pessoa) e cria o cartão do próximo ciclo **na hora**, com dono.
 4. **Números.** Pergunta: "Qual KR ou métrica do briefing se mexeu? De quanto para quanto?"
    Número sempre com a empresa (uma empresa ≠ outra empresa). Recusa: "foi bem" sem número.
-5. **Feedback de quem recebe.** Quem usa o resultado (cliente, diretor ou outro destinatário nomeado) diz
+5. **Feedback de quem recebe.** Quem usa o resultado (cliente, responsável pela área ou outro destinatário nomeado) diz
    positivo, negativo e mudança necessária. Colete, não defenda.
 6. **Decisão por compromisso:** continua / para / corta / escala — quem decide é quem recebe
-   o resultado; o Gestor registra. Recusa: review sem decisão (vira relato de atividade).
+   o resultado; quem conduz o método registra. Recusa: review sem decisão (vira relato de atividade).
 7. **Próximo ciclo.** O que muda, em uma linha; o que fica de fora, dito pelo nome.
 8. Salvar, atualizar registro de métricas na pasta do caso (data cumprida, aceite na 1ª) e abrir a Retro.
+
+## Voz do cliente do mês (ficha B09)
+
+No método, quem define valor é o cliente. Por isso quem recebe a entrega participa da revisão, vê o trabalho funcionando e diz se serve, e a pergunta da reunião vira "isso serve para você?". Uma vez por mês, junte também tudo o que os clientes disseram, além do feedback de cada revisão. A revisão do mês leva de 30 a 60 minutos. Dono: o responsável pela experiência ou pela entrega ao cliente, com o atendimento, a operação e representantes dos clientes conforme o tema. Fonte: ficha B09 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+
+9. **Reúna as manifestações do mês sem escolher só os casos bons:** reclamações, elogios, pedidos, devoluções e dados de uso ou de atendimento, cada um com o contexto e a origem.
+10. **Agrupe por tipo de necessidade e pela etapa da experiência** em que o caso aconteceu.
+11. **Converse com alguns clientes** para entender os casos mais importantes. Interprete as pesquisas conforme a amostra que existe.
+12. **Escolha um ajuste,** com um dono e um jeito de conferir. Entrega recusada ou problema repetido pode abrir uma melhoria no Quadro Kaizen (`ga2-quadro-kaizen`).
+13. **Dê retorno ao cliente** quando houve compromisso com ele, sem prometer solução fora da sua alçada.
+14. **Confira o ajuste na revisão do mês seguinte,** pelo número de manifestações do mesmo tipo.
+15. **Acompanhe a recorrência dos problemas,** o prazo de resposta e a qualidade da solução. O aprendizado chega ao processo.
+16. **Caso crítico de cliente segue a rotina de urgência** (`ga2-politicas-wip-urgencia`), e não espera a revisão do mês.
+17. **Proteja os dados dos clientes** no registro: só o necessário, com acesso adequado.
 
 ## Regras do método que valem aqui
 
@@ -70,15 +85,18 @@ continua / para / corta / escala, que é o vocabulário de acordo de cadência d
 - "Feedback negativo é o mais valioso." (M07 A02)
 - Review produz decisão (continua, para, corta, escala), não relato de atividade
   (acordo de cadência do time, regra 2). Linha sem prova conta como não entregue (regra 4).
+- Quem recebe a entrega diz se serve, e uma vez por mês a voz do cliente inteira entra na conversa, sem escolher só os casos bons. (aula 9; ficha B09)
+- Cada ajuste vindo do cliente tem um dono e um jeito de conferir no mês seguinte.
 
 ## Saída
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
 - Arquivo: Revisão do Ciclo na pasta do caso (template em `template.md` desta skill).
-- Depois: cartões novos em registro do portfólio na pasta do caso; métricas em registro de métricas na pasta do caso;
+- Depois: cartões novos em registro da carteira de iniciativas na pasta do caso; métricas em registro de métricas na pasta do caso;
   KR parado há 2 semanas ou entrega recusada abre `ga2-quadro-kaizen`; a review é a entrada
-  da `ga2-retrospectiva` (mesmo dia, 14h); resumo entra no report de sexta ao dirigente responsável.
+  da `ga2-retrospectiva` (mesmo dia, 14h); resumo entra no relato do fim da semana ao responsável pela área.
+- Voz do cliente do mês: tabela de manifestações por tipo de necessidade e etapa, com o ajuste escolhido, o dono e o jeito de conferir.
 
 ## Formas de saída
 
@@ -93,7 +111,7 @@ Os modelos abaixo atendem ao fluxo de geração de HTML e canvas quando essa for
 | Forma | Arquivo | Quando sai | Modelo |
 |---|---|---|---|
 | Fonte | `<nome>.md` (este `template.md` preenchido) | quando o fluxo precisar de fonte Markdown | `template.md` |
-| Documento | `<nome>.html` — documento corrido no design system do laboratório | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
+| Documento | `<nome>.html` — documento corrido no design system dos modelos públicos | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
 | Canvas | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-revisao-kit-08.html` |
 
 Modelos canvas desta skill (specs `revisao-kit-08`, `revisao-v6`):
@@ -136,10 +154,10 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 
 ## Adaptação
 
-- **Leve** (um diretor, 1–3 compromissos): tabela prometido × entregue × prova × decisão,
+- **Leve** (um responsável de área, 1–3 compromissos): tabela prometido × entregue × prova × decisão,
   mais "o que muda". Sem feedback formal nem aprendizado.
-- **Intermediária** (ciclo do laboratório): template completo.
-- **Robusta** (projeto com cliente externo ou Conselho): acrescenta feedback por
+- **Intermediária** (ciclo de uma área): template completo.
+- **Robusta** (projeto com cliente externo ou instância que decide): acrescenta feedback por
   interessado, de/para de cada KR e aceite assinado por quem recebe.
 
 ## Erros comuns
@@ -150,3 +168,6 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Misturar com a retro ("por que atrasou" é assunto da retro).
 - Review sem decisão e sem cartão para o que sobrou.
 - Número sem dizer de qual empresa.
+- Voz do cliente: reunir só os elogios e os casos fáceis de resolver.
+- Voz do cliente: fechar a revisão do mês sem um ajuste que tenha dono e jeito de conferir.
+- Voz do cliente: prometer ao cliente uma solução fora da alçada.

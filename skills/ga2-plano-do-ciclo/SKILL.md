@@ -1,6 +1,6 @@
 ---
 name: ga2-plano-do-ciclo
-description: "Planeja um ciclo com uma meta, capacidade segura, trabalhos com dono e data, e critério de pronto. Use quando pedirem plano da semana, sprint, meta do ciclo ou escolha do que entra."
+description: "Planeja um ciclo com uma meta, capacidade segura, trabalhos com dono e data, e critério de pronto. Também mostra a capacidade e a carga de cada pessoa e revisa a distribuição do trabalho toda semana. Use quando pedirem plano da semana, sprint, meta do ciclo, escolha do que entra, carga por pessoa ou redistribuir o trabalho."
 ---
 
 # Plano do ciclo
@@ -77,5 +77,5 @@ python3 construtor/construir.py plano-ciclo-v6 --canvas --md meu-caso.md --saida
 ```
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do método
 não faz parte do curso.

@@ -60,9 +60,19 @@ pontual pode ir direto à habilidade correspondente, sem abrir projeto.
 - `ga2-feedback-360`
 - `ga2-pdi`
 
+## 7. Rotinas do gestor
+
+- `ga2-sistema-de-rotinas`
+- `ga2-agenda-do-lider`
+- `ga2-reunioes-e-comunicados`
+- `ga2-registro-de-decisoes-e-riscos`
+- `ga2-conversa-individual`
+- `ga2-contratar-e-integrar`
+- `ga2-estagio-do-time`
+
 ## Camada visual compartilhada
 
-`ga2-me-mostra` atende às seis trilhas. Ela transforma o conteúdo em uma apresentação
+`ga2-me-mostra` atende às sete trilhas. Ela transforma o conteúdo em uma apresentação
 visual sem criar uma segunda versão conceitual do documento.
 
 `agenda-visual` transforma o planejamento de qualquer projeto em agenda,
@@ -71,7 +81,7 @@ Pergunta entre HTML e imagem quando o formato não estiver definido.
 HTML usa o recurso inline disponível na LLM ou um arquivo independente como alternativa.
 Imagegen entra quando o usuário escolhe imagem; sem ferramenta ou modelo requerido,
 entrega o briefing e o prompt e informa que a imagem não foi gerada.
-Complementa as seis trilhas e pode ser usada sem abrir um projeto GA2.
+Complementa as sete trilhas e pode ser usada sem abrir um projeto GA2.
 
 ## Caminho integrado do método
 

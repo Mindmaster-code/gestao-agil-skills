@@ -7,8 +7,9 @@
   (atualizar o Kanban todo dia); v6 pasta 05 aula 04.
 - Template: só individual — folha individual «gestao-diaria-ga2.pdf» (artefato 09: semana
   de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
-  os campos desta skill são construção do laboratório a partir de A14 e v6 aula 04.
-- Acréscimo do laboratório: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
+  os campos desta skill são construção deste pacote a partir de A14 e v6 aula 04.
+- Acréscimo do método: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
+- Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal `(adaptação metodológica)`; regra do quadro em dia: aula A09 (atualizar o quadro todo dia).
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

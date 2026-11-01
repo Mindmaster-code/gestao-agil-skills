@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conversa individual"
+  short_description: "Prepara a conversa individual do líder com uma pessoa da..."
+  default_prompt: "Aplique Conversa individual ao meu caso, em português simples."

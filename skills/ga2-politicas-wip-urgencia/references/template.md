@@ -8,7 +8,7 @@ Quadro: ______________________ · Dono do quadro: __________ · Data: __/__/____
 ## 1. Limite de trabalho em andamento (WIP)
 
 Campos de A19/A20/v6 aula 05 e apostila 14.2. Não há template oficial; o registro abaixo é
-construção do laboratório a partir das aulas.
+construção deste pacote a partir das aulas.
 
 ### 1.1 Fotografia de hoje (antes de fixar o limite)
 
@@ -67,9 +67,9 @@ Limite por pessoa: __ cartões ao mesmo tempo.
 ### 2.1 Mecânica escolhida
 
 - [ ] cartão vermelho que pausa o item em curso (A21)
-- [ ] raia inferior "Urgência" com colunas: fila → execução → feito (A21; **padrão do laboratório**)
+- [ ] raia inferior "Urgência" com colunas: fila → execução → feito (A21; **padrão desta referência**)
 
-Vagas na raia: __ (laboratório: 2 — acréscimo do laboratório, uma por empresa).
+Vagas na raia: __ (acréscimo do método: 2, uma por área).
 
 ### 2.2 Contador do ciclo (vai para a retro)
 
@@ -81,17 +81,17 @@ Regra de leitura: 1–2 por ciclo o ritmo absorve. Metade do quadro em vermelho 
 
 ---
 
-## 3. Classe de atendimento (modelo operacional do laboratório, §9)
+## 3. Classe de atendimento (modelo operacional do método, §9)
 
 Toda demanda recebe uma classe ao ficar Apta:
 
 | Classe | Significa | Quem valida | O que exige |
 |---|---|---|---|
-| Crítica | dano relevante acontecendo agora | diretor, política de incidente aprovada ou Autoridade competente por Prioridade explícita | registrar o trabalho deslocado se ultrapassar o WIP |
+| Crítica | dano relevante acontecendo agora | responsável pela área, política de incidente aprovada ou Autoridade competente por Prioridade explícita | registrar o trabalho deslocado se ultrapassar o WIP |
 | Com prazo | há Data necessária com consequência verificável | autoridade de capacidade confirma Data comprometida | data necessária + consequência escrita |
-| Normal | segue o planejamento da área | diretor | — |
+| Normal | segue o planejamento da área | responsável pela área | — |
 
-### 3.1 Registro de Crítica (acréscimo do laboratório, campos de §9)
+### 3.1 Registro de Crítica (acréscimo do método, campos de §9)
 
 | Campo | Preencha |
 |---|---|
@@ -102,3 +102,39 @@ Toda demanda recebe uma classe ao ficar Apta:
 | Interrompeu o quê (trabalho deslocado) | |
 | Custo da troca registrado | |
 | Definição de pronto mínima (modelo aprovado) | |
+
+---
+
+## 4. Canal oficial por tipo de pedido (política de entrada, ficha F10)
+
+Complementa a regra Entrada da tabela 1.6. Dono: __________ · Definido em: __/__/____ · Revisão mensal em: __/__/____
+
+| Tipo de pedido | Canal oficial de entrada | Onde a decisão fica registrada | Prazo de resposta | Caminho da urgência (quem chama, por qual canal) |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+Cobertura de quem faz plantão ou atendimento, antes de limitar a consulta a mensagens: ______
+
+Teste com casos reais:
+
+| Data | Pedido real | Entrou pelo canal oficial? | Ajuste na regra ou na comunicação |
+|---|---|---|---|
+| | | | |
+
+---
+
+## 5. Antes de abrir vaga (ficha E06)
+
+Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?
+
+| Passo | Resposta (com evidência do quadro) |
+|---|---|
+| Onde a fila se forma (coluna mais cheia, cartão mais velho, entrega por semana) | |
+| Redistribuir: há gente com folga em outra etapa? | |
+| Mudar o processo: a espera é por aprovação, informação ou retrabalho? | |
+| Desenvolver alguém: falta uma competência específica? | |
+| Se ainda falta gente: perfil necessário e benefício esperado | |
+| Decisão, na alçada de quem (orçamento e autoridade aprovados) | |
+| Efeito a revisar (entrega, carga e custo) e quando | |

@@ -26,7 +26,7 @@ Somente habilidades. Sem MCP, sem hooks, sem agentes, sem autenticação externa
 
 ## Descrição curta
 
-Trinta habilidades para aplicar o método Gestão Ágil 2.0 a um caso real da sua empresa.
+Quarenta habilidades para aplicar o método Gestão Ágil 2.0 a um caso real da sua empresa.
 
 ## Descrição longa
 
