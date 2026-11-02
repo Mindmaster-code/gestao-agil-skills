@@ -3,6 +3,8 @@ name: ga2-painel-do-gestor
 description: "Monta uma visão curta de um ciclo com poucos números úteis para decidir. Use quando pedirem painel, números do ciclo, indicador principal, leitura da meta ou resumo para o gestor."
 ---
 
+> Modelo oficial do aluno: `P7.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Painel do Gestor
 
 ## Como conduzir

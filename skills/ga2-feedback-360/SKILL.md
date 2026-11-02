@@ -3,6 +3,8 @@ name: ga2-feedback-360
 description: "Conduz um Feedback 360 com diferentes pontos de vista, padrões e até dois focos com prazo. Também prepara a revisão de desempenho de uma pessoa, o feedback na hora e o reconhecimento de uma contribuição. Use quando pedirem avaliação 360, feedback de líder, pares e equipe, plano após feedback, revisão de desempenho, dar feedback a alguém ou reconhecer uma pessoa."
 ---
 
+> Modelo oficial do aluno: `P6.3`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Feedback 360
 
 ## Como conduzir

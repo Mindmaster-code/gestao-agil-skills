@@ -3,6 +3,8 @@ name: ga2-matriz-esforco-impacto
 description: "Compara iniciativas pelo impacto e esforço e devolve uma fila com critérios claros. Use quando pedirem prioridade, matriz, ordem das iniciativas ou escolha do próximo trabalho."
 ---
 
+> Modelo oficial do aluno: `P2.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Matriz Impacto e Esforço
 
 ## Como conduzir

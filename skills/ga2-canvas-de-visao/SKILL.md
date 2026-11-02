@@ -3,6 +3,8 @@ name: ga2-canvas-de-visao
 description: "Define o norte de uma empresa, área ou iniciativa com passado, situação atual, tendências, futuro e frase de visão. Use quando pedirem Canvas de Visão, direção, contexto ou futuro desejado."
 ---
 
+> Modelo oficial do aluno: `P1.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Canvas de Visão
 
 ## Como conduzir

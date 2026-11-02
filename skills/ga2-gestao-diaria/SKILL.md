@@ -3,6 +3,8 @@ name: ga2-gestao-diaria
 description: "Conduz uma reunião diária curta diante do quadro, destacando avanço, próximo passo e bloqueio. Também fecha o expediente e prepara o próximo dia de uma pessoa. Use quando pedirem diária, daily, trabalhos parados, registro do dia, remoção de bloqueios, fechar o expediente ou preparar o dia de amanhã."
 ---
 
+> Modelo oficial do aluno: `P4.3`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Gestão diária
 
 ## Como conduzir

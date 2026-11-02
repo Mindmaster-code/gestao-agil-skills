@@ -3,6 +3,8 @@ name: ga2-pop
 description: "Escreve um procedimento recorrente com dono, gatilho, passos, saída, sistema, indicador, exceção e aprovação. Também monta o mapa de cobertura de ausências, com titular, substituto que já fez o trabalho e teste antes das férias. Use quando pedirem POP, procedimento, rotina, padronização de processo, cobertura de férias, substituto ou transferência de conhecimento."
 ---
 
+> Modelo oficial do aluno: `X.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Procedimento Operacional Padrão
 
 ## Como conduzir

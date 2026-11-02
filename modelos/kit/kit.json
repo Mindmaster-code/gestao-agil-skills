@@ -1,0 +1,934 @@
+{
+  "versao": "lote-3",
+  "data": "2026-11-01",
+  "modelos": [
+    {
+      "codigo": "P0.1",
+      "titulo": "Desafio de 7 dias",
+      "passo": "Abertura",
+      "tempo_min": 30,
+      "tempo_fonte": "est.",
+      "skill_primaria": null,
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso real",
+        "Quem faz",
+        "Começa em",
+        "O número de hoje",
+        "O que aprendi na semana?"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P0.1-desafio-de-7-dias.html",
+      "pdf": "kit/pdf/P0.1-desafio-de-7-dias.pdf",
+      "docx": "kit/docx/P0.1-desafio-de-7-dias.docx",
+      "exemplo": {
+        "setor": "Hotel",
+        "caso": "Hóspedes que esperam o quarto mais de 20 minutos na chegada: 38 de 410 em outubro"
+      }
+    },
+    {
+      "codigo": "P1.1",
+      "titulo": "Canvas de Visão, versão curta",
+      "passo": "Passo 1 · Entender o contexto",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-canvas-de-visao",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Frente ou área",
+        "Dono",
+        "Data",
+        "1 · Onde estamos hoje?",
+        "2 · Aonde queremos chegar, e em quantos anos?",
+        "3 · O que falta no caminho?",
+        "4 · Qual é o primeiro problema a atacar?",
+        "O que NÃO vamos fazer",
+        "Visão em uma frase"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P1.1-canvas-de-visao-curto.html",
+      "pdf": "kit/pdf/P1.1-canvas-de-visao-curto.pdf",
+      "docx": "kit/docx/P1.1-canvas-de-visao-curto.docx",
+      "exemplo": {
+        "setor": "Escritório de contabilidade",
+        "caso": "Fechar o mês no prazo e passar de 46 para 70 clientes em 3 anos"
+      }
+    },
+    {
+      "codigo": "P1.2",
+      "titulo": "Relatório A3",
+      "passo": "Passo 1 · Entender o contexto",
+      "tempo_min": 35,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-relatorio-a3",
+      "skills_compartilhadas": [
+        "ga2-5w2h"
+      ],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Data",
+        "1 · Por que este caso importa agora?",
+        "2 · O que acontece hoje?",
+        "3 · Meta: de quanto para quanto, até quando?",
+        "4 · Diferença entre hoje e a meta",
+        "Vale um A3?",
+        "5 · Por que o problema acontece?",
+        "6 · O que vai atacar cada causa?",
+        "7 · Plano de ação",
+        "8 · Como vamos medir?",
+        "9 · Quando revisamos, e com quem?",
+        "10 · O que aprendemos?"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 2,
+        "exemplo": 2
+      },
+      "arquivo_html": "kit/P1.2-relatorio-a3.html",
+      "pdf": "kit/pdf/P1.2-relatorio-a3.pdf",
+      "docx": "kit/docx/P1.2-relatorio-a3.docx",
+      "exemplo": {
+        "setor": "Padaria",
+        "caso": "Sobra de pães no fim do dia: de 18% para 8% da produção, até 18/12"
+      }
+    },
+    {
+      "codigo": "P1.3",
+      "titulo": "Causa raiz",
+      "passo": "Passo 1 · Entender o contexto",
+      "tempo_min": 15,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-causa-raiz",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Problema observado",
+        "Cinco porquês",
+        "A causa é um processo ou uma regra, e não o nome de alguém?",
+        "Se você corrigir só isso, o problema deixa de voltar?",
+        "Quem é dono do trabalho controla essa causa?",
+        "Causa prioritária",
+        "Várias causas ao mesmo tempo? Espinha de peixe",
+        "Método",
+        "Mão de obra",
+        "Máquina",
+        "Material",
+        "Medição",
+        "Meio ambiente"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P1.3-causa-raiz.html",
+      "pdf": "kit/pdf/P1.3-causa-raiz.pdf",
+      "docx": "kit/docx/P1.3-causa-raiz.docx",
+      "exemplo": {
+        "setor": "Oficina mecânica",
+        "caso": "Carros que voltam pelo mesmo defeito: 14 de 62 em setembro (23%)"
+      }
+    },
+    {
+      "codigo": "P2.1",
+      "titulo": "OKR: objetivo e resultados-chave",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 25,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-okr-canvas",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Período",
+        "Objetivo",
+        "Resultados-chave",
+        "Iniciativas",
+        "Check-in de 15 minutos: quando e com quem?",
+        "Onde este OKR fica público"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.1-okr.html",
+      "pdf": "kit/pdf/P2.1-okr.pdf",
+      "docx": "kit/docx/P2.1-okr.docx",
+      "exemplo": {
+        "setor": "Clínica de fisioterapia",
+        "caso": "Pacientes que largam o tratamento no meio: 3 resultados-chave, até 31/12"
+      }
+    },
+    {
+      "codigo": "P2.2",
+      "titulo": "Matriz Esforço x Impacto",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 15,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-matriz-esforco-impacto",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Data",
+        "1 · Quais são as iniciativas?",
+        "2 · Onde cada uma cai?",
+        "Faça já",
+        "Planeje",
+        "Encaixe",
+        "Evite ou questione",
+        "3 · A fila",
+        "O que caiu no Evite: tem coragem de tirar?"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.2-matriz-esforco-impacto.html",
+      "pdf": "kit/pdf/P2.2-matriz-esforco-impacto.pdf",
+      "docx": "kit/docx/P2.2-matriz-esforco-impacto.docx",
+      "exemplo": {
+        "setor": "ONG (banco de alimentos)",
+        "caso": "Cinco iniciativas ordenadas para atender 200 famílias com cesta completa"
+      }
+    },
+    {
+      "codigo": "P2.3",
+      "titulo": "Briefing de Projeto",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 15,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-briefing-iniciativa",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Nome do projeto",
+        "Líder",
+        "Data",
+        "1 · Objetivo",
+        "2 · Por que agora?",
+        "3 · O que entra no escopo",
+        "O que fica de fora",
+        "4 · Entregas e marcos",
+        "5 · Prazo final",
+        "Critério de pronto",
+        "6 · Recursos e custo estimado",
+        "Riscos e plano B",
+        "7 · Quem precisa saber antes?"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.3-briefing-de-projeto.html",
+      "pdf": "kit/pdf/P2.3-briefing-de-projeto.pdf",
+      "docx": "kit/docx/P2.3-briefing-de-projeto.docx",
+      "exemplo": {
+        "setor": "Prefeitura (secretaria de obras)",
+        "caso": "Digitalizar 4.800 processos de obras e publicar a busca no site até 30/04"
+      }
+    },
+    {
+      "codigo": "P2.4",
+      "titulo": "Briefing de Processo",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 15,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-briefing-iniciativa",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Nome do processo",
+        "Líder",
+        "Data",
+        "1 · Objetivo",
+        "2 · Contexto",
+        "3 · Onde começa",
+        "Onde termina",
+        "Fica de fora",
+        "4 · Fluxo",
+        "5 · Indicador do processo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.4-briefing-de-processo.html",
+      "pdf": "kit/pdf/P2.4-briefing-de-processo.pdf",
+      "docx": "kit/docx/P2.4-briefing-de-processo.docx",
+      "exemplo": {
+        "setor": "Indústria (fábrica de móveis)",
+        "caso": "Conferência antes de embalar: devoluções por acabamento de 6% para 2% até 31/01"
+      }
+    },
+    {
+      "codigo": "P2.5",
+      "titulo": "Briefing de Produto",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 10,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-briefing-iniciativa",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Nome do produto ou serviço",
+        "Dono",
+        "Data",
+        "1 · Qual problema de quem usa ele resolve?",
+        "2 · Quem usa hoje, e quem deveria usar?",
+        "3 · O que entregamos?",
+        "4 · Número que prova que funcionou",
+        "Onde o número fica",
+        "Dono do número"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.5-briefing-de-produto.html",
+      "pdf": "kit/pdf/P2.5-briefing-de-produto.pdf",
+      "docx": "kit/docx/P2.5-briefing-de-produto.docx",
+      "exemplo": {
+        "setor": "Escola",
+        "caso": "Plantão de dúvidas online: entrega da lista de exercícios de 52% para 80% até 18/12"
+      }
+    },
+    {
+      "codigo": "P2.6",
+      "titulo": "Backlog 2D",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 30,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-backlog-2d",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Iniciativa",
+        "Líder",
+        "Resultado-chave que ela move",
+        "Data"
+      ],
+      "formato": "A4 paisagem",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.6-backlog-2d.html",
+      "pdf": "kit/pdf/P2.6-backlog-2d.pdf",
+      "docx": "kit/docx/P2.6-backlog-2d.docx",
+      "exemplo": {
+        "setor": "Comércio (loja de bicicletas)",
+        "caso": "Vender pela internet: 4 etapas, 4 faixas e a fatia fina do primeiro ciclo"
+      }
+    },
+    {
+      "codigo": "P2.7",
+      "titulo": "Checkpoint do plano",
+      "passo": "Passo 2 · Organizar o trabalho",
+      "tempo_min": 10,
+      "tempo_fonte": "m3_a8",
+      "skill_primaria": "ga2-okr-canvas",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Data",
+        "1 · O A3 tem um problema real e a causa raiz?",
+        "2 · O OKR está completo: objetivo, resultados-chave de quanto para quanto e iniciativas ligadas?",
+        "3 · As iniciativas passaram pela matriz esforço x impacto?",
+        "4 · O backlog (a lista de tarefas, em ordem) tem a linha de cima e o detalhe priorizado?",
+        "5 · Sei o que faço no começo da semana?",
+        "Onde a resposta foi não: o que falta, quem resolve e até quando?",
+        "Primeira tarefa, no começo da semana",
+        "Dono da tarefa",
+        "Data e hora",
+        "Decisão",
+        "Riscos de execução"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P2.7-checkpoint-do-plano.html",
+      "pdf": "kit/pdf/P2.7-checkpoint-do-plano.pdf",
+      "docx": "kit/docx/P2.7-checkpoint-do-plano.docx",
+      "exemplo": {
+        "setor": "RH",
+        "caso": "Plano para preencher vagas mais rápido: um não, o plano volta para ajuste"
+      }
+    },
+    {
+      "codigo": "P3.1",
+      "titulo": "Quadro do time",
+      "passo": "Passo 3 · Gestão visual",
+      "tempo_min": 30,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-kanban-canvas",
+      "skills_compartilhadas": [
+        "ga2-politicas-wip-urgencia",
+        "ga2-checklist-producao-entrega"
+      ],
+      "campos": [
+        "Time ou frente",
+        "Dono do quadro",
+        "Ciclo",
+        "Meta do ciclo",
+        "A fazer",
+        "Fazendo",
+        "Validando",
+        "Feito",
+        "Travado",
+        "Entrada",
+        "Limite",
+        "Urgência",
+        "O que é pronto"
+      ],
+      "formato": "A3 paisagem",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P3.1-quadro-do-time.html",
+      "pdf": "kit/pdf/P3.1-quadro-do-time.pdf",
+      "docx": "kit/docx/P3.1-quadro-do-time.docx",
+      "exemplo": {
+        "setor": "Transportadora",
+        "caso": "Quadro semanal da expedição: 60 cargas da rota do litoral no prazo"
+      }
+    },
+    {
+      "codigo": "P4.1",
+      "titulo": "Decisão: projeto ou fluxo",
+      "passo": "Passo 4 · Ritmo ágil",
+      "tempo_min": 15,
+      "tempo_fonte": "m5_dec",
+      "skill_primaria": "ga2-decisao-projeto-ou-fluxo",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Data",
+        "1 · Qual é o trabalho?",
+        "2 · Trilha escolhida",
+        "3 · Como acompanhamos?",
+        "4 · A regra de quem cede"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P4.1-decisao-projeto-ou-fluxo.html",
+      "pdf": "kit/pdf/P4.1-decisao-projeto-ou-fluxo.pdf",
+      "docx": "kit/docx/P4.1-decisao-projeto-ou-fluxo.docx",
+      "exemplo": {
+        "setor": "Farmácia",
+        "caso": "Abertura da nova loja e entregas: ciclos e fluxo no mesmo quadro"
+      }
+    },
+    {
+      "codigo": "P4.2",
+      "titulo": "Plano do ciclo",
+      "passo": "Passo 4 · Ritmo ágil",
+      "tempo_min": 20,
+      "tempo_fonte": "m5_a3",
+      "skill_primaria": "ga2-plano-do-ciclo",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Time ou frente",
+        "Período",
+        "Quem faz",
+        "1 · Meta do ciclo",
+        "2 · Horas do time na semana",
+        "Horas planejadas",
+        "Diária",
+        "Review e retrospectiva",
+        "3 · O que entra?",
+        "4 · A aposta do ciclo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P4.2-plano-do-ciclo.html",
+      "pdf": "kit/pdf/P4.2-plano-do-ciclo.pdf",
+      "docx": "kit/docx/P4.2-plano-do-ciclo.docx",
+      "exemplo": {
+        "setor": "Construtora",
+        "caso": "Laje do 3º andar pronta para concretar em um ciclo de 5 dias"
+      }
+    },
+    {
+      "codigo": "P4.3",
+      "titulo": "Relato da semana",
+      "passo": "Passo 4 · Ritmo ágil",
+      "tempo_min": 10,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-gestao-diaria",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Meu nome",
+        "Caso ou projeto",
+        "Semana",
+        "1 · Eu me comprometi a fazer",
+        "2 · O que foi feito?",
+        "3 · Que resultado apareceu?",
+        "4 · O que travou ou atrasou?",
+        "5 · O que aprendi sobre o meu jeito de trabalhar?",
+        "6 · Que ajuste faço na próxima semana?",
+        "Status da semana",
+        "Próxima ação",
+        "Dono",
+        "Prazo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P4.3-relato-da-semana.html",
+      "pdf": "kit/pdf/P4.3-relato-da-semana.pdf",
+      "docx": "kit/docx/P4.3-relato-da-semana.docx",
+      "exemplo": {
+        "setor": "Restaurante",
+        "caso": "Cardápio de verão: 9 de 12 pratos com ficha técnica e custo médio de R$ 21 para R$ 18"
+      }
+    },
+    {
+      "codigo": "P4.4",
+      "titulo": "Revisão do ciclo",
+      "passo": "Passo 4 · Ritmo ágil",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-review-do-ciclo",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Ciclo e período",
+        "Quem apresenta",
+        "Data da review",
+        "1 · Meta combinada",
+        "2 · O que ficou pronto, com prova?",
+        "3 · O que não ficou pronto, e por quê?",
+        "4 · Números",
+        "5 · O que muda no próximo ciclo?",
+        "6 · Decisão que peço",
+        "Até quando",
+        "Quem decide"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P4.4-revisao-do-ciclo.html",
+      "pdf": "kit/pdf/P4.4-revisao-do-ciclo.pdf",
+      "docx": "kit/docx/P4.4-revisao-do-ciclo.docx",
+      "exemplo": {
+        "setor": "Academia",
+        "caso": "Matrículas do plano trimestral de 62 para 75: 71 no fim do ciclo"
+      }
+    },
+    {
+      "codigo": "P4.5",
+      "titulo": "Retrospectiva",
+      "passo": "Passo 4 · Ritmo ágil",
+      "tempo_min": 30,
+      "tempo_fonte": "m5_a8",
+      "skill_primaria": "ga2-retrospectiva",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Ciclo",
+        "Data",
+        "Quem participou",
+        "A ação da retrospectiva anterior",
+        "Foi feita?",
+        "Manter",
+        "Melhorar",
+        "Parar",
+        "Uma ação para o próximo ciclo",
+        "Dono",
+        "Prazo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P4.5-retrospectiva.html",
+      "pdf": "kit/pdf/P4.5-retrospectiva.pdf",
+      "docx": "kit/docx/P4.5-retrospectiva.docx",
+      "exemplo": {
+        "setor": "Cartório",
+        "caso": "Retrospectiva do ciclo 4 do balcão: uma ação, o aviso de sistema fora do ar"
+      }
+    },
+    {
+      "codigo": "P5.1",
+      "titulo": "Quadro Kaizen do ciclo",
+      "passo": "Passo 5 · Melhoria contínua",
+      "tempo_min": 30,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-quadro-kaizen",
+      "skills_compartilhadas": [
+        "ga2-pdca"
+      ],
+      "campos": [
+        "Onde roda o teste",
+        "Ciclo",
+        "Origem do sinal",
+        "1 · Qual é o sinal?",
+        "Métrica",
+        "Número de hoje",
+        "Meta",
+        "2 · Qual é a aposta?",
+        "Hipótese",
+        "Dono",
+        "Prazo",
+        "3 · O que foi feito?",
+        "Desvios do plano",
+        "4 · Resultado: o número voltou?",
+        "Decisão",
+        "Próximo passo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P5.1-quadro-kaizen.html",
+      "pdf": "kit/pdf/P5.1-quadro-kaizen.pdf",
+      "docx": "kit/docx/P5.1-quadro-kaizen.docx",
+      "exemplo": {
+        "setor": "Supermercado",
+        "caso": "Quebra de hortifruti de 9,2% para 6,8% com duas entregas de folhosas por semana"
+      }
+    },
+    {
+      "codigo": "P5.2",
+      "titulo": "Vá e Veja",
+      "passo": "Passo 5 · Melhoria contínua",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-gemba-walk",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Onde é o lugar",
+        "Com quem",
+        "Quando e por quanto tempo",
+        "1 · A pergunta escrita antes",
+        "2 · O que vi",
+        "3 · O que me surpreendeu",
+        "4 · Por que isso acontece?",
+        "5 · Contramedida",
+        "Quem padroniza",
+        "Prazo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P5.2-va-e-veja.html",
+      "pdf": "kit/pdf/P5.2-va-e-veja.pdf",
+      "docx": "kit/docx/P5.2-va-e-veja.docx",
+      "exemplo": {
+        "setor": "Laboratório de análises",
+        "caso": "Amostras que esperam mais de 25 minutos na bancada: 4 de 12 na visita"
+      }
+    },
+    {
+      "codigo": "P5.3",
+      "titulo": "Folha de experimento",
+      "passo": "Passo 5 · Melhoria contínua",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-folha-de-experimento",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Experimento",
+        "Dono",
+        "Data",
+        "1 · Quem está sofrendo, e qual é a prova?",
+        "2 · Qual é o problema, em uma frase?",
+        "3 · Qual é a ideia diferente?",
+        "4 · Como fazemos um protótipo barato?",
+        "5 · Como testamos, e o que conta como deu certo?",
+        "Limites",
+        "6 · Decisão no fim, com o resultado",
+        "Decisão"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P5.3-folha-de-experimento.html",
+      "pdf": "kit/pdf/P5.3-folha-de-experimento.pdf",
+      "docx": "kit/docx/P5.3-folha-de-experimento.docx",
+      "exemplo": {
+        "setor": "Cooperativa agrícola",
+        "caso": "Preço do dia por mensagem: ligações só sobre preço de 31 para 12 por dia"
+      }
+    },
+    {
+      "codigo": "P6.1",
+      "titulo": "Quadro de Delegação",
+      "passo": "Passo 6 · Liderança aplicada",
+      "tempo_min": 60,
+      "tempo_fonte": "m7_a2",
+      "skill_primaria": "ga2-delegacao",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Time ou área",
+        "Líder",
+        "Data",
+        "Assuntos",
+        "Combinado em",
+        "Visível em",
+        "Revisamos em"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P6.1-quadro-de-delegacao.html",
+      "pdf": "kit/pdf/P6.1-quadro-de-delegacao.pdf",
+      "docx": "kit/docx/P6.1-quadro-de-delegacao.docx",
+      "exemplo": {
+        "setor": "Hospital",
+        "caso": "Quatro assuntos da ala 3 com o nível de delegação combinado em 10/11"
+      }
+    },
+    {
+      "codigo": "P6.2",
+      "titulo": "Termômetro da Confiança",
+      "passo": "Passo 6 · Liderança aplicada",
+      "tempo_min": 10,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-estagio-do-time",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Hoje, quanto você confia que pode falar a verdade neste time, inclusive quando há problema, erro ou discordância?",
+        "Time",
+        "Líder",
+        "Data da rodada",
+        "1 · Apure",
+        "Frases do time",
+        "2 · Assuma",
+        "A ação",
+        "Começa em",
+        "Nova medição em",
+        "3 · Aja: o que mudou de fato",
+        "4 · Meça de novo",
+        "O que o número não explica"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 2,
+        "exemplo": 2
+      },
+      "arquivo_html": "kit/P6.2-termometro-da-confianca.html",
+      "pdf": "kit/pdf/P6.2-termometro-da-confianca.pdf",
+      "docx": "kit/docx/P6.2-termometro-da-confianca.docx",
+      "exemplo": {
+        "setor": "Loja de roupas",
+        "caso": "Confiança do time da loja do centro: de 1 baixa, 3 médias e 2 altas para 0, 2 e 4 em 30 dias"
+      }
+    },
+    {
+      "codigo": "P6.3",
+      "titulo": "Feedback 360 do líder",
+      "passo": "Passo 6 · Liderança aplicada",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-feedback-360",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Líder",
+        "Coleta feita em",
+        "Pessoas que responderam",
+        "1 · O que cada pessoa disse",
+        "2 · Padrões que se repetiram",
+        "3 · Meus dois focos",
+        "4 · Retorno a quem respondeu"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P6.3-feedback-360-do-lider.html",
+      "pdf": "kit/pdf/P6.3-feedback-360-do-lider.pdf",
+      "docx": "kit/docx/P6.3-feedback-360-do-lider.docx",
+      "exemplo": {
+        "setor": "Escritório de advocacia",
+        "caso": "Feedback de 5 pessoas: dois focos, prioridade do dia e reunião curta"
+      }
+    },
+    {
+      "codigo": "P6.4",
+      "titulo": "Inteligência emocional do líder",
+      "passo": "Passo 6 · Liderança aplicada",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": null,
+      "skills_compartilhadas": [],
+      "campos": [
+        "Líder",
+        "Data",
+        "Rodada",
+        "Competência / Nota / Exemplo real, com data / Gatilho que mais se repete / Frase de saída",
+        "Meu foco de treino neste mês",
+        "Quem vai me avisar quando eu estiver subindo"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P6.4-inteligencia-emocional-do-lider.html",
+      "pdf": "kit/pdf/P6.4-inteligencia-emocional-do-lider.pdf",
+      "docx": "kit/docx/P6.4-inteligencia-emocional-do-lider.docx",
+      "exemplo": {
+        "setor": "Clínica veterinária",
+        "caso": "Cinco competências com nota e exemplo real: foco do mês em autocontrole"
+      }
+    },
+    {
+      "codigo": "P6.5",
+      "titulo": "Plano de uma página",
+      "passo": "Passo 6 · Liderança aplicada",
+      "tempo_min": 30,
+      "tempo_fonte": "est.",
+      "skill_primaria": null,
+      "skills_compartilhadas": [],
+      "campos": [
+        "Líder",
+        "Equipe",
+        "Começa em",
+        "1 · As seis linhas",
+        "2 · As quatro semanas"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P6.5-plano-de-uma-pagina.html",
+      "pdf": "kit/pdf/P6.5-plano-de-uma-pagina.pdf",
+      "docx": "kit/docx/P6.5-plano-de-uma-pagina.docx",
+      "exemplo": {
+        "setor": "Empresa de limpeza",
+        "caso": "Plano de quatro semanas de uma supervisora com seis linhas e datas"
+      }
+    },
+    {
+      "codigo": "P7.1",
+      "titulo": "Painel mínimo",
+      "passo": "Passo 7 · Painel do gestor e IA",
+      "tempo_min": 20,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-painel-do-gestor",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Caso ou desafio",
+        "Dono",
+        "Data",
+        "O caiaque, em uma linha",
+        "Leitura da semana"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/P7.1-painel-minimo.html",
+      "pdf": "kit/pdf/P7.1-painel-minimo.pdf",
+      "docx": "kit/docx/P7.1-painel-minimo.docx",
+      "exemplo": {
+        "setor": "Gráfica",
+        "caso": "Três números do painel: entrega no prazo, carga justa e horas de máquina parada"
+      }
+    },
+    {
+      "codigo": "X.1",
+      "titulo": "POP: passo a passo de uma rotina",
+      "passo": "Vários passos",
+      "tempo_min": 45,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-pop",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Nome da rotina e código",
+        "Versão local e data",
+        "Dono da rotina e área",
+        "Formato e duração prevista",
+        "Objetivo e escopo",
+        "Acontecimento de início ou frequência",
+        "Participantes e responsabilidade de cada um",
+        "Entradas e pré-condições necessárias",
+        "Sistema ou local oficial do registro",
+        "Saída e critério de pronto",
+        "Medida e frequência de acompanhamento",
+        "Custo por encontro",
+        "Exceções e autoridade para decidir",
+        "Riscos e controles necessários",
+        "Aprovação e validade",
+        "Próxima revisão e condição de revisão antecipada",
+        "Testei com uma pessoa habilitada.",
+        "Registrei as dúvidas, os desvios e o tempo necessário.",
+        "Corrigi a orientação e atualizei a versão."
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 2,
+        "exemplo": 2
+      },
+      "arquivo_html": "kit/X.1-pop.html",
+      "pdf": "kit/pdf/X.1-pop.pdf",
+      "docx": "kit/docx/X.1-pop.docx",
+      "exemplo": {
+        "setor": "Indústria de alimentos",
+        "caso": "Higienização da linha 2 na troca de produto: 5 passos e swab sem cor"
+      }
+    },
+    {
+      "codigo": "X.2",
+      "titulo": "Quem faz o quê",
+      "passo": "Vários passos",
+      "tempo_min": 15,
+      "tempo_fonte": "est.",
+      "skill_primaria": "ga2-quem-faz-o-que",
+      "skills_compartilhadas": [],
+      "campos": [
+        "Demanda",
+        "Cartão no quadro",
+        "Data"
+      ],
+      "formato": "A4 retrato",
+      "paginas": {
+        "branco": 1,
+        "exemplo": 1
+      },
+      "arquivo_html": "kit/X.2-quem-faz-o-que.html",
+      "pdf": "kit/pdf/X.2-quem-faz-o-que.pdf",
+      "docx": "kit/docx/X.2-quem-faz-o-que.docx",
+      "exemplo": {
+        "setor": "Call center",
+        "caso": "Fila de retorno para clientes que caem da ligação: seis papéis, um dono"
+      }
+    }
+  ]
+}

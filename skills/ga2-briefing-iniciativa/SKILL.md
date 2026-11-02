@@ -3,6 +3,8 @@ name: ga2-briefing-iniciativa
 description: "Cria o acordo inicial de uma iniciativa e escolhe entre projeto, produto e processo. Use quando pedirem briefing, definição de escopo, alinhamento da entrega ou classificação pelos 3 Ps."
 ---
 
+> Modelo oficial do aluno: `P2.3, P2.4 e P2.5`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Briefing da iniciativa
 
 ## Como conduzir

@@ -3,6 +3,8 @@ name: ga2-retrospectiva
 description: "Conduz uma retrospectiva sobre o modo de trabalhar e escolhe uma melhoria com dono e data. Use quando pedirem retro, manter, melhorar e parar, ou mudança de processo após um ciclo."
 ---
 
+> Modelo oficial do aluno: `P4.5`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Retrospectiva
 
 ## Como conduzir

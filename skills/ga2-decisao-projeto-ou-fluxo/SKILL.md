@@ -3,6 +3,8 @@ name: ga2-decisao-projeto-ou-fluxo
 description: "Escolhe entre projeto em ciclos, fluxo contínuo ou modelo híbrido e define como acompanhar. Use quando perguntarem se o trabalho é projeto ou fluxo, ou quando ciclos não parecem funcionar."
 ---
 
+> Modelo oficial do aluno: `P4.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Decisão: projeto ou fluxo
 
 ## Como conduzir

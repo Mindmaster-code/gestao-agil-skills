@@ -3,6 +3,8 @@ name: ga2-pdca
 description: "Registra uma melhoria em quatro etapas: planejar, executar, verificar e agir. Use quando pedirem PDCA, melhoria de processo, acompanhamento de contramedida ou decisão de padronizar e ajustar."
 ---
 
+> Modelo oficial do aluno: `P5.1 (compartilhado)`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # PDCA — ciclo de melhoria
 
 ## Como conduzir

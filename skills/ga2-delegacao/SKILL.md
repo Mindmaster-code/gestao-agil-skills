@@ -3,6 +3,8 @@ name: ga2-delegacao
 description: "Monta um quadro com assuntos, pessoas e sete níveis claros de decisão. Também levanta as aprovações que passaram pelo líder em duas semanas para escolher os assuntos do quadro. Use quando pedirem matriz de delegação, autonomia, responsáveis por decisões, Delegation Poker ou disserem que tudo passa por eles."
 ---
 
+> Modelo oficial do aluno: `P6.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Quadro de Delegação
 
 ## Como conduzir

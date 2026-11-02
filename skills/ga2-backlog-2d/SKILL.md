@@ -3,6 +3,8 @@ name: ga2-backlog-2d
 description: "Monta um Backlog 2D com etapas ou iniciativas, entregas, tarefas, prioridades e o menor primeiro ciclo. Também faz a poda mensal da lista, com os itens questionáveis e os parados. Use quando pedirem backlog, quebra de projeto, mapa de trabalho, recorte do primeiro ciclo, limpar a lista ou arquivar o que parou."
 ---
 
+> Modelo oficial do aluno: `P2.6`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Backlog 2D — mapa de entregas e tarefas
 
 ## Como conduzir

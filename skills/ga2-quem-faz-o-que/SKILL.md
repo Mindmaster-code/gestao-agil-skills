@@ -3,6 +3,8 @@ name: ga2-quem-faz-o-que
 description: "Define dono único, quem aceita, quem apoia, quem faz e quem aprova. Também compara o papel previsto com o papel assumido e conduz a transferência de responsabilidades quando alguém muda de função ou sai. Use quando pedirem responsáveis, papéis, dono da entrega, matriz de responsabilidade, decisão de aprovação, revisão de responsabilidades ou transição de quem sai."
 ---
 
+> Modelo oficial do aluno: `X.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Quem faz o quê
 
 ## Como conduzir

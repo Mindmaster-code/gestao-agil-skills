@@ -3,6 +3,8 @@ name: ga2-relatorio-a3
 description: "Monta um Relatório A3 completo, do contexto e causa raiz ao plano, acompanhamento e aprendizado. Use quando pedirem A3, solução estruturada de problema, queda de indicador ou plano para diretoria."
 ---
 
+> Modelo oficial do aluno: `P1.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # Relatório A3
 
 ## Como conduzir

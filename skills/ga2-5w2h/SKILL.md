@@ -3,6 +3,8 @@ name: ga2-5w2h
 description: "Cria um plano de ação 5W2H com ação, motivo, dono único, data, local, modo de execução, custo e prova. Também compara, a cada mês, o orçado, o contratado e o realizado de cada iniciativa. Use quando pedirem plano de ação, 5W2H, contramedidas, responsáveis e prazos, custo das iniciativas, orçamento ou desvio de gasto."
 ---
 
+> Modelo oficial do aluno: `P1.2 (compartilhado)`. O contrato visual e de campos está em `modelos/kit/kit.json`.
+
 # 5W2H — plano de ação
 
 ## Como conduzir
