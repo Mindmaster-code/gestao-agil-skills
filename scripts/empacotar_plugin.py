@@ -17,7 +17,9 @@ ROOT = Path(__file__).resolve().parents[1]
 VERSION = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
 OUTPUT_DIR = ROOT / "dist"
 OUTPUT = OUTPUT_DIR / f"gestao-agil-2-plugin-{VERSION}.zip"
-INCLUDE_ROOTS = (".codex-plugin", ".claude-plugin", "assets", "skills", "docs", "tests", "construtor", "scripts")
+# O kit é uma dependência de execução das skills, não somente material de build.
+# Mantê-lo no ZIP preserva o manifesto e os HTML/PDF/DOCX referenciados.
+INCLUDE_ROOTS = (".codex-plugin", ".claude-plugin", "assets", "skills", "docs", "tests", "construtor", "scripts", "modelos")
 SKIP_PARTS = {"__pycache__", ".git"}
 INCLUDE_FILES = (
     "README.md",
@@ -28,6 +30,8 @@ INCLUDE_FILES = (
     "VERSION",
     "instalar.sh",
     "instalar.ps1",
+    "package.json",
+    "package-lock.json",
 )
 
 

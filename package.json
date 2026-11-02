@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "playwright": "1.63.0"
+  },
+  "scripts": {
+    "kit:conferir": "python3 modelos/kit/_build/gerar_kit.py --conferir",
+    "kit:navegador": "playwright install chromium"
+  }
+}

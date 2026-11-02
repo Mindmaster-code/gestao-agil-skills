@@ -110,7 +110,8 @@ if documented != expected:
     fail("o mapa das trilhas não cobre exatamente as habilidades do pacote")
 
 for path in ROOT.rglob("*"):
-    if not path.is_file() or ".git" in path.parts or path.name in {"validar.py", "montar_construtor.py", "exportar_metodo.py"}:
+    if (not path.is_file() or {".git", "node_modules", "__pycache__"}.intersection(path.parts)
+            or path.name in {"validar.py", "montar_construtor.py", "exportar_metodo.py"}):
         continue
     if path.suffix.lower() not in {".md", ".html", ".yaml", ".yml", ".txt", ".json", ".py"}:
         continue
