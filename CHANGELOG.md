@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## 0.5.1 — em preparo
+
+- `agenda-visual`: o modelo requerido para imagem passa a ser `gpt-image-2.6-sunburst` (decisão de 05/11/2026; antes `gpt-image-2.5-sunburst`).
+
 ## 0.5.0 - 01/11/2026
 
 - 40 habilidades: entram sete habilidades de rotinas do gestor, reunidas na nova trilha 7, "Rotinas do gestor".

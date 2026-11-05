@@ -86,7 +86,7 @@ Use a ferramenta imagegen disponível no ambiente; ela pode se chamar `image_gen
 Leia a skill de imagegen do ambiente, quando disponível, para respeitar seu contrato de execução e edição.
 Não invente nomes de ferramentas, parâmetros ou acesso a arquivos.
 
-Modelo requerido: `gpt-image-2.5-sunburst`. Se houver seletor, informe esse modelo e confira a resposta.
+Modelo requerido: `gpt-image-2.6-sunburst`. Se houver seletor, informe esse modelo e confira a resposta.
 Sem seleção ou confirmação do modelo, informe a limitação e entregue o briefing e o prompt preparados.
 Nesse caso, não alegue geração nem uso do modelo. Outro modelo exige autorização explícita.
 Não abra uma rota de API paga nem instale dependências como alternativa automática.
