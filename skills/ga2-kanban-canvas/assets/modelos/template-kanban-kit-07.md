@@ -14,11 +14,11 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:limites -->
 | Limite |
 |---|
-|  |
-|  |
+| |
+| |
 
 **Foto** (uma linha por item):
 <!-- c:foto -->
 | Sprint backlog | Fazendo | Em validação | Feito |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |

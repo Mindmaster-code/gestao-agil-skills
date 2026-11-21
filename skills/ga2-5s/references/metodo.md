@@ -50,11 +50,11 @@ Escreva em poucas linhas:
 - **Para que serve:** o trabalho que o alvo apoia. Utilidade é sempre utilidade para esse propósito.
 - **Dono e usuários:** quem decide o destino dos itens e quem usa no dia a dia.
 - **Risco:** sistema vivo (em produção, no ar, com dado de cliente ou com dinheiro) pede leitura do
-  estado antes, menor mudança possível, conferência depois e caminho para desfazer. Em período
-  crítico (dia de venda, campanha no ar, fechamento do mês), há **janela de congelamento**: o que
-  mexe no que está rodando vai marcado "só depois de <data>".
+ estado antes, menor mudança possível, conferência depois e caminho para desfazer. Em período
+ crítico (dia de venda, campanha no ar, fechamento do mês), há **janela de congelamento**: o que
+ mexe no que está rodando vai marcado "só depois de <data>".
 - **Pronto quando:** o que fica mais fácil. Exemplo: "qualquer pessoa do time acha o contrato de um
-  cliente em 30 segundos".
+ cliente em 30 segundos".
 
 Alvo grande vira fatias. Comece pela fatia mais usada ou pela que mais dói, faça uma por rodada e
 deixe a próxima marcada. Regra de 80/20: a parte pequena que todo mundo usa todo dia vale mais que
@@ -77,20 +77,20 @@ decisões do dono. Padrão e rotina entram só como proposta, e o "depois" fica 
 ## Foto do antes
 
 1. **Inventário da fatia:** cada item com nome, tipo, onde está, quando foi usado ou alterado pela
-   última vez, quem usa e quem aponta para ele. Em alvo digital, liste pelo próprio sistema; não
-   confie na memória de ninguém.
-   - **Alvo grande ou sistema com limite de consulta:** conte por tipo e por estado e meça uma
-     amostra; item a item, só nos achados. Leia o que está ativo primeiro. O que ficou sem ler vira
-     ponto em aberto, com a cobertura escrita ("700 de 843 lidos").
-   - **Varredura automática erra.** Busca por nome acha o que não é e perde o que é. Toda contagem de
-     varredura entra como **estimada** até alguém conferir uma amostra.
+ última vez, quem usa e quem aponta para ele. Em alvo digital, liste pelo próprio sistema; não
+ confie na memória de ninguém.
+ - **Alvo grande ou sistema com limite de consulta:** conte por tipo e por estado e meça uma
+ amostra; item a item, só nos achados. Leia o que está ativo primeiro. O que ficou sem ler vira
+ ponto em aberto, com a cobertura escrita ("700 de 843 lidos").
+ - **Varredura automática erra.** Busca por nome acha o que não é e perde o que é. Toda contagem de
+ varredura entra como **estimada** até alguém conferir uma amostra.
 2. **Três medidas** que vão se repetir no fim:
-   - **itens no total e itens à mão.** À mão é o que se usa sem procurar: a primeira tela, o primeiro
-     nível, o que está no ar, o que o sistema carrega sozinho. `alvos.md` diz o que é em cada alvo.
-   - **teste de achar:** três itens que o usuário mais procura (sem ele, os três padrão do alvo em
-     `alvos.md`), sempre com um que fica no fundo. Meça o tempo; em sistema, conte comandos, chamadas
-     ou cliques e diga a unidade. O ideal é medir com quem não arrumou.
-   - **problemas abertos, por tipo:** quebrado ou com erro, duplicado, parado, fora do padrão, sem dono.
+ - **itens no total e itens à mão.** À mão é o que se usa sem procurar: a primeira tela, o primeiro
+ nível, o que está no ar, o que o sistema carrega sozinho. `alvos.md` diz o que é em cada alvo.
+ - **teste de achar:** três itens que o usuário mais procura (sem ele, os três padrão do alvo em
+ `alvos.md`), sempre com um que fica no fundo. Meça o tempo; em sistema, conte comandos, chamadas
+ ou cliques e diga a unidade. O ideal é medir com quem não arrumou.
+ - **problemas abertos, por tipo:** quebrado ou com erro, duplicado, parado, fora do padrão, sem dono.
 3. **Nota de 0 a 4 por S** (tabela abaixo), total de 0 a 20.
 4. Quando ajudar, um registro visual do antes: foto da mesa, captura da pasta, árvore do repositório.
 
@@ -168,17 +168,17 @@ desperdício); decidir pelo dono; confundir "pouco usado" com "inútil" (as 497 
 de primeira.
 
 1. **Defina os lugares** antes de mover: a estrutura (pastas, colunas, categorias, prateleiras,
-   etiquetas) que espelha o jeito como o trabalho acontece, não o jeito como as coisas foram chegando.
+ etiquetas) que espelha o jeito como o trabalho acontece, não o jeito como as coisas foram chegando.
 2. **Um lugar só por tipo de item.** Dois lugares possíveis viram dois lugares usados.
 3. **O mais usado mais perto:** no topo, na primeira tela, no primeiro nível, ao alcance da mão.
-   Poucos níveis: se precisa de mais de três ou quatro cliques para chegar, a estrutura está funda.
+ Poucos níveis: se precisa de mais de três ou quatro cliques para chegar, a estrutura está funda.
 4. **Nome previsível:** um padrão de nome que diga o que é sem abrir (data no formato ano-mês-dia,
-   assunto, versão). Rótulo visível no físico; nome e descrição no digital.
+ assunto, versão). Rótulo visível no físico; nome e descrição no digital.
 5. **Mova preservando a identidade:** no digital, mover não é copiar. Copiar cria duplicata e quebra
-   os links. Antes de mover, veja quem aponta para o item. O que é lido por um caminho fixo (uma
-   automação, uma fórmula, um atalho) fica onde está ou muda junto com quem o lê.
+ os links. Antes de mover, veja quem aponta para o item. O que é lido por um caminho fixo (uma
+ automação, uma fórmula, um atalho) fica onde está ou muda junto com quem o lê.
 6. **Teste de achar:** peça a alguém que não arrumou para achar os mesmos três itens da foto do antes.
-   Se demorar, o lugar ou o nome ainda não é óbvio.
+ Se demorar, o lugar ou o nome ainda não é óbvio.
 
 **Armadilhas:** estrutura bonita que ninguém entende; categoria "Diversos" ou "Outros" (vira o novo
 lixo); reorganizar o que é de outra pessoa; copiar em vez de mover.
@@ -188,12 +188,12 @@ lixo); reorganizar o que é de outra pessoa; copiar em vez de mover.
 **Objetivo:** o lugar fica limpo e passa a avisar quando algo dá errado. Limpar é inspecionar.
 
 1. **Limpe:** corrija ou retire o que está quebrado, errado ou desatualizado. Link morto, versão velha,
-   automação que falha, cartão parado há meses, dado inconsistente, poeira e lixo.
+ automação que falha, cartão parado há meses, dado inconsistente, poeira e lixo.
 2. **Inspecione enquanto limpa:** cada sujeira é um sinal. Anote o que achou, mesmo o que não deu para
-   resolver agora.
+ resolver agora.
 3. **Ache a fonte da sujeira.** Para cada tipo de sujeira que se repete, pergunte "de onde isto vem?"
-   até chegar a um hábito, um processo ou uma ferramenta. Limpar sem tratar a fonte é marcar o próximo
-   mutirão.
+ até chegar a um hábito, um processo ou uma ferramenta. Limpar sem tratar a fonte é marcar o próximo
+ mutirão.
 
 | Sujeira | Pergunta | Fonte típica | Contramedida na fonte |
 |---|---|---|---|
@@ -203,12 +203,12 @@ lixo); reorganizar o que é de outra pessoa; copiar em vez de mover.
 | nome fora do padrão | o padrão estava à vista? | padrão só na cabeça de alguém | modelo de nome e validação |
 
 4. **Confira a guarda que já existe.** Se havia uma regra automática, um prazo no nome, uma validação
-   ou um aviso que devia ter pego a sujeira, ver por que ele falhou vale mais que limpar. Guarda que
-   existe e não funcionou é achado de primeira linha.
+ ou um aviso que devia ter pego a sujeira, ver por que ele falhou vale mais que limpar. Guarda que
+ existe e não funcionou é achado de primeira linha.
 5. Quando a fonte não é óbvia ou atravessa áreas, abra uma análise de causa raiz (`ga2-causa-raiz`).
 6. Prefira contramedidas **à prova de erro** (poka-yoke): o jeito certo vira o caminho mais fácil e o
-   errado fica difícil ou impossível. Um modelo pronto, um destino padrão, uma validação que recusa o
-   nome errado valem mais que um aviso pedindo cuidado.
+ errado fica difícil ou impossível. Um modelo pronto, um destino padrão, uma validação que recusa o
+ nome errado valem mais que um aviso pedindo cuidado.
 
 **Armadilhas:** limpar só o que aparece; tratar a sujeira como culpa de alguém; resolver na hora o que
 pede decisão do dono.

@@ -16,7 +16,7 @@
 
 ## Erros comuns (da aula)
 
-- Desabafo sem ação (v6 aula 08).
+- Desabafo sem ação (material de referência).
 - Lista de doze melhorias; "1 ou 2 experimentos" — duas viram nenhuma.
 - Caça ao culpado; falar de pessoa em vez de situação (M06 A08, M07 A12).
 - Assunto que cabia na review.

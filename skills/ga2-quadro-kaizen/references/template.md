@@ -43,7 +43,7 @@ Filtro: sob controle do time? [ ] · cabe em um ciclo? [ ] · atrito repetido? [
 
 ---
 
-# Fila de melhorias `(acréscimo do laboratório)` — fila no destino escolhido
+# Fila de melhorias — fila no destino escolhido
 
 | ID | Sinal (fato) | Métrica · hoje → meta | Origem | Dono | Status | Decisão | Folha |
 |---|---|---|---|---|---|---|---|

@@ -17,7 +17,7 @@
 | Com quem <!-- c:quem --> | Lucas, que executa a preparação das fichas |
 | Quando · quanto tempo <!-- c:quando --> | 08/09/2026, 09h às 10h |
 | O que eu quero entender <!-- c:pergunta --> | Em que momento a rota deixa de acompanhar a ficha até a separação? |
-| Comando ou caminho (só leitura), acréscimo do laboratório | Observar o fluxo e ler as fichas, sem alterar pedido nem corrigir durante a visita |
+| Comando ou caminho (só leitura), prática aplicada | Observar o fluxo e ler as fichas, sem alterar pedido nem corrigir durante a visita |
 
 ## No lugar
 

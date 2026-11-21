@@ -14,15 +14,15 @@ como decisão de calibragem na retrospectiva.
 ## Fonte no método
 
 - Base do método: Passo 4 — Ritmo Ágil §2.9 (WIP), §2.10 (parar a linha), §2.12 (urgência), §3 regras
-  9–14, §4.10 (limites — sem template), §4.11 (urgência — sem template), §6 itens 4–5.
+ 9–14, §4.10 (limites — sem template), §4.11 (urgência — sem template), §6 itens 4–5.
 - Base do método: Passo 3 — Gestão Visual §2.11 passo 3, §2.14 (métricas), §4.8 (políticas), §8 item 13.
 - Aulas: M06 A17 (um dia na terra do Kanban), A19 (limites), A20 (calibrar), A21 (urgência);
-  v6 pasta 05 aulas 05 (limite) e 06 (urgência). M05 A17 (WIP no Trello).
+ v6 pasta 05 aulas 05 (limite) e 06 (urgência). M05 A17 (WIP no Trello).
 - Política de urgência v6: cinco linhas transcritas em `template.md` — o que é, quem chama, quantas, pausado e onde fica escrito.
 - Templates: só slides. «Mod 03 — Políticas do Quadro GA2 Editável» e
-  «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
-- Classe de atendimento: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §8 (limite
-  por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
+ «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
+- Classe de atendimento: modelo operacional de demandas §8 (limite
+ por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
 - Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5.
 
 ## Como conduzir
@@ -30,48 +30,48 @@ como decisão de calibragem na retrospectiva.
 ### Parte 1 — Limite de WIP
 
 1. **Conte o que está em andamento hoje, por coluna e por pessoa.** Pergunta: "Quantos cartões
-   cada um tem começados e não terminados?" Escreva o número real.
-2. **Ponto de partida: o que está em andamento menos um** (v6 aula 05). A apostila sugere
-   "pessoas ÷ 2 por etapa" — não está em aula; use só como segunda referência.
-   Recuse "vamos sem limite por enquanto": nunca Kanban sem limite, inclusive dentro do ciclo.
+ cada um tem começados e não terminados?" Escreva o número real.
+2. **Ponto de partida: o que está em andamento menos um** (material de referência). A apostila sugere
+ "pessoas ÷ 2 por etapa" — não está em aula; use só como segunda referência.
+ Recuse "vamos sem limite por enquanto": nunca Kanban sem limite, inclusive dentro do ciclo.
 3. **Escreva o limite no topo de cada coluna de execução.** Fila (A fazer) e Feito não têm
-   limite (ver erro do exemplo Norte-Sul "4·4·4", Base do método: Passo 3 — Gestão Visual §8.13).
+ limite (ver erro do exemplo Norte-Sul "4·4·4", Base do método: Passo 3 — Gestão Visual §8.13).
 4. **Escreva a regra da coluna cheia:** "coluna cheia, ninguém puxa; quem ficou sem trabalho
-   ajuda a terminar o que está lá." É o "parar a linha" da Toyota (A17).
-5. **Leia os três sinais toda semana** (v6 aula 05): coluna mais cheia · cartão mais velho ·
-   vazão (cartões que saíram). Pergunta: "Onde a fila se forma? Há quantos dias o mais velho está ali?"
+ ajuda a terminar o que está lá." É o "parar a linha" da Toyota (A17).
+5. **Leia os três sinais toda semana** (material de referência): coluna mais cheia · cartão mais velho ·
+ vazão (cartões que saíram). Pergunta: "Onde a fila se forma? Há quantos dias o mais velho está ali?"
 6. **Calibre na retrospectiva, nunca no meio do ciclo.** Gente ociosa → limite baixo demais.
-   Cartões parados na etapa ou na fila antes dela → limite alto demais **ou** etapa invisível
-   (crie a coluna, ex.: "Validação" do departamento X, A20). Decisão do time, registrada com data e motivo.
+ Cartões parados na etapa ou na fila antes dela → limite alto demais **ou** etapa invisível
+ (crie a coluna, ex.: "Validação" do departamento X, A20). Decisão do time, registrada com data e motivo.
 7. **Contratar é a última saída**, e só depois de provar o gargalo (A19). Criar agente ou contratar requer os critérios e a autoridade definidos pela organização; nunca só "para aliviar fila".
 
-### Parte 2 — Política de urgência (cinco linhas, v6 aula 06)
+### Parte 2 — Política de urgência (cinco linhas, material de referência)
 
 8. **O que é urgente aqui.** Pergunta: "O que conta como incêndio?" Escreva em uma linha.
-   Modelo v6: "cliente parado, receita travada ou risco legal; o resto entra na fila".
+ Modelo v6: "cliente parado, receita travada ou risco legal; o resto entra na fila".
 9. **Quem pode chamar.** Uma pessoa só. "Urgência que qualquer um decreta deixa de ser urgência."
-10. **Quantas cabem por vez.** Uma. A segunda espera a primeira terminar. No acréscimo do método, a carteira de iniciativas
-    reserva **2 vagas** na raia de urgência (uma por área, porque
-    as duas áreas têm donos diferentes; revisar na retro do primeiro mês).
+10. **Quantas cabem por vez.** Uma. A segunda espera a primeira terminar. Na prática, a carteira de iniciativas
+ reserva **2 vagas** na raia de urgência (uma por área, porque
+ as duas áreas têm donos diferentes; revisar na retro do primeiro mês).
 11. **O que acontece com o pausado.** Ganha marca de pausa com motivo e data; volta na frente da
-    fila quando a urgente sai. "Se alguém perguntar por que atrasou, você sabe" (A21).
+ fila quando a urgente sai. "Se alguém perguntar por que atrasou, você sabe" (A21).
 12. **Onde fica escrito.** No alto do quadro, à vista. Recuse política em mensagem escrita ou chat.
 13. **Escolha a mecânica:** cartão vermelho que pausa o item em curso **ou** raia inferior só
-    para urgências (colunas iguais ou menos: fila → execução → feito). A raia permite contar.
-    O acréscimo do método usa raia.
+ para urgências (colunas iguais ou menos: fila → execução → feito). A raia permite contar.
+ Na prática usa raia.
 14. **Ligue o contador.** Por ciclo: quantas urgências entraram · o que tiraram do plano · quem foi
-    avisado. Uma ou duas o ritmo absorve; metade do quadro em vermelho é sintoma → pauta da retro.
+ avisado. Uma ou duas o ritmo absorve; metade do quadro em vermelho é sintoma → pauta da retro.
 
 ### Parte 3 — Classe Crítica (modelo operacional do método, §9)
 
 15. Neste modelo, toda demanda tem **classe de atendimento**: Crítica, Com prazo ou Normal. Crítica =
-    "dano relevante acontecendo agora". O solicitante pode sugerir; quem valida e interrompe é o
-    responsável pela área, uma política de incidente aprovada ou a Autoridade competente por Prioridade explícita.
+ "dano relevante acontecendo agora". O solicitante pode sugerir; quem valida e interrompe é o
+ responsável pela área, uma política de incidente aprovada ou a Autoridade competente por Prioridade explícita.
 16. Se a Crítica ultrapassar o WIP, **registre qual trabalho foi deslocado** (§9). É o mesmo
-    "cartão pausado com marca" da aula, com nome do modelo.
+ "cartão pausado com marca" da aula, com nome do modelo.
 17. Pedido direto do responsável pela área entra na fila normal; só **Prioridade explícita** manda interromper,
-    com o custo da troca registrado (§9–10). Mensagem escrita com comando no escopo do remetente é executada e
-    arquivada; não vira urgência por si (Base do método: Passo 4 — Ritmo Ágil §6.5).
+ com o custo da troca registrado (§9–10). Mensagem escrita com comando no escopo do remetente é executada e
+ arquivada; não vira urgência por si (Base do método: Passo 4 — Ritmo Ágil §6.5).
 
 ### Parte 4: antes de abrir vaga (ficha E06)
 
@@ -79,9 +79,9 @@ O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver al
 
 18. **Ache a etapa em que a fila se forma,** com os três sinais do passo 5: a coluna mais cheia, o cartão mais velho e quanto o time entrega por semana. Se faltarem dados, observe o trabalho antes de assumir um quadro definitivo.
 19. **Pergunte, uma de cada vez:**
-    - **Redistribuir:** há gente com folga em outra etapa? "Quem ficou sem trabalho ajuda a terminar o que está lá."
-    - **Mudar o processo:** a espera é por aprovação, informação ou retrabalho, e não por falta de mãos? Cotações paradas à espera da assinatura de uma só pessoa se resolvem com um critério escrito, não com mais um comprador.
-    - **Desenvolver alguém:** falta uma competência específica, embora a quantidade de horas pareça suficiente?
+ - **Redistribuir:** há gente com folga em outra etapa? "Quem ficou sem trabalho ajuda a terminar o que está lá."
+ - **Mudar o processo:** a espera é por aprovação, informação ou retrabalho, e não por falta de mãos? Cotações paradas à espera da assinatura de uma só pessoa se resolvem com um critério escrito, não com mais um comprador.
+ - **Desenvolver alguém:** falta uma competência específica, embora a quantidade de horas pareça suficiente?
 20. **Só então descreva o perfil necessário e o benefício esperado** da contratação, ligados a resultados e a uma capacidade que dá para verificar. Contratação depende de orçamento e de autoridade aprovados: leve a decisão a quem a tem.
 21. **Revise o efeito da decisão** sobre entrega, carga e custo, e atualize a previsão quando a demanda mudar.
 
@@ -114,9 +114,9 @@ Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.m
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
 - Texto das políticas no topo do quadro da área (quadro Kanban na pasta do caso) ou da
-  carteira de iniciativas (registro na pasta do caso, seção "Políticas do quadro").
-- Registro de calibragem: histórico de limites na pasta do caso (acréscimo do método), uma linha
-  por mudança: data · coluna · limite antigo → novo · sinal observado · quem decidiu.
+ carteira de iniciativas (registro na pasta do caso, seção "Políticas do quadro").
+- Registro de calibragem: histórico de limites na pasta do caso, uma linha
+ por mudança: data · coluna · limite antigo → novo · sinal observado · quem decidiu.
 - Contador de urgências do ciclo: campo no Retrospectiva na pasta do caso.
 - Canal oficial por tipo de pedido: tabela com o canal de entrada, o registro da decisão, o prazo de resposta e o caminho da urgência, ao lado das políticas do quadro.
 - Depois: retrospectiva (`ga2-plano-do-ciclo`, `ga2-review-do-ciclo` e `ga2-retrospectiva`) decide a calibragem; urgência demais vira A3.

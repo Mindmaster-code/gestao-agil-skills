@@ -25,13 +25,13 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:entregue -->
 | Coluna 1 |
 |---|
-|  |
+| |
 
 **Não ficou e por quê** (uma linha por item):
 <!-- c:nao_entregue -->
 | Coluna 1 |
 |---|
-|  |
+| |
 
 ## Números e próximo ciclo
 

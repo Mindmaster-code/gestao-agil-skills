@@ -8,7 +8,7 @@
 - Modelos: T15 (Inventário e revisão das rotinas), CAL (Calendário do gestor ágil) e P90 (Plano de implantação em 90 dias), do curso de rotinas.
 - Template: não há canvas do curso para esta habilidade. As seções do `template.md` reproduzem os campos dos modelos CAL, T15 e P90.
 - Divergência registrada: a tabela de sintomas (aula 1) e a do conjunto inicial (aula 10) listam fichas diferentes para o mesmo sintoma, como "Demandas que se perdem" (F01, F02 e F10 contra F01, F02 e F04). A habilidade mantém as duas, cada uma no seu uso: a de sintomas escolhe a rotina por onde começar, e a do conjunto inicial monta o plano de 90 dias.
-- Adaptação metodológica: a tabela de sintomas lista, na última coluna, as skills deste pacote que correspondem às ferramentas citadas no curso; a coluna não vem do curso.
+- aplicação do método: a tabela de sintomas lista, na última coluna, as skills deste pacote que correspondem às ferramentas citadas no curso; a coluna não vem do curso.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

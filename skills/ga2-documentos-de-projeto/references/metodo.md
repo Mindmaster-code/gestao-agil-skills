@@ -20,24 +20,24 @@ Processo recorrente tem briefing de processo + POP + quadro, sem plano de ciclo 
 - Passo 4 — Ritmo ágil: §4.5 (Plano do Ciclo v6), §4.7 (Revisão do Ciclo v6), §4.14 (Desafio de 7 Dias e Status Report). Status Report é template sem aula própria.
 - Passo 5 — Melhoria contínua, §4.5: Resumo do Ciclo, Artefato 17 (v6 06/09), sem aula própria.
 - Templates oficiais: Status Report do Desafio de 7 Dias (8 campos); legado editável do Módulo 04 (6 campos, semáforo, próxima ação); Resumo do Ciclo editável do Módulo 05 (5 campos); Plano e Revisão do Ciclo.
-- Acréscimos do laboratório: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
+- Diretriz prática: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
 
 ## A cadeia — fase, documento, skill, arquivo
 
 
-| #   | Fase            | Documento                                                                         | Skill                                                   | Arquivo em `<pasta-do-projeto>/`                 | Quem assina                  |
+| # | Fase | Documento | Skill | Arquivo em `<pasta-do-projeto>/` | Quem assina |
 | --- | --------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
-| 0   | Escolher o caso | Canvas de Visão curto                                                             | `ga2-canvas-de-visao`                                   | `00-canvas-de-visao.md`                               | dono da frente               |
-| 1   | Entender        | A3 (esquerdo + causa + direito)                                                   | `ga2-diagnostico`, `ga2-causa-raiz`, `ga2-relatorio-a3` | `01-a3.md` (+ `01a-ishikawa.md`)                      | dono; decisor se houver gate |
-| 2   | Combinar        | Briefing da iniciativa (por tipo)                                                 | `ga2-briefing-iniciativa`                               | `02-briefing.md`                                      | dono + interessados          |
-| 3   | Mirar           | OKR e iniciativas (ponte A3 → OKR)                                                | `ga2-okr-canvas`                                        | `03-okr.md`                                           | dono; responsável pelo portfólio se cruza área     |
-| 4   | Planejar        | Backlog 2D (+ matriz esforço × impacto)                                           | `ga2-backlog-2d`                                        | `04-backlog-2d.md`                                    | dono                         |
-| 5   | Fluir           | Kanban: colunas, políticas, WIP                                                   | `ga2-kanban-canvas`                                     | `05-kanban.md`                                        | dono; Gestor propõe WIP      |
-| 6   | Ciclo           | Plano do ciclo (meta, período, itens com dono)                                    | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva`                                  | `ciclos/AAAA-Www/plano.md` (linha da frente) | dono                         |
-| 7   | Pulso           | **Status Report** (onde estou, travou, aprendi, próximo passo)                    | **esta skill**                                          | `status/AAAA-MM-DD.md`                                | dono                         |
-| 8   | Revisar         | Review do ciclo (combinado × entregue × prova) + Retro                            | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva`                                  | `ciclos/AAAA-Www/review.md`, `retro.md`      | Gestor + dono                |
-| 9   | Fechar          | **Resumo do Ciclo** (uma página; vira A3 de melhoria?)                            | **esta skill**                                          | `90-resumo-ciclo-<n>.md`                              | dono                         |
-| —   | Sempre          | `README.md` — dono, empresa, régua, estado de cada documento, cartão no portfólio | esta skill                                              | `README.md`                                           | Gestor                       |
+| 0 | Escolher o caso | Canvas de Visão curto | `ga2-canvas-de-visao` | `00-canvas-de-visao.md` | dono da frente |
+| 1 | Entender | A3 (esquerdo + causa + direito) | `ga2-diagnostico`, `ga2-causa-raiz`, `ga2-relatorio-a3` | `01-a3.md` (+ `01a-ishikawa.md`) | dono; decisor se houver gate |
+| 2 | Combinar | Briefing da iniciativa (por tipo) | `ga2-briefing-iniciativa` | `02-briefing.md` | dono + interessados |
+| 3 | Mirar | OKR e iniciativas (ponte A3 → OKR) | `ga2-okr-canvas` | `03-okr.md` | dono; responsável pelo portfólio se cruza área |
+| 4 | Planejar | Backlog 2D (+ matriz esforço × impacto) | `ga2-backlog-2d` | `04-backlog-2d.md` | dono |
+| 5 | Fluir | Kanban: colunas, políticas, WIP | `ga2-kanban-canvas` | `05-kanban.md` | dono; Gestor propõe WIP |
+| 6 | Ciclo | Plano do ciclo (meta, período, itens com dono) | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva` | `ciclos/AAAA-Www/plano.md` (linha da frente) | dono |
+| 7 | Pulso | **Status Report** (onde estou, travou, aprendi, próximo passo) | **esta skill** | `status/AAAA-MM-DD.md` | dono |
+| 8 | Revisar | Review do ciclo (combinado × entregue × prova) + Retro | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva` | `ciclos/AAAA-Www/review.md`, `retro.md` | Gestor + dono |
+| 9 | Fechar | **Resumo do Ciclo** (uma página; vira A3 de melhoria?) | **esta skill** | `90-resumo-ciclo-<n>.md` | dono |
+| — | Sempre | `README.md` — dono, empresa, régua, estado de cada documento, cartão no portfólio | esta skill | `README.md` | Gestor |
 
 
 Se o projeto já tiver uma pasta com definição, andamento e aprovações, use esse dossiê.
@@ -55,8 +55,8 @@ A definição equivale ao briefing; o andamento equivale ao Status Report. Não 
 ## Regras do método que valem aqui
 
 - **Sete artefatos do seu caso real, não de exemplo de livro.** (v6 00, slide 16)
-- **Ritual que não produziu arquivo não aconteceu.** (acréscimo do laboratório, cadência: registro do ritual)
-- **Estado vem de arquivo, não de memória.** Arquivo velho = cartão parado. (acréscimo do laboratório, estado com prova)
+- **Ritual que não produziu arquivo não aconteceu.**
+- **Estado vem de arquivo, não de memória.** Arquivo velho = cartão parado.
 - **Status: rápido e honesto.** "Um retrato de 2 minutos, não um relatório longo. Adiantado, no prazo ou atrasado — sem maquiar." (Status Report do Desafio)
 - **Feche com o próximo passo.** "Sempre saia com a próxima ação clara." (Status Report)
 - **Resumo do Ciclo: feche em uma página; se precisar, reutilize o A3.** (Artefato 17)
@@ -83,31 +83,31 @@ Markdown serve ao versionamento quando necessário; HTML sai para visualização
 Os modelos abaixo atendem ao fluxo de geração de HTML e canvas quando essa for a entrega escolhida.
 
 
-| Forma     | Arquivo                                                                   | Quando sai                                                                | Modelo                                   |
+| Forma | Arquivo | Quando sai | Modelo |
 | --------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------- |
-| Fonte     | `<nome>.md` (este `template.md` preenchido)                               | quando o fluxo precisar de fonte Markdown                                 | `template.md`                            |
-| Documento | `<nome>.html` — documento corrido no design system da casa                | quando HTML for escolhido                                                 | `../assets/modelos/documento.html` (pronto)        |
-| Canvas    | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-status-report-b-04.html` |
+| Fonte | `<nome>.md` (este `template.md` preenchido) | quando o fluxo precisar de fonte Markdown | `template.md` |
+| Documento | `<nome>.html` — documento corrido no design system da casa | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
+| Canvas | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-status-report-b-04.html` |
 
 
 Modelos canvas desta skill (specs `status-report-b-04`, `resumo-ciclo-b-04`, `status-report-b-04-p2`, `resumo-ciclo-b-04-p2`):
 
 
-| Modelo                                                | Origem                                                     | Pedido que o escolhe | Estado |
+| Modelo | Origem | Pedido que o escolhe | Estado |
 | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------- | ------ |
-| `../assets/modelos/canvas-status-report-b-04.html` **(padrão)** | Status Report — 7 dias (editável) · família b 04           | "no editável"        | pronto |
-| `../assets/modelos/canvas-resumo-ciclo-b-04.html`               | Resumo do Ciclo (editável) · família b 04                  | "no editável"        | pronto |
-| `../assets/modelos/canvas-status-report-b-04-p2.html`           | Status Report — 7 dias (editável), página 2 · família b 04 | "no editável"        | pronto |
-| `../assets/modelos/canvas-resumo-ciclo-b-04-p2.html`            | Resumo do Ciclo (editável), página 2 · família b 04        | "no editável"        | pronto |
+| `../assets/modelos/canvas-status-report-b-04.html` **(padrão)** | Status Report — 7 dias (editável) · família b 04 | "no editável" | pronto |
+| `../assets/modelos/canvas-resumo-ciclo-b-04.html` | Resumo do Ciclo (editável) · família b 04 | "no editável" | pronto |
+| `../assets/modelos/canvas-status-report-b-04-p2.html` | Status Report — 7 dias (editável), página 2 · família b 04 | "no editável" | pronto |
+| `../assets/modelos/canvas-resumo-ciclo-b-04-p2.html` | Resumo do Ciclo (editável), página 2 · família b 04 | "no editável" | pronto |
 
 
 Como gerar (da raiz do repo; o construtor lê o `.md` pelas âncoras `<!-- c:id -->` deste template):
 
-```bash
+`bash
 python3 construtor/construir.py status-report-b-04 --documento --md <nome>.md --saida <nome>.html
 python3 construtor/construir.py status-report-b-04 --canvas --md <nome>.md --saida <nome>-canvas.html
 # Confira o HTML renderizado: ids, campos preenchidos, nenhum conteúdo cortado e número de páginas esperado.
-```
+`
 
 Sem o construtor: copie o modelo em branco e escreva dentro das `div[data-campo]`, mantendo os
 ids; campos de lista (`class="postits"`) recebem um `div.postit` por item. Os ids e o texto-guia
@@ -141,11 +141,11 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `SAIDA-EDITAVEL.md`
 ## Adaptação
 
 
-| Régua         | Quando                          | Documentos obrigatórios                                                                                 |
+| Régua | Quando | Documentos obrigatórios |
 | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Leve          | 1 pessoa, &lt; 1 mês            | 00 canvas curto · 01 A3 de uma página · 05 kanban (3 colunas) · status semanal · resumo no fim          |
-| Intermediária | área, 1–3 meses                 | 00–05 · linha no plano do ciclo · status semanal · review/retro · resumo                                |
-| Robusta       | atravessa áreas, dinheiro, gate | tudo, com OKR de 2+ KRs, Backlog 2D completo, políticas escritas, status com semáforo, resumo por ciclo |
+| Leve | 1 pessoa, &lt; 1 mês | 00 canvas curto · 01 A3 de uma página · 05 kanban (3 colunas) · status semanal · resumo no fim |
+| Intermediária | área, 1–3 meses | 00–05 · linha no plano do ciclo · status semanal · review/retro · resumo |
+| Robusta | atravessa áreas, dinheiro, gate | tudo, com OKR de 2+ KRs, Backlog 2D completo, políticas escritas, status com semáforo, resumo por ciclo |
 
 
 ## Erros comuns

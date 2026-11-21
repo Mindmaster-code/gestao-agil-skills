@@ -37,19 +37,19 @@ A pauta é da pessoa. O erro mais comum é fazer dela um acompanhamento de taref
 2. **Leve os acordos da conversa anterior** e os fatos do período. Deixe a lista de tarefas de fora.
 3. **Marque o formato** na folha (acompanhamento, motivação, PDI) e a duração, de 30 a 45 minutos.
 4. **Siga os cinco passos:**
-   - retome os acordos e ofereça espaço para os temas da pessoa;
-   - explore dificuldades, relações e condições de execução do trabalho;
-   - alinhe expectativas ou feedbacks que precisem de esclarecimento;
-   - converse sobre aprendizagem, interesses e apoio necessário;
-   - registre poucos compromissos, para os dois lados, e combine o retorno.
+ - retome os acordos e ofereça espaço para os temas da pessoa;
+ - explore dificuldades, relações e condições de execução do trabalho;
+ - alinhe expectativas ou feedbacks que precisem de esclarecimento;
+ - converse sobre aprendizagem, interesses e apoio necessário;
+ - registre poucos compromissos, para os dois lados, e combine o retorno.
 5. **Divida o tempo se ajudar.** Num roteiro possível para 30 minutos: 5 minutos para retomar os acordos e ouvir o que merece atenção; 10 para dificuldades, condições e expectativas; 10 para feedback, aprendizagem ou desenvolvimento prioritário; 5 para combinar ações e o próximo retorno.
 6. **Use as perguntas úteis** e marque as que fez:
-   - Onde você está tendo dificuldade e que apoio espera de mim?
-   - Qual expectativa precisa ficar mais clara?
-   - Que situação recente merece feedback ou reconhecimento?
-   - O que você quer aprender ou assumir e qual prática pode ajudar?
-   - Que ação minha tem facilitado ou dificultado o seu trabalho?
-   - Que parte do seu trabalho você faria mesmo se ninguém pedisse?
+ - Onde você está tendo dificuldade e que apoio espera de mim?
+ - Qual expectativa precisa ficar mais clara?
+ - Que situação recente merece feedback ou reconhecimento?
+ - O que você quer aprender ou assumir e qual prática pode ajudar?
+ - Que ação minha tem facilitado ou dificultado o seu trabalho?
+ - Que parte do seu trabalho você faria mesmo se ninguém pedisse?
 7. **Registre só os acordos úteis,** cada um com responsável e data de revisão. A informação pessoal que não precisa entrar no registro de trabalho fica de fora.
 8. **Marque a data da próxima conversa** antes de encerrar. Na seguinte, comece pelos acordos.
 
@@ -70,11 +70,11 @@ A pauta é da pessoa. O erro mais comum é fazer dela um acompanhamento de taref
 
 16. **Prepare antes.** Reúna o histórico de conversas, as condições de trabalho e o que dá para ajustar. Preencha a sua hipótese no Mapa de Motivação 3.0, só com fatos, e depois confirme com a pessoa.
 17. **Siga os cinco passos:**
-    - pergunte sobre os aspectos do trabalho que sustentam o interesse em permanecer;
-    - explore as dificuldades e as mudanças desejadas, com exemplos;
-    - diferencie o que você pode resolver do que depende de outras decisões;
-    - combine ações viáveis e encaminhamentos, com prazo de retorno;
-    - revise o efeito dos ajustes e atualize as expectativas.
+ - pergunte sobre os aspectos do trabalho que sustentam o interesse em permanecer;
+ - explore as dificuldades e as mudanças desejadas, com exemplos;
+ - diferencie o que você pode resolver do que depende de outras decisões;
+ - combine ações viáveis e encaminhamentos, com prazo de retorno;
+ - revise o efeito dos ajustes e atualize as expectativas.
 18. **Antecipe a conversa quando houver sinal** ou mudança relevante no trabalho. Descreva o sinal com fato (o que você viu e quando), sem diagnóstico. Ninguém pede para sair de um dia para o outro, e o clima do time costuma dar o aviso ciclos antes.
 19. **Salário justo vem antes.** Injustiça salarial é impedimento, e nenhuma ação de motivação resolve isso. Corrija primeiro, levando a comparação e a evidência a quem decide. Se a pessoa disser que ganha menos que um colega na mesma função, não trate a frase como fato e não comente o salário do colega: a informação sobre outra pessoa é reservada. Confirme a comparação com quem tem acesso a ela, na área responsável, e pergunte quem decide.
 20. **Se a pessoa já decidiu sair,** converse com respeito e planeje a continuidade do trabalho. Evite pressão, promessa de promoção e recompensa que você não tem autoridade para dar.

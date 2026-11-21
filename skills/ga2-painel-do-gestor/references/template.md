@@ -67,7 +67,7 @@ Quando e quem mede cada pilar (canvas v6 "Painel de Métricas"):
 
 ---
 
-### Apêndice — métricas de fluxo (acréscimo do laboratório; metas de referência, a combinar para a organização)
+### Apêndice — métricas de fluxo
 
 | Métrica | Valor | Meta | Fonte |
 |---|---|---|---|

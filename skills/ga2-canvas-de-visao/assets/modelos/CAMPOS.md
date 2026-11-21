@@ -6,9 +6,9 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `horizonte_3` | Espaço temporal: 3 anos |  | `<!-- c:horizonte_3 -->` |
-| `horizonte_5` | Espaço temporal: 5 anos |  | `<!-- c:horizonte_5 -->` |
-| `horizonte_10` | Espaço temporal: 10 anos |  | `<!-- c:horizonte_10 -->` |
+| `horizonte_3` | Espaço temporal: 3 anos | | `<!-- c:horizonte_3 -->` |
+| `horizonte_5` | Espaço temporal: 5 anos | | `<!-- c:horizonte_5 -->` |
+| `horizonte_10` | Espaço temporal: 10 anos | | `<!-- c:horizonte_10 -->` |
 | `passado` | Passado | Como era a situação antes do espaço temporal escolhido? Resuma a trajetória: principais mudanças, inovações, adaptações, | `<!-- c:passado -->` |
 | `situacao_atual` | Situação atual (Hoje) | Detalhe o status atual: principais produtos ou serviços e seus números, clientes ou usuários, desafios e oportunidades. | `<!-- c:hoje -->` |
 | `perspectivas` | Perspectivas e tendências | Baseado nas tendências atuais do mercado e da sua área, projete cenários futuros plausíveis. | `<!-- c:tendencias -->` |

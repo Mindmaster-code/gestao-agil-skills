@@ -1,7 +1,7 @@
 <!-- modelos: 5w2h-lab.json -->
 # 5W2H — <slug do plano>
 
-Template de adaptação metodológica; não há template oficial de 5W2H nas fontes citadas. Fonte: M02 A07 ("pode usar o 5W2H… quem, quando, onde, quanto custa"); lado direito do A3 (v6 aula 05: "sem isto não é plano: o quê · quem · quando"). As sete colunas são extensão do método.
+Template de aplicação do método; não há template oficial de 5W2H nas fontes citadas. Fonte: M02 A07 ("pode usar o 5W2H… quem, quando, onde, quanto custa"); lado direito do A3 (material de referência: "sem isto não é plano: o quê · quem · quando"). As sete colunas são extensão do método.
 
 | Campo | Conteúdo |
 |---|---|

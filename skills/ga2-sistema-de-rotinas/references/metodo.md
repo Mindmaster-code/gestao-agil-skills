@@ -85,11 +85,11 @@ Quando cada rotina tem hora marcada, ninguém precisa convocar, lembrar ou cobra
 10. **Liste as rotinas que existem antes de criar outras.** Uma rotina pode cobrir mais de uma ficha do guia.
 11. **Calcule o custo por semana:** some os minutos de cada encontro da semana e multiplique pelo número de pessoas. Uma reunião de 45 minutos com seis pessoas custa 270 minutos da equipe, toda vez que acontece. Uma conversa individual de 30 minutos ocupa 30 minutos de cada pessoa e soma 60. Rotinas mensais e por acontecimento entram na agenda quando são necessárias, e não toda semana.
 12. **Decida uma coisa para cada rotina:** manter, ajustar, combinar, reduzir ou encerrar.
-    - Manter, quando a finalidade e a utilidade estiverem claras.
-    - Ajustar participantes, informação, frequência ou formato, quando houver falha específica.
-    - Combinar, quando outra rotina produzir saídas compatíveis no mesmo momento.
-    - Reduzir a frequência, quando a rotina serve, mas acontece mais vezes do que o trabalho pede.
-    - Encerrar, quando a necessidade deixou de existir ou outra prática a atende melhor.
+ - Manter, quando a finalidade e a utilidade estiverem claras.
+ - Ajustar participantes, informação, frequência ou formato, quando houver falha específica.
+ - Combinar, quando outra rotina produzir saídas compatíveis no mesmo momento.
+ - Reduzir a frequência, quando a rotina serve, mas acontece mais vezes do que o trabalho pede.
+ - Encerrar, quando a necessidade deixou de existir ou outra prática a atende melhor.
 13. **Analise uma rotina a fundo** quando a decisão não for óbvia: a necessidade que ela atende, o tempo de preparação, participação e registro, as saídas dos últimos ciclos, o efeito observado, a dificuldade de manter. Registre a decisão, o motivo, o responsável pela mudança e a data da próxima avaliação.
 14. **O objetivo da conta é tornar a escolha consciente,** e não cortar reunião. A revisão periódica impede que o calendário cresça sem escolha explícita sobre o tempo da equipe.
 

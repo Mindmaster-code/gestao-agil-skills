@@ -23,18 +23,18 @@ Leia [references/metodo.md](references/metodo.md) antes de estruturar o projeto.
 
 Use o nome do projeto escolhido pelo usuário. Para projetos novos, adote estas seis pastas, com nomes em português:
 
-```text
+`text
 <projeto>/
-  Guia do projeto.docx
-  Status do projeto.docx
-  01 - Contexto e abertura/
-    Abertura do projeto.docx
-  02 - Planejamento/
-  03 - Execução e acompanhamento/
-  04 - Revisão e aprendizados/
-  05 - Encerramento/
-  06 - Referências e anexos/
-```
+ Guia do projeto.docx
+ Status do projeto.docx
+ 01 - Contexto e abertura/
+ Abertura do projeto.docx
+ 02 - Planejamento/
+ 03 - Execução e acompanhamento/
+ 04 - Revisão e aprendizados/
+ 05 - Encerramento/
+ 06 - Referências e anexos/
+`
 
 O exemplo usa Word. No Google Drive, crie documentos Google Docs nativos, sem extensão no título.
 Se o usuário escolher um fluxo de repositório, use Markdown: `README.md`, `STATUS.md` e `01 - Contexto e abertura/ABERTURA.md`.

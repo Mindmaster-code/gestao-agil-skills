@@ -37,12 +37,12 @@ Não dispara para: a ata da reunião (`ga2-reunioes-e-comunicados`); o A3 e a ca
 6. **Marque o "rever em":** a data, ou a condição, em que vocês olham de novo se a decisão continua certa.
 7. **Registre onde o trabalho já mora:**
 
-   | A decisão é sobre | Fica em |
-   |---|---|
-   | Uma iniciativa | No briefing, a folha com o mínimo que todos precisam saber sobre ela |
-   | Um problema | No A3, a folha única com problema, causa, plano e acompanhamento |
-   | O que entra ou sai do ciclo | Na revisão do ciclo |
-   | Qualquer outro assunto da área | No registro de decisões (registro de compromissos e decisões) |
+ | A decisão é sobre | Fica em |
+ |---|---|
+ | Uma iniciativa | No briefing, a folha com o mínimo que todos precisam saber sobre ela |
+ | Um problema | No A3, a folha única com problema, causa, plano e acompanhamento |
+ | O que entra ou sai do ciclo | Na revisão do ciclo |
+ | Qualquer outro assunto da área | No registro de decisões (registro de compromissos e decisões) |
 
 8. **Se a reunião foi gravada,** a IA pode tirar as decisões, cada uma com dono e data. A IA tira a lista, e você confere antes de publicar.
 9. **Se a decisão passa da sua alçada,** o limite do que você decide sozinho, leve as opções e a sua recomendação a quem tem autoridade. Proteja os dados sensíveis no registro.

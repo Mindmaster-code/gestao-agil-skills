@@ -3,7 +3,7 @@
 
 Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do template ao vivo
 (A05) e do individual (`--help` 08) onde indicado. Campo que nenhum template tem vem marcado
-`(acréscimo do método)`.
+.
 
 ---
 
@@ -15,7 +15,7 @@ Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do temp
 | Responsável · Líder do projeto <!-- c:dono --> | |
 | Data do planejamento <!-- c:data --> | |
 | Ciclo nº · Período (início e fim) <!-- c:periodo --> | Ciclo __ · __ dias · seg __/__ a sex __/__ |
-| Duração fixa desde | (acréscimo do método) |
+| Duração fixa desde | |
 
 ## Meta do ciclo — o que fica pronto
 
@@ -29,13 +29,13 @@ Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do temp
 | Teste 2 — cabe com folga (70%)? | sim / não |
 | Teste 3 — alguém fora do time nota? | sim / não |
 
-## Capacidade (v6 aula 03)
+## Capacidade (material de referência)
 
 | | |
 |---|---|
 | Tempo disponível por semana (`--help` 08) <!-- c:tempo_disponivel --> | __ dias-pessoa ou horas |
 | 70% planejável | |
-| Nº máximo de compromissos (acréscimo do método: 3 por responsável de área) | |
+| Nº máximo de compromissos | |
 
 ## Capacidade por pessoa (ficha A05)
 
@@ -107,9 +107,9 @@ Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planej
 
 ---
 
-### Variante do acréscimo do método — Plano do Ciclo na pasta do caso
+### Variante do prática aplicada — Plano do Ciclo na pasta do caso
 
-```
+`
 # Plano do ciclo AAAA-Www (dd a dd/mês)
 
 Meta do ciclo: ______________________________________ (vem de: OKR/A3 ___)
@@ -122,4 +122,4 @@ Meta do ciclo: ______________________________________ (vem de: OKR/A3 ___)
 
 Diária: leitura dos resumos e da caixa de mensagens, todo dia útil · Review: sexta 12h · Retro: sexta 14h
 Risco: ______ → resposta: ______ (dono)
-```
+`

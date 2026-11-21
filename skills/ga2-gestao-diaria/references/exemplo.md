@@ -72,13 +72,13 @@ Se o bloqueio persistir por duas diárias, entra na pauta da retro. Ao completar
 
 ### 3.4 Registro em cinco linhas
 
-```text
+`text
 Caixa: uma mensagem de Lucas sobre SIM-05.
 Cartão mais parado: NS-12 — aplicação do checklist — um dia — dono Lucas.
 Sem dono / gate sem decisor: nenhum.
 Cadência: ciclo W38 tem plano e diária; review e retro previstas para 18/09.
 Cobrança de hoje: nenhuma; impedimento com Lucas, prazo 16/09 às 14h.
-```
+`
 
 ## 4. Modo pessoal: exemplo de um escritório de advocacia
 

@@ -16,14 +16,14 @@ Limite de WIP
 Urgência
 - [ ] As cinco linhas estão escritas: o que é · quem chama · quantas · pausado · onde.
 - [ ] "Quem chama" é **uma** pessoa (ou papel) nomeada.
-- [ ] "Quantas" é um número; o acréscimo do método reserva 2 vagas na raia.
+- [ ] "Quantas" é um número; Na prática reserva 2 vagas na raia.
 - [ ] O cartão pausado recebe marca, motivo e data; volta na frente.
 - [ ] A política está no topo do quadro, não em mensagem escrita, chat ou PDF.
 - [ ] A mecânica (cartão vermelho ou raia) está escolhida e é a mesma em todo o quadro.
 - [ ] O contador do ciclo existe e vai para a retro.
 - [ ] Urgência não dispensa a definição de pronto.
 
-Classe Crítica (acréscimo do método)
+Classe Crítica
 - [ ] Toda demanda Apta tem classe: Crítica, Com prazo ou Normal.
 - [ ] Crítica = dano relevante acontecendo agora, com fonte do fato.
 - [ ] Quem validou a Crítica tem autoridade para interromper (responsável pela área, política de incidente ou Prioridade explícita).

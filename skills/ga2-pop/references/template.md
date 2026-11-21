@@ -16,7 +16,7 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica 
 ## 1. Objetivo <!-- c:objetivo -->
 "Descreva o objetivo do processo. Finalidade: dar um direcionamento claro para todos os envolvidos."
 
-> 
+>
 
 ## 2. Escopo <!-- c:escopo -->
 "Resumo do escopo do processo." — o que cobre e o que **não** cobre.
@@ -38,7 +38,7 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica 
 ## 4. Entradas do processo (gatilho) <!-- c:gatilho -->
 "Descreva como o processo inicia." — evento, insumo, data ou ação observável.
 
-> 
+>
 
 ## 5. Passos do processo
 "Descreva os passos para execução do processo. Utilize sequência."
@@ -55,7 +55,7 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica 
 ## 6. Saídas do processo <!-- c:saidas -->
 "Descreva o resultado esperado ou documentos gerados no processo."
 
-> 
+>
 
 ## 7. Indicadores do processo
 "Descreva quais indicadores são utilizados para medir o processo." — e onde acessar.

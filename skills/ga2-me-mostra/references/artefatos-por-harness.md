@@ -35,17 +35,17 @@ sessão expuser a capacidade ou suas instruções oficiais.
 
 - Crie um Artifact HTML quando o ambiente oferecer Artifacts.
 - No Claude Code, use o artefato de sessão apenas quando a função estiver disponível para a
-  conta e a sessão.
+ conta e a sessão.
 - Se o ambiente não expuser Artifacts, não simule comandos. Use a alternativa.
 
 ### Codex e ChatGPT
 
 - Se `visualize` estiver disponível, leia a versão ativa da skill e siga seu contrato por
-  inteiro. Ela define fragmento, diretório, tema, validação e referência de conteúdo.
+ inteiro. Ela define fragmento, diretório, tema, validação e referência de conteúdo.
 - Um fragmento HTML nativo não substitui o HTML autônomo exigido por uma skill dona de
-  artefato durável.
+ artefato durável.
 - Quando o produto oferecer prévia interativa de `.html`, abra ou anexe o arquivo nessa
-  superfície.
+ superfície.
 - No Codex CLI sem prévia visual, gere o arquivo e reporte o caminho absoluto.
 
 ### Cursor

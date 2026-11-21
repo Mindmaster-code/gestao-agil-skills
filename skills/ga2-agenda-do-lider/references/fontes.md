@@ -9,7 +9,7 @@
 - Fichas: Guia completo de rotinas de gestão, fichas F03 (organizar agenda e capacidade de execução), G01 (planejar a própria contribuição como líder), G02 (trabalho importante com concentração), G03 (pensamento estratégico), G06 (uso do tempo, centralização e reuniões), G09 (relações profissionais) e G10 (energia, pausas e recuperação).
 - Modelo: T14 (Revisão pessoal do líder), do mesmo guia, reproduzido na seção 8 do `template.md`. O T14 também liga a ficha G07 (refletir sobre decisões e experiências).
 - Template: não há canvas do curso para esta habilidade. A agenda da semana (seções 1 a 7 do `template.md`) é construção deste pacote a partir das fichas.
-- Adaptação metodológica: o critério escrito onde o líder sempre responde igual; as seções de relações (G09) e energia (G10), que não têm aula de origem; a ligação da revisão pessoal às outras habilidades do pacote.
+- aplicação do método: o critério escrito onde o líder sempre responde igual; as seções de relações (G09) e energia (G10), que não têm aula de origem; a ligação da revisão pessoal às outras habilidades do pacote.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

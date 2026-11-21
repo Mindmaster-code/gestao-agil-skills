@@ -76,11 +76,11 @@ Canvas desta habilidade:
 
 Para gerar a partir do `.md` preenchido (Python 3.10 ou mais novo, na pasta do pacote):
 
-```bash
+`bash
 python3 construtor/construir.py okr-kit-02 --documento --md meu-caso.md --saida meu-caso.html
 python3 construtor/construir.py okr-kit-02 --canvas --md meu-caso.md --saida meu-caso-canvas.html
-```
+`
 
 Sem Python: copie o canvas em branco e escreva dentro das `div[data-campo]`, mantendo os ids.
-No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como acréscimo do laboratório
+No construtor HTML, o `.md` é a entrada atual; não use cópia antiga para substituir documento vivo. Canvas marcado como prática aplicada
 não faz parte do curso.

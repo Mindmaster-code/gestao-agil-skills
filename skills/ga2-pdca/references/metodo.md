@@ -34,22 +34,22 @@ para ele e não repete o diagnóstico.
 ## Como conduzir
 
 1. **Plan — o sinal com número de hoje.** Pergunta: "Qual o fato e o número de hoje?" Escreve
-   o problema sem culpado. Recusa: "sem número de hoje não existe melhoria — existe opinião".
+ o problema sem culpado. Recusa: "sem número de hoje não existe melhoria — existe opinião".
 2. **Plan — causa e linha de base.** "Por que isso acontece?" (5 porquês ou A3). A linha de
-   base é o número que o Check vai comparar; escreva **antes** de executar. Recusa: plano sem
-   linha de base — não há como checar.
+ base é o número que o Check vai comparar; escreva **antes** de executar. Recusa: plano sem
+ linha de base — não há como checar.
 3. **Plan — uma ação, dono, prazo, meta.** "O que muda, quem faz, até quando, que número
-   esperamos?" Mais de um passo → abre `ga2-5w2h`. Recusa: duas ações no mesmo PDCA.
+ esperamos?" Mais de um passo → abre `ga2-5w2h`. Recusa: duas ações no mesmo PDCA.
 4. **Do — executar como escrito e registrar.** "O que foi feito, quando, por quem, com que
-   prova?" Desvio do plano é registrado, não escondido.
+ prova?" Desvio do plano é registrado, não escondido.
 5. **Check — medir durante, não só no fim.** "O número medido bateu com a linha de base?"
-   Evidência pelo caminho real. Recusa: Check por sensação ("parece que melhorou").
+ Evidência pelo caminho real. Recusa: Check por sensação ("parece que melhorou").
 6. **Act — decidir com verbo.** Três saídas:
-   - **padronizar**: funcionou → escrever o padrão onde o time trabalha (POP, política do
-     quadro, registro da cadência). "Sem padrão novo, o ganho fica preso na memória."
-   - **ajustar**: funcionou em parte → novo ciclo com dose ou formato diferente, mesmo
-     registro, ciclo nº +1.
-   - **descartar**: não funcionou → registrar para não procurar duas vezes no mesmo lugar.
+ - **padronizar**: funcionou → escrever o padrão onde o time trabalha (POP, política do
+ quadro, registro da cadência). "Sem padrão novo, o ganho fica preso na memória."
+ - **ajustar**: funcionou em parte → novo ciclo com dose ou formato diferente, mesmo
+ registro, ciclo nº +1.
+ - **descartar**: não funcionou → registrar para não procurar duas vezes no mesmo lugar.
 7. **Registrar o ciclo** na tabela de ciclos e fechar com data. PDCA sem Act escrito está aberto.
 
 ## Critério "Act = padronizar ou ajustar"
@@ -66,7 +66,7 @@ para ele e não repete o diagnóstico.
 - "Todo ciclo de melhoria contínua tem que obedecer essas quatro etapas." (M02 A07)
 - "Verificar = medir o sucesso relativo em relação à linha de base." (M02 A07)
 - "É ciclo que não acaba nunca, por isso se chama melhoria contínua." (M02 A07) — mas cada
-  ciclo **fecha** com um Act escrito.
+ ciclo **fecha** com um Act escrito.
 - "Toda melhoria termina num verbo: manter, ajustar ou descartar."
 - "Uma mudança por ciclo, uma variável por vez."
 - Mudança em agendamento automático, integração ou rotina entra com linha de base, execução, verificação pelo caminho real e ajuste. Observe também a política de mudança em produção do projeto.
@@ -77,8 +77,8 @@ Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Do
 
 - Registro: PDCA da melhoria, com ciclo, data e nome, junto da retrospectiva ou do A3 no destino escolhido.
 - Depois: Act = padronizar → POP em um documento de procedimento operacional padrão aplicado ou linha nova em
-  registro da cadência; Act = ajustar → ciclo nº +1 no mesmo arquivo; a retro seguinte abre
-  conferindo o Check e o Act. Resumo vai no relatório de sexta ao responsável pela coordenação.
+ registro da cadência; Act = ajustar → ciclo nº +1 no mesmo arquivo; a retro seguinte abre
+ conferindo o Check e o Act. Resumo vai no relatório de sexta ao responsável pela coordenação.
 
 ## Formas de saída
 
@@ -144,7 +144,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - **Leve**: quatro linhas (P com número de hoje e meta, D, C com número, A com verbo).
 - **Intermediária** (retrospectiva da equipe): template completo, um ciclo.
 - **Robusta** (A3 ou mudança de produção): PDCA aponta para o A3, 5W2H anexo, registro de
-  ciclos preenchido até o padrão ficar escrito.
+ ciclos preenchido até o padrão ficar escrito.
 
 ## Erros comuns
 

@@ -6,7 +6,7 @@
 - Fichas: Guia completo de rotinas de gestão, fichas B05 (registrar e acompanhar decisões), A07 (revisar riscos e continuidade da operação) e G07 (refletir sobre decisões e experiências).
 - Modelos: T03 (Registro de compromissos e decisões) e T12 (Preparação de decisão e registro de risco), do curso de rotinas.
 - Template: não há canvas do curso para esta habilidade. As seções 1 a 5 do `template.md` reproduzem os campos dos modelos T03 e T12.
-- Adaptação metodológica: a revisão da decisão em formato de tabela (seção 6) e a lista do halter do ciclo (seção 7); a aula descreve as duas práticas em texto, e os modelos não têm a tabela.
+- aplicação do método: a revisão da decisão em formato de tabela (seção 6) e a lista do halter do ciclo (seção 7); a aula descreve as duas práticas em texto, e os modelos não têm a tabela.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

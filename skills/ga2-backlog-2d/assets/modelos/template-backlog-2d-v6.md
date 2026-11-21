@@ -16,11 +16,11 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 
 | | Coluna 1 | Coluna 2 | Coluna 3 | Coluna 4 | Coluna 5 |
 |---|---|---|---|---|---|
-| **Essencial da entrega 1** <!-- c:essencial_col --> |  |  |  |  |  |
-| **Depois** <!-- c:depois_col --> |  |  |  |  |  |
+| **Essencial da entrega 1** <!-- c:essencial_col --> | | | | | |
+| **Depois** <!-- c:depois_col --> | | | | | |
 
 **Linha de cima** (uma linha por item):
 <!-- c:linha_de_cima -->
 | Coluna 1 | Coluna 2 | Coluna 3 | Coluna 4 |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |

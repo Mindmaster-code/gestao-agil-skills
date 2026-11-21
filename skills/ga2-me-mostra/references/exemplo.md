@@ -19,13 +19,13 @@ O ponto a investigar é a passagem da ficha.
 Intenção: diagnóstico.
 Forma visual: esperado × observado, com uma divergência em foco.
 
-```text
-ESPERADO   preparação com rota → ficha com rota → separação
-                                       │
-OBSERVADO  preparação com rota → 6 fichas sem rota → espera
-                                       ↑
-                           primeira divergência observada
-```
+`text
+ESPERADO preparação com rota → ficha com rota → separação
+ │
+OBSERVADO preparação com rota → 6 fichas sem rota → espera
+ ↑
+ primeira divergência observada
+`
 
 A ficha em foco recebe o rótulo “rota ausente”. A cor é apoio, nunca a única forma de identificar a falha.
 

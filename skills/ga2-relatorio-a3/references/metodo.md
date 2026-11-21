@@ -25,7 +25,7 @@ e `ga2-causa-raiz` (campo 5). Aqui o foco é o lado direito (6–10) e a folha f
 
 **Campos: 10 da v6 como superconjunto.** Os 7 do ao vivo são 1, 2, 3, 5, 6, 7, 8 (no ao
 vivo o gap mora dentro da "Análise de causa raiz"). Os campos **4 Gap, 9 Acompanhamento e
-10 Aprendizado** são só v6. O 5W2H no plano de ação é adaptação metodológica identificada: a aula exige o
+10 Aprendizado** são só v6. O 5W2H no plano de ação é aplicação do método identificada: a aula exige o
 quê/quem/quando; as outras quatro colunas são.
 ## Como conduzir
 
@@ -49,12 +49,12 @@ quê/quem/quando; as outras quatro colunas são.
 
 ## Regras do método que valem aqui
 
-- **Preencha da esquerda para a direita.** "A coluna da direita só fica boa depois que a da esquerda tiver número." (v6 aula 03)
-- **Contramedida tem que atacar a causa raiz. Se não conecta, corta.** (v6 aula 05)
-- **Plano de ação sem dono e prazo é intenção.** Cada linha: o quê, quem, quando. (M03 A08; v6 aula 05)
-- **Métrica do lado direito = mesma medida do lado esquerdo.** (v6 aula 05)
-- **O A3 é vivo: volte, meça, ajuste e registre o aprendizado.** (v6 aula 05)
-- **Cabe numa página.** "Se não cabe, você ainda não entendeu o problema." (v6 aula 02; M03 A08)
+- **Preencha da esquerda para a direita.** "A coluna da direita só fica boa depois que a da esquerda tiver número." (material de referência)
+- **Contramedida tem que atacar a causa raiz. Se não conecta, corta.** (material de referência)
+- **Plano de ação sem dono e prazo é intenção.** Cada linha: o quê, quem, quando. (M03 A08; material de referência)
+- **Métrica do lado direito = mesma medida do lado esquerdo.** (material de referência)
+- **O A3 é vivo: volte, meça, ajuste e registre o aprendizado.** (material de referência)
+- **Cabe numa página.** "Se não cabe, você ainda não entendeu o problema." (material de referência; M03 A08)
 - **Um caso por A3.** (Canvas Editável A3)
 - **O A3 dá início a um PDCA**; Plan = contexto até contramedidas; Do = plano; Check e Act = acompanhamento. (M02 A07)
 - **Como, onde e quanto** ficam para o briefing e o planejamento quando não cabem na folha. (M03 A08)

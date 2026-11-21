@@ -36,11 +36,11 @@ dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), nã
 4. **Contexto — por que agora, por que importa.** Duas frases; pode copiar do A3.
 5. **Escopo: entra / fica de fora.** Pergunta: "O que fica de fora de propósito?" Recuse escopo sem "fica de fora".
 6. **Campo de destaque do tipo:**
-   - **Projeto:** entregas e marcos (o quê, até quando) · prazo · **critério de pronto** (frase verificável).
-     **Se o gestor não trouxe as entregas, proponha.** Ele quase nunca chega com a lista pronta; ela nasce aqui. Monte de 4 a 7 entregas macro a partir do que a entrevista, o A3 ou a conversa disseram que "entra" no escopo: cada item do "entra" vira uma entrega escrita como resultado que existe no fim ("processo de conferência escrito e validado", não "escrever processo"). Ordene na sequência natural do projeto (entender → desenhar → construir → testar → implantar), pergunte quem responde por cada uma e puxe o marco de trás para frente a partir do prazo final e do marco intermediário que o gestor já deu. Apresente a lista inteira de uma vez, cada linha marcada `[confirmar]`, e peça aceite item a item: aceita, troca ou corta. Só grave o que ele aceitou. Se o projeto tem equipe, sugira levar a lista à reunião de abertura e registrar o que o time mudou.
-   - **Produto:** pra quem é · valor entregue · **métrica de evolução** (de → para, com prazo).
-   - **Processo:** fluxo — como é hoje → como passa a ser · **indicador do processo** (de → para, com prazo).
-   Recuse "número que prova" ausente.
+ - **Projeto:** entregas e marcos (o quê, até quando) · prazo · **critério de pronto** (frase verificável).
+ **Se o gestor não trouxe as entregas, proponha.** Ele quase nunca chega com a lista pronta; ela nasce aqui. Monte de 4 a 7 entregas macro a partir do que a entrevista, o A3 ou a conversa disseram que "entra" no escopo: cada item do "entra" vira uma entrega escrita como resultado que existe no fim ("processo de conferência escrito e validado", não "escrever processo"). Ordene na sequência natural do projeto (entender → desenhar → construir → testar → implantar), pergunte quem responde por cada uma e puxe o marco de trás para frente a partir do prazo final e do marco intermediário que o gestor já deu. Apresente a lista inteira de uma vez, cada linha marcada `[confirmar]`, e peça aceite item a item: aceita, troca ou corta. Só grave o que ele aceitou. Se o projeto tem equipe, sugira levar a lista à reunião de abertura e registrar o que o time mudou.
+ - **Produto:** pra quem é · valor entregue · **métrica de evolução** (de → para, com prazo).
+ - **Processo:** fluxo — como é hoje → como passa a ser · **indicador do processo** (de → para, com prazo).
+ Recuse "número que prova" ausente.
 7. **Como, quando e quanto** (do ao vivo): método e cadência (ciclo, quadro, diária), equipe e interessados, recursos e custo estimado, linha do tempo, riscos e plano B. Régua leve: só riscos e linha do tempo.
 8. **Responsável e quem decide com ele.** Pergunta: "Quem mais precisa saber antes para não virar surpresa?"
 9. **Teste final:** cabe numa página? Quem nunca viu entende sem perguntar? O decisor aprova vendo objetivo, escopo e critério num lugar só?
@@ -49,11 +49,11 @@ dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), nã
 ## Regras do método que valem aqui
 
 - **Classifique antes de detalhar.** Projeto, processo ou produto — briefing e backlog mudam. (M04 A10)
-- **Escolha o tipo antes de preencher:** entrega única = projeto; alguém usa e você evolui = produto; jeito que se repete = processo. (v6 aula 06)
-- **Objetivo em uma frase de resultado; escopo diz o que fica de fora; um número que prova; uma página.** (v6 aula 06, slide 10)
+- **Escolha o tipo antes de preencher:** entrega única = projeto; alguém usa e você evolui = produto; jeito que se repete = processo. (material de referência)
+- **Objetivo em uma frase de resultado; escopo diz o que fica de fora; um número que prova; uma página.** (material de referência, slide 10)
 - **Um briefing por projeto.** (M03 A09)
 - **Nome, líder, objetivo + OKR vinculado, sempre.** (M04 A11)
-- **Cabe numa página.** (v6 aula 06; M03 A08)
+- **Cabe numa página.** (material de referência; M03 A08)
 - **Use depois do Canvas e do A3.** (Artefato 05)
 
 ## Saída

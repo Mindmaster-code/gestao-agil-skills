@@ -7,7 +7,7 @@ O próprio DoR / DoD (o artefato)
 - [ ] Foi definido uma vez, com quem faz o trabalho, não imposto.
 - [ ] Há DoD genérico e DoD por tipo para as tarefas mais comuns da área.
 - [ ] DoR e DoD cabem numa tela; ninguém precisa abrir outro documento.
-- [ ] Nenhum item aceita "mais ou menos" (v6 aula 09).
+- [ ] Nenhum item aceita "mais ou menos" (material de referência).
 
 Ao aplicar o DoR a um cartão
 - [ ] Origem no A3 / OKR / Backlog 2D escrita.

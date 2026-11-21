@@ -16,40 +16,40 @@ carteira de iniciativas**, que é o registro da carteira na pasta do caso.
 ## Fonte no método
 
 - Base do método: Passo 3 — Gestão Visual §2.10–2.20 (Kanban, cinco passos, não dá ré, três erros, raias),
-  §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio).
+ §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio).
 - Aulas: M05 A07 (Kanban, professor), A08 (Kanban Canvas), A09–A13 (fluxo, quadro vivo,
-  hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas
-  03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
+ hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas
+ 03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
 - Templates: folha individual «kanban-canvas-ga2.pdf» (artefato 07, v6) e
-  `kanban-quadro-imprimir-ga2.pdf`; «Mod 03 — Kanban Mínimo GA2 Editável»;
-  legado «M10 — Kanban Canvas» (A08) e `Canvas Kanban Avançado.pdf` (7.1).
-- Modelo operacional: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §7–8
-  (estados comuns, condições, Kanbans hierárquicos).
+ `kanban-quadro-imprimir-ga2.pdf`; «Mod 03 — Kanban Mínimo GA2 Editável»;
+ legado «M10 — Kanban Canvas» (A08) e `Canvas Kanban Avançado.pdf` (7.1).
+- Modelo operacional: modelo operacional de demandas §7–8
+ (estados comuns, condições, Kanbans hierárquicos).
 - Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas.
 
 ## Como conduzir
 
 1. **Nomeie o quadro e o dono.** Pergunta: "Qual caso este quadro mostra? Quem atualiza?"
-   Escreva nome, dono e onde vai morar. Recuse quadro sem dono de atualização (vira "Kanban no limbo").
+ Escreva nome, dono e onde vai morar. Recuse quadro sem dono de atualização (vira "Kanban no limbo").
 2. **Desenhe o fluxo atual, não o ideal.** Pergunta: "Como a demanda chega hoje? Por onde passa
-   até alguém receber?" Escreva as colunas na ordem. Recuse copiar "a fazer / fazendo / feito"
-   sem olhar o fluxo real (Kanban melancia). Toda equipe tem pelo menos fila, fazendo e pronto.
+ até alguém receber?" Escreva as colunas na ordem. Recuse copiar "a fazer / fazendo / feito"
+ sem olhar o fluxo real (Kanban melancia). Toda equipe tem pelo menos fila, fazendo e pronto.
 3. **Separe tipos de demanda em raias.** Pergunta: "Que tipos de trabalho entram? Têm caminhos
-   diferentes?" Mais de um tipo = raias horizontais, não quadros soltos. Colunas comuns
-   (Feito) são compartilhadas. No acréscimo do método: `Área A · Área B · Compartilhado · Processo interno`.
+ diferentes?" Mais de um tipo = raias horizontais, não quadros soltos. Colunas comuns
+ (Feito) são compartilhadas. No Diretriz prática: `Área A · Área B · Compartilhado · Processo interno`.
 4. **Fixe o cartão padrão.** Campos: origem (etiqueta do OKR/entrega), o que é numa frase,
-   dono (nome de pessoa, nunca área), prazo, idade em dias, checklist de pronto, marca de
-   bloqueio, prova. Recuse cartão maior que uma semana ("quando fica pronto?" sem resposta = quebra no mapa).
+ dono (nome de pessoa, nunca área), prazo, idade em dias, checklist de pronto, marca de
+ bloqueio, prova. Recuse cartão maior que uma semana ("quando fica pronto?" sem resposta = quebra no mapa).
 5. **Ponha o limite de trabalho em andamento (WIP)** no topo de cada coluna de execução.
-   Ponto de partida: conte o que está em andamento hoje e tire um. Detalhe em `ga2-politicas-wip-urgencia`.
+ Ponto de partida: conte o que está em andamento hoje e tire um. Detalhe em `ga2-politicas-wip-urgencia`.
 6. **Escreva as políticas no próprio quadro**: entrada, pronto, prioridade, bloqueio,
-   atualização. Mínimo das três da v6: feito, limite, ritmo de revisão.
+ atualização. Mínimo das três da v6: feito, limite, ritmo de revisão.
 7. **Escolha a representação de bloqueio** (ver seção abaixo) e escreva: "bloqueado há mais de N
-   dias sobe para quem".
+ dias sobe para quem".
 8. **Combine o ritmo de atualização**: quem move, quando, e a revisão semanal fixa (dia, hora, 15 min).
 9. **Monte** onde o time já abre todo dia, em formato escolhido com o usuário. O quadro deve caber na tela usada pelo time. Use uma ferramenta de quadro quando o usuário pedir interação por ela.
 10. **Teste de bem feito:** alguém decide sem perguntar; as três políticas estão no quadro;
-    cada cartão tem dono, idade e prova.
+ cada cartão tem dono, idade e prova.
 
 ## Dependência entre áreas (ficha B06)
 
@@ -60,11 +60,11 @@ Os quadros conversam entre si: o cartão do quadro da liderança da organizaçã
 13. **Mostre o mesmo cartão nos quadros das duas áreas,** ou desdobre pela hierarquia dos quadros, para as duas equipes enxergarem a mesma coisa.
 14. **Marque o encontro entre as áreas,** com quem pode assumir compromisso por cada uma. Calcule o custo: duração vezes pessoas.
 15. **Siga a pauta curta:**
-    - confirme a entrega final e a contribuição de cada área;
-    - combine o que cada área precisa receber, com que qualidade e em que data de passagem;
-    - veja os impedimentos e o que mudou;
-    - negocie compromissos que cada área consegue cumprir;
-    - feche cada dependência com dono, aceite e próxima verificação.
+ - confirme a entrega final e a contribuição de cada área;
+ - combine o que cada área precisa receber, com que qualidade e em que data de passagem;
+ - veja os impedimentos e o que mudou;
+ - negocie compromissos que cada área consegue cumprir;
+ - feche cada dependência com dono, aceite e próxima verificação.
 16. **Feche cada dependência crítica com dono e aceite** (`ga2-quem-faz-o-que`). Está pronto quando nenhuma dependência crítica fica sem dono.
 17. **Se as áreas não têm alçada para resolver o conflito,** a decisão sobe para quem responde pelo resultado das duas, com a leitura do quadro.
 18. **Acompanhe os atrasos nas passagens** e as devoluções por informação incompleta. Revise as causas de espera recorrente.
@@ -104,13 +104,12 @@ A escolha da representação nos materiais do curso permanece uma divergência e
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Quadro de uma frente ou área: quadro Kanban na pasta do caso (acréscimo do método:
-  a aula não fixa caminho). Nome: `<area>-kanban.md`, ex.: `delivery-kanban.md`.
+- Quadro de uma frente ou área: quadro Kanban na pasta do caso (Diretriz prática: a aula não fixa caminho). Nome: `<area>-kanban.md`, ex.: `delivery-kanban.md`.
 - Kanban da carteira de iniciativas: registro da carteira na pasta do caso (já existe; esta skill é quem o mantém).
 - Cartão novo na carteira de iniciativas entra com as 6 linhas do padrão de comunicação
-  (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava (acréscimo do método) §1).
+ (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava §1).
 - Depois: políticas de WIP e urgência (`ga2-politicas-wip-urgencia`), plano do ciclo
-  (`ga2-plano-do-ciclo`), diária (`ga2-gestao-diaria`).
+ (`ga2-plano-do-ciclo`), diária (`ga2-gestao-diaria`).
 - Dependência entre áreas: campos "depende de" e "entrega para" no cartão, coluna "Aguardando outra área" e acordos entre áreas com entradas, saídas e datas de passagem.
 
 ## Formas de saída

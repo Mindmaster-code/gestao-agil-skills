@@ -17,7 +17,7 @@ Vive no **Passo 5 — Melhoria Contínua** (artefato central da v6, aula 01).
 ## Fonte no método
 
 - Base do método — Passo 5: Melhoria Contínua §2.9, §2.6 (barbell), §4.1, §4.7 (folha de experimento),
-  §6.3, regras 5–9, divergência 22 — v6 aulas 01, 03, 04 (não há aula ao vivo).
+ §6.3, regras 5–9, divergência 22 — v6 aulas 01, 03, 04 (não há aula ao vivo).
 - Template oficial: Canvas Editável — Quadro Kaizen do Ciclo, v6, Passo 5 (referência de origem; modelo público nos assets).
 - Folha de experimento (lado 10–20): skill `ga2-folha-de-experimento`; as seis perguntas e os limites estão na referência de método dessa skill.
 
@@ -46,19 +46,19 @@ A fonte registra uma divergência de nomenclatura entre Kaizen e experimento (di
 ## Como conduzir
 
 1. **Registrar o sinal antes de pensar em solução.** Pergunta: "O que aconteceu, qual métrica,
-   qual o número de hoje, qual a meta?" Escreve fato sem culpado. "Segure a vontade de
-   escolher a solução agora." Recusa: sinal que é opinião do chefe — o quadro vira lista de ideias.
+ qual o número de hoje, qual a meta?" Escreve fato sem culpado. "Segure a vontade de
+ escolher a solução agora." Recusa: sinal que é opinião do chefe — o quadro vira lista de ideias.
 2. **Passar as ideias pelo filtro**: sob controle do time? cabe em um ciclo? move um
-   atrito repetido? A primeira que passa vira aposta; as outras vão para a **fila**.
+ atrito repetido? A primeira que passa vira aposta; as outras vão para a **fila**.
 3. **Uma aposta, dono, prazo, o que esperamos.** Recusa: duas mudanças juntas; teste grande
-   que arrisca a operação.
+ que arrisca a operação.
 4. **Rodar dentro do ciclo**, no lado 80–90. Registrar desvios.
 5. **Voltar ao número** no fim do ciclo. "O que aconteceu de fato?" com evidência.
 6. **Decidir com verbo:** manter (escrever o padrão onde o time trabalha), ajustar (nova dose,
-   novo Kaizen), descartar (registrar; "não procurar duas vezes no mesmo lugar").
+ novo Kaizen), descartar (registrar; "não procurar duas vezes no mesmo lugar").
 7. **Fechar** com próximo passo e data. Quadro aberto há mais de 30 dias entra no relatório ao responsável pela coordenação.
 
-## A fila de melhorias `(acréscimo do laboratório)`
+## A fila de melhorias
 
 O canvas v6 é uma folha por melhoria. Mantenha uma **fila** no documento escolhido:
 ID · sinal · métrica e número · origem · dono · status (fila / em teste / fechado) · decisão.
@@ -69,10 +69,10 @@ Uma em teste por ciclo por dono; o resto espera. Ideia sem número de hoje não 
 - "Sem número de hoje não existe melhoria — existe opinião. Anote mesmo estimado." (canvas Painel v6)
 - "Uma mudança por ciclo, uma variável por vez."
 - "Toda melhoria termina num verbo: manter, ajustar ou descartar. Sem essa decisão, a
-  melhoria fica aberta para sempre."
+ melhoria fica aberta para sempre."
 - "O que funcionou vira padrão escrito onde o time trabalha."
 - "Reserve 10–20% do ciclo para a aposta; 80–90% fica no comprovado; o meio morno fica
-  vazio." (; política de inovação descrita neste método)
+ vazio." (; política de inovação descrita neste método)
 - "Uma melhoria em 30 dias: semana 1 sinal e número; 2 teste; 3 evidência; 4 decisão."
 
 ## Saída
@@ -146,7 +146,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - **Leve**: sinal com número · aposta · dono · prazo · decisão — cinco linhas.
 - **Intermediária** (ciclo da equipe): template completo, fila mantida.
 - **Robusta** (melhoria de resultado com KR): acrescenta de/para por KR e ligação ao check-in
-  semanal do OKR; fecha em até 30 dias com decisão escrita e padrão.
+ semanal do OKR; fecha em até 30 dias com decisão escrita e padrão.
 
 ## Erros comuns
 

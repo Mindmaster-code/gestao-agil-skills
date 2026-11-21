@@ -18,91 +18,91 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:kr_1 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #2 (Objetivo #1)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #3 (Objetivo #1)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #4 (Objetivo #1)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_4 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #5 (Objetivo #1)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_5 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #1 (Objetivo #2)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2_1 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #2 (Objetivo #2)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2_2 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #3 (Objetivo #2)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2_3 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #4 (Objetivo #2)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2_4 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #5 (Objetivo #2)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_2_5 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #1 (Objetivo #3)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3_1 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #2 (Objetivo #3)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3_2 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #3 (Objetivo #3)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3_3 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #4 (Objetivo #3)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3_4 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR #5 (Objetivo #3)** — Resultados-chave: métricas (KPI) específicas e mensuráveis que indicam o progresso em direção ao objetivo. Mínimo 2, máximo 5. (uma linha por item):
 <!-- c:kr_3_5 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 ## O que vamos iniciar
 
@@ -110,16 +110,16 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:iniciativas -->
 | KR | Iniciativa | Dono |
 |---|---|---|
-|  |  |  |
+| | | |
 
 **Iniciativas (Objetivo #2)** — Ações, Projetos ou Esforços Específicos que serão executados para atingir os resultados-chave (uma linha por item):
 <!-- c:iniciativas_2 -->
 | KR | Iniciativa | Dono |
 |---|---|---|
-|  |  |  |
+| | | |
 
 **Iniciativas (Objetivo #3)** — Ações, Projetos ou Esforços Específicos que serão executados para atingir os resultados-chave (uma linha por item):
 <!-- c:iniciativas_3 -->
 | KR | Iniciativa | Dono |
 |---|---|---|
-|  |  |  |
+| | | |

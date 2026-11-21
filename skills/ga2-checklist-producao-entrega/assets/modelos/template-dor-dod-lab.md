@@ -22,7 +22,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:dor -->
 | OK | Item |
 |---|---|
-|  |  |
+| | |
 
 ## Portão de saída
 
@@ -34,4 +34,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:dod -->
 | OK | Item | Prova |
 |---|---|---|
-|  |  |  |
+| | | |

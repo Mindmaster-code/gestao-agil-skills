@@ -23,7 +23,7 @@ Voz do cliente do mês (ficha B09)
 
 ## Erros comuns (da aula)
 
-- Apresentar em slide em vez de mostrar funcionando (v6 aula 07).
+- Apresentar em slide em vez de mostrar funcionando (material de referência).
 - Só o líder fala; quem fez não mostra.
 - Esconder o que não saiu (v6 slide 06).
 - Medir contra a expectativa que cresceu no meio do caminho (Kit Implementação).

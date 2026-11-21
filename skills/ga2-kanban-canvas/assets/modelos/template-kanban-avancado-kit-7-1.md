@@ -10,18 +10,18 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:foto -->
 | Sprint backlog | Fazendo | Em validação | Feito |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |
 
 **Colunas fluxo** (uma linha por item):
 <!-- c:colunas_fluxo -->
 | Coluna | Limite WIP |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
+| | |
+| | |
+| | |
 
 **Impedimentos** (uma linha por item):
 <!-- c:bloqueios -->
 | Item |
 |---|
-|  |
+| |

@@ -17,15 +17,15 @@
 
 ## 1. Manter (o que funcionou e queremos de novo) <!-- c:manter -->
 
-- 
+-
 
 ## 2. Melhorar (o que atrapalhou o jeito de trabalhar — situação com fonte, nunca pessoa) <!-- c:melhorar -->
 
-- 
+-
 
 ## 3. Parar (o que decidimos deixar de fazer) <!-- c:parar -->
 
-- 
+-
 
 ## 4. Filtro das ideias
 

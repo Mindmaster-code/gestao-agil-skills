@@ -69,9 +69,9 @@ O ciclo usa somente pedidos simulados. A alteração em produção não está au
 
 ## Linha para o cartão
 
-```text
+`text
 Dono: Mariana · Aceitante: Mariana · Gate: Mariana (mudança em produção, pedido 14/09, decisão prevista 21/09) · Executa: Lucas · Apoio: nenhum
-```
+`
 
 ## Revisão de responsabilidades (exemplo de outro ramo)
 

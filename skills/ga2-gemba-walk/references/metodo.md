@@ -11,15 +11,15 @@ que mais trava; e, por regra, pelo menos uma hora por mês. Entra antes: um núm
 painel ou um cartão parado. Sai depois: **um fato que nenhum relatório contaria**, levado
 para a retro, o A3 ou o Quadro Kaizen.
 
-Vive no **Passo 5 — Melhoria Contínua** (M07 A12; v6 aula 08).
+Vive no **Passo 5 — Melhoria Contínua** (M07 A12; material de referência).
 
 ## Fonte no método
 
-- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; v6 aula 08.
+- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; material de referência.
 - Template oficial: Canvas Editável — Roteiro do Vá e Veja, v6, Passo 5 (referência de origem; modelo público nos assets).
 - Regra de verificação adotada pelo laboratório: "pronto só depois de verificar pelo caminho real do usuário".
 
-## O gemba de uma operação de agentes `(acréscimo do laboratório)`
+## O gemba de uma operação de agentes
 
 Em uma operação digital, o local de trabalho pode ser um sistema. "Ir ao lugar" é abrir a prova pelo caminho real em vez de ler
 o report de quem fez:
@@ -39,29 +39,29 @@ do responsável técnico autorizado. Ler log, listar arquivo e abrir URL é obse
 ## Como conduzir
 
 1. **Escolher o lugar.** Pergunta: "Qual passo do fluxo mais trava hoje?" Escreve onde é o
-   gemba (serviço, arquivo, caixa, URL). Recusa: gemba escolhido por conveniência.
+ gemba (serviço, arquivo, caixa, URL). Recusa: gemba escolhido por conveniência.
 2. **Escrever a pergunta antes de ir.** Uma só. "O que eu quero entender?" Recusa: pergunta
-   que começa com "quem" — vira caça ao culpado.
+ que começa com "quem" — vira caça ao culpado.
 3. **Com quem.** Quem executa, não quem reporta: o agente dono do cartão, o log do serviço, o
-   aluno na tela. Marcar quando e quanto tempo (1–2 h; em operação digital, 15–30 min por gemba de log).
+ aluno na tela. Marcar quando e quanto tempo (1–2 h; em operação digital, 15–30 min por gemba de log).
 4. **Observar sem corrigir.** Anotar **só o que viu**: linha do log, data do arquivo, texto
-   da carta. Recusa: opinião ("parece desorganizado"); corrigir no meio da observação.
+ da carta. Recusa: opinião ("parece desorganizado"); corrigir no meio da observação.
 5. **O que me surpreendeu.** Uma linha — o fato que o relatório não contaria.
 6. **Por que isto acontece.** 5 porquês até a causa no processo, nunca na pessoa.
 7. **Contramedida.** Cabe num teste pequeno → Quadro Kaizen; causa incerta ou várias áreas →
-   A3; exige código, infra ou timer → pedido ao responsável técnico: o que, por quê, dono, pronto é, prazo e onde trava.
+ A3; exige código, infra ou timer → pedido ao responsável técnico: o que, por quê, dono, pronto é, prazo e onde trava.
 8. **Quem padroniza e prazo.** Sair com uma ação, dono e data. Recusa: gemba que termina em
-   "interessante".
+ "interessante".
 
 ## Regras do método que valem aqui
 
 - "Vá ver antes de decidir. Relatório comprime a realidade." (M07 A12)
-- "Uma hora por mês no lugar onde o trabalho acontece." (v6 aula 08)
-- "Pergunta escrita antes, nunca começando com 'quem'." (v6 aula 08)
+- "Uma hora por mês no lugar onde o trabalho acontece." (material de referência)
+- "Pergunta escrita antes, nunca começando com 'quem'." (material de referência)
 - "Observe o processo pessoalmente; converse com quem executa; não culpe nem julgue; planeje
-  contramedidas; padronize e replique." (A12 — cinco princípios)
+ contramedidas; padronize e replique." (A12 — cinco princípios)
 - "Problemas quase sempre têm causa raiz no processo, não nas pessoas. Se o processo permite
-  que o erro aconteça, o erro vai acontecer." (M07 A12)
+ que o erro aconteça, o erro vai acontecer." (M07 A12)
 - "O número diz que caiu; só o lugar diz por quê." (canvas v6)
 - "Métrica ruim gera pergunta e A3, não cobrança automática." (M07 A06)
 
@@ -71,8 +71,8 @@ Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Do
 
 - Arquivo: registro do Gemba com data e nome no destino escolhido (template em `template.md`).
 - Depois: o fato vai para a retro da sexta, para um A3 (pasta escolhida para o A3) ou para o
-  Quadro Kaizen; a contramedida que é código/infra vira pedido ao responsável técnico autorizado; o cartão do portfólio
-  recebe "última prova" com a data do gemba. Pelo menos um gemba por semana num cartão parado.
+ Quadro Kaizen; a contramedida que é código/infra vira pedido ao responsável técnico autorizado; o cartão do portfólio
+ recebe "última prova" com a data do gemba. Pelo menos um gemba por semana num cartão parado.
 
 ## Formas de saída
 
@@ -138,12 +138,12 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 - **Leve** (gemba de log, 15 min): onde · pergunta · o que vi · surpresa · ação.
 - **Intermediária** (cartão parado, 30–60 min): template completo.
 - **Robusta** (problema que atravessa áreas, 1–2 h): com quem executa em mais de uma área,
-  5 porquês completo, saída direto para A3.
+ 5 porquês completo, saída direto para A3.
 
 ## O que não fazer
 
 - Transformar em fiscalização — "a equipe mostra a versão apresentável e você gastou a manhã
-  para ver o relatório ao vivo".
+ para ver o relatório ao vivo".
 - Corrigir durante a observação.
 - Pergunta com "quem".
 - Sair sem ação.

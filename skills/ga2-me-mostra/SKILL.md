@@ -18,9 +18,9 @@ Determine o objeto antes de escolher o formato:
 
 1. Se o pedido atual nomeia um caso, processo, artefato ou decisão, esse é o objeto.
 2. Se usa “isso”, “aqui”, “o que falamos”, “este caso” ou apenas “me mostra”, use o caso ou
-   artefato de gestão mais recente da conversa atual.
+ artefato de gestão mais recente da conversa atual.
 3. O nome do plug-in ou da habilidade serve apenas para invocá-la. Nunca o use como objeto por
-   padrão. Mostre o método Gestão Ágil 2.0 somente quando o usuário pedir isso explicitamente.
+ padrão. Mostre o método Gestão Ágil 2.0 somente quando o usuário pedir isso explicitamente.
 
 Prenda a resposta aos elementos concretos disponíveis no caso, como números, etapas, pessoas,
 bloqueios ou decisões. Quando a conversa contiver dois ou mais desses elementos, use pelo menos
@@ -59,7 +59,7 @@ biblioteca externa ou imagem remota.
 - Em outro ambiente, use o recurso equivalente.
 - Não escolha pela marca do modelo. Verifique o que o ambiente oferece.
 - Quando a saída escolhida for HTML e não houver recurso nativo, salve `.html` e mostre um resumo.
-  Markdown acompanha somente quando necessário ao fluxo. Informe o caminho do HTML.
+ Markdown acompanha somente quando necessário ao fluxo. Informe o caminho do HTML.
 
 Para entrega visual sem outro formato pedido, gere HTML. Para Word, Docs ou planilhas solicitados, siga a entrega editável.
 

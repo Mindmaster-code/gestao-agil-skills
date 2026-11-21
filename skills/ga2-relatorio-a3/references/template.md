@@ -1,7 +1,7 @@
 <!-- modelos: a3-kit-10.json, a3-v6.json -->
 # Relatório A3 — template (10 campos; v6 como superconjunto)
 
-Legenda: os campos indicam quando servem às duas versões, quando são exclusivos da v6 ou quando resultam de adaptação metodológica.
+Legenda: os campos indicam quando servem às duas versões, quando são exclusivos da v6 ou quando resultam de aplicação do método.
 Preencha da esquerda para a direita. Um caso por A3. Cabe em uma página.
 
 | Campo | Resposta |
@@ -17,7 +17,7 @@ Preencha da esquerda para a direita. Um caso por A3. Cabe em uma página.
 
 ## LADO ESQUERDO — entender o problema (PDCA: **Plan**)
 
-### 1. Contexto — por que este caso importa  <!-- c:contexto -->
+### 1. Contexto — por que este caso importa <!-- c:contexto -->
 Por que vale gastar energia agora? Ligue a receita, cliente, custo ou risco. 2–3 frases.
 
 >
@@ -30,7 +30,7 @@ Só fato com número, fonte e data.
 |---|---|---|---|
 | | | | |
 
-### 3. Situação desejada (ideal) — onde quero chegar  <!-- c:situacao_desejada -->
+### 3. Situação desejada (ideal) — onde quero chegar <!-- c:situacao_desejada -->
 Número e prazo: "de ____ para ____ até ____".
 
 >
@@ -43,7 +43,7 @@ Número e prazo: "de ____ para ____ até ____".
 |---|---|---|---|---|
 | | | | | |
 
-### 5. Causa raiz — por que o problema acontece  <!-- c:causa_raiz -->
+### 5. Causa raiz — por que o problema acontece <!-- c:causa_raiz -->
 Resultado dos 5 Porquês / Ishikawa (`ga2-causa-raiz`). Processo ou regra, não pessoa.
 
 >
@@ -52,7 +52,7 @@ Resultado dos 5 Porquês / Ishikawa (`ga2-causa-raiz`). Processo ou regra, não 
 
 ## LADO DIREITO — escolher e acompanhar a solução (PDCA: fim do **Plan** → **Do** → **Check** → **Act**)
 
-### 6. Contramedidas — o que vai atacar a causa  — fim do Plan
+### 6. Contramedidas — o que vai atacar a causa — fim do Plan
 Uma por causa. Teste: "isso ataca a causa? se eu cortar, a causa continua?"
 
 <!-- c:contramedidas -->
@@ -62,7 +62,7 @@ Uma por causa. Teste: "isso ataca a causa? se eu cortar, a causa continua?"
 | C2 | | |
 | C3 | | |
 
-### 7. Plano de ação — 5W2H  — Do
+### 7. Plano de ação — 5W2H — Do
 Obrigatório pela aula: **o quê · quem · quando**. As demais colunas completam quando há mais de um passo.
 
 <!-- c:plano -->
@@ -74,7 +74,7 @@ Obrigatório pela aula: **o quê · quem · quando**. As demais colunas completa
 
 Regra desta adaptação: cada linha cabe em uma semana do dono; maior que isso, corte.
 
-### 8. Métricas — como vou medir  — Check
+### 8. Métricas — como vou medir — Check
 Mesma medida do campo 2.
 
 <!-- c:metricas -->
@@ -82,7 +82,7 @@ Mesma medida do campo 2.
 |---|---|---|---|---|---|
 | | | | | | |
 
-### 9. Acompanhamento — como está indo  — Check
+### 9. Acompanhamento — como está indo — Check
 Quando vou revisar? Com quem?
 
 <!-- c:acompanhamento -->
@@ -91,7 +91,7 @@ Quando vou revisar? Com quem?
 | | | | |
 | | | | |
 
-### 10. Aprendizado do ciclo — o que ficou  — Act <!-- c:aprendizado -->
+### 10. Aprendizado do ciclo — o que ficou — Act <!-- c:aprendizado -->
 Para repetir ou evitar; o que vai para o próximo ciclo; se virou padrão, onde foi documentado.
 
 >

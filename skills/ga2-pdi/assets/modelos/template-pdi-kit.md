@@ -25,7 +25,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:forcas_lacuna -->
 | Lacuna |
 |---|
-|  |
+| |
 
 ## Plano de ação
 
@@ -33,4 +33,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:plano_acao -->
 | Ação | Recursos | Prazo | Métrica |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |

@@ -76,7 +76,7 @@ As duas versões oficiais não batem (Base do método — Passo 7 §8.4–8.5):
 | Roteiro v6 02 | slide 08 "NPS 3,8 meta 4,3"; slide 09 "NPS 55 meta 50" | — |
 
 Contradição de fundo: a aula 03 diz "quem decide não quer atingimento, quer palavra", e o
-HTML exibe porcentagem. **Adaptação do laboratório preservada nesta referência:** o template usa um
+HTML exibe porcentagem. **aplicação prática preservada nesta referência:** o template usa um
 indicador por pilar (HTML), mantém a linha North Star (planilha) e mostra a **palavra** de
 status, com a % só entre parênteses. A fonte registra divergência na escala NPS/CSAT;
 não presuma que escalas distintas foram unificadas.
@@ -152,7 +152,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 ## Adaptação
 
 - **Leve** (área pequena, ciclo semanal): só cabeçalho, três pilares e leitura. Sem evolução até ter 4 ciclos.
-- **Intermediária** (diretor de área): blocos completos + linha North Star + métricas de fluxo como apêndice (tempo de ciclo, bloqueado, em gate, data cumprida, aceite na 1ª, retrabalho, parados, relatórios). As métricas de fluxo são **acréscimo do laboratório** — a aula não as lista; origem: Modelo Operacional de Demandas, §17, transcritas no apêndice do template.
+- **Intermediária** (diretor de área): blocos completos + linha North Star + métricas de fluxo como apêndice (tempo de ciclo, bloqueado, em gate, data cumprida, aceite na 1ª, retrabalho, parados, relatórios). As métricas de fluxo são **prática aplicada** — a aula não as lista; origem: Modelo Operacional de Demandas, §17, transcritas no apêndice do template.
 - **Robusta** (aluno com número de sistema): planilha oficial, aba Evolução, exportar PDF, relatório executivo junto.
 
 ## Erros comuns

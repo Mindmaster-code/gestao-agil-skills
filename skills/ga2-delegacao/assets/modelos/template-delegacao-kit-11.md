@@ -10,10 +10,10 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:assuntos_4 -->
 | Tarefa | Nível 1 | Nível 2 | Nível 3 | Nível 4 |
 |---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |

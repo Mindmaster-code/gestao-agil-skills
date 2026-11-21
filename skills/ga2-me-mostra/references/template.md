@@ -13,13 +13,13 @@ a decisão.
 
 ## Visual
 
-**Intenção:** <estado atual | mudança | diagnóstico | decisão>  
+**Intenção:** <estado atual | mudança | diagnóstico | decisão>
 **Forma visual:** <fluxo | quadro visual do trabalho (Kanban) | raias | atual×desejado | antes×depois |
 esperado×observado | causa | dependência | matriz | árvore | linha do tempo | painel>
 
-```text
+`text
 <visual principal>
-```
+`
 
 ## Prova
 

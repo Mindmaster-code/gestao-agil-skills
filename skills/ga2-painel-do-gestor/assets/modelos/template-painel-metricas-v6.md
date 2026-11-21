@@ -18,17 +18,17 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:pilares -->
 | Indicador | Atual | Meta |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| | | |
+| | | |
+| | | |
 
 **Pilares medicao** (uma linha por item):
 <!-- c:pilares_medicao -->
 | Quando | Quem |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
+| | |
+| | |
+| | |
 
 ## Métrica-estrela
 
@@ -36,4 +36,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:north_star -->
 | Métrica |
 |---|
-|  |
+| |

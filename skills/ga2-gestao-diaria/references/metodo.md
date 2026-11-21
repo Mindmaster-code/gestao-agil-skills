@@ -8,21 +8,21 @@ frente ao quadro, para inspecionar o avanço rumo à meta do ciclo e planejar as
 Não é prestação de contas ao chefe; no minuto em que vira isso, ela morre.
 
 Entra antes: Plano do Ciclo com meta escrita e quadro com cartões nomeados. Sai depois: quadro
-atualizado, impedimentos com dono para resolver fora da reunião, e o registro do dia. No acréscimo do método
+atualizado, impedimentos com dono para resolver fora da reunião, e o registro do dia. Na prática
 (diária entre agentes) não há reunião em pé: a diária é a **leitura dos resumos e da caixa de mensagens** que quem conduz o método faz ao abrir a
 sessão, e a saída é cobrança por escrito, com data, quando um cartão está parado.
 
 ## Fonte no método
 
 - Base do método: Passo 4 — Ritmo Ágil §2.8 (Daily Scrum), §3 regras 7, 8, 12, 22, §4.9 (campos — sem
-  template de equipe), §5 (linha "Reunião diária"), §6 item 3 (diária entre agentes), §8 itens 11 e 16.
+ template de equipe), §5 (linha "Reunião diária"), §6 item 3 (diária entre agentes), §8 itens 11 e 16.
 - Base do método: Passo 3 — Gestão Visual §5 (daily em frente ao quadro, da direita para a esquerda).
 - Aulas: M06 A14 (Reunião Diária), A15 (cópia da A14, "Gestão Diária na Prática"), A09
-  (atualizar o Kanban todo dia); v6 pasta 05 aula 04.
+ (atualizar o Kanban todo dia); v6 pasta 05 aula 04.
 - Template: só individual — folha individual «gestao-diaria-ga2.pdf» (artefato 09: semana
-  de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
-  os campos desta skill são construção deste pacote a partir de A14 e v6 aula 04.
-- Acréscimo do método: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
+ de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
+ os campos desta skill são construção deste pacote a partir de A14 e material de referência.
+- Diretriz prática: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
 - Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal (passos 16 a 26).
 
 ## Como conduzir
@@ -30,20 +30,20 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 ### A. Reunião diária de equipe (pessoas)
 
 1. **Fixe o ritual uma vez:** horário, lugar (ou link), facilitador, quadro que será olhado,
-   teto de 15 min. Pergunta: "A que horas, onde, em frente a qual quadro?" Recuse "quando der".
+ teto de 15 min. Pergunta: "A que horas, onde, em frente a qual quadro?" Recuse "quando der".
 2. **Meta do ciclo no alto.** Leia em voz alta (30 s) para que todos lembrem o porquê (A14).
 3. **Percorra o quadro da direita para a esquerda** (Passo 3 §5): primeiro o que está quase
-   pronto, depois o que está no limite, depois o que avançou.
+ pronto, depois o que está no limite, depois o que avançou.
 4. **Três perguntas por pessoa, apontando o cartão:** o que entreguei desde ontem · o que vou
-   puxar hoje · o que me trava. Recuse narrar a agenda; fala do cartão, não do dia.
+ puxar hoje · o que me trava. Recuse narrar a agenda; fala do cartão, não do dia.
 5. **Impedimento vira lista, não debate.** Anote: o quê · dono · até quando. Resolva depois,
-   fora da diária, só com quem precisa (v6 aula 04). Recuse resolver ali ("vira 40 minutos").
+ fora da diária, só com quem precisa (material de referência). Recuse resolver ali ("vira 40 minutos").
 6. **Mova os cartões durante a reunião** (A09: atualizar todo dia). Marque bloqueio e idade.
 7. **Registre o tempo real.** 15 min é teto; 7 min é bom. Se passou, a reunião virou relatório
-   ou debate — pauta da retro.
+ ou debate — pauta da retro.
 8. **Quem participa:** quem trabalha nos itens. SM e PO (quem cuida do processo e quem dá o
-   rumo) podem assistir; o responsável pela área recomenda que participem, a v6 diz que a reunião não é
-   para eles. No acréscimo do método: participam calados, salvo impedimento que só eles destravam.
+ rumo) podem assistir; o responsável pela área recomenda que participem, a v6 diz que a reunião não é
+ para eles. No Diretriz prática: participam calados, salvo impedimento que só eles destravam.
 
 ### B. Diária entre agentes (resumos e caixa de mensagens) — o que quem conduz o método lê todo dia
 
@@ -52,10 +52,10 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 11. **Acompanhamento:** resumos diários, registros de demandas e documentos de acompanhamento das áreas atualizados nos últimos 7 dias. Use só para atualizar "Última prova" de cartão que mexeu.
 12. **Cadência:** registros de reporte e pasta do ciclo atual. Arquivo que não existe = ritual que não aconteceu.
 13. **Responda as três perguntas por cartão do ciclo:** avançou (prova nova)? puxa hoje (próximo
-    passo escrito)? trava (gate, dependência, dias parado)?
+ passo escrito)? trava (gate, dependência, dias parado)?
 14. **Dispare cobrança por escrito quando:** cartão parado ≥3 dias úteis sem prova nova · compromisso do plano
-    perdeu a data (marque `atrasado dd/mm` no plano no mesmo dia) · gate sem decisor nomeado ·
-    cartão sem dono (vai ao responsável pela área, não ao dono). Uma cobrança por dia; o resto espera a varredura de quarta.
+ perdeu a data (marque `atrasado dd/mm` no plano no mesmo dia) · gate sem decisor nomeado ·
+ cartão sem dono (vai ao responsável pela área, não ao dono). Uma cobrança por dia; o resto espera a varredura de quarta.
 15. **Escreva o registro do dia** em 5 linhas (formato em `template.md`), salve e registre a versão; commit quando houver repositório.
 
 ### C. Modo pessoal (fechar o expediente e preparar o próximo dia)
@@ -84,27 +84,27 @@ Como o modo se liga ao resto: na folha individual (artefato 09), o fechamento pr
 ## Regras do método que valem aqui
 
 - 15 minutos é teto, não meta; mesmo horário, mesmo lugar, em frente ao quadro; fala do cartão,
-  não da agenda. (A14, v6 04)
+ não da agenda. (A14, v6 04)
 - Diária não é prestação de contas ao chefe; é alinhamento entre pares. (v6 04)
 - Problema levantado se anota e se resolve depois, só com quem precisa. (A14, v6 04)
 - Atualize o quadro todo dia, antes ou durante a diária. Atrasar cria situação falsa. (A09)
 - Diária sem meta é status disfarçado. (v6 09)
 - "Um dia parado é 20% do ciclo." (v6 04)
 - Equipes sem diária têm reunião o dia inteiro. (A14)
-- Acréscimo do método: cartão parado ≥3 dias úteis → cobrança por escrito; ≥10 dias → escala ao responsável pela área. (registro da carteira de iniciativas na pasta do caso)
+- Diretriz prática: cartão parado ≥3 dias úteis → cobrança por escrito; ≥10 dias → escala ao responsável pela área. (registro da carteira de iniciativas na pasta do caso)
 
 ## Saída
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Equipe: registro diário em registro da diária na pasta do caso (acréscimo do método),
-  uma seção por dia; impedimentos com dono e prazo.
+- Equipe: registro diário em registro da diária na pasta do caso,
+ uma seção por dia; impedimentos com dono e prazo.
 - Quem conduz o método: status de 5 linhas na sessão (formato de registro diário descrito em `template.md`) e, quando houver,
-  cobrança com data e destinatário no canal combinado.
+ cobrança com data e destinatário no canal combinado.
 - registro da carteira de iniciativas na pasta do caso atualizado: "Última prova", "Dias parado", marca de bloqueio.
 - Pessoa (modo pessoal): fechamento do expediente (estado das entregas, retornos enviados, assuntos com destino) e preparo do dia seguinte (prioridade, primeiro passo, dependências), no registro que ela já usa; o quadro em dia.
 - Depois: impedimento que passa de 2 diárias seguidas vira pauta da retro; urgência detectada
-  segue `ga2-politicas-wip-urgencia`.
+ segue `ga2-politicas-wip-urgencia`.
 
 ## Formas de saída
 

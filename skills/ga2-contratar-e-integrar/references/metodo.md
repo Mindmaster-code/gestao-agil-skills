@@ -35,9 +35,9 @@ A revisão da necessidade de pessoas leva de 60 a 90 minutos. Faça-a a cada tri
 1. **Descreva o trabalho** e os resultados que precisam ser sustentados.
 2. **Ache o gargalo,** a etapa que limita o ritmo de todo o trabalho, com os três sinais do quadro: a coluna mais cheia, o cartão mais velho e quanto o time entrega por semana (a vazão). Sem quadro, levante os três sinais à mão nas últimas semanas, ou monte o quadro antes (`ga2-kanban-canvas`).
 3. **Teste as três saídas, uma a uma,** com evidência, e marque "resolve" ou "não resolve" para cada uma, anotando na evidência o quanto ela alivia:
-   - mudar o processo para tirar o gargalo;
-   - redistribuir o trabalho entre quem já está na equipe;
-   - desenvolver alguém da equipe.
+ - mudar o processo para tirar o gargalo;
+ - redistribuir o trabalho entre quem já está na equipe;
+ - desenvolver alguém da equipe.
 4. **Se uma delas resolver, teste essa antes de contratar.** Só se nenhuma resolver, a vaga é a resposta.
 5. **Defina a necessidade:** o resultado que exige competência adicional, o perfil necessário e o benefício esperado.
 6. **Obtenha a decisão e os recursos** com quem tem alçada, o limite do que cada pessoa decide sozinha. Escreva a data do teste.
@@ -59,9 +59,9 @@ A seleção é um trabalho que se repete, e por isso ganha um POP (procedimento 
 14. **Antes da entrada** (preparação de 30 a 60 minutos): deixe prontos os recursos, os acessos, a agenda inicial, os procedimentos escritos e as primeiras entregas. Escolha quem vai acolher e um colega de referência.
 15. **No primeiro dia,** explique o contexto, as responsabilidades, as relações e o que conta como bom trabalho. Apresente os procedimentos escritos.
 16. **Escreva o trabalho de cada degrau:**
-    - 1. Acompanha: que trabalhos a pessoa só observa, e com quem?
-    - 2. Faz com orientação: que trabalhos faz com alguém ao lado?
-    - 3. Entrega sozinha: que trabalhos entrega sozinha, e desde quando?
+ - 1. Acompanha: que trabalhos a pessoa só observa, e com quem?
+ - 2. Faz com orientação: que trabalhos faz com alguém ao lado?
+ - 3. Entrega sozinha: que trabalhos entrega sozinha, e desde quando?
 17. **Defina a primeira entrega** e o critério de aceite.
 18. **Marque os pontos de conversa em 7, 30, 60 e 90 dias,** com a data real de cada um e o degrau em que a pessoa está. Nos pontos, revise o entendimento, as dificuldades e a autonomia, e combine o que vem a seguir. Cada ponto pode ser uma conversa de acompanhamento (`ga2-conversa-individual`).
 19. **Trate o impedimento antes de cobrar domínio.** Se faltarem acesso ou orientação, resolva isso primeiro. Evite concentrar toda a integração em apresentações do primeiro dia.

@@ -47,29 +47,29 @@ um único executor.
 ## Como conduzir
 
 1. **Confira se é caso de POP.** Pergunta: "isso repete sem data fim? depende de uma pessoa
-   (ou uma automação) só? é o gargalo achado no briefing?" Recusa: POP da operação inteira
-   ("manual de 40 páginas que ninguém lê"); POP de projeto (projeto tem fim — vai para briefing).
+ (ou uma automação) só? é o gargalo achado no briefing?" Recusa: POP da operação inteira
+ ("manual de 40 páginas que ninguém lê"); POP de projeto (projeto tem fim — vai para briefing).
 2. **Nome e identificação.** Pergunta: "como todo mundo chama isso? qual código localiza?"
-   Escreve nome, data, código mnemônico (ex.: `POP-COB-001`), versão `v1.0`.
+ Escreve nome, data, código mnemônico (ex.: `POP-COB-001`), versão `v1.0`.
 3. **Objetivo e escopo.** Pergunta: "para que existe? o que fica fora?" Recusa: objetivo sem
-   o resultado ("padronizar" não é objetivo; "todo pedido sai certo na primeira" é).
+ o resultado ("padronizar" não é objetivo; "todo pedido sai certo na primeira" é).
 4. **Responsabilidades.** Pergunta por papel: "quem faz? quem é dono e cobra? quem aprova
-   exceção? quem recebe a saída?" Recusa: passo sem responsável; dois donos.
+ exceção? quem recebe a saída?" Recusa: passo sem responsável; dois donos.
 5. **Entrada (gatilho).** Pergunta: "o que faz o processo começar — evento, insumo, data?"
-   Recusa: "quando der" — precisa de gatilho observável.
+ Recusa: "quando der" — precisa de gatilho observável.
 6. **Passos.** Numerados, em sequência, um verbo por passo, com responsável e o que sai de
-   cada um. Pergunta por passo: "quem faz? com o quê? o que sai? como sabe que saiu certo?"
-   (critério de qualidade). Recusa: passo que só diz "analisar"; passo que depende de
-   "bom senso".
+ cada um. Pergunta por passo: "quem faz? com o quê? o que sai? como sabe que saiu certo?"
+ (critério de qualidade). Recusa: passo que só diz "analisar"; passo que depende de
+ "bom senso".
 7. **Saídas.** O que existe no fim que não existia no começo (documento, registro, mensagem).
 8. **Sistemas e como acessar.** Caminho, comando, login (sem segredo no POP). Recusa:
-   sistema citado sem instrução de acesso.
+ sistema citado sem instrução de acesso.
 9. **Indicadores.** Quais e onde ver. Pelo menos um de adesão (o padrão está sendo seguido?)
-   e um de resultado. Recusa: processo "que não dá para medir" — "todo processo pode ser medido".
+ e um de resultado. Recusa: processo "que não dá para medir" — "todo processo pode ser medido".
 10. **Exceções, riscos, monitoramento.** Pergunta: "o que sai do padrão e quem aprova? o que
-    pode dar errado e o que se faz antes? quem olha isso toda semana?"
+ pode dar errado e o que se faz antes? quem olha isso toda semana?"
 11. **Aprovação e revisão.** Nome, cargo, data de quem aprovou; data da próxima revisão.
-    Recusa: POP sem versão nem aprovação — "é rascunho".
+ Recusa: POP sem versão nem aprovação — "é rascunho".
 12. **Teste real.** Alguém que nunca fez executa só com o POP. Onde travou, o POP está errado.
 
 ## Cobertura: este processo sobrevive às suas férias? (fichas E10 e C09)

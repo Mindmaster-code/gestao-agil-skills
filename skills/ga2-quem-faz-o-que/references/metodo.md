@@ -16,11 +16,11 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 ## Fonte no método
 
 - Base do método: Passo 4 — Ritmo Ágil §2.15 (SM, PO e membros), §3 regras 6, 21, §4.13 (campos — sem
-  template), §7 perguntas 27–28, §8 item 12 (quem dá o feedback na review).
+ template), §7 perguntas 27–28, §8 item 12 (quem dá o feedback na review).
 - Base do método: Passo 3 — Gestão Visual §2.22 e §8.8 (papéis prometidos no Passo 3, sem aula), §6.4 (aplicação dos papéis).
 - Aulas: M06 A10 ("Gestão de Equipe Eficiente — Quem faz o quê"), slides em
-  «M06 A10 — Gestão de Equipe Eficiente — Quem faz o quê»; v6 pasta 05 aula 03
-  ("dono do ciclo / quem faz / quem recebe"); M02 A01 (visão geral).
+ «M06 A10 — Gestão de Equipe Eficiente — Quem faz o quê»; v6 pasta 05 aula 03
+ ("dono do ciclo / quem faz / quem recebe"); M02 A01 (visão geral).
 - Template: **não existe**. Os campos desta skill são construção deste pacote.
 - Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; roteiro de comunicação, cobertura e transição, página 3 (transição de responsabilidade), para as duas seções novas.
 - Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde trava.
@@ -33,7 +33,7 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 | PO ou "quem recebe o resultado" (v6) | **Aceitante** | confere a DoD e marca Aceita; está na review | não executa; não é o dono do processo |
 | Membros do time | **Executor(es)** | fazem o trabalho; decidem o como | não decidem o quê nem a prioridade |
 | — (Kit: "apoio") | **Apoio** | contribui sem dividir a responsabilidade | não vira co-dono; só vira demanda filha com dono/DoD/Aceitante próprios |
-| — (gate é acréscimo do método) | **Decisor de gate** | autoriza ação sensível (estrutura, contrato, preço, verba, produto, pessoa) | não é aceite; um "sim" vale só para a proposta pendente |
+| — (gate é prática aplicada) | **Decisor de gate** | autoriza ação sensível (estrutura, contrato, preço, verba, produto, pessoa) | não é aceite; um "sim" vale só para a proposta pendente |
 | Scrum Master | **Dono do processo** (quem conduz o método) | garante ritual, quadro, cobrança, métrica de fluxo | nunca é dono do resultado; não aceita entrega; não prioriza entre áreas |
 | Gerente ágil ("você") | liderança da área | entende o sistema, delega ou assume um papel; decide prioridade entre áreas | não acumula SM e PO |
 
@@ -41,20 +41,20 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 
 1. **Nomeie a frente e a entrega.** Pergunta: "Qual resultado esta frente produz? Para quem?"
 2. **Um dono.** Pergunta: "Quem responde se não sair?" Escreva um nome de pessoa. Recuse dois
-   nomes, nome de área e "a gente". Se dois acham que é deles, a fronteira está mal escrita —
-   aponte ao responsável pela área, não resolva o caso.
+ nomes, nome de área e "a gente". Se dois acham que é deles, a fronteira está mal escrita —
+ aponte ao responsável pela área, não resolva o caso.
 3. **Aceitante.** Pergunta: "Quem confere que ficou pronto e diz 'serve'?" Pode ser o responsável pela área,
-   o cliente interno ou quem lidera a frente. Recuse Aceitante = dono do processo. Aceite ≠ gate.
+ o cliente interno ou quem lidera a frente. Recuse Aceitante = dono do processo. Aceite ≠ gate.
 4. **Decisor de gate.** Pergunta: "Alguma etapa é ação sensível?" Se sim, nomeie quem autoriza
-   e escreva a proposta de gate (estado atual, mudança exata, risco, reversão). Recuse gate
-   "com a instância que decide" sem pessoa e data.
+ e escreva a proposta de gate (estado atual, mudança exata, risco, reversão). Recuse gate
+ "com a instância que decide" sem pessoa e data.
 5. **Executores.** Pergunta: "Quem faz, com autonomia sobre o como?" Nome e o que puxa primeiro.
 6. **Apoios.** Pergunta: "Quem ajuda sem responder?" Liste. Se um apoio tem DoD e Aceitante
-   próprios (ex.: um apoio publica o vídeo), vire **demanda filha** com dono próprio.
+ próprios (ex.: um apoio publica o vídeo), vire **demanda filha** com dono próprio.
 7. **Acumulações declaradas.** Pergunta: "Alguém é dono e também executa? Alguém cuida do
-   processo e também dá o rumo?" Escreva. Recuse SM + PO na mesma pessoa.
+ processo e também dá o rumo?" Escreva. Recuse SM + PO na mesma pessoa.
 8. **Transferência.** Se o dono muda, o novo aceita contexto e responsabilidade por escrito; até
-   lá o antigo responde (§6).
+ lá o antigo responde (§6).
 9. **Registre na matriz** e cole o dono no cartão do quadro e nas 6 linhas da demanda.
 
 ## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11)
@@ -93,11 +93,11 @@ Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e tra
 - Um líder não acumula SM e PO; pode ser um e delegar o outro. (A10)
 - Cartão com nome de pessoa, não de área; cartão de todo mundo não é de ninguém. (v6 03)
 - Quem recebe o resultado aparece na review. (v6 07)
-- Acréscimo do método: nenhuma demanda chega a Apta sem exatamente um dono; toda demanda tem DoD e Aceitante
-  antes de executar; apoio não vira co-dono. (modelo operacional §1, §6)
-- Acréscimo do método: gate responde "podemos fazer esta ação sensível?"; aceite responde "cumpriu a DoD?". Pessoas
-  podem ser diferentes. (§11)
-- Acréscimo do método: quem conduz o método é dono do processo; o responsável pela área é dono do resultado e Aceitante. (organograma l.214)
+- Diretriz prática: nenhuma demanda chega a Apta sem exatamente um dono; toda demanda tem DoD e Aceitante
+ antes de executar; apoio não vira co-dono. (modelo operacional §1, §6)
+- Diretriz prática: gate responde "podemos fazer esta ação sensível?"; aceite responde "cumpriu a DoD?". Pessoas
+ podem ser diferentes. (§11)
+- Diretriz prática: quem conduz o método é dono do processo; o responsável pela área é dono do resultado e Aceitante. (organograma l.214)
 - Papel previsto e papel assumido ficam lado a lado, e a diferença orienta a conversa. Salário justo é pré-requisito; ninguém promete reajuste nem promoção antes da aprovação. (aula 6; ficha E11)
 - Quando alguém sai ou muda de função, cada entrega ganha um dono único, que aceita por escrito, e quem assume faz o trabalho uma vez com quem sai ao lado. (aula 7; ficha E12)
 
@@ -105,12 +105,12 @@ Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e tra
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Matriz em matriz de papéis na pasta do caso (acréscimo do método), ou seção
-  "Papéis" dentro do STATUS/charter da frente (documento de acompanhamento do caso).
+- Matriz em matriz de papéis na pasta do caso, ou seção
+ "Papéis" dentro do STATUS/charter da frente (documento de acompanhamento do caso).
 - Coluna "Dono" do registro da carteira de iniciativas na pasta do caso recebe só o dono; apoio vai na coluna "Gate / trava"
-  ou na fonte, nunca como segundo dono.
+ ou na fonte, nunca como segundo dono.
 - Depois: cartão entra no Plano do Ciclo (`ga2-plano-do-ciclo`); DoD e Aceitante alimentam
-  `ga2-checklist-producao-entrega`; conflito de fronteira vira mensagem escrita ao responsável pela área.
+ `ga2-checklist-producao-entrega`; conflito de fronteira vira mensagem escrita ao responsável pela área.
 - Revisão de responsabilidades: matriz com "papel previsto" e "papel assumido", evidências e proposta para quem decide, em registro reservado.
 - Transição: lista do que a pessoa carrega, POP de cada entrega, dono único com aceite escrito e confirmação da continuidade (roteiro de comunicação, cobertura e transição, página 3).
 
@@ -134,7 +134,7 @@ Modelos canvas desta skill (specs `quem-faz-o-que-lab`):
 
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
-| `../assets/modelos/canvas-quem-faz-o-que-lab.html` **(padrão)** | Quem faz o quê · família acréscimo do método | "no canvas do método" | pronto |
+| `../assets/modelos/canvas-quem-faz-o-que-lab.html` **(padrão)** | Quem faz o quê · família prática aplicada | "no canvas do método" | pronto |
 
 Como preencher os modelos quando HTML ou canvas for solicitado:
 

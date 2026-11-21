@@ -13,38 +13,38 @@ copiada "sem maquiagem".
 ## Fonte no método
 
 - Base do método: Passo 4 — Ritmo Ágil §2.4 (ciclo), §2.6 (planejamento), §2.7 (sistema puxado), §3
-  regras 2–6, §4.5 (campos dos três templates), §6 item 2, §8 itens 2, 5, 6, 7.
+ regras 2–6, §4.5 (campos dos três templates), §6 item 2, §8 itens 2, 5, 6, 7.
 - Base do método: Passo 3 — Gestão Visual §2.23 (ponte Backlog 2D → cartão; fatia fina).
 - Aulas: M06 A05 (Canvas Sprint Plan), A11 (tamanho do ciclo), A13 (Sprint Planning); v6
-  pasta 05 aulas 02 (ciclo) e 03 (planejamento do ciclo).
+ pasta 05 aulas 02 (ciclo) e 03 (planejamento do ciclo).
 - Templates: v6 «Canvas Editável — Plano do Ciclo» (campos e exemplo da versão v6); ao vivo
-  «M06 A05 — Canvas Sprint Plan»; individual folha individual «sprint-plano-ciclo-ga2.pdf».
-- Acréscimo do método: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
+ «M06 A05 — Canvas Sprint Plan»; individual folha individual «sprint-plano-ciclo-ga2.pdf».
+- Diretriz prática: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
 - Ficha A05 (revisar capacidade e distribuição do trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 3) do curso de rotinas, para a seção de capacidade e carga por pessoa.
 
 ## Como conduzir
 
-1. **Confirme o ciclo.** Pergunta: "Qual a duração? Está fixa desde quando?" Acréscimo do método: uma semana,
-   segunda a sexta. Recuse mudar o tamanho no meio ("o time precisa repetir para aprender a capacidade").
+1. **Confirme o ciclo.** Pergunta: "Qual a duração? Está fixa desde quando?" Diretriz prática: uma semana,
+ segunda a sexta. Recuse mudar o tamanho no meio ("o time precisa repetir para aprender a capacidade").
 2. **Escreva a meta, uma só.** Pergunta: "O que fica pronto na sexta, numa frase, e por que
-   isso é valioso?" Três testes (v6 aula 03): dá para mostrar pronto na sexta? cabe com folga?
-   alguém fora do time nota? Recuse duas metas ("duas metas é nenhuma meta") e meta sem fim
-   visível ("é atividade, não entrega").
+ isso é valioso?" Três testes (material de referência): dá para mostrar pronto na sexta? cabe com folga?
+ alguém fora do time nota? Recuse duas metas ("duas metas é nenhuma meta") e meta sem fim
+ visível ("é atividade, não entrega").
 3. **Ligue a meta ao OKR.** Pergunta: "De qual iniciativa do OKR essa meta vem?" Escreva a
-   etiqueta. Recuse meta órfã sem iniciativa nem A3.
+ etiqueta. Recuse meta órfã sem iniciativa nem A3.
 4. **Calcule a capacidade e planeje 70%.** Pergunta: "Quantos dias-pessoa você tem de verdade
-   esta semana?" Planeje cerca de 70%; os outros 30% somem em imprevisto — sempre somem (v6).
-   No acréscimo do método: **até 3 compromissos por responsável de área** (acordo de cadência do time).
+ esta semana?" Planeje cerca de 70%; os outros 30% somem em imprevisto — sempre somem (v6).
+ No Diretriz prática: **até 3 compromissos por responsável de área** (acordo de cadência do time).
 5. **Puxe da fatia fina, na ordem.** Pergunta: "Quais tarefas da primeira entrega do mapa
-   entram?" A equipe escolhe o que dá para fazer; o PO (dono do rumo) só diz a prioridade. Recuse
-   item "de presente" (empurrado) e item que não está no Backlog 2D.
+ entram?" A equipe escolhe o que dá para fazer; o PO (dono do rumo) só diz a prioridade. Recuse
+ item "de presente" (empurrado) e item que não está no Backlog 2D.
 6. **Cada item com dono, data e "pronto é".** Nome de pessoa, nunca área. "Pronto é" = como se
-   verifica pelo caminho real (URL, arquivo, log, mensagem). Recuse item sem "pronto é": a
-   demanda ainda não está pensada. Recuse item maior que uma semana — volta ao mapa e quebra.
+ verifica pelo caminho real (URL, arquivo, log, mensagem). Recuse item sem "pronto é": a
+ demanda ainda não está pensada. Recuse item maior que uma semana — volta ao mapa e quebra.
 7. **Quebre em tarefas de um dia ou menos** (A13). Tarefa de cinco dias fica a semana inteira
-   em "fazendo" e ninguém vê progresso.
-8. **Marque os rituais**: diária (hora, lugar), review e retro (dia, hora). No acréscimo do método: diária por
-   leitura dos resumos e da caixa de mensagens; review sexta 12h; retro sexta 14h.
+ em "fazendo" e ninguém vê progresso.
+8. **Marque os rituais**: diária (hora, lugar), review e retro (dia, hora). No Diretriz prática: diária por
+ leitura dos resumos e da caixa de mensagens; review sexta 12h; retro sexta 14h.
 9. **Leve os riscos do briefing** e escreva a resposta de cada um (A03, checklist etapa 4).
 10. **Feche e registre.** Sprint backlog no quadro; plano salvo no destino escolhido, com data e versão. Use commit quando houver repositório.
 
@@ -70,10 +70,10 @@ A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque 
 |---|---|
 | M06 A13 (ao vivo) | ~2 h: 10 min abertura + 10 min meta + ~40 min o que entra + decomposição ("parte mais longa") + revisão |
 | Apostila §12 | 60 min |
-| v6 aula 03 | 15 a 30 min, segunda de manhã |
+| material de referência | 15 a 30 min, segunda de manhã |
 | Apostila p.15 (colada do Scrum Guide) | até 8 h para sprint de um mês |
 
-**O acréscimo do método usa 15 minutos por responsável de área, por mensagem escrita** (acordo de cadência do time). Motivo: ciclo de uma
+**Na prática usa 15 minutos por responsável de área, por mensagem escrita** (acordo de cadência do time). Motivo: ciclo de uma
 semana, até 3 compromissos, itens já quebrados no Backlog 2D. A decomposição em tarefas de um
 dia é feita pelo dono no quadro da área, não na reunião. A escolha editorial de duração entre versões permanece em aberto (Base do método, Passo 4, §8.5); não esconda essa divergência.
 
@@ -95,11 +95,11 @@ dia é feita pelo dono no quadro da área, não na reunião. A escolha editorial
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
 - Arquivo: Plano do Ciclo na pasta do caso (organização inteira) ou `plano-<responsável>.md` (por
-  área). `AAAA-Www` = `date +%G-W%V`, ex.: `2026-W35`.
+ área). `AAAA-Www` = `date +%G-W%V`, ex.: `2026-W35`.
 - Cada linha do plano vira ou atualiza um cartão em registro da carteira de iniciativas na pasta do caso (coluna
-  "Priorizado no ciclo" / "Em execução").
+ "Priorizado no ciclo" / "Em execução").
 - Depois: `ga2-gestao-diaria` todo dia útil; review e retro na sexta (`ga2-plano-do-ciclo`, `ga2-review-do-ciclo` e `ga2-retrospectiva`);
-  compromisso que perder a data é marcado no mesmo dia, não na sexta.
+ compromisso que perder a data é marcado no mesmo dia, não na sexta.
 - Capacidade por pessoa e revisão semanal da carga: duas tabelas ao lado do plano, com disponibilidade, histórico, volume em andamento e cartão mais velho de cada pessoa.
 
 ## Formas de saída

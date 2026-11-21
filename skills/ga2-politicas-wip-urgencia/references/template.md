@@ -7,7 +7,7 @@ Quadro: ______________________ · Dono do quadro: __________ · Data: __/__/____
 
 ## 1. Limite de trabalho em andamento (WIP)
 
-Campos de A19/A20/v6 aula 05 e apostila 14.2. Não há template oficial; o registro abaixo é
+Campos de A19/A20/material de referência e apostila 14.2. Não há template oficial; o registro abaixo é
 construção deste pacote a partir das aulas.
 
 ### 1.1 Fotografia de hoje (antes de fixar o limite)
@@ -54,7 +54,7 @@ Limite por pessoa: __ cartões ao mesmo tempo.
 | Prioridade — como escolher o próximo <!-- c:prioridade --> | |
 | Bloqueio — o que fazer quando trava <!-- c:bloqueio --> | |
 
-## 2. Política de urgência (cinco linhas, v6 aula 06 — escrever no alto do quadro)
+## 2. Política de urgência (cinco linhas, material de referência — escrever no alto do quadro)
 
 | Linha | Texto |
 |---|---|
@@ -69,7 +69,7 @@ Limite por pessoa: __ cartões ao mesmo tempo.
 - [ ] cartão vermelho que pausa o item em curso (A21)
 - [ ] raia inferior "Urgência" com colunas: fila → execução → feito (A21; **padrão desta referência**)
 
-Vagas na raia: __ (acréscimo do método: 2, uma por área).
+Vagas na raia: __ .
 
 ### 2.2 Contador do ciclo (vai para a retro)
 
@@ -91,7 +91,7 @@ Toda demanda recebe uma classe ao ficar Apta:
 | Com prazo | há Data necessária com consequência verificável | autoridade de capacidade confirma Data comprometida | data necessária + consequência escrita |
 | Normal | segue o planejamento da área | responsável pela área | — |
 
-### 3.1 Registro de Crítica (acréscimo do método, campos de §9)
+### 3.1 Registro de Crítica
 
 | Campo | Preencha |
 |---|---|

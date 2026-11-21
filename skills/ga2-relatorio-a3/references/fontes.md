@@ -9,8 +9,8 @@
 
 **Campos: 10 da v6 como superconjunto.** Os 7 do ao vivo são 1, 2, 3, 5, 6, 7, 8 (no ao
 vivo o gap mora dentro da "Análise de causa raiz"). Os campos **4 Gap, 9 Acompanhamento e
-10 Aprendizado** são só v6. O 5W2H no plano de ação é adaptação metodológica identificada: a aula exige o
-quê/quem/quando; as outras quatro colunas são `(adaptação metodológica)`.
+10 Aprendizado** são só v6. O 5W2H no plano de ação é aplicação do método identificada: a aula exige o
+quê/quem/quando; as outras quatro colunas são `(aplicação do método)`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

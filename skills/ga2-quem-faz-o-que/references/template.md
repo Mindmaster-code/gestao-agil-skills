@@ -2,8 +2,8 @@
 # Quem faz o quê — template
 
 Não existe template oficial no curso. Campos da aula M06 A10 (SM, PO, membros, gerente ágil),
-da v6 aula 03 (dono do ciclo, quem faz, quem recebe) e do modelo operacional do método (Dono,
-Aceitante, gate, apoio). Tudo que não está em aula vem marcado `(acréscimo do método)`.
+da material de referência (dono do ciclo, quem faz, quem recebe) e do modelo operacional do método (Dono,
+Aceitante, gate, apoio). Tudo que não está em aula vem marcado .
 
 ---
 
@@ -13,7 +13,7 @@ Aceitante, gate, apoio). Tudo que não está em aula vem marcado `(acréscimo do
 |---|---|
 | Frente / demanda <!-- c:frente --> | |
 | Entrega (resultado, não tarefa) <!-- c:entrega --> | |
-| Área (Área A · Área B · Compartilhado) <!-- c:empresa --> | (acréscimo do método) |
+| Área (Área A · Área B · Compartilhado) <!-- c:empresa --> | |
 | Cartão no quadro <!-- c:cartao --> | P-__ |
 | Data desta matriz <!-- c:data --> | |
 
@@ -26,11 +26,11 @@ Aceitante, gate, apoio). Tudo que não está em aula vem marcado `(acréscimo do
 | **Aceitante** (quem recebe o resultado) | | confere a DoD e marca Aceita; está na review | não executa; nunca é o dono do processo |
 | **Executor(es)** (membros do time) | | faz o trabalho; decide o como | não decide o quê |
 | **Apoio(s)** | | contribui sem responder | não vira co-dono |
-| **Decisor de gate** (acréscimo do método) | | autoriza a ação sensível: ______ | não é aceite |
+| **Decisor de gate** | | autoriza a ação sensível: ______ | não é aceite |
 | **Dono do processo** (SM da aula) | quem conduz o método | ritual, quadro, cobrança, métrica de fluxo | não aceita entrega; não prioriza entre áreas |
 | **Quem decide prioridade entre áreas** (gerente ágil) | nome a definir | ordem entre frentes; fronteira entre donos | não opera |
 
-## Papéis do ritmo (v6 aula 03)
+## Papéis do ritmo (material de referência)
 
 | | Nome |
 |---|---|
@@ -102,7 +102,7 @@ Plano restrito. A parte formal (desligamento, acessos, devoluções, obrigaçõe
 | | | | | |
 | | | | | |
 
-## Teste de fronteira (acréscimo do método)
+## Teste de fronteira
 
 - [ ] Só um nome na linha Dono.
 - [ ] Dois acham que é deles? → mensagem escrita ao responsável pela área com as duas versões; não resolver o caso.
@@ -111,6 +111,6 @@ Plano restrito. A parte formal (desligamento, acessos, devoluções, obrigaçõe
 
 ## Linha para o cartão e para as 6 linhas da demanda
 
-```
-Dono: <nome>  ·  Aceitante: <nome>  ·  Gate: <decisor> (pedido __/__)  ·  Apoio: <nomes> (não é co-dono)
-```
+`
+Dono: <nome> · Aceitante: <nome> · Gate: <decisor> (pedido __/__) · Apoio: <nomes> (não é co-dono)
+`

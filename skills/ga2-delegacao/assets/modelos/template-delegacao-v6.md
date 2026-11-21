@@ -18,12 +18,12 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:assuntos -->
 | Assunto | 1 Dizer | 2 Vender | 3 Consultar | 4 Concordar | 5 Aconselhar | 6 Perguntar | 7 Delegar |
 |---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
 ## Combinado, visível, revisão
 

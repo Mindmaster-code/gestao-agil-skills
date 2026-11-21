@@ -4,7 +4,7 @@
 
 Fonte dos campos: `Canva+Planejamento.pdf` (blocos 1–5 e 9) e `CANVAS DO CURSO GA 2.0.pdf` (9 blocos), kit M10;
 aulas M06 A01/A02 e M04 A09 (matriz de objetivos). Texto literal do canvas entre aspas. Campo que a aula não
-cita vai marcado `(acréscimo do laboratório)`. As âncoras `<!-- c:id -->` são lidas pelo construtor de canvas.
+cita vai marcado . As âncoras `<!-- c:id -->` são lidas pelo construtor de canvas.
 
 ## Cabeçalho
 
@@ -13,40 +13,40 @@ cita vai marcado `(acréscimo do laboratório)`. As âncoras `<!-- c:id -->` sã
 | Nome do projeto <!-- c:caso --> | |
 | Empresa / área <!-- c:empresa --> | empresa / unidade / área: ______ |
 | Líder do projeto <!-- c:dono --> | um nome |
-| Data `(acréscimo do laboratório)` <!-- c:data --> | ____/____/______ |
-| Vem de `(acréscimo do laboratório)` | `01-a3.md` e `03-okr.md` da frente, ou entrevista de ____/____ |
+| Data <!-- c:data --> | ____/____/______ |
+| Vem de | `01-a3.md` e `03-okr.md` da frente, ou entrevista de ____/____ |
 
 ## 1 · Contexto do desafio
 "Descreva o desafio que pretende aplicar Gestão Ágil na prática." — por que importa, por que agora. <!-- c:contexto -->
 
-> 
+>
 
 ## 2 · Situação atual
 "Informe a sua situação atual em relação à meta." — número, fonte, data. <!-- c:situacao_atual -->
 
-> 
+>
 
 ## 3 · Situação ideal
 "Informe a sua situação ideal em relação à meta." — número e prazo. <!-- c:situacao_ideal -->
 
-> 
+>
 
 ## 4 · Análise de gap
 "Informe o gap entre a situação atual e a situação ideal." — ideal − atual; vale um canvas? <!-- c:gap -->
 
-> 
+>
 
 ## 5 · Causa raiz
 "Informe a causa raiz do problema." — resultado dos 5 Porquês; processo ou regra, nunca pessoa. <!-- c:causa_raiz -->
 
-> 
+>
 
 ## 6 · Planejamento OKR — lista inicial de objetivos
 "Liste todos os objetivos relativos à resolução do problema." — um por linha, sem número. <!-- c:objetivos_lista -->
 
-- 
-- 
-- 
+-
+-
+-
 
 ## 7 · Matriz de priorização (importância × impacto vs. dificuldade × custo)
 "Selecione cada um dos objetivos de acordo com a matriz de priorização." Um objetivo por linha, no quadrante certo.
@@ -71,7 +71,7 @@ máximo 4 resultados-chave para cada objetivo."
 
 **Objetivo:** <!-- c:objetivo_1 -->
 
-| # | Resultado-chave (de/para com prazo) | Partida (data e fonte) | Alvo | Prazo | Dono do número `(acréscimo)` |
+| # | Resultado-chave (de/para com prazo) | Partida (data e fonte) | Alvo | Prazo | Dono do número `prática` |
 |---|---|---|---|---|---|
 | KR1 <!-- c:kr_1 --> | de ___ para ___ | | | | |
 | KR2 <!-- c:kr_2 --> | de ___ para ___ | | | | |

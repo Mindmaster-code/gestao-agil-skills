@@ -17,7 +17,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:forcas_lacuna -->
 | Forças | Lacuna |
 |---|---|
-|  |  |
+| | |
 
 ## Ações 70-20-10
 
@@ -25,7 +25,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:acoes -->
 | Na prática | Com pessoas | Formação |
 |---|---|---|
-|  |  |  |
+| | | |
 
 ## Marco e acompanhamento
 

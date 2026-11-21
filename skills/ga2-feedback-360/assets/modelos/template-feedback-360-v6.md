@@ -10,7 +10,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:coletei -->
 | Nome | Origem |
 |---|---|
-|  |  |
+| | |
 
 ## Manter, parar, começar
 
@@ -18,7 +18,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:ouvi -->
 | Manter | Parar | Começar |
 |---|---|---|
-|  |  |  |
+| | | |
 
 ## Padrões e focos
 

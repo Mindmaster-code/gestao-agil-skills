@@ -23,12 +23,12 @@ Políticas
 - [ ] A representação de bloqueio está escolhida (opção A do método: marca no cartão) e a escalada tem dias e nome.
 
 Uso
-- [ ] Alguém decide sem perguntar olhando o quadro (teste v6 aula 02).
+- [ ] Alguém decide sem perguntar olhando o quadro (teste material de referência).
 - [ ] Cartão nunca volta de coluna.
 - [ ] O quadro é usado na diária, na review e na retro.
 - [ ] Estado vem de arquivo, não de memória.
 
-Carteira de iniciativas (acréscimo do método)
+Carteira de iniciativas
 - [ ] Cada cartão tem fonte (caminho do STATUS, backlog ou demanda).
 - [ ] Dias parado e gate (decisor + data) estão preenchidos ou marcados "?".
 - [ ] Número nunca cruza raia (uma área ≠ outra área).
@@ -46,10 +46,10 @@ Dependência entre áreas (ficha B06)
 
 | Erro | Como reconhecer | Antídoto |
 |---|---|---|
-| Kanban melancia | colunas iguais às de qualquer tutorial | desenhar o próprio fluxo (v6 aula 05) |
+| Kanban melancia | colunas iguais às de qualquer tutorial | desenhar o próprio fluxo (material de referência) |
 | Kanban no limbo | última atualização há semanas | combinar quem atualiza e quando |
 | Kanban congestionado | coluna Fazendo com 12 cartões | escrever limite por etapa |
-| Cartão de área | "Marketing" no campo dono | nome de pessoa (v6 aula 03) |
+| Cartão de área | "Marketing" no campo dono | nome de pessoa (material de referência) |
 | Cartão-iniciativa | seis semanas em "fazendo" | quebrar no Backlog 2D até caber numa semana |
 | Dar ré | cartão volta para A fazer quando trava | marca no cartão; fica parado e sinalizado |
 | Política na gaveta | regra num PDF que ninguém abre | três regras mínimas no topo do quadro |

@@ -4,7 +4,7 @@
 Três partes: (A) o checklist original de 9 etapas da aula M06 A09, como está no PDF; (B) o DoR
 do laboratório, derivado das etapas 1–4 e do contrato mínimo do modelo operacional (§5); (C) o DoD da
 laboratório, derivado das etapas 5–8, do Canvas 7.2 e da regra "prova pelo caminho real". Campo que a
-aula não cita vem marcado `(acréscimo do laboratório)`.
+aula não cita vem marcado .
 
 ---
 
@@ -30,10 +30,10 @@ Use no fechamento de trimestre e na abertura de frente nova; não cartão a cart
 | 8 Encerramento do sprint | status dos objetivos e KRs (perto, alcançado, superado, replanejar) | OKR Canvas | [ ] |
 | 9 Próximo planejamento | OKRs do próximo trimestre; atualizar backlog com lições | OKR Canvas, Backlog 2D | [ ] [ ] |
 
-Campos que o agente acrescenta ao usar `(acréscimo do laboratório)`: data da checagem ·
+Campos que o agente acrescenta ao usar : data da checagem ·
 responsável · item marcado/falhou · onde voltar.
 
-### Checklist do ritmo — 6 perguntas (v6 aula 09; nenhuma aceita "mais ou menos")
+### Checklist do ritmo — 6 perguntas (material de referência; nenhuma aceita "mais ou menos")
 
 | Pergunta | sim/não | Se não, volta para |
 |---|---|---|
@@ -64,7 +64,7 @@ Cartão: P-__ · Dono: ______ · Checado por: ______ em __/__/____
 | 9 | Riscos com plano de resposta | etapa 4 "ações para riscos" | [ ] | |
 | 10 | Pacote de contexto: quem executa acha tudo sem perguntar | §5 | [ ] | |
 | 11 | Dono abaixo do WIP (laboratório: 3) | política do quadro | [ ] | |
-| 12 | Empresa rotulada (Empresa A · Empresa B · Compartilhado) | (acréscimo do laboratório) | [ ] | |
+| 12 | Empresa rotulada (Empresa A · Empresa B · Compartilhado) | | [ ] | |
 
 Resultado: [ ] entra em execução · [ ] volta a Em preparação — falta: ______
 
@@ -80,16 +80,16 @@ Cartão: P-__ · Dono: ______ · Aceitante: ______ · Checado em __/__/____ às 
 | # | Item | Origem | OK | Prova (o quê, onde, quando) |
 |---|---|---|---|---|
 | 1 | Esteve no quadro e passou pela diária; cartão atualizado | etapa 5 | [ ] | |
-| 2 | Prova pelo caminho real citada: URL de produção / login real / curl / log / arquivo | etapa 7; regra de entrega verificada (acréscimo do laboratório) | [ ] | |
+| 2 | Prova pelo caminho real citada: URL de produção / login real / curl / log / arquivo | etapa 7; regra de entrega verificada | [ ] | |
 | 3 | Revisão por par ou revisor nomeado (quando o tipo exige) | 7.2 "revisão e aprovação" | [ ] | |
 | 4 | Documentação / registro durável atualizado (acompanhamento, diário, versão; commit quando houver repositório) | 7.2 "documentação" | [ ] | |
 | 5 | Comunicação: carta de volta na caixa de quem pediu | 7.2 "comunicação" | [ ] | |
 | 6 | Métrica de negócio lida, com empresa rotulada; demanda cumprida ≠ objetivo atingido | etapa 6; §12 | [ ] | |
 | 7 | Nenhum gate exigido pela DoD pendente | §11 | [ ] | |
-| 8 | Verbo honesto no report ("validado em produção às HH:MM" / "não validado em runtime") | regra de entrega verificada (acréscimo do laboratório) | [ ] | |
+| 8 | Verbo honesto no report ("validado em produção às HH:MM" / "não validado em runtime") | regra de entrega verificada | [ ] | |
 | 9 | Dono marcou Entregue; Aceitante conferiu e marcou Aceita | §11; etapa 8 | [ ] | |
 
-### C2. DoD por tipo de tarefa (Canvas 7.2 pede "checklist por tipo"; tipos são do laboratório — acréscimo do laboratório)
+### C2. DoD por tipo de tarefa (Canvas 7.2 pede "checklist por tipo"; tipos são do laboratório — prática aplicada)
 
 | Tipo | Pronto é | Prova mínima |
 |---|---|---|

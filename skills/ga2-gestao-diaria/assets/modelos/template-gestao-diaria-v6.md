@@ -12,6 +12,6 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 
 | | SEG | TER | QUA | QUI | SEX |
 |---|---|---|---|---|---|
-| **O que avancei** <!-- c:avancei --> |  |  |  |  |  |
-| **Foco de hoje** <!-- c:foco --> |  |  |  |  |  |
-| **O que me trava** <!-- c:trava --> |  |  |  |  |  |
+| **O que avancei** <!-- c:avancei --> | | | | | |
+| **Foco de hoje** <!-- c:foco --> | | | | | |
+| **O que me trava** <!-- c:trava --> | | | | | |

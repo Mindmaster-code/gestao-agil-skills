@@ -14,7 +14,7 @@ Meta
 
 Capacidade e puxada
 - [ ] Capacidade real contada; planejado ~70%.
-- [ ] Acréscimo do método: no máximo 3 compromissos por responsável de área.
+- [ ] Diretriz prática: no máximo 3 compromissos por responsável de área.
 - [ ] Quem faz escolheu o que entra; o dono do rumo só apontou prioridade.
 - [ ] Todo item veio do Backlog 2D (fatia fina primeiro); nenhum inventado na reunião.
 - [ ] Nenhum item maior que uma semana.

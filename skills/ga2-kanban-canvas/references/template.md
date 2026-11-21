@@ -2,7 +2,7 @@
 # Kanban Canvas — template
 
 Três blocos. Preencha só o que a régua do caso pede (leve = bloco A; intermediária = A + B;
-robusta = A + B + C). Campo sem fonte na aula vem marcado `(acréscimo do método)`.
+robusta = A + B + C). Campo sem fonte na aula vem marcado .
 
 ---
 
@@ -36,15 +36,15 @@ Kanban Mínimo (artefato 03) pede ainda: **Cartões essenciais** (quais itens vi
 | Em validação | |
 
 **Impedimentos abertos** <!-- c:bloqueios -->
-- 
+-
 
 **Rotina de uso** (quando olhar e atualizar).
 
-```
-| A FAZER            | FAZENDO (limite: __) | FEITO              |
+`
+| A FAZER | FAZENDO (limite: __) | FEITO |
 |--------------------|----------------------|--------------------|
-|                    |                      |                    |
-```
+| | | |
+`
 
 ---
 
@@ -79,17 +79,17 @@ Desenhe da entrada da demanda até a entrega. Limite só nas colunas de execuç�
 | | | | |
 | Urgência | emergencial | fila → execução → feito | ver `ga2-politicas-wip-urgencia` |
 
-### B4. Cartão padrão (A17 + v6 aula 03)
+### B4. Cartão padrão (A17 + material de referência)
 
-```
+`
 [RAIA] ______ | [ORIGEM] OKR ___ · KR __ · entrega ___ | [PROJETO] ______
 O que (uma frase, resultado): ______________________________
-Dono (nome de pessoa): ______   Apoio (não é co-dono): ______
-Prazo: __/__   Início: __/__   Idade: __ dias
+Dono (nome de pessoa): ______ Apoio (não é co-dono): ______
+Prazo: __/__ Início: __/__ Idade: __ dias
 Pronto é (checklist): [ ] ____ [ ] ____ [ ] prova pelo caminho real
-Bloqueio: [ ] nenhum  [ ] gate: quem decide ______ pedido em __/__  [ ] trava: ______
+Bloqueio: [ ] nenhum [ ] gate: quem decide ______ pedido em __/__ [ ] trava: ______
 Prova: (link / arquivo / log / mensagem)
-```
+`
 
 ### B5. Políticas escritas no quadro (artefato 05 + Canvas 7.2)
 
@@ -118,9 +118,9 @@ Escalada: parado __ dias → pergunta na diária; __ dias → cobrança por escr
 
 Acrescente ao cartão padrão do B4 os dois campos abaixo, e a coluna "Aguardando outra área" ao fluxo do B2, com limite próprio.
 
-```
-Depende de: ______ (área, pessoa) · data de passagem: __/__   Entrega para: ______ (área, pessoa) · data: __/__
-```
+`
+Depende de: ______ (área, pessoa) · data de passagem: __/__ Entrega para: ______ (área, pessoa) · data: __/__
+`
 
 | Campo | Resposta |
 |---|---|
@@ -171,7 +171,7 @@ Conflito que as áreas não têm alçada para resolver, e quem responde pelo res
 |---|---|---|---|---|---|---|---|---|
 | P-__ | | | | | | | | |
 
-### C5. Leitura da fotografia (acréscimo do método)
+### C5. Leitura da fotografia
 
 - Total de frentes: __ · sem STATUS: __ · sem dono: __
 - Cartões parados > 10 dias: __

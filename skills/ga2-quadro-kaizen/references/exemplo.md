@@ -52,7 +52,7 @@ Registro didático, sem fonte operacional real:
 
 Mariana responde pelo resultado e confirma o critério; Lucas executa a mudança. Nenhum agente executa no cenário.
 
-# Fila de melhorias (acréscimo do laboratório)
+# Fila de melhorias
 
 | ID | Sinal (fato) | Métrica · hoje → meta | Origem | Dono | Status | Decisão | Folha |
 |---|---|---|---|---|---|---|---|

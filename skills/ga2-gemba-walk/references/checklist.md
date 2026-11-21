@@ -15,7 +15,7 @@
 
 ## Erros comuns (da aula e da aplicação do laboratório)
 
-- Visita que vira fiscalização (v6 aula 08).
+- Visita que vira fiscalização (material de referência).
 - Corrigir durante a observação.
 - Pergunta com "quem" — caça ao culpado (v6).
 - Sair sem ação; terminar em "interessante".

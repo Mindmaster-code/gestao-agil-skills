@@ -33,7 +33,13 @@ FORBIDDEN = (
     "Bia",
 )
 ABERTURA_OBRIGATORIA = "Antes de montar, pergunte o que faltar. Não invente dados."
-MARCAS_INTERNAS = (r"\(adaptação", r"v6 A\d", r"modelo T", r"\[v6")
+MARCAS_INTERNAS = (
+    r"\bv6\s*(?:aula|a)\s*\d+",
+    r"\((?:adaptação|acréscimo)",
+    r"\b(?:adaptação|acréscimo)\s+do\s+(?:método|laboratório)",
+    r"\bmodelo\s+T\d*",
+    r"\[v6",
+)
 
 
 def arquivos_carregados(directory: Path) -> list[Path]:

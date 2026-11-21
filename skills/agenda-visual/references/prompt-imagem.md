@@ -3,7 +3,7 @@
 Preencha este modelo com os dados do plano. Retire instruções e campos que não se aplicarem antes de chamar imagegen.
 Este arquivo organiza o prompt; seus campos não são parâmetros da ferramenta.
 
-```text
+`text
 Use case: infographic-diagram
 Entrega: imagem de agenda, calendário ou linha do tempo para consulta do projeto.
 Objetivo: permitir enxergar a sequência, os marcos e o que cada pessoa precisa fazer.
@@ -37,14 +37,14 @@ Não promover uma proposta a tarefa autorizada. Não acrescentar fases para comp
 Não criar promessas, métricas, orçamento ou urgência.
 Priorizar legibilidade. Não cortar texto nem reduzir tudo a letras pequenas.
 Sem logos inventados, fotos decorativas, emojis ou moldura de aparelho.
-```
+`
 
 Antes da chamada, confira os textos visíveis contra a fonte. Modelos e dimensões devem usar apenas opções reais da ferramenta.
 O nome do modelo no texto do prompt não seleciona o modelo. Faça essa escolha na ferramenta e confira quando disponível.
 
 Em revisão, acrescente:
 
-```text
+`text
 Alterar somente: {mudança solicitada}.
 Preservar: {conteúdo, datas, situações, identidade e composição que devem permanecer}.
-```
+`

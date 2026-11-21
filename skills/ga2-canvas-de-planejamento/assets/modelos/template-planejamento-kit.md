@@ -42,35 +42,35 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:kr_1 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **Resultado-chave #2** (uma linha por item):
 <!-- c:kr_2 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **Resultado-chave #3** (uma linha por item):
 <!-- c:kr_3 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **Resultado-chave #4** (uma linha por item):
 <!-- c:kr_4 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **Iniciativas** (uma linha por item):
 <!-- c:iniciativas -->
 | Iniciativa |
 |---|
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |

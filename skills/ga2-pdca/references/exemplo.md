@@ -63,7 +63,7 @@ Em uso real, confirme a causa prevista e efeitos colaterais antes de padronizar.
 | Próximo ciclo (se ajustar) <!-- c:proximo_ciclo --> | Não se aplica; Lucas acompanha a mesma medida na retro de 18/09 |
 | Fechado em <!-- c:fechado_em --> | 11/09/2026, fechamento do exemplo |
 
-## Registro de ciclos (acréscimo do laboratório)
+## Registro de ciclos
 
 | Ciclo | P (ação) | C (número × base) | A (decisão) | Data |
 |---|---|---|---|---|

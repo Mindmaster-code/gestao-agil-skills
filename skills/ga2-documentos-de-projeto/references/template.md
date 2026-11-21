@@ -3,7 +3,7 @@
 
 ## 1. `<pasta-do-projeto>/README.md` — índice do dossiê
 
-```markdown
+`markdown
 # Frente: <nome> (<ID-do-cartão>)
 
 | Campo | Resposta |
@@ -31,15 +31,15 @@
 **Pack externo (se houver):** <pasta existente escolhida> — charter = briefing; STATUS.md = status.
 **Dívidas do dossiê:** (documento de fase anterior que falta, com data de cobrança)
 **Encerramento:** entregue em ____/____ · aceito por ______ (dono do resultado) · prova: ______
-```
+`
 
 ---
 
 ## 2. Status Report — `<pasta-do-projeto>/status/AAAA-MM-DD.md`
 
-Template oficial: `desafio-7-dias-status-report-ga2.pdf` (8 campos). Campos marcados `(legado)` vêm do `04-status-report-7-dias-ga2-editavel.pdf`; `(lab)` = acréscimo do laboratório.
+Template oficial: `desafio-7-dias-status-report-ga2.pdf` (8 campos). Campos marcados `(legado)` vêm do `04-status-report-7-dias-ga2-editavel.pdf`; `(lab)` = prática aplicada.
 
-```markdown
+`markdown
 # Status — <frente> · <dd/mm/aaaa>
 
 **Participante e caso:** <!-- c:participante --> <dono> · <frente / ID-do-cartão>
@@ -61,11 +61,11 @@ Template oficial: `desafio-7-dias-status-report-ga2.pdf` (8 campos). Campos marc
 - (sobre o caso e sobre o meu sistema de trabalho `(legado)`)
 
 ## Qual ajuste no próximo ciclo `(legado)` <!-- c:ajuste -->
-- 
+-
 
 ## Meu próximo passo <!-- c:proxima_acao -->
 - <ação> — dono: <nome> — até <dd/mm> `(legado: ação, dono, prazo)`
-```
+`
 
 Regra de leitura: "um retrato honesto vale mais que um relatório bonito". Dois minutos.
 
@@ -75,7 +75,7 @@ Regra de leitura: "um retrato honesto vale mais que um relatório bonito". Dois 
 
 Template oficial: `04-resumo-do-ciclo-ga2-editavel.pdf` (Artefato 17, 5 campos).
 
-```markdown
+`markdown
 # Resumo do Ciclo <n> — <frente> · <período>
 
 **Dono:** ______ · **Ciclo:** AAAA-Www a AAAA-Www · **Meta combinada (copiada do plano, sem maquiagem):** ______
@@ -94,13 +94,13 @@ O que ficou claro depois de executar? (específico, não "comunicar melhor")
 
 ## 4. Próximas decisões <!-- c:proximas_decisoes -->
 Continuar / ajustar / pausar / escalar — com verbo, dono e data.
-- 
+-
 
 ## 5. Se virar A3 de melhoria <!-- c:vira_a3 -->
 Qual problema merece voltar para o template A3? (um caso, um A3 → `01-a3.md` novo)
 - nenhum / <problema> → abrir A3 até <dd/mm>, dono <nome>
 
 **Lido por:** <dono> em <dd/mm> · <Gestor Ágil> · vai para o report ao responsável pelo portfólio de <dd/mm>
-```
+`
 
 "Feche o ciclo em uma página. Depois disso, se precisar, reutilize o A3."

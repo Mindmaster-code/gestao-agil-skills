@@ -30,19 +30,19 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:kr_1 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR 2** (uma linha por item):
 <!-- c:kr_2 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 **KR 3** (uma linha por item):
 <!-- c:kr_3 -->
 | Resultado-chave |
 |---|
-|  |
+| |
 
 ## O que vamos iniciar
 
@@ -50,6 +50,6 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:iniciativas -->
 | KR | Iniciativa | Dono |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| | | |
+| | | |
+| | | |

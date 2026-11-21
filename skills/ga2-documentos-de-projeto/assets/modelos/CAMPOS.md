@@ -31,9 +31,9 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `nome` | Meu nome |  | `<!-- c:nome -->` |
-| `caso` | Caso / projeto |  | `<!-- c:caso -->` |
-| `periodo` | Período |  | `<!-- c:periodo -->` |
+| `nome` | Meu nome | | `<!-- c:nome -->` |
+| `caso` | Caso / projeto | | `<!-- c:caso -->` |
+| `periodo` | Período | | `<!-- c:periodo -->` |
 | `compromisso` | 1 · O que eu me comprometi a fazer nos 7 dias? | A meta prática da semana e a entrega esperada. | `<!-- c:compromisso -->` |
 | `feito` | 2 · O que foi feito? | Entregas, tarefas concluídas, conversas feitas, decisões tomadas, evidências coletadas. | `<!-- c:feito -->` |
 | `resultado` | 3 · Que resultado apareceu? | Sinais simples: prazo, qualidade, fila, bloqueio removido, feedback observado ou aprendizado. | `<!-- c:resultado -->` |

@@ -22,37 +22,37 @@ a lista de iniciativas para a matriz e o check-in semanal na agenda.
 ## Como conduzir
 
 1. **Ponte A3 → OKR.** Pergunta: "qual problema do A3 este OKR precisa mover? qual causa vai
-   ser atacada? qual mudança mensurável prova avanço? o que fica de fora neste ciclo?"
-   Escreve os quatro campos da ponte (template, bloco 1). Recusa: OKR inventado do zero sem
-   A3 — "volta e faz o diagnóstico".
+ ser atacada? qual mudança mensurável prova avanço? o que fica de fora neste ciclo?"
+ Escreve os quatro campos da ponte (template, bloco 1). Recusa: OKR inventado do zero sem
+ A3 — "volta e faz o diagnóstico".
 2. **Período e nível.** Pergunta: "trimestre, semestre ou ano? empresa, área ou pessoa?
-   Qual empresa?" Escreve no cabeçalho. Recusa: OKR de um grupo sem dizer
-   de qual empresa é o número.
+ Qual empresa?" Escreve no cabeçalho. Recusa: OKR de um grupo sem dizer
+ de qual empresa é o número.
 3. **Objetivo.** Pergunta: "aonde você quer chegar? lê em voz alta — dá vontade de ir
-   atrás?" Escreve uma frase qualitativa, com prazo, sem verbo operacional. Recusa:
-   objetivo com "implementar", "executar", "criar" — isso é tarefa. Objetivo com número é KR.
+ atrás?" Escreve uma frase qualitativa, com prazo, sem verbo operacional. Recusa:
+ objetivo com "implementar", "executar", "criar" — isso é tarefa. Objetivo com número é KR.
 4. **Resultados-chave.** Para cada KR, três perguntas: "de quanto para quanto, até quando?";
-   "isso mede resultado ou esforço?"; "se bater esse número, o objetivo está cumprido?"
-   Escreve no formato **de/para com prazo**, com a fonte do número de partida e quem é o
-   dono do número (responsável nomeado pela medida). Recusa: KR sem número de
-   partida ("o problema é medição — pede ao responsável pela medição antes"); KR que é entrega ("publicar 20
-   respostas" é iniciativa; "resolver 80% no primeiro contato" é KR).
+ "isso mede resultado ou esforço?"; "se bater esse número, o objetivo está cumprido?"
+ Escreve no formato **de/para com prazo**, com a fonte do número de partida e quem é o
+ dono do número (responsável nomeado pela medida). Recusa: KR sem número de
+ partida ("o problema é medição — pede ao responsável pela medição antes"); KR que é entrega ("publicar 20
+ respostas" é iniciativa; "resolver 80% no primeiro contato" é KR).
 5. **Quantidade.** A aula permite 2 a 5 KR por objetivo e 1 a 3 objetivos. Os templates
-   editáveis e o Kit mandam começar com 1 objetivo e até 3 KR. Regra desta adaptação: **comece com
-   até 3; aceite até 5 só se cada um tiver dono do número e fonte**. Recusa: 6 ou mais —
-   "você vai gastar mais tempo medindo do que fazendo".
+ editáveis e o Kit mandam começar com 1 objetivo e até 3 KR. Regra desta adaptação: **comece com
+ até 3; aceite até 5 só se cada um tiver dono do número e fonte**. Recusa: 6 ou mais —
+ "você vai gastar mais tempo medindo do que fazendo".
 6. **Comprometido ou aspiracional.** Pergunta por KR: "tem que bater 100% ou 70% já é
-   ótimo?" Marca no canvas. Um bom ciclo mistura os dois.
+ ótimo?" Marca no canvas. Um bom ciclo mistura os dois.
 7. **Iniciativas.** Pergunta por KR: "para mover esse número, o que precisamos iniciar?" e
-   "o que já roda hoje que não aponta para nenhum KR?" Escreve 2 ou 3 apostas por KR, cada
-   uma com dono. Recusa: lista de 30 tarefas; iniciativa que não diz qual número move
-   ("é ocupação").
+ "o que já roda hoje que não aponta para nenhum KR?" Escreve 2 ou 3 apostas por KR, cada
+ uma com dono. Recusa: lista de 30 tarefas; iniciativa que não diz qual número move
+ ("é ocupação").
 8. **Divulga.** OKR é público. Pergunta: "quem precisa ler isso e onde vai ficar?"
 9. **Checkpoint do Plano** (uma vez, ao fim do planejamento, depois da matriz e do backlog):
-   as cinco perguntas do template, bloco 4. Sai "solta para executar" ou "volta e conserta".
+ as cinco perguntas do template, bloco 4. Sai "solta para executar" ou "volta e conserta".
 10. **Check-in semanal** (toda semana, 5–15 min, do 1º dia ao fim do ciclo): número de hoje
-    por KR, nota 0–1 pelo de/para, o que mexeu, o que trava, ação até a próxima com dono.
-    Template, bloco 3. Recusa: check-in sem número ("OKR escrito, não feito").
+ por KR, nota 0–1 pelo de/para, o que mexeu, o que trava, ação até a próxima com dono.
+ Template, bloco 3. Recusa: check-in sem número ("OKR escrito, não feito").
 
 ## Regras do método que valem aqui
 

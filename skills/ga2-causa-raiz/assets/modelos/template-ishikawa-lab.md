@@ -24,12 +24,12 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:ishikawa -->
 | Causas levantadas |
 |---|
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| |
+| |
+| |
+| |
+| |
+| |
 
 ## Ramos escolhidos
 

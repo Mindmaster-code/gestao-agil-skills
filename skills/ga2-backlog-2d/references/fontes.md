@@ -5,8 +5,8 @@
 - Aulas: M04 A16 (backlog), A17 (Backlog 2D), A18 (tarefas pequenas); M06 A04; v6, módulo 03, aulas 08 (story map) e 09 (fechamento).
 - Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
-- Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
-- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal `(adaptação metodológica)`; lente do 5S: Passo 0 §2.14.
+- aplicação do método: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
+- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal `(aplicação do método)`; lente do 5S: Passo 0 §2.14.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

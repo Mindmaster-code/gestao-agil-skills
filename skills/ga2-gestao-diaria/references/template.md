@@ -2,7 +2,7 @@
 # Gestão diária — template
 
 Três formatos. O único com template oficial é o individual (artefato 09). Os outros dois são
-construção deste pacote a partir de M06 A14 e v6 aula 04 `(acréscimo do método)`.
+construção deste pacote a partir de M06 A14 e material de referência .
 
 ---
 
@@ -20,7 +20,7 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 ---
 
-## 2. Reunião diária de equipe (acréscimo do método — campos de A14 + v6 aula 04)
+## 2. Reunião diária de equipe
 
 ### Cabeçalho fixo do ritual (preenche uma vez)
 
@@ -54,7 +54,7 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 ---
 
-## 3. Diária entre agentes — o que quem conduz o método lê e o que dispara cobrança por escrito (acréscimo do método)
+## 3. Diária entre agentes — o que quem conduz o método lê e o que dispara cobrança por escrito
 
 ### 3.1 Leitura (10 min)
 
@@ -83,13 +83,13 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 ### 3.4 Registro do dia (5 linhas, formato fixo de registro diário descrito em `template.md`)
 
-```
+`
 Caixa: N mensagens novas (de quem, sobre o quê).
 Cartão mais parado: P-NN — <frente> — <dias> dias — dono <nome>.
 Sem dono / gate sem decisor: <IDs> ou "nenhum".
 Cadência: relato do fim da semana <saiu|não saiu>; ciclo W<nn> tem <plano|review|retro|nada>.
 Cobrança de hoje: P-NN ao <dono> — <o que falta> — data <dd/mm>.
-```
+`
 
 ---
 

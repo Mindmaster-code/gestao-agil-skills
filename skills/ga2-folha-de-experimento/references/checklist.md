@@ -1,6 +1,6 @@
 # Folha de experimento — bem feito e erros comuns
 
-## Bem feito (folha do acréscimo do método; política de inovação descrita no método; M07 A05)
+## Bem feito (folha do prática aplicada; política de inovação descrita no método; M07 A05)
 
 - [ ] Pergunta 1 tem pessoa real e prova gravada (arquivo, ticket, transcrição, consulta) — não "eu acho".
 - [ ] Problema em uma frase, na voz de quem sofre.

@@ -73,14 +73,14 @@ Limites iniciais ilustrativos: antes do acordo havia três itens em Fazendo e do
 
 ### B4. Cartão padrão preenchido
 
-```text
+`text
 RAIA: Projeto · ORIGEM: OKR NS-O1 / KR1 / entrega NS-I1-E1 · PROJETO: Conferência
 O que: aplicar o checklist em cinco pedidos simulados.
 Dono: Lucas · Apoio: nenhum · Prazo: 17/09 · Início: 15/09 · Idade: 1 dia.
 Pronto é: cinco registros completos; divergências identificadas; Mariana confere os registros.
 Bloqueio: SIM-05 sem quantidade; Lucas completa até 16/09 às 14h; marcado em 16/09 às 09h.
 Prova: quatro registros simulados concluídos; quinto em aberto. Não entregue.
-```
+`
 
 ### B5. Políticas no quadro
 
@@ -136,11 +136,11 @@ Lucas relê as fontes simuladas na quarta e sexta, às 09h. Só muda estado com 
 
 Marta coordena a pré-impressão de uma gráfica. O pedido 3482, de cartões de visita, depende do atendimento, que precisa do arquivo aprovado pelo cliente. Depois da pré-impressão, a impressão depende dela.
 
-```
+`
 Pedido 3482 · cartões de visita
 Dono: Hugo (pré-impressão)
-Depende de: atendimento, Letícia · arquivo aprovado pelo cliente · data de passagem: 10/11/2026   Entrega para: impressão, Davi · data: 11/11/2026
-```
+Depende de: atendimento, Letícia · arquivo aprovado pelo cliente · data de passagem: 10/11/2026 Entrega para: impressão, Davi · data: 11/11/2026
+`
 
 O cartão fica na coluna "Aguardando outra área", com limite de 4 cartões, até Letícia entregar o arquivo aprovado. As três áreas se reúnem por 30 minutos em 09/11/2026, com uma pessoa de cada uma que pode assumir compromisso.
 

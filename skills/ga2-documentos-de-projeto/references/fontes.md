@@ -6,7 +6,7 @@
 - Passo 4 — Ritmo ágil: §4.5 (Plano do Ciclo v6), §4.7 (Revisão do Ciclo v6), §4.14 (Desafio de 7 Dias e Status Report). Status Report é template sem aula própria.
 - Passo 5 — Melhoria contínua, §4.5: Resumo do Ciclo, Artefato 17 (v6 06/09), sem aula própria.
 - Templates oficiais: Status Report do Desafio de 7 Dias (8 campos); legado editável do Módulo 04 (6 campos, semáforo, próxima ação); Resumo do Ciclo editável do Módulo 05 (5 campos); Plano e Revisão do Ciclo.
-- Acréscimos do laboratório: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
+- Diretriz prática: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

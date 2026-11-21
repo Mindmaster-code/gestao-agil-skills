@@ -2,7 +2,7 @@
 # Backlog 2D — template
 
 Fonte dos campos: canvas legado `Canvas Backlog 2D.pdf` (6) e `Canvas Backlog Priorizado.pdf` (6.1), aula M04 A17;
-v6 aula 08 (story map, fatia fina); Ficha `backlog-2d-ga2.pdf` (backbone · Essencial · Depois); editável Mod 2
+material de referência (story map, fatia fina); Ficha `backlog-2d-ga2.pdf` (backbone · Essencial · Depois); editável Mod 2
 artefato 08. Campo que a aula não cita fica em aberto.
 
 ## Cabeçalho

@@ -15,9 +15,9 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `caso` | Caso / desafio |  | `<!-- c:caso -->` |
-| `responsavel` | Responsável |  | `<!-- c:dono -->` |
-| `data` | Data |  | `<!-- c:data -->` |
+| `caso` | Caso / desafio | | `<!-- c:caso -->` |
+| `responsavel` | Responsável | | `<!-- c:dono -->` |
+| `data` | Data | | `<!-- c:data -->` |
 | `problema` | PROBLEMA (efeito) | o problema observado, com número | `<!-- c:problema -->` |
 | `metodo` | MÉTODO | como se faz: processo, regra, padrão | `<!-- c:ishikawa -->` (formato: `{Causas levantadas}`) |
 | `maquina` | MÁQUINA | sistema, timer, ferramenta, infra | `<!-- c:ishikawa -->` (formato: `{Causas levantadas}`) |

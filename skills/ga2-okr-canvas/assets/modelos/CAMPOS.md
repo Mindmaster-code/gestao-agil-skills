@@ -41,19 +41,19 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `caso` | Caso / desafio |  | `<!-- c:caso -->` |
-| `responsavel` | Responsável |  | `<!-- c:dono -->` |
-| `data` | Data |  | `<!-- c:data -->` |
-| `objetivo` | Objetivo — aonde quero chegar (até o fim do trimestre) |  | `<!-- c:objetivo_1 -->` |
-| `kr1` | KR 1 |  | `<!-- c:kr_1 -->` (formato: `{Resultado-chave}`) |
-| `nota_kr1` | Nota KR 1 (0–1) |  | `<!-- c:nota_kr1 -->` |
-| `kr2` | KR 2 |  | `<!-- c:kr_2 -->` (formato: `{Resultado-chave}`) |
-| `nota_kr2` | Nota KR 2 (0–1) |  | `<!-- c:nota_kr2 -->` |
-| `kr3` | KR 3 |  | `<!-- c:kr_3 -->` (formato: `{Resultado-chave}`) |
-| `nota_kr3` | Nota KR 3 (0–1) |  | `<!-- c:nota_kr3 -->` |
-| `iniciativa1` | Iniciativa 1 |  | `<!-- c:iniciativas -->` |
-| `iniciativa2` | Iniciativa 2 |  | `<!-- c:iniciativas -->` |
-| `iniciativa3` | Iniciativa 3 |  | `<!-- c:iniciativas -->` |
+| `caso` | Caso / desafio | | `<!-- c:caso -->` |
+| `responsavel` | Responsável | | `<!-- c:dono -->` |
+| `data` | Data | | `<!-- c:data -->` |
+| `objetivo` | Objetivo — aonde quero chegar (até o fim do trimestre) | | `<!-- c:objetivo_1 -->` |
+| `kr1` | KR 1 | | `<!-- c:kr_1 -->` (formato: `{Resultado-chave}`) |
+| `nota_kr1` | Nota KR 1 (0–1) | | `<!-- c:nota_kr1 -->` |
+| `kr2` | KR 2 | | `<!-- c:kr_2 -->` (formato: `{Resultado-chave}`) |
+| `nota_kr2` | Nota KR 2 (0–1) | | `<!-- c:nota_kr2 -->` |
+| `kr3` | KR 3 | | `<!-- c:kr_3 -->` (formato: `{Resultado-chave}`) |
+| `nota_kr3` | Nota KR 3 (0–1) | | `<!-- c:nota_kr3 -->` |
+| `iniciativa1` | Iniciativa 1 | | `<!-- c:iniciativas -->` |
+| `iniciativa2` | Iniciativa 2 | | `<!-- c:iniciativas -->` |
+| `iniciativa3` | Iniciativa 3 | | `<!-- c:iniciativas -->` |
 
 ## `ponte-a3-okr-b-01` — Ponte A3 → OKR (editável)
 

@@ -1,18 +1,17 @@
 # Fontes e procedência
 
 - Base do método — Passo 0: Fundamentos §2.14 (5S: utilização, organização, limpeza, padronização e
-  disciplina; "das 500 ferramentas, o cara só usa 3"; "os três primeiros S são coisas que a gente tem
-  que fazer; o quarto e o quinto são de comportamento"; vale para mesa física e digital) — M02 A06.
+ disciplina; "das 500 ferramentas, o cara só usa 3"; "os três primeiros S são coisas que a gente tem
+ que fazer; o quarto e o quinto são de comportamento"; vale para mesa física e digital) — M02 A06.
 - Base do método — Passo 0 §2.13 (os 7 desperdícios, usados como lente dos achados) — M02 A06.
 - Base do método — Passo 0 §2.22 (oito passos para começar no Lean; o oitavo é praticar 5S) — M02 A07.
 - Base do método — Passo 0 §5 (ritual "5S diário": todos, todo dia, só o necessário, organizado e
-  limpo) — M02 A06.
+ limpo) — M02 A06.
 - Ficha F09 do Guia completo de rotinas de gestão (revisar acúmulos e simplificar a organização), para
-  a poda mensal `(adaptação metodológica)`.
-- O curso não traz template preenchível de 5S. O Relatório 5S desta habilidade é `(acréscimo do
-  laboratório)`.
+ a poda mensal.
+- O curso não traz template preenchível de 5S. O Relatório 5S desta habilidade apoia o registro do ciclo.
 
-Acréscimos do laboratório, que vão além da aula (a procedência fica só neste arquivo):
+Práticas aplicadas nesta habilidade:
 
 - o alvo como parâmetro e a tradução das cinco perguntas por alvo (`alvos.md`);
 - a etiqueta vermelha e a quarentena com prazo, antes de qualquer descarte;

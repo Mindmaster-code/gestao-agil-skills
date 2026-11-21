@@ -33,7 +33,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:plano -->
 | O quê | Quem | Quando |
 |---|---|---|
-|  |  |  |
+| | | |
 
 ## Acompanhar
 

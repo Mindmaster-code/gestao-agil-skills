@@ -2,7 +2,7 @@
 # Matriz Esforço × Impacto — template
 
 Fonte dos campos: M04 A15; editável `07-matriz-esforco-impacto-ga2-editavel.pdf` ("Use depois do OKR. Coloque as
-iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; v6 aula 07.
+iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; material de referência.
 Campo que a aula não cita fica em aberto.
 
 **Cabeçalho**
@@ -30,23 +30,23 @@ Campo que a aula não cita fica em aberto.
 
 ## 2. A grade
 
-```
+`
 ALTO IMPACTO
 ┌──────────────────────────────┬──────────────────────────────┐
-│ FAÇA JÁ                      │ PLANEJE                      │
-│ alto impacto + baixo esforço │ alto impacto + alto esforço  │
+│ FAÇA JÁ │ PLANEJE │
+│ alto impacto + baixo esforço │ alto impacto + alto esforço │
 │ resultado rápido; começa aqui│ quebre em partes; marque data│
-│                              │                              │
-│ •                            │ •                            │
+│ │ │
+│ • │ • │
 ├──────────────────────────────┼──────────────────────────────┤
-│ ENCAIXE                      │ EVITE OU QUESTIONE           │
+│ ENCAIXE │ EVITE OU QUESTIONE │
 │ baixo impacto + baixo esforço│ baixo impacto + alto esforço │
 │ nas brechas; só se não rouba │ fora do ciclo; motivo escrito│
-│ foco                         │                              │
-│ •                            │ •                            │
+│ foco │ │
+│ • │ • │
 └──────────────────────────────┴──────────────────────────────┘
-BAIXO IMPACTO      baixo esforço ──────────────► alto esforço
-```
+BAIXO IMPACTO baixo esforço ──────────────► alto esforço
+`
 
 Nomes equivalentes nas outras fontes: Resultados rápidos / Iniciativas estratégicas / Tarefas de apoio / Desperdício de tempo (A15, apostila) · Fazer primeiro / Planejar / Fazer se sobrar / Evitar por enquanto (editável Mod 2).
 

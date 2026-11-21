@@ -67,7 +67,7 @@ Cuidados: o levantamento lista fatos, não impressões, e não julga quem pediu.
 5. **Preencha o rodapé:** Combinado em (data da reunião) · Visível em ("onde o time vê, não na sua gaveta") · Revisamos em (data). Recusa: "revisamos em" em branco — "é a que todo mundo deixa em branco".
 6. **Pendure ao lado do quadro de tarefas.** Na data de revisão, reabra só as linhas em que a decisão voltou ao líder ou o time errou.
 
-## Aplicação aos agentes (acréscimo do método)
+## Aplicação aos agentes
 
 Para agente, delegação por nível não é boa prática, é enforcement: "gente intui limite;
 agente executa o que o prompt permitir" (Base do método — Passo 6 §6.2). Tradução dos níveis para uma operação com agentes; os papéis devem ter autoridade registrada, não presumida:

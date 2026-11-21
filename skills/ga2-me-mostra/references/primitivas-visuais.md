@@ -7,11 +7,11 @@ HTML: base, foco, exceção e prova.
 
 Use para ordem, passagem do trabalho e ponto de espera.
 
-```text
+`text
 Entrada → Triagem → Execução → Aprovação → Entrega
-                     │          ▲
-                     └─ trava: prova ausente
-```
+ │ ▲
+ └─ trava: prova ausente
+`
 
 Rótulo em cada seta só quando a condição importa. Em HTML, use SVG inline ou blocos com
 setas CSS. Não desenhe fluxo para uma lista sem dependência.
@@ -20,12 +20,12 @@ setas CSS. Não desenhe fluxo para uma lista sem dependência.
 
 Use para distribuição do trabalho, limite, idade e bloqueio.
 
-```text
-FILA (3)        FAZENDO (2/2)       FEITO
-NS-01           NS-02 · 4 dias      NS-03 · prova
-NS-04           NS-05 · BLOQUEADO
+`text
+FILA (3) FAZENDO (2/2) FEITO
+NS-01 NS-02 · 4 dias NS-03 · prova
+NS-04 NS-05 · BLOQUEADO
 NS-06
-```
+`
 
 Mostre o limite junto da coluna. Bloqueio fica no cartão e não depende só da cor.
 
@@ -33,11 +33,11 @@ Mostre o limite junto da coluna. Bloqueio fica no cartão e não depende só da 
 
 Use para papéis, passagens e esperas entre pessoas ou agentes.
 
-```text
-Dono       define pronto ─────────────── aceita
-Agente                    executa ── prova
-Decisor                              aprova
-```
+`text
+Dono define pronto ─────────────── aceita
+Agente executa ── prova
+Decisor aprova
+`
 
 Pessoa e agente ficam em linhas diferentes. Não use raia para atribuir dono inexistente.
 
@@ -45,11 +45,11 @@ Pessoa e agente ficam em linhas diferentes. Não use raia para atribuir dono ine
 
 Use para meta, gap ou transformação.
 
-```text
-ATUAL                  GAP                 DESEJADO
+`text
+ATUAL GAP DESEJADO
 2 dias ─────────────── 3 dias ─────────── 5 dias
-[medido · fonte]                           [meta · prazo]
-```
+[medido · fonte] [meta · prazo]
+`
 
 Compare a mesma medida dos dois lados. Se a unidade mudar, o visual é inválido.
 
@@ -57,11 +57,11 @@ Compare a mesma medida dos dois lados. Se a unidade mudar, o visual é inválido
 
 Use para mudança de regra, processo ou estrutura.
 
-```text
-ANTES                              DEPOIS
-pedido → três caixas → espera      pedido → dono único → resposta
-          ^ sem aprovação                    ^ quem aprova está nomeado
-```
+`text
+ANTES DEPOIS
+pedido → três caixas → espera pedido → dono único → resposta
+ ^ sem aprovação ^ quem aprova está nomeado
+`
 
 Marque o ponto alterado. Não redesenhe o que permaneceu igual.
 
@@ -69,11 +69,11 @@ Marque o ponto alterado. Não redesenhe o que permaneceu igual.
 
 Use para diagnóstico de falha.
 
-```text
-ESPERADO   agendador → tarefa → 6 arquivos → leitura
-OBSERVADO  agendador → ERRO ─────────────→ 0 arquivos
-                    ^ primeira divergência
-```
+`text
+ESPERADO agendador → tarefa → 6 arquivos → leitura
+OBSERVADO agendador → ERRO ─────────────→ 0 arquivos
+ ^ primeira divergência
+`
 
 Comece no último ponto conhecido como correto. Destaque a primeira divergência, não o último
 sintoma.
@@ -82,9 +82,9 @@ sintoma.
 
 Use 5 Porquês quando houver uma cadeia dominante.
 
-```text
+`text
 Sintoma → por quê 1 → por quê 2 → causa de processo → contramedida
-```
+`
 
 Use Ishikawa quando categorias paralelas explicarem o efeito. Em HTML, o SVG mostra a
 espinha; uma tabela curta guarda evidência e fonte de cada ramo.
@@ -93,9 +93,9 @@ espinha; uma tabela curta guarda evidência e fonte de cada ramo.
 
 Use para mostrar de onde um item veio e o que ele alimenta.
 
-```text
+`text
 Causa → Contramedida → Iniciativa → Entrega → Cartão → Prova
-```
+`
 
 O foco ganha rótulo; os demais nós ficam como contexto. Corte a cadeia em `…` quando a parte
 omitida não muda a decisão.
@@ -104,12 +104,12 @@ omitida não muda a decisão.
 
 Use quando duas dimensões separam opções.
 
-```text
+`text
 IMPACTO ↑
-        planeje        faça já
-        evite          encaixe
-                       → ESFORÇO
-```
+ planeje faça já
+ evite encaixe
+ → ESFORÇO
+`
 
 Escreva os critérios e a fonte da posição. Sem critério medido, marque a posição como
 estimada.
@@ -118,13 +118,13 @@ estimada.
 
 Use quando respostas sucessivas mudam o caminho.
 
-```text
+`text
 Tem fim e entrega única?
 ├─ sim → Projeto em ciclos
 └─ não → A demanda se repete?
-          ├─ sim → Fluxo contínuo
-          └─ misto → Híbrido, com regra de quem cede
-```
+ ├─ sim → Fluxo contínuo
+ └─ misto → Híbrido, com regra de quem cede
+`
 
 Cada folha precisa terminar em decisão, ação ou ponto em aberto.
 
@@ -132,9 +132,9 @@ Cada folha precisa terminar em decisão, ação ou ponto em aberto.
 
 Use para cadência, marcos e mudança ao longo do tempo.
 
-```text
+`text
 SEG plano ─ QUA pulso ─ SEX review ─ SEX retro ─ PRÓXIMO ciclo
-```
+`
 
 Mostre datas exatas quando houver compromisso. Não use linha do tempo para itens sem ordem.
 
@@ -143,9 +143,9 @@ Mostre datas exatas quando houver compromisso. Não use linha do tempo para iten
 Use painel para 3–5 números-âncora. Use tabela quando valores exatos ou muitos atributos
 importarem mais que a forma.
 
-```text
+`text
 [12 em curso] [3 bloqueados] [8 dias: mais antigo] [2 gates]
-```
+`
 
 Barra é proporcional ao maior valor comparado. Número sem fonte não vira gráfico.
 

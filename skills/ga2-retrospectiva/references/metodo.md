@@ -14,12 +14,12 @@ Na cadeia: Plano do ciclo → Review → **Retro** → PDCA / Quadro Kaizen → 
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.14, §4.8, regras 18, 19 e 22 — M06 A08 (ao vivo); v6 aula 08.
+- Base do método: Passo 4 — Ritmo Ágil §2.14, §4.8, regras 18, 19 e 22 — M06 A08 (ao vivo); material de referência.
 - Base do método: Passo 5 — Melhoria Contínua §2.4, §2.9 (filtro de ideias), regras 1, 2, 5, 8, 9 e 15 — M07 A02/A04 (professor); .
 - Templates: v6 «Canvas Editável — Retrospectiva»;
-  legado «M06 A08 — Canvas Retrospectiva»;
-  «Mod 05 — Retrospectiva GA2 Editável»;
-  individual folha individual «retrospectiva-ga2.pdf».
+ legado «M06 A08 — Canvas Retrospectiva»;
+ «Mod 05 — Retrospectiva GA2 Editável»;
+ individual folha individual «retrospectiva-ga2.pdf».
 
 ## As 4 versões do formato
 
@@ -36,29 +36,29 @@ leitura da mesma folha olhando para trás. A regra de uma ação vence o `--help
 ## Como conduzir (20–30 min, sexta 14h)
 
 1. **Abrir conferindo a ação da retro anterior.** Pergunta: "A ação da semana passada
-   aconteceu? Qual o número?" Escreve Do/Check/Act no PDCA anterior. Recusa: passar adiante
-   sem fechar.
+ aconteceu? Qual o número?" Escreve Do/Check/Act no PDCA anterior. Recusa: passar adiante
+ sem fechar.
 2. **5 minutos em silêncio, todo mundo escreve.** Por carta ou pulso: cada participante manda
-   as três colunas antes de ler as dos outros. Recusa: o líder preencher sozinho.
+ as três colunas antes de ler as dos outros. Recusa: o líder preencher sozinho.
 3. **Manter** — começar pelo que foi bem. Pergunta: "O que funcionou e queremos de novo?"
 4. **Melhorar** — "O que atrapalhou o jeito de trabalhar?" Escreve a situação com fonte
-   ("cartão P-04 ficou 21 dias sem dono"). Recusa: nome de pessoa como causa.
+ ("cartão P-04 ficou 21 dias sem dono"). Recusa: nome de pessoa como causa.
 5. **Parar** — "O que decidimos deixar de fazer?"
 6. **Filtrar as ideias**: está sob controle do time? cabe em um ciclo? move um atrito
-   que apareceu mais de uma vez? A primeira que passa nas três vira ação. As outras vão para o
-   estacionamento (lista de ideias estacionadas na pasta do caso), sem promessa.
+ que apareceu mais de uma vez? A primeira que passa nas três vira ação. As outras vão para o
+ estacionamento (lista de ideias estacionadas na pasta do caso), sem promessa.
 7. **Uma ação, dono, data, como medimos.** Recusa: duas ações; ação sem data; "em breve".
 8. **Clima** (Happiness Metric, 1 a 5, tendência do time, nunca nota individual). Opcional na
-   time com acompanhamento assíncrono — registre só se houver humano no ciclo.
+ time com acompanhamento assíncrono — registre só se houver humano no ciclo.
 9. Salvar; abrir o PDCA em PDCA da melhoria na pasta do caso com o Plan preenchido.
 
 ## Regras do método que valem aqui
 
 - "Processo, não produto; situação, não pessoa; começa pelo que foi bem; todo mundo escreve
-  antes de falar; uma ação por ciclo com dono e prazo; a próxima retrô abre conferindo a ação
-  da anterior." (regra 18, A08 / v6 aula 08)
-- "Uma mudança por ciclo. Duas viram nenhuma." (v6 aula 08) · "Se duas coisas mudam juntas,
-  você perde a chance de saber qual delas funcionou."
+ antes de falar; uma ação por ciclo com dono e prazo; a próxima retrô abre conferindo a ação
+ da anterior." (regra 18, A08 / material de referência)
+- "Uma mudança por ciclo. Duas viram nenhuma." (material de referência) · "Se duas coisas mudam juntas,
+ você perde a chance de saber qual delas funcionou."
 - "Não pule a retrospectiva. É a parte mais negligenciada do processo." (M07 A01)
 - "O que funcionou vira padrão escrito onde o time trabalha."
 - "Problemas quase sempre têm causa raiz no processo, não nas pessoas." (M07 A12)
@@ -70,9 +70,9 @@ Os nomes abaixo são sugestões de organização, não dependências de reposit�
 
 - Arquivo: Retrospectiva na pasta do caso (template em `template.md`).
 - Depois: `ga2-pdca` aberto com o Plan; se a ação tem mais de um passo, `ga2-5w2h`; se o
-  atrito se repetiu e tem número, `ga2-quadro-kaizen`. Lição que vale para a organização vai para
-  registro compartilhado de aprendizados da organização (seguindo o README). Ação e dono entram
-  no report de sexta ao dirigente responsável.
+ atrito se repetiu e tem número, `ga2-quadro-kaizen`. Lição que vale para a organização vai para
+ registro compartilhado de aprendizados da organização (seguindo o README). Ação e dono entram
+ no report de sexta ao dirigente responsável.
 
 ## Formas de saída
 
@@ -133,7 +133,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - **Leve** (um agente, ciclo individual): três linhas (manter / melhorar / parar) e uma ação com data.
 - **Intermediária** (ciclo do laboratório): template completo, sem clima.
 - **Robusta** (time com humanos): acrescenta clima por pessoa (tendência), ata distribuída e
-  ação anterior conferida com número na abertura.
+ ação anterior conferida com número na abertura.
 
 ## Erros comuns
 

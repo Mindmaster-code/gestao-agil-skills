@@ -31,13 +31,13 @@ Não dispara para: escrever o comunicado da mudança (`ga2-reunioes-e-comunicado
 1. **Olhe o fato das últimas duas semanas:** o que aconteceu nas reuniões, nas entregas e nas conversas. Estágio se marca pelo fato.
 2. **Marque um estágio só.** Marcar por chute leva a tratar conflito saudável como problema de gente.
 
-   | Estágio | O que se vê | A jogada do líder |
-   |---|---|---|
-   | Formação (em inglês, forming) | as pessoas estão se conhecendo, com motivação alta | Apresentar as metas e as pessoas para o time se conhecer. O líder fala mais e dá direção clara. |
-   | Conflito (storming) | as diferenças aparecem | Definir responsabilidades, por exemplo com o Quadro de Delegação (`ga2-delegacao`). O líder media, sem abafar, e escreve o acordo. |
-   | Acordo (norming) | o grupo está alinhado "mais ou menos" na mesma direção | Definir os processos de trabalho. O líder escreve o combinado e devolve a decisão ao time. |
-   | Alto desempenho (performing) | todos na mesma direção | Manter o ritmo e melhorar os processos. O líder sai do caminho e cuida de limite e contexto. |
-   | Encerramento (adjourning) | o time se desfaz; raro em empresa, comum em projeto | Celebrar e registrar os aprendizados. O líder fecha bem. |
+ | Estágio | O que se vê | A jogada do líder |
+ |---|---|---|
+ | Formação (em inglês, forming) | as pessoas estão se conhecendo, com motivação alta | Apresentar as metas e as pessoas para o time se conhecer. O líder fala mais e dá direção clara. |
+ | Conflito (storming) | as diferenças aparecem | Definir responsabilidades, por exemplo com o Quadro de Delegação (`ga2-delegacao`). O líder media, sem abafar, e escreve o acordo. |
+ | Acordo (norming) | o grupo está alinhado "mais ou menos" na mesma direção | Definir os processos de trabalho. O líder escreve o combinado e devolve a decisão ao time. |
+ | Alto desempenho (performing) | todos na mesma direção | Manter o ritmo e melhorar os processos. O líder sai do caminho e cuida de limite e contexto. |
+ | Encerramento (adjourning) | o time se desfaz; raro em empresa, comum em projeto | Celebrar e registrar os aprendizados. O líder fecha bem. |
 
 3. **Escreva onde o time está e por quê:** o sinal que mostra a fase, em fato, sem culpado.
 4. **Escreva a jogada do líder agora,** com data.

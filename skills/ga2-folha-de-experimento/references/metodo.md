@@ -124,7 +124,7 @@ Modelos canvas desta skill (specs `folha-experimento-lab`):
 
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
-| `../assets/modelos/canvas-folha-experimento-lab.html` **(padrão)** | Folha de experimento · família acréscimo do método | "no canvas do método" | pronto |
+| `../assets/modelos/canvas-folha-experimento-lab.html` **(padrão)** | Folha de experimento · família prática aplicada | "no canvas do método" | pronto |
 
 Como gerar HTML ou canvas quando escolhido:
 

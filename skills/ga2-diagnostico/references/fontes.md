@@ -1,6 +1,6 @@
 # Fontes e procedência
 
-- Passo 1 — Entender o Contexto: contexto, atual, ideal e gap (M03 A05/A06; v6 aula 03 “A3 Lado Esquerdo”); regras de evidência, mesma medida e meta com prazo.
+- Passo 1 — Entender o Contexto: contexto, atual, ideal e gap (M03 A05/A06; material de referência “A3 Lado Esquerdo”); regras de evidência, mesma medida e meta com prazo.
 - Passo 0 — Fundamentos: PDCA (M02 A07), linha de base dos três pilares e regra “escreva a linha de base hoje”.
 - Template oficial: Artefato 05 — “A3 lado esquerdo GA2 editável”: Contexto · Problema claro · Situação atual com evidências · Análise inicial.
 - Canvas Editável — A3 (v6, campos 1–4); roteiro “A3 Lado Esquerdo”.

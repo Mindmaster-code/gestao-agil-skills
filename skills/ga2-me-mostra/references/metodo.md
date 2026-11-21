@@ -34,7 +34,7 @@ Escreva em PT-BR simples. A pessoa precisa entender o visual sem conhecer Gestã
 - Preserve o nome oficial de um artefato quando necessário e explique sua função.
 - Use frases curtas, voz ativa e verbos diretos.
 - Aplique esta regra no título, nos rótulos, nas legendas, nas dicas, no texto alternativo e
-  na resposta final.
+ na resposta final.
 
 | Evite | Escreva |
 |---|---|
@@ -54,34 +54,34 @@ substituto comum reabre o trabalho.
 ## Como conduzir
 
 1. **Escreva a pergunta que o visual responde.** Uma frase. Se houver várias perguntas,
-   escolha a que libera a próxima decisão e cite o recorte.
+ escolha a que libera a próxima decisão e cite o recorte.
 2. **Classifique a intenção.** Use uma das quatro:
-   - entender o estado atual;
-   - entender uma mudança;
-   - diagnosticar um problema;
-   - tomar uma decisão.
+ - entender o estado atual;
+ - entender uma mudança;
+ - diagnosticar um problema;
+ - tomar uma decisão.
 3. **Separe o que é conhecido.** Marque fatos e números como `medido`, `estimado` ou
-   `em aberto`. Ponha a fonte junto da afirmação. Não transforme hipótese em fato.
+ `em aberto`. Ponha a fonte junto da afirmação. Não transforme hipótese em fato.
 4. **Roteie para o artefato certo.** Leia
-   [`roteamento-ga2.md`](roteamento-ga2.md) quando o caso pertencer
-   a um artefato ou ritual do método.
+ [`roteamento-ga2.md`](roteamento-ga2.md) quando o caso pertencer
+ a um artefato ou ritual do método.
 5. **Escolha uma forma visual principal.** Processo pede fluxo; trabalho em curso pede
-   quadro visual do trabalho (Kanban);
-   diferença pede antes/depois; falha pede esperado/observado; causa pede 5 Porquês ou
-   Ishikawa; escolha pede matriz ou árvore. Leia
-   [`primitivas-visuais.md`](primitivas-visuais.md) quando precisar
-   desenhar.
+ quadro visual do trabalho (Kanban);
+ diferença pede antes/depois; falha pede esperado/observado; causa pede 5 Porquês ou
+ Ishikawa; escolha pede matriz ou árvore. Leia
+ [`primitivas-visuais.md`](primitivas-visuais.md) quando precisar
+ desenhar.
 6. **Mostre só o contexto necessário.** Preserve origem, destino e ponto de decisão. Corte
-   ramos que não mudam a leitura e marque a continuação com `…`.
+ ramos que não mudam a leitura e marque a continuação com `…`.
 7. **Escolha a forma de entrega.** Leia
-   [`artefatos-por-harness.md`](artefatos-por-harness.md). Detecte o
-   ambiente e as capacidades realmente expostas. Essa referência orienta apenas a saída HTML;
-   para Word, Docs ou planilhas solicitados, siga Entrega editável. O ambiente prevalece sobre o modelo.
+ [`artefatos-por-harness.md`](artefatos-por-harness.md). Detecte o
+ ambiente e as capacidades realmente expostas. Essa referência orienta apenas a saída HTML;
+ para Word, Docs ou planilhas solicitados, siga Entrega editável. O ambiente prevalece sobre o modelo.
 8. **Gere e apresente o formato escolhido.** Preserve pergunta, visual, prova e consequência.
-   Para HTML, use a forma nativa quando disponível. Para documentos, siga a entrega editável.
+ Para HTML, use a forma nativa quando disponível. Para documentos, siga a entrega editável.
 9. **Feche com consequência.** Diga o que o visual prova, o que segue em aberto e qual
-   decisão ou ação vem agora. Se houver ação, nomeie um dono e uma data. Se houver
-   aprovação, nomeie quem decide.
+ decisão ou ação vem agora. Se houver ação, nomeie um dono e uma data. Se houver
+ aprovação, nomeie quem decide.
 
 ## Escolha pela intenção
 
@@ -115,7 +115,7 @@ siga a seção Entrega editável e preserve a informação do visual em conteúd
 1. crie a fonte HTML;
 2. apresente-a na janela nativa do ambiente, como Artifact, Canvas, visualização ou prévia;
 3. se não houver forma nativa, grave o HTML autônomo e mostre o resumo visual no
-   terminal;
+ terminal;
 4. informe o caminho do HTML apenas na alternativa ou quando o ambiente pedir;
 5. feche com prova, ponto em aberto e decisão ou próximo passo.
 
@@ -167,7 +167,7 @@ substitui o HTML.
 - Não misture estado atual e desejado sem rótulos claros.
 - Não destaque tudo. Se tudo chama atenção, nada orienta a decisão.
 - Não escolha a forma de entrega pelo nome do modelo. Escolha pelo ambiente e pelas capacidades
-  expostas nesta sessão.
+ expostas nesta sessão.
 - CNV fica no chat por padrão; salve apenas quando solicitado, sem ampliar o compartilhamento.
 - Criar o visual não autoriza publicá-lo nem ampliar seu compartilhamento. Respeite o destino e as pessoas autorizados pelo usuário.
 

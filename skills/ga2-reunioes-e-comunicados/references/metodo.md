@@ -33,13 +33,13 @@ A preparação leva de 5 a 15 minutos.
 3. **Convide só quem decide, quem contribui com informação e quem vai fazer o trabalho.** Sem a informação indispensável ou sem alguém que possa decidir, a pauta vira preparação, ou a decisão é remarcada. Convocar a equipe toda por hábito custa horas de trabalho.
 4. **Fixe o teto de duração e uma pauta curta,** com o tempo previsto de cada item. Os rituais do ciclo servem de referência:
 
-   | Ritual | Teto |
-   |---|---|
-   | Diária | Até 15 minutos |
-   | Planejamento do ciclo | De 15 a 30 minutos |
-   | Revisão do ciclo | 30 minutos |
-   | Retrospectiva | 30 minutos |
-   | Reunião de resultado | 15 minutos |
+ | Ritual | Teto |
+ |---|---|
+ | Diária | Até 15 minutos |
+ | Planejamento do ciclo | De 15 a 30 minutos |
+ | Revisão do ciclo | 30 minutos |
+ | Retrospectiva | 30 minutos |
+ | Reunião de resultado | 15 minutos |
 
 5. **Calcule o custo:** duração em minutos vezes o número de pessoas. Uma hora com oito pessoas custa oito horas da equipe.
 6. **Mande o material com antecedência útil** e diga o que precisa ser lido antes.
@@ -79,11 +79,11 @@ A preparação leva de 10 a 20 minutos (roteiro de comunicação, cobertura e tr
 ### E. Acompanhar a adoção
 
 28. **Marque uma conversa de acompanhamento antes da mudança e uma por semana nas primeiras semanas,** de 20 a 45 minutos cada, com quem vai trabalhar do jeito novo (o grupo que age). Defina com o líder quantas semanas duram as primeiras, conforme o tamanho da mudança:
-    - explique o motivo da mudança e as consequências práticas;
-    - ouça as dúvidas, as perdas que as pessoas sentem e o que precisam aprender;
-    - defina a orientação, os recursos e o apoio para a transição;
-    - acompanhe casos reais de uso e as dificuldades de adoção;
-    - ajuste o plano e confirme que a nova prática foi incorporada.
+ - explique o motivo da mudança e as consequências práticas;
+ - ouça as dúvidas, as perdas que as pessoas sentem e o que precisam aprender;
+ - defina a orientação, os recursos e o apoio para a transição;
+ - acompanhe casos reais de uso e as dificuldades de adoção;
+ - ajuste o plano e confirme que a nova prática foi incorporada.
 29. **Leia o estágio do time e meça a confiança** (`ga2-estagio-do-time`). A mudança costuma devolver o grupo ao conflito.
 30. **Se a mudança mexe em quem decide o quê,** atualize o Quadro de Delegação (`ga2-delegacao`).
 31. **Se alguém continua no jeito antigo depois de entender a mudança,** o caso é de conversa difícil: prepare-a em `ga2-canvas-de-conversa-cnv`. Até lá, o caminho é o acompanhamento. Discordar da decisão e ter dificuldade para executá-la são situações diferentes, e cada uma pede a sua conversa.

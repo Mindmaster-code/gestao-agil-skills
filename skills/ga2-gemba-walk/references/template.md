@@ -15,7 +15,7 @@
 | Com quem (quem executa, não quem reporta) <!-- c:quem --> | |
 | Quando · quanto tempo <!-- c:quando --> | |
 | O que eu quero entender (uma pergunta; nunca começa com "quem") <!-- c:pergunta --> | |
-| Comando ou caminho (só leitura) `(acréscimo do laboratório)` | <ex.: `journalctl --user -u … -n 30 --no-pager`> |
+| Comando ou caminho (só leitura) | <ex.: `journalctl --user -u … -n 30 --no-pager`> |
 
 ## No lugar
 

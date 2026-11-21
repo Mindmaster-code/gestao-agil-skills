@@ -1,6 +1,6 @@
 # Fontes e procedência
 
-- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; v6 aula 08.
+- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; material de referência.
 - Template oficial: Canvas Editável — Roteiro do Vá e Veja, v6, Passo 5 (referência de origem; modelo público nos assets).
 - Regra de verificação adotada pelo laboratório: "pronto só depois de verificar pelo caminho real do usuário".
 

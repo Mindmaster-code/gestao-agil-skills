@@ -19,7 +19,7 @@ do tamanho de uma semana. Cadeia: A3 → OKR → Matriz → **Backlog 2D** → K
 - Aulas: M04 A16 (backlog), A17 (Backlog 2D), A18 (tarefas pequenas); M06 A04; v6, módulo 03, aulas 08 (story map) e 09 (fechamento).
 - Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
-- Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
+- aplicação do método: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
 - Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal; lente do 5S: Passo 0 §2.14.
 ## As duas leituras — e qual usar
 
@@ -38,27 +38,27 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
 ## Como conduzir
 
 1. **Escolha a leitura.** Pergunta: "é um plano com várias iniciativas do OKR, ou uma
-   iniciativa grande com fases próprias?" Plano → v6. Produto/projeto grande → ao vivo.
-   Escreve no cabeçalho qual leitura e por quê.
+ iniciativa grande com fases próprias?" Plano → v6. Produto/projeto grande → ao vivo.
+ Escreve no cabeçalho qual leitura e por quê.
 2. **Cabeçalho.** Nome da iniciativa (ou do plano), líder (dono do backlog = PO), KR que move.
-   Recusa: backlog sem dono — "quem ordena?"
+ Recusa: backlog sem dono — "quem ordena?"
 3. **Linha de cima.** Pergunta (v6): "quais iniciativas passaram na matriz, em que ordem?"
-   Pergunta (ao vivo): "quais são as grandes etapas do início ao fim — fases, etapas do
-   processo, módulos?" Escreve da esquerda para a direita. Recusa: lista plana sem caminho;
-   item do Evite na linha de cima.
+ Pergunta (ao vivo): "quais são as grandes etapas do início ao fim — fases, etapas do
+ processo, módulos?" Escreve da esquerda para a direita. Recusa: lista plana sem caminho;
+ item do Evite na linha de cima.
 4. **Detalhamento.** Pergunta por coluna: "como faço para atingir o resultado nessa
-   coluna? o que exatamente preciso criar?" Escreve embaixo, o mais importante em cima.
-   Recusa: item maior que uma semana ("corta antes"); item sem verbo e sem entrega.
+ coluna? o que exatamente preciso criar?" Escreve embaixo, o mais importante em cima.
+ Recusa: item maior que uma semana ("corta antes"); item sem verbo e sem entrega.
 5. **Priorize E/D/O/Q.** Pergunta: "sem isso a iniciativa não funciona (E)? seria bom (D)?
-   se der (O)? não sei se precisa (Q)?" Recusa: item grande e caro no E; E que não toca nenhum KR.
+ se der (O)? não sei se precisa (Q)?" Recusa: item grande e caro no E; E que não toca nenhum KR.
 6. **Marque a fatia fina.** Pergunta: "qual é o mínimo que atravessa o mapa e já entrega
-   algo que o cliente reconhece?" Recusa: fatia que capricha 100% numa coluna antes de
-   encostar na seguinte ("fatie fino").
+ algo que o cliente reconhece?" Recusa: fatia que capricha 100% numa coluna antes de
+ encostar na seguinte ("fatie fino").
 7. **Corte em cartões.** Cada item da fatia fina vira cartão de até uma semana, com dono e
-   "pronto é". Esses cartões são o primeiro ciclo. Recusa: cartão que é a iniciativa inteira.
+ "pronto é". Esses cartões são o primeiro ciclo. Recusa: cartão que é a iniciativa inteira.
 8. **Mantenha vivo.** Backlog é lista viva: entra, sai, quebra, reordena. O que está perto de
-   ser puxado fica detalhado; o distante fica macro. Pergunta na varredura: "o mapa ainda
-   bate com o registro atual do trabalho?"
+ ser puxado fica detalhado; o distante fica macro. Pergunta na varredura: "o mapa ainda
+ bate com o registro atual do trabalho?"
 
 ## Poda mensal da lista (ficha F09)
 

@@ -28,43 +28,43 @@ Alvo que não está lá: responda essas cinco perguntas antes de começar e most
 
 1. Leia `references/metodo.md` por inteiro antes de começar.
 2. **Enquadre** em poucas linhas: alvo e fronteira, para que serve, dono e usuários, risco e
-   "pronto quando" (o que fica mais fácil, com uma medida). Alvo grande vira fatias: comece
-   pela parte mais usada ou pela que mais dói.
+ "pronto quando" (o que fica mais fácil, com uma medida). Alvo grande vira fatias: comece
+ pela parte mais usada ou pela que mais dói.
 3. **Escolha o modo.** Diagnóstico (só a foto e a nota, não mexe), arrumação (os cinco S com o
-   sim do dono), manutenção (refaz a nota e trata o que voltou) ou rotina (padrão, rotina e
-   vigia). Sem modo definido: diagnóstico primeiro, depois ofereça a arrumação. O diagnóstico sai
-   curto: os achados que mais pesam (de 3 a 10; um achado pode ser um lote) e as decisões do dono.
+ sim do dono), manutenção (refaz a nota e trata o que voltou) ou rotina (padrão, rotina e
+ vigia). Sem modo definido: diagnóstico primeiro, depois ofereça a arrumação. O diagnóstico sai
+ curto: os achados que mais pesam (de 3 a 10; um achado pode ser um lote) e as decisões do dono.
 4. **Foto do antes:** inventário da fatia, três medidas (itens à mão, teste de achar, problemas
-   abertos por tipo) e a nota de 0 a 4 em cada S, sempre com o fato que a sustenta. Leia o alvo pelo
-   próprio sistema; não altere. Alvo grande: conte e meça amostra; contagem de varredura entra como
-   estimada; o que não deu para verificar fica "não verificado", com onde se procurou.
+ abertos por tipo) e a nota de 0 a 4 em cada S, sempre com o fato que a sustenta. Leia o alvo pelo
+ próprio sistema; não altere. Alvo grande: conte e meça amostra; contagem de varredura entra como
+ estimada; o que não deu para verificar fica "não verificado", com onde se procurou.
 5. **Utilização (Seiri):** destino de cada item pela prova de uso, nunca por opinião: à mão,
-   guardado com catálogo, devolvido ao dono, quarentena com etiqueta vermelha e prazo, ou
-   descarte com o sim do dono.
+ guardado com catálogo, devolvido ao dono, quarentena com etiqueta vermelha e prazo, ou
+ descarte com o sim do dono.
 6. **Organização (Seiton):** um lugar para cada coisa, nome previsível, o mais usado mais perto,
-   poucos níveis. Faça o teste de achar com quem não arrumou.
+ poucos níveis. Faça o teste de achar com quem não arrumou.
 7. **Limpeza (Seiso):** limpar é inspecionar. Corrija o quebrado e o errado e pergunte de onde a
-   sujeira vem. Se já havia uma guarda que devia ter pego, descubra por que falhou. Trate a fonte
-   com contramedida à prova de erro; causa difícil vai para `ga2-causa-raiz`.
+ sujeira vem. Se já havia uma guarda que devia ter pego, descubra por que falhou. Trate a fonte
+ com contramedida à prova de erro; causa difícil vai para `ga2-causa-raiz`.
 8. **Padronização (Seiketsu):** padrão em uma página, à vista onde o trabalho acontece; quando
-   der, vira guarda automática (modelo, nome sugerido, validação).
+ der, vira guarda automática (modelo, nome sugerido, validação).
 9. **Disciplina (Shitsuke):** rotina em doses pequenas, com dono, frequência e a mesma nota na
-   auditoria. Em alvo digital, proponha um vigia que só lê e avisa o que é novo.
+ auditoria. Em alvo digital, proponha um vigia que só lê e avisa o que é novo.
 10. **Leve ao dono numa rodada só** tudo o que depende dele: a tabela item → de onde → para onde
-    → por quê, a quarentena, o descarte, o que fica no lugar de propósito, o padrão e a rotina.
+ → por quê, a quarentena, o descarte, o que fica no lugar de propósito, o padrão e a rotina.
 11. **Aplique só o aprovado**, refaça a foto no lugar real e entregue o Relatório 5S com antes e
-    depois na mesma régua.
+ depois na mesma régua.
 
 ## Regras de segurança
 
 - Nada vai embora sem o sim do dono. Quarentena e arquivo vêm antes do descarte; descarte
-  definitivo só quando o dono pedir.
+ definitivo só quando o dono pedir.
 - Antes de mover, veja quem aponta para o item: link, atalho, fórmula, código, automação. O que é
-  lido por um caminho fixo fica onde está ou muda junto com quem o lê.
+ lido por um caminho fixo fica onde está ou muda junto com quem o lê.
 - Mover não é copiar. Preserve identidade, link e histórico.
 - Em sistema vivo (produção, campanha no ar, dado de cliente, dinheiro): leia o estado atual, faça
-  a menor mudança possível, confira depois e tenha como desfazer. Em período crítico, o que mexe
-  no que está rodando vai marcado "só depois de <data>".
+ a menor mudança possível, confira depois e tenha como desfazer. Em período crítico, o que mexe
+ no que está rodando vai marcado "só depois de <data>".
 - O que é de outra pessoa ou área volta para ela; não se reorganiza o que não é seu.
 - Arrumar não é reescrever: mude o lugar, não o conteúdo, a menos que peçam.
 

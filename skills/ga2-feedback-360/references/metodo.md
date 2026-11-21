@@ -59,7 +59,7 @@ perguntar "só a quem gosta de você".
 - Feedback na hora é em particular, perto do fato, em quatro partes: fato com data, efeito, pergunta e combinado. (aula 6; ficha D03)
 - Reconhecimento fala do esforço e do processo, com o fato e o efeito. (Passo 6 regra 18; ficha D04)
 
-## Aplicação à cadência de trabalho (acréscimo do método)
+## Aplicação à cadência de trabalho
 
 O 360 de quem conduz o método é sobre a cadência que essa pessoa impõe. Uma vez por ciclo de OKR (ou a cada
 4 semanas no começo), pedido a 4–6 participantes: superior, par, integrante da equipe,
@@ -109,7 +109,7 @@ Reconhecer leva de 2 a 10 minutos, perto da contribuição, e a revisão semanal
 
 Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Registro: feedback com pessoa avaliada e mês no destino privado escolhido (acréscimo do método). Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
+- Registro: feedback com pessoa avaliada e mês no destino privado escolhido . Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
 - Aluno: canvas v6 preenchido; os 2 focos entram no plano de uma página (v6 09) e, se couber, no PDI do próprio líder (`ga2-pdi`).
 - Pedidos e devolutivas: canal privado combinado com cada participante; não amplie o compartilhamento.
 - Revisão de desempenho: folha de revisão de desempenho com as cinco dimensões, os dois focos com prazo, as condições do líder e a data da próxima revisão, em registro reservado.

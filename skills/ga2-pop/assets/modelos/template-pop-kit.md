@@ -22,7 +22,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:responsabilidades -->
 | Papel | Responsabilidade |
 |---|---|
-|  |  |
+| | |
 
 ## Como funciona
 
@@ -36,7 +36,7 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:passos -->
 | Passo | Responsável |
 |---|---|
-|  |  |
+| | |
 
 ## Como se controla
 
@@ -50,4 +50,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:indicadores -->
 | Indicador | Meta |
 |---|---|
-|  |  |
+| | |

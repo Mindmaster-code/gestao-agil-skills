@@ -13,7 +13,7 @@ Ritual (equipe)
 - [ ] Durou até 15 min; tempo real registrado.
 - [ ] Ninguém "prestou contas ao chefe"; SM e PO não conduziram.
 
-Diária entre agentes (acréscimo do método)
+Diária entre agentes
 - [ ] Caixa lida; mensagem com comando entrou na lista do dia.
 - [ ] A carteira de iniciativas respondeu só três perguntas: mais parado, sem dono, gate sem decisor.
 - [ ] Resumos diários e documentos de acompanhamento usados só para atualizar "Última prova".

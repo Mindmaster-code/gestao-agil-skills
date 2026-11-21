@@ -43,7 +43,7 @@ Imprima, corte e entregue uma ficha por pessoa, sem nome. Recolha, torne a distr
 >
 > Hoje, quanto você confia que pode falar a verdade neste time, inclusive quando há problema, erro ou discordância?
 >
-> [ ] 1 · Baixa    [ ] 2 · Média    [ ] 3 · Alta
+> [ ] 1 · Baixa [ ] 2 · Média [ ] 3 · Alta
 >
 > O que mais aumentaria sua confiança neste time?
 >

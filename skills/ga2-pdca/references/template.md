@@ -1,7 +1,7 @@
 <!-- modelos de origem: pdca-lab.json -->
 # PDCA — <slug da melhoria>
 
-Template do laboratório (L-02). Fonte: M02 A07 (PDCA), M03 A05 (A3 contém o PDCA), v6 Quadro Kaizen. Aula não dá formulário: campos derivados, marcados quando são acréscimo.
+Template do laboratório (L-02). Fonte: M02 A07 (PDCA), M03 A05 (A3 contém o PDCA), Quadro Kaizen. Aula não dá formulário: campos derivados e identificados na própria orientação.
 
 | Campo | Conteúdo |
 |---|---|
@@ -51,7 +51,7 @@ Template do laboratório (L-02). Fonte: M02 A07 (PDCA), M03 A05 (A3 contém o PD
 | Próximo ciclo (se ajustar) <!-- c:proximo_ciclo --> | <o que entra no novo P e data> |
 | Fechado em <!-- c:fechado_em --> | <dd/mm> |
 
-## Registro de ciclos (acréscimo do laboratório)
+## Registro de ciclos
 
 | Ciclo | P (ação) | C (número × base) | A (decisão) | Data |
 |---|---|---|---|---|

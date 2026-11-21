@@ -19,12 +19,12 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:plano -->
 | O quê | Por quê | Quem | Quando | Onde | Como | Quanto | Status |
 |---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
 ## Acompanhamento
 
@@ -32,4 +32,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:acompanhamento -->
 | Data | Linha | O que mudou | Prova |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |

@@ -22,23 +22,23 @@ fila do planejamento do ciclo.
 ## Como conduzir
 
 1. **Confira a entrada.** Pergunta: "isso é iniciativa, objetivo ou KR?" Só iniciativa entra.
-   Recusa: objetivo e KR na grade — "são direção e meta, não escolha".
+ Recusa: objetivo e KR na grade — "são direção e meta, não escolha".
 2. **Liste tudo, sem filtro.** Inclua o que já roda hoje e as ideias que surgiram na hora.
-   Recusa: lista com item sem dono ou sem o KR que move ("volta ao OKR").
+ Recusa: lista com item sem dono ou sem o KR que move ("volta ao OKR").
 3. **Impacto.** Pergunta por item: "quanto isso move o KR? qual número e quanto?" Escreve
-   alto ou baixo com o motivo em uma linha. Nesta adaptação, impacto = quanto move o KR no período
-   ou quanto destrava dinheiro, cliente, reputação ou decisão. Recusa: "é importante" sem número.
+ alto ou baixo com o motivo em uma linha. Nesta adaptação, impacto = quanto move o KR no período
+ ou quanto destrava dinheiro, cliente, reputação ou decisão. Recusa: "é importante" sem número.
 4. **Esforço.** Pergunta: "quanto custa em tempo, dinheiro, complexidade e aprendizado? tem
-   gate humano pendente?" Nesta adaptação, esforço = dias de trabalho + espera por aprovações. Recusa:
-   estimativa sem unidade.
+ gate humano pendente?" Nesta adaptação, esforço = dias de trabalho + espera por aprovações. Recusa:
+ estimativa sem unidade.
 5. **Posicione** cada item num quadrante:
-   - alto impacto + baixo esforço → **Faça já** (resultado rápido; "o dinheiro fácil")
-   - alto impacto + alto esforço → **Planeje** (estratégico; quebre em partes menores, escolha o momento)
-   - baixo impacto + baixo esforço → **Encaixe** (apoio; só entra se não roubar foco)
-   - baixo impacto + alto esforço → **Evite ou questione** (desperdício; "você vai trabalhar demais para não entregar nada de valor")
+ - alto impacto + baixo esforço → **Faça já** (resultado rápido; "o dinheiro fácil")
+ - alto impacto + alto esforço → **Planeje** (estratégico; quebre em partes menores, escolha o momento)
+ - baixo impacto + baixo esforço → **Encaixe** (apoio; só entra se não roubar foco)
+ - baixo impacto + alto esforço → **Evite ou questione** (desperdício; "você vai trabalhar demais para não entregar nada de valor")
 6. **Decida a sequência**, não o descarte: Faça já → Planeje (com data) → Encaixe (nas brechas)
-   → Evite (fica fora do backlog, com o motivo escrito). Pergunta final: "o que você ia
-   fazer primeiro antes da matriz? mudou?" e "o que caiu no Evite — tem coragem de tirar?"
+ → Evite (fica fora do backlog, com o motivo escrito). Pergunta final: "o que você ia
+ fazer primeiro antes da matriz? mudou?" e "o que caiu no Evite — tem coragem de tirar?"
 7. **Entregue a fila.** Escreve a ordem numerada. Ela vira a linha de cima do Backlog 2D.
 
 ## Regras do método que valem aqui

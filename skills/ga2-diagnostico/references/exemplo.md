@@ -25,7 +25,7 @@ Erros obrigam o cliente a pedir correção e atrasam a disponibilidade da mercad
 
 Não há número financeiro neste diagnóstico.
 
-### 2a. Mapa as-is — adaptação metodológica
+### 2a. Mapa as-is — aplicação do método
 
 Tempos abaixo são estimativas didáticas por pedido, não medições reais.
 
@@ -38,7 +38,7 @@ Tempos abaixo são estimativas didáticas por pedido, não medições reais.
 
 **Onde para:** o cenário sugere retorno da etapa 3 à 2; frequência e causa ainda precisam de observação.
 
-### 2b. Linha de base — adaptação metodológica
+### 2b. Linha de base — aplicação do método
 
 | Métrica | Valor hoje | Data | Fonte | Frequência | Quem lê |
 |---|---|---|---|---|---|

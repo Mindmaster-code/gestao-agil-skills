@@ -8,10 +8,10 @@
 - [ ] Contexto diz por que agora e por que importa.
 - [ ] Escopo tem "entra" **e** "fica de fora".
 - [ ] Campo de destaque do tipo preenchido com número e prazo:
-  - projeto → entregas/marcos, prazo, critério de pronto verificável pelo caminho real;
-    (entregas que o gestor não trouxe foram propostas a partir do "entra", com marco puxado do prazo, e aceitas item a item — nenhuma gravada sem aceite);
-  - produto → pra quem, valor, métrica de evolução de → para;
-  - processo → fluxo hoje → passa a ser, indicador de → para.
+ - projeto → entregas/marcos, prazo, critério de pronto verificável pelo caminho real;
+ (entregas que o gestor não trouxe foram propostas a partir do "entra", com marco puxado do prazo, e aceitas item a item — nenhuma gravada sem aceite);
+ - produto → pra quem, valor, métrica de evolução de → para;
+ - processo → fluxo hoje → passa a ser, indicador de → para.
 - [ ] Equipe e interessados nomeados; "quem precisa saber antes" respondido.
 - [ ] Linha do tempo com início, marcos e fim (ou marcado o que falta e quem define).
 - [ ] Riscos com plano B.
@@ -20,7 +20,7 @@
 - [ ] Lido pelos envolvidos (alinhamento inicial) e registrado como fonte da verdade.
 - [ ] Ligado a um KR (ou marcado "frente sem KR" para o responsável pelas prioridades).
 
-## Erros comuns (v6 aula 06, M04 A10/A11, Kit)
+## Erros comuns (material de referência, M04 A10/A11, Kit)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

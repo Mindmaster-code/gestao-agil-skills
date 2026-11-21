@@ -44,15 +44,15 @@ campos, regras e destino. `ga2-me-mostra` determina o recorte e a apresentação
 2. Pedido nomeia uma decisão: use a skill que possui essa decisão.
 3. Pedido só pede para entender: escolha a skill que já contém a fonte do estado.
 4. Nenhuma skill contém o caso: use `ga2-me-mostra` e gere o HTML no destino padrão; não
-   invente um artefato do método.
+ invente um artefato do método.
 
 ## Encadeamentos úteis
 
-```text
+`text
 Canvas de Visão → A3 → Briefing → OKR → Backlog 2D → Kanban
-                                        ↓
-                         Plano → Diária → Review → Retro → PDCA
-```
+ ↓
+ Plano → Diária → Review → Retro → PDCA
+`
 
 Mostre a cadeia inteira só quando a pergunta for sobre dependência. Para um problema local,
 recorte o predecessor, o ponto em foco e o sucessor.

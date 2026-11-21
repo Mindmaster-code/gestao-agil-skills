@@ -20,13 +20,13 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:matriz -->
 | Nome | O que faz | O que não faz |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 ## Ritmo
 

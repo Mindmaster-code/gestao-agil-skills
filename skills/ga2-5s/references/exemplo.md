@@ -78,15 +78,15 @@ de tabela de preço, no canal do time, só quando houver novidade.
 **Pedido:** "5S nas campanhas de tráfego da loja."
 
 - **Enquadramento:** conta de anúncios da Loja Casa Firme; dono da verba: Paulo; risco alto (dinheiro
-  no ar). Pronto quando: qualquer pessoa entende pelo nome o objetivo e o público de cada campanha.
+ no ar). Pronto quando: qualquer pessoa entende pelo nome o objetivo e o público de cada campanha.
 - **Foto do antes:** 86 campanhas, 9 ativas; 41 pausadas há mais de 90 dias; 3 padrões de nome; 12
-  públicos duplicados. Nota 1 · 0 · 1 · 0 · 0 = 2.
+ públicos duplicados. Nota 1 · 0 · 1 · 0 · 0 = 2.
 - **Utilização:** as 41 pausadas antigas vão para "arquivadas" (não apagadas: o histórico de
-  aprendizado fica); os públicos duplicados vão para a quarentena com prazo de 30 dias.
+ aprendizado fica); os públicos duplicados vão para a quarentena com prazo de 30 dias.
 - **Organização:** guia de nome "objetivo · público · oferta · data"; as 9 ativas são renomeadas sem
-  mexer em verba, lance ou público.
+ mexer em verba, lance ou público.
 - **Limpeza:** 4 anúncios com parâmetro de rastreio diferente; fonte: campanha criada do zero, sem
-  modelo; contramedida: campanha nova só a partir do modelo.
+ modelo; contramedida: campanha nova só a partir do modelo.
 - **Padronização e disciplina:** guia de nome e régua de pausa numa página; revisão semanal das ativas
-  e poda mensal. Toda mudança em campanha no ar passa pelo Paulo.
+ e poda mensal. Toda mudança em campanha no ar passa pelo Paulo.
 - **Depois:** nota 3 · 3 · 2 · 2 · 2 = 12.

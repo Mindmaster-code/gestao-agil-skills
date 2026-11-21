@@ -59,7 +59,7 @@ Teste de cada KR: "se eu atingir este resultado, chego no objetivo?" · "mede re
 
 **O que roda hoje e não aponta para nenhum KR** (perde foco):
 
-- 
+-
 
 _(Objetivo #2 e #3: repita o bloco só se o período e o nível pedirem. No primeiro ciclo, um objetivo.)_
 

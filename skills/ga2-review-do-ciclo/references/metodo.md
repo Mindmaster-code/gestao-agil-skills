@@ -15,12 +15,12 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.13, §4.7, regras 15, 16 e 22 — M06 A07 (ao vivo); v6 aula 07.
+- Base do método: Passo 4 — Ritmo Ágil §2.13, §4.7, regras 15, 16 e 22 — M06 A07 (ao vivo); material de referência.
 - Base do método: Passo 5 — Melhoria Contínua §2.3, regra 3 — M07 A02/A03 (professor).
 - Templates: v6 «Canvas Editável — Revisão do Ciclo»;
-  legado «M06 A07 — Canvas Sprint Review»;
-  roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
-  individual folha individual «review-ciclo-ga2.pdf».
+ legado «M06 A07 — Canvas Sprint Review»;
+ roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
+ individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
 - Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês.
 
@@ -39,25 +39,25 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 | O que muda no próximo ciclo | próximo sprint | — | sim | próximo ciclo | o que levo |
 
 Variantes: o legado A07 não tem meta nem data; só o Roteiro Mod 05 traz "decisões
-necessárias"; o `--help` 10 é individual. A consolidação é `(acréscimo do método)`:
+necessárias"; o `--help` 10 é individual. A consolidação é :
 o campo "Decisão" generaliza "aprovar, ajustar, cortar" do Roteiro para
 continua / para / corta / escala, que é o vocabulário de acordo de cadência do time regra 2.
 
 ## Como conduzir (30 min, sexta 12h)
 
 1. **Reler a meta em voz alta** (30 s). Pergunta: "Qual foi a meta que combinamos na
-   segunda?" Copie do `plano.md` **igual**. Recusa: meta reescrita para caber no resultado.
+ segunda?" Copie do `plano.md` **igual**. Recusa: meta reescrita para caber no resultado.
 2. **Por compromisso, pedir a prova.** Pergunta: "Mostra funcionando — URL, log, arquivo,
-   mensagem?" Escreve a prova na linha. Recusa: "está quase", "deveria funcionar",
-   slide no lugar da coisa. Linha sem prova = **não entregue**.
+ mensagem?" Escreve a prova na linha. Recusa: "está quase", "deveria funcionar",
+ slide no lugar da coisa. Linha sem prova = **não entregue**.
 3. **O que não ficou e por quê.** Pergunta: "O que travou e desde quando?" Escreve a causa
-   (situação, não pessoa) e cria o cartão do próximo ciclo **na hora**, com dono.
+ (situação, não pessoa) e cria o cartão do próximo ciclo **na hora**, com dono.
 4. **Números.** Pergunta: "Qual KR ou métrica do briefing se mexeu? De quanto para quanto?"
-   Número sempre com a empresa (uma empresa ≠ outra empresa). Recusa: "foi bem" sem número.
+ Número sempre com a empresa (uma empresa ≠ outra empresa). Recusa: "foi bem" sem número.
 5. **Feedback de quem recebe.** Quem usa o resultado (cliente, responsável pela área ou outro destinatário nomeado) diz
-   positivo, negativo e mudança necessária. Colete, não defenda.
+ positivo, negativo e mudança necessária. Colete, não defenda.
 6. **Decisão por compromisso:** continua / para / corta / escala — quem decide é quem recebe
-   o resultado; quem conduz o método registra. Recusa: review sem decisão (vira relato de atividade).
+ o resultado; quem conduz o método registra. Recusa: review sem decisão (vira relato de atividade).
 7. **Próximo ciclo.** O que muda, em uma linha; o que fica de fora, dito pelo nome.
 8. Salvar, atualizar registro de métricas na pasta do caso (data cumprida, aceite na 1ª) e abrir a Retro.
 
@@ -78,13 +78,13 @@ No método, quem define valor é o cliente. Por isso quem recebe a entrega parti
 ## Regras do método que valem aqui
 
 - "Review mede contra a meta combinada, copiada sem maquiagem, e mostra funcionando, não em
-  slide. Quem fez é quem mostra." (regra 15, A07 / v6 aula 07)
+ slide. Quem fez é quem mostra." (regra 15, A07 / material de referência)
 - "Nunca contra a expectativa que cresceu no meio do caminho." (Kit Implementação)
 - "Review olha os números do negócio, não só as tarefas." (regra 16, A03/A07)
-- "A pergunta não é 'o que a gente fez' — é 'isso serve?'" (v6 aula 07)
+- "A pergunta não é 'o que a gente fez' — é 'isso serve?'" (material de referência)
 - "Feedback negativo é o mais valioso." (M07 A02)
 - Review produz decisão (continua, para, corta, escala), não relato de atividade
-  (acordo de cadência do time, regra 2). Linha sem prova conta como não entregue (regra 4).
+ (acordo de cadência do time, regra 2). Linha sem prova conta como não entregue (regra 4).
 - Quem recebe a entrega diz se serve, e uma vez por mês a voz do cliente inteira entra na conversa, sem escolher só os casos bons. (aula 9; ficha B09)
 - Cada ajuste vindo do cliente tem um dono e um jeito de conferir no mês seguinte.
 
@@ -94,8 +94,8 @@ Os nomes abaixo são sugestões de organização, não dependências de reposit�
 
 - Arquivo: Revisão do Ciclo na pasta do caso (template em `template.md` desta skill).
 - Depois: cartões novos em registro da carteira de iniciativas na pasta do caso; métricas em registro de métricas na pasta do caso;
-  KR parado há 2 semanas ou entrega recusada abre `ga2-quadro-kaizen`; a review é a entrada
-  da `ga2-retrospectiva` (mesmo dia, 14h); resumo entra no relato do fim da semana ao responsável pela área.
+ KR parado há 2 semanas ou entrega recusada abre `ga2-quadro-kaizen`; a review é a entrada
+ da `ga2-retrospectiva` (mesmo dia, 14h); resumo entra no relato do fim da semana ao responsável pela área.
 - Voz do cliente do mês: tabela de manifestações por tipo de necessidade e etapa, com o ajuste escolhido, o dono e o jeito de conferir.
 
 ## Formas de saída
@@ -155,10 +155,10 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 ## Adaptação
 
 - **Leve** (um responsável de área, 1–3 compromissos): tabela prometido × entregue × prova × decisão,
-  mais "o que muda". Sem feedback formal nem aprendizado.
+ mais "o que muda". Sem feedback formal nem aprendizado.
 - **Intermediária** (ciclo de uma área): template completo.
 - **Robusta** (projeto com cliente externo ou instância que decide): acrescenta feedback por
-  interessado, de/para de cada KR e aceite assinado por quem recebe.
+ interessado, de/para de cada KR e aceite assinado por quem recebe.
 
 ## Erros comuns
 

@@ -37,7 +37,7 @@ Exemplo fictício da Distribuidora Norte-Sul. Pessoas, datas, números e registr
 
 **Depende de:** acesso autorizado aos registros e decisão de Lucas sobre mudança de padrão, após a investigação de 11/09.
 
-## B. Ishikawa — adaptação metodológica
+## B. Ishikawa — aplicação do método
 
 <!-- c:ishikawa -->
 | Categoria | Causa levantada | Subcausa | Evidência | Frequência / impacto |

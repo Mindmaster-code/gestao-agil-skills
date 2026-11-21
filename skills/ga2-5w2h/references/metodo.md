@@ -16,16 +16,16 @@ Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M0
 ## Fonte no método
 
 - Passo 0 — Fundamentos: 5W2H (M02 A07), incluindo quem, quando, onde e quanto custa.
-- Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; v6 aula 05).
+- Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; material de referência).
 - Passo 5 — Melhoria Contínua: exemplo da Ana.
-- Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma adaptação metodológica, com essa origem explicitada.
+- Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma aplicação do método, com essa origem explicitada.
 - Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento.
 ## Ligação com o A3 e com as contramedidas
 
 | Pergunta | De onde vem no A3 | Onde a aula pede |
 |---|---|---|
 | Por quê | causa raiz (lado esquerdo) | contramedidas atacam a causa (M03 A08) |
-| O quê | contramedida escolhida | plano de ação: "o quê · quem · quando" (v6 aula 05) |
+| O quê | contramedida escolhida | plano de ação: "o quê · quem · quando" (material de referência) |
 | Quem · Quando | plano de ação | "sem isto não é plano" |
 | Como · Quanto | briefing do projeto | "como o projeto será feito", "quando e quanto custa" (M03 A09) |
 | Onde | contexto (lado esquerdo) / briefing | "descreva o ambiente onde o problema ocorre" (A05) |
@@ -37,19 +37,19 @@ colunas são extensão do método.
 ## Como conduzir
 
 1. **Ligar ao diagnóstico.** Pergunta: "Qual causa raiz este plano ataca?" Escreve no
-   cabeçalho. Recusa: plano solto, sem A3, PDCA ou retro de origem.
+ cabeçalho. Recusa: plano solto, sem A3, PDCA ou retro de origem.
 2. **Uma linha por contramedida.** "O que será feito?" — verbo no infinitivo, resultado
-   verificável. Recusa: linha com "e" juntando duas ações.
+ verificável. Recusa: linha com "e" juntando duas ações.
 3. **Por quê.** "Como esta ação mexe na causa?" Recusa: "porque é importante".
 4. **Quem.** "Um nome." Recusa: dois nomes, "time", "a área". Apoio não vira co-dono.
 5. **Quando.** "Que data?" Recusa: "em breve", "próximo ciclo" sem dia, "ASAP".
 6. **Onde.** Passo do fluxo, local, ferramenta ou documento.
 7. **Como.** Dois ou três passos. Se não cabe na célula, a ação é grande demais — cortar.
 8. **Quanto.** Horas de trabalho ou R$ (material, ferramenta ou serviço). "Quanto em branco volta — é o que
-   liga ao ROI." Custo que exige verba depende da aprovação do decisor competente.
+ liga ao ROI." Custo que exige verba depende da aprovação do decisor competente.
 9. **Conferir os seis campos de acompanhamento**: o quê, por quê, dono,
-   "pronto é", prazo, onde trava. O 5W2H já responde cinco; falta "pronto é" — acrescente na
-   coluna Status/prova.
+ "pronto é", prazo, onde trava. O 5W2H já responde cinco; falta "pronto é" — acrescente na
+ coluna Status/prova.
 10. Salvar; cada linha vira cartão no Kanban ou compromisso do plano do ciclo.
 
 ## Orçamento: orçado, contratado e realizado (ficha A06)
@@ -69,7 +69,7 @@ O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto
 
 ## Regras do método que valem aqui
 
-- "Sem isto não é plano: o quê · quem · quando." (v6 aula 05)
+- "Sem isto não é plano: o quê · quem · quando." (material de referência)
 - "Um dono por demanda. Apoio não vira co-dono."
 - "Cobrança sem data não é cobrança." — linha sem data não é plano.
 - "Contramedidas atacam a causa raiz, não o sintoma." (M02 A07, regra 20 do Passo 5)
@@ -95,7 +95,7 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
-| `../assets/modelos/canvas-5w2h-lab.html` **(padrão)** | 5W2H — plano de ação · família acréscimo do método | "no canvas do método" | pronto |
+| `../assets/modelos/canvas-5w2h-lab.html` **(padrão)** | 5W2H — plano de ação · família prática aplicada | "no canvas do método" | pronto |
 
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.

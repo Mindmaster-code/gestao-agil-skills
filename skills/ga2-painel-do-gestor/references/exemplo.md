@@ -83,7 +83,7 @@ Lucas acompanha o Kaizen do campo rota até 18/09; Mariana confere o efeito ante
 
 ---
 
-### Apêndice — métricas de fluxo (acréscimo do laboratório)
+### Apêndice — métricas de fluxo
 
 Metas ilustrativas deste cenário; não são metas de uma organização real.
 

@@ -24,11 +24,11 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 <!-- c:etapas -->
 | Atividade | Responsável | Resultado |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 ## Como saberemos que funciona
 

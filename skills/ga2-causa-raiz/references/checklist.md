@@ -24,7 +24,7 @@
 - [ ] A regra que nasce da causa de sistema está escrita e tem destino (repositório de padrões, procedimento ou controle de prevenção).
 - [ ] Ninguém foi cobrado pelo número; a métrica que caiu virou A3.
 
-## Erros comuns (cinco armadilhas da v6 aula 04, mais os desta adaptação)
+## Erros comuns (cinco armadilhas da material de referência, mais os desta adaptação)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

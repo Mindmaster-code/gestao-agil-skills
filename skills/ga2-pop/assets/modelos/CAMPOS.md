@@ -6,8 +6,8 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `nome_do_processo` | Nome do Processo |  | `<!-- c:nome -->` |
-| `identificacao` | Identificação: data | código | versão |  | `<!-- c:identificacao -->` |
+| `nome_do_processo` | Nome do Processo | | `<!-- c:nome -->` |
+| `identificacao` | Identificação: data | código | versão | | `<!-- c:identificacao -->` |
 | `objetivo` | Objetivo | Descreva o objetivo do processo. | `<!-- c:objetivo -->` |
 | `escopo` | Escopo | Resumo do escopo do processo. | `<!-- c:escopo -->` |
 | `responsabilidades` | Responsabilidades | Pessoas envolvidas e sua responsabilidade. | `<!-- c:responsabilidades -->` |
@@ -18,4 +18,4 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 | `indicadores_do_processo` | Indicadores do processo | Indicadores utilizados para medir o processo. | `<!-- c:indicadores -->` |
 | `excecoes_e_tratamento` | Exceções e tratamento | Exceções, tratamento e aprovações. | `<!-- c:excecoes -->` |
 | `riscos_do_processo` | Riscos do processo | Riscos potenciais e ações de mitigação. | `<!-- c:riscos -->` |
-| `aprovacao` | Aprovação: nome, cargo e data |  | `<!-- c:aprovacao -->` |
+| `aprovacao` | Aprovação: nome, cargo e data | | `<!-- c:aprovacao -->` |

@@ -1,5 +1,5 @@
 <!-- modelos de origem: folha-experimento-lab.json -->
-#  <!-- c:nome -->Experimento <NNN> — <nome curto>
+# <!-- c:nome -->Experimento <NNN> — <nome curto>
 
 | Campo | Resposta |
 |---|---|

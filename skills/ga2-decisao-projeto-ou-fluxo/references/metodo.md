@@ -24,40 +24,40 @@ no portfólio, com a regra de execução escrita. Use também sempre que uma equ
 ## Como conduzir
 
 1. **Liste o trabalho em duas colunas.** Pergunta: "o que tem fim claro? o que chega todo
-   dia?" Escreve todos os trabalhos da pessoa ou área — pode ser mais de um. Recusa: folha
-   com um trabalho só quando a pessoa claramente tem fila e projeto.
+ dia?" Escreve todos os trabalhos da pessoa ou área — pode ser mais de um. Recusa: folha
+ com um trabalho só quando a pessoa claramente tem fila e projeto.
 2. **Três perguntas por trabalho:** "tem fim claro? dá para prever a semana? a mudança pode
-   esperar o próximo ciclo?" Três "sim" → projeto em ciclos. Três "não" → fluxo. Misto →
-   olhe o trabalho, não a equipe. Recusa: escolher pela equipe ("somos de suporte, então é
-   tudo fluxo") — a escolha é por trabalho.
+ esperar o próximo ciclo?" Três "sim" → projeto em ciclos. Três "não" → fluxo. Misto →
+ olhe o trabalho, não a equipe. Recusa: escolher pela equipe ("somos de suporte, então é
+ tudo fluxo") — a escolha é por trabalho.
 3. **Qual trilha.** Escreve projeto em ciclos, fluxo contínuo ou híbrido, em poucas linhas.
-   Híbrido = os dois trabalhos no mesmo quadro, cada um com seu rito. Recusa: "híbrido" sem
-   dizer qual trabalho roda em qual trilha.
+ Híbrido = os dois trabalhos no mesmo quadro, cada um com seu rito. Recusa: "híbrido" sem
+ dizer qual trabalho roda em qual trilha.
 4. **Como acompanhar.** Para ciclo: duração do ciclo, meta escrita, diária (dia, hora,
-   lugar), revisão e retrospectiva (dia, hora). Para fluxo: limite por etapa, ticket mais
-   velho, triagem da fila, diária e retrô (que não mudam). Recusa: acompanhamento sem dia e hora.
+ lugar), revisão e retrospectiva (dia, hora). Para fluxo: limite por etapa, ticket mais
+ velho, triagem da fila, diária e retrô (que não mudam). Recusa: acompanhamento sem dia e hora.
 5. **A regra de execução, escrita antes.** Pergunta: "quando os dois brigarem pelo mesmo dia,
-   quem cede? o que nunca espera? o que nunca entra no meio da semana? o que acontece se a
-   fila estourar o limite?" Escreve em até três frases. Recusa: folha sem a linha 5 — "é ela
-   que evita a conclusão errada de que ciclo não funciona".
+ quem cede? o que nunca espera? o que nunca entra no meio da semana? o que acontece se a
+ fila estourar o limite?" Escreve em até três frases. Recusa: folha sem a linha 5 — "é ela
+ que evita a conclusão errada de que ciclo não funciona".
 6. **Registre e reveja.** A folha vai para o portfólio (coluna por raia). Revê quando a
-   trilha parecer errada ou quando a fila virar metade do quadro em vermelho (pauta da retrô).
+ trilha parecer errada ou quando a fila virar metade do quadro em vermelho (pauta da retrô).
 
 ## Regras do método que valem aqui
 
 - **Lote de tempo × lote de trabalho.** Scrum dá foco e é fácil de planejar, mas exige previsibilidade e a mudança espera o próximo ciclo. Kanban tem flexibilidade total, mas exige gerir fila em toda etapa (M06 A11).
-- **Escolha pelo trabalho, não pela equipe** (v6 aula 00).
-- **Fluxo puro muda duas coisas e mantém duas:** planejamento vira triagem da fila; revisão vira medição (tempo de fila, cartão mais velho, vazão). Diária e retrospectiva não mudam (v6 aula 00, slide 07).
-- **Ciclo de 1 a 4 semanas; o menor tempo em que se entrega algo de valor** (M06 A11). Ciclo não é prazo de projeto: a iniciativa leva seis semanas, o ciclo é de uma (v6 aula 02).
+- **Escolha pelo trabalho, não pela equipe** (material de referência).
+- **Fluxo puro muda duas coisas e mantém duas:** planejamento vira triagem da fila; revisão vira medição (tempo de fila, cartão mais velho, vazão). Diária e retrospectiva não mudam (material de referência, slide 07).
+- **Ciclo de 1 a 4 semanas; o menor tempo em que se entrega algo de valor** (M06 A11). Ciclo não é prazo de projeto: a iniciativa leva seis semanas, o ciclo é de uma (material de referência).
 - **Fila e projeto no mesmo plano de semana = a fila estoura a meta** e a conclusão errada é "ciclo não funciona" (v6 slide 04).
 - **A regra de quem cede é escrita antes do ciclo 1**, não depois da primeira briga (v6 slide 08).
-- **Política de urgência** complementa esta folha: o que é urgente, quem pode chamar (uma pessoa), quantas por vez (uma), o que acontece com o pausado (v6 aula 06).
+- **Política de urgência** complementa esta folha: o que é urgente, quem pode chamar (uma pessoa), quantas por vez (uma), o que acontece com o pausado (material de referência).
 
 ## Saída
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Arquivo: folha de decisão na pasta do caso `(acréscimo do laboratório: caminho definido pelo Gestor)`; resumo de uma linha por frente na coluna "Trilha" de registro do portfólio na pasta do caso `(acréscimo do laboratório: registre a trilha no quadro escolhido)`.
+- Arquivo: folha de decisão na pasta do caso ; resumo de uma linha por frente na coluna "Trilha" de registro do portfólio na pasta do caso .
 - Depois: trabalho em ciclo entra no Plano do Ciclo de segunda (`ga2-plano-do-ciclo`, `ga2-review-do-ciclo` e `ga2-retrospectiva`, até 3 compromissos por diretor); trabalho em fluxo ganha limite por etapa e entra na varredura diária pelo cartão mais velho; a regra de execução vira política escrita no alto do quadro.
 - Se a decisão muda o dono ou a prioridade entre áreas, não é desta folha: vai ao dirigente responsável.
 
@@ -125,7 +125,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Jogar fila e projeto no mesmo plano de semana e concluir que "ciclo não funciona" (v6 slide 04).
 - Escolher pela equipe, não pelo trabalho (v6).
 - Tratar operação contínua como projeto (esperar que "acabe") ou projeto como processo (nunca fechar) (Base do método: Passo 2 — Organizar o Trabalho §4.4).
-- Fluxo sem limite por etapa: "tudo está sempre em andamento, nada está pronto" (v6 aula 02).
+- Fluxo sem limite por etapa: "tudo está sempre em andamento, nada está pronto" (material de referência).
 - Folha sem a linha 5 — a regra de quem cede.
 - Acompanhamento sem dia, hora e lugar.
 - Confundir esta folha com a classificação 3 Ps: lá se decide o tipo da iniciativa (projeto/processo/produto) para escolher o briefing; aqui se decide a trilha de execução.

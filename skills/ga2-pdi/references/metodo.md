@@ -83,7 +83,7 @@ Se não houver oportunidade disponível, diga com clareza e avalie alternativas 
 - "Faça o PDI primeiro do líder que segura seu gargalo." (Kit)
 - "Ainda": lacuna é "não sou bom nisso ainda". (v6 07)
 
-## Aplicação a agentes: PDI de agente = plano de evolução de skill (acréscimo do método)
+## Aplicação a agentes: PDI de agente = plano de evolução de skill
 
 | Campo v6 | Para agente |
 |---|---|
