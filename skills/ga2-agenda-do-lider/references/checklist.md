@@ -46,7 +46,7 @@ Relações e energia (quando pedidas)
 - [ ] O trabalho exigente está em períodos viáveis, com pausas entre blocos intensos e limites de disponibilidade combinados.
 - [ ] O aviso de saúde está presente: a agenda não substitui cuidado de saúde.
 
-Revisão pessoal (modelo T14)
+Revisão pessoal (revisão pessoal do líder)
 - [ ] Respondida com fatos e exemplos, nos campos do modelo, na ordem do modelo.
 - [ ] Poucos ajustes escolhidos, com data e evidência de avanço.
 - [ ] Fecha com três cortes, três entregas e a pedra grande da semana.

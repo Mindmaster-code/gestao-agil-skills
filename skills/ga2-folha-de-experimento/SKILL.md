@@ -3,6 +3,7 @@ name: ga2-folha-de-experimento
 description: "Registra dor, problema, ideia, protótipo, teste e decisão em uma experiência pequena. Também conduz o teste curto de uma ferramenta ou de um fornecedor, pelo tempo que ele devolve. Use quando pedirem experimento, hipótese, protótipo, teste barato, apostas de inovação, testar uma ferramenta ou avaliar uma renovação."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P5.3`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Folha de experimento

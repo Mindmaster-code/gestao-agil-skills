@@ -3,6 +3,7 @@ name: ga2-agenda-do-lider
 description: "Monta a agenda da semana de quem coordena trabalho e gente, com blocos de concentração e de pensamento estratégico, e fecha a semana com três cortes e três entregas. Use quando pedirem agenda do líder ou do gestor, tempo para trabalho importante, Teoria das Pedras, priorização de sexta, auditoria da agenda e das aprovações ou revisão pessoal do líder."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Agenda do líder
 
 ## Como conduzir
@@ -23,7 +24,7 @@ Líder é qualquer pessoa que coordena trabalho e gente, em qualquer área. Desc
 - **C. Bloco de pensamento estratégico**: uma questão de direção, alternativas, premissas a validar e um encaminhamento.
 - **D. Auditoria da agenda e das aprovações**: onde o tempo foi e o que passou pelo líder em duas semanas. A lista de aprovações segue para o Quadro de Delegação (`ga2-delegacao`).
 - **E. Relações** e **F. Energia**: seções curtas, para o líder que pede esses temas.
-- **G. Revisão pessoal do líder**: o modelo T14 do Guia completo de rotinas de gestão.
+- **G. Revisão pessoal do líder**: o revisão pessoal do líder do Guia completo de rotinas de gestão.
 
 Sem pedido específico, comece pelo modo A. O plano do dia a dia fica com `ga2-gestao-diaria`; o plano do ciclo da equipe, com `ga2-plano-do-ciclo`.
 
@@ -74,4 +75,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-a agenda da semana do líder e a revisão pessoal, com os campos do modelo T14 do Guia completo de rotinas de gestão.
+a agenda da semana do líder e a revisão pessoal, com os campos do revisão pessoal do líder do Guia completo de rotinas de gestão.

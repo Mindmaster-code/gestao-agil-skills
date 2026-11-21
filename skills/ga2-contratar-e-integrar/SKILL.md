@@ -3,6 +3,7 @@ name: ga2-contratar-e-integrar
 description: "Conduz a entrada de uma pessoa na equipe: o teste do gargalo antes de abrir a vaga, a seleção com critérios escritos antes dos candidatos e a integração em degraus, com pontos em 7, 30, 60 e 90 dias. Use quando pedirem contratar, abrir vaga, critérios de seleção, entrevista, plano de integração ou onboarding de quem acaba de chegar."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Contratar e integrar
 
 ## Como conduzir
@@ -76,4 +77,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-o teste do gargalo, a definição da necessidade, a seleção como POP e a integração em degraus, com os campos do modelo T10 do curso de rotinas.
+o teste do gargalo, a definição da necessidade, a seleção como POP e a integração em degraus, com os campos do roteiro de contratação e integração do curso de rotinas.

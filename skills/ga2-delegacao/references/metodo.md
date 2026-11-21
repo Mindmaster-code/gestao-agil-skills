@@ -48,7 +48,7 @@ Conversão para quem tem o template de 4: N4 Líder Decide = 1–2 · N3 Consult
 
 ## Antes da reunião: o levantamento das aprovações (duas semanas)
 
-Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fatos da agenda real. Este levantamento é a parte da auditoria da agenda (`ga2-agenda-do-lider`) que alimenta o quadro. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma. Fonte: ficha G06 do Guia completo de rotinas de gestão `(adaptação metodológica)`.
+Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fatos da agenda real. Este levantamento é a parte da auditoria da agenda (`ga2-agenda-do-lider`) que alimenta o quadro. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma. Fonte: ficha G06 do Guia completo de rotinas de gestão ``.
 
 - **Reúna duas semanas de rastros de aprovação:** pedidos de "posso?", "pode?" ou "aprova?", assinaturas, decisões tomadas em reunião e mensagens que esperaram resposta do líder. Sem registro, o líder anota cada pedido durante duas semanas.
 - **Faça uma linha por assunto, no verbo:** quem pediu (pelo papel), quantas vezes, o que o líder decidiu e o critério que usou. Marque se o critério está escrito ou só na cabeça do líder.

@@ -3,6 +3,7 @@ name: ga2-canvas-de-conversa-cnv
 description: "Prepara uma conversa difícil com fato, sentimento, necessidade e pedido. Use quando pedirem conversa difícil, comunicação não violenta, cobrança sem acusação ou Canvas de Conversa."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Canvas de conversa
 
 ## Como conduzir

@@ -3,6 +3,7 @@ name: ga2-plano-do-ciclo
 description: "Planeja um ciclo com uma meta, capacidade segura, trabalhos com dono e data, e critério de pronto. Também mostra a capacidade e a carga de cada pessoa e revisa a distribuição do trabalho toda semana. Use quando pedirem plano da semana, sprint, meta do ciclo, escolha do que entra, carga por pessoa ou redistribuir o trabalho."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P4.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Plano do ciclo

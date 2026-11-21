@@ -3,6 +3,7 @@ name: ga2-politicas-wip-urgencia
 description: "Define limites de trabalho em andamento, bloqueios e critérios de urgência de um quadro. Também combina o canal oficial de cada tipo de pedido e pergunta o que resolve antes de abrir vaga. Use quando pedirem limite do quadro, WIP, gargalo, raia urgente, política de urgência, por onde entram os pedidos ou se vale contratar."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P3.1 (compartilhado)`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Limite de trabalho e urgência

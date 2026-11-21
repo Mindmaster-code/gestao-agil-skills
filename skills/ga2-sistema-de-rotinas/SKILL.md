@@ -3,6 +3,7 @@ name: ga2-sistema-de-rotinas
 description: "Monta o sistema de rotinas de um gestor: o calendário do dia ao ano, o inventário com o custo por semana de cada rotina e o plano de implantação em 90 dias. Use quando pedirem calendário de rotinas, inventário de reuniões, custo de uma reunião, por onde começar as rotinas, quais rotinas manter ou plano de 90 dias."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Sistema de rotinas
 
 ## Como conduzir
@@ -20,7 +21,7 @@ Líder é qualquer pessoa que coordena trabalho e gente, em qualquer área. Desc
 
 - **A. Pelo sintoma** (modo principal): o sintoma da área, o número de hoje e a rotina por onde começar.
 - **B. Calendário do gestor ágil** (modelo CAL): o que já acontece, do dia ao ano, e a lista dos próximos ciclos.
-- **C. Inventário e custo por semana** (modelo T15): minutos vezes pessoas e uma decisão por rotina.
+- **C. Inventário e custo por semana** (inventário de rotinas): minutos vezes pessoas e uma decisão por rotina.
 - **D. Utilidade de cada rotina**: o efeito que ela produz, lido em três métricas.
 - **E. Plano de implantação em 90 dias** (modelo P90): conjunto inicial, quatro janelas e revisão do dia 90.
 - **F. Quem cuida de cada rotina**: dono, versão local em POP e teste do texto.

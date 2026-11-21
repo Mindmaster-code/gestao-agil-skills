@@ -1,6 +1,6 @@
 # Contratar e integrar: exemplos
 
-Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. A estrutura segue o modelo T10 do curso de rotinas.
+Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. A estrutura segue o roteiro de contratação e integração do curso de rotinas.
 
 ## 1. Transportadora: o teste do gargalo antes da vaga
 

@@ -20,7 +20,7 @@ copiada "sem maquiagem".
 - Templates: v6 «Canvas Editável — Plano do Ciclo» (campos e exemplo da versão v6); ao vivo
   «M06 A05 — Canvas Sprint Plan»; individual folha individual «sprint-plano-ciclo-ga2.pdf».
 - Acréscimo do método: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
-- Ficha A05 (revisar capacidade e distribuição do trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 3) do curso de rotinas, para a seção de capacidade e carga por pessoa `(adaptação metodológica)`.
+- Ficha A05 (revisar capacidade e distribuição do trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 3) do curso de rotinas, para a seção de capacidade e carga por pessoa ``.
 
 ## Como conduzir
 
@@ -50,7 +50,7 @@ copiada "sem maquiagem".
 
 ## Capacidade e carga por pessoa (ficha A05)
 
-A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque um time com capacidade sobrando pode ter uma pessoa afundada. A revisão da carga acontece toda semana, de 20 a 40 minutos, e antes quando houver ausência ou mudança de demanda. Dono: o gestor da equipe. Fonte: ficha A05 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque um time com capacidade sobrando pode ter uma pessoa afundada. A revisão da carga acontece toda semana, de 20 a 40 minutos, e antes quando houver ausência ou mudança de demanda. Dono: o gestor da equipe. Fonte: ficha A05 e aula 9 do curso de rotinas ``.
 
 11. **Faça a conta por pessoa.** Para cada uma: os dias do ciclo, menos as ausências, menos o trabalho fixo que não sai (atendimento, plantão, rotinas). O resultado são os dias disponíveis para o plano.
 12. **Use o histórico.** O que o time consegue entregar você tira do que ele entregou nos ciclos anteriores, sem chutar. Anote quantos cartões cada pessoa terminou nos últimos ciclos.

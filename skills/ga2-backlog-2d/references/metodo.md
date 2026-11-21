@@ -20,7 +20,7 @@ do tamanho de uma semana. Cadeia: A3 → OKR → Matriz → **Backlog 2D** → K
 - Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
 - Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
-- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal `(adaptação metodológica)`; lente do 5S: Passo 0 §2.14.
+- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal ``; lente do 5S: Passo 0 §2.14.
 ## As duas leituras — e qual usar
 
 | | Ao vivo (M04 A17, canvas 6/6.1) | v6 (aula 08, Story Map de Patton adaptado) |
@@ -62,7 +62,7 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
 
 ## Poda mensal da lista (ficha F09)
 
-A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão `(adaptação metodológica)`; o refinamento contínuo e a faixa Q são do método.
+A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão ``; o refinamento contínuo e a faixa Q são do método.
 
 1. **Escolha o conjunto** que dá trabalho para manter ou para achar o que importa: o backlog de uma iniciativa ou a lista do plano.
 2. **Separe os itens em grupos:** ativos (no ciclo ou perto dele), referências úteis, parados e sem uso. O dono escreve no cabeçalho o que conta como "parado" (por exemplo, sem movimento por vários ciclos) e usa a mesma régua todo mês.
@@ -80,7 +80,7 @@ Sinais: o tempo para achar um item e o esforço para manter a lista. Se o acúmu
 - **Duas dimensões:** narrativa + detalhamento; depois E/D/O/Q; o Essencial é o MVP (M04 A17).
 - **Linha de cima vem da matriz; o do Evite não entra** (v6 08).
 - **A fatia fina é o primeiro sprint** (v6 08). Todo ciclo entrega algo de valor que o cliente reconheça (M04 A18).
-- **Tarefa pequena:** 1 a 3 dias (A16); "se possível até um dia" (A18); **um cartão, uma semana** (adaptação de corte por ciclo).
+- **Tarefa pequena:** 1 a 3 dias (A16); "se possível até um dia" (A18); **um cartão, uma semana**.
 - **"A mesma peça andando":** a iniciativa nasce no OKR, ganha ordem na matriz e ganha detalhe no backlog — não muda de nome no caminho (v6 09).
 - **Refinamento contínuo (grooming):** o perto fica detalhado, o longe fica genérico (M06 apostila §4).
 - **Não comece pelo backlog.** "Muita gente começa por aqui, erroneamente" (M04 A16) — OKR e matriz vêm antes.
@@ -133,7 +133,7 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 - Lista plana de 30 itens sem caminho (v6 08).
 - Caprichar 100% numa coluna antes de encostar na seguinte — "fatie fino" (v6 08).
 - Jogar o item grande e caro no Essencial (Kit: o ERP).
-- Tarefa do tamanho de uma iniciativa: cartão parado por semanas (adaptação de corte por ciclo).
+- Tarefa do tamanho de uma iniciativa: cartão parado por semanas.
 - Começar pelo backlog sem OKR nem matriz (M04 A16).
 - Backlog em papel ou sem dono: morre em uma semana (M04 A16).
 - Editável Mod 2 como único template: virou 1D (só E/D/O/Q, sem narrativa) — use o canvas legado ou a Ficha para a linha de cima (nota metodológica sobre as duas leituras).

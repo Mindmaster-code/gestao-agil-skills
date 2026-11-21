@@ -37,7 +37,7 @@ Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do temp
 | 70% planejável | |
 | Nº máximo de compromissos (acréscimo do método: 3 por responsável de área) | |
 
-## Capacidade por pessoa (ficha A05) `(adaptação metodológica)`
+## Capacidade por pessoa (ficha A05) ``
 
 Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planeje cerca de 70% do total.
 
@@ -48,7 +48,7 @@ Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planej
 | | | | | | | |
 | Total | | | | | | |
 
-## Carga de cada pessoa (revisão semanal, 20 a 40 minutos) `(adaptação metodológica)`
+## Carga de cada pessoa (revisão semanal, 20 a 40 minutos) ``
 
 | Pessoa | Em andamento | Cartão mais velho | De férias? | Trabalho que depende só dela | Decisão (redistribuir, reduzir ou manter) |
 |---|---|---|---|---|---|

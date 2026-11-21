@@ -1,6 +1,6 @@
 # Reuniões e comunicados: template
 
-Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o modelo T16 e a seção 4, a página da comunicação do modelo T13, ambos do curso de rotinas; a seção 3 e a seção 5 organizam a revisão mensal e o acompanhamento da adoção `(adaptação metodológica)`. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o roteiro de reunião e a seção 4, a página da comunicação do roteiro de comunicação, cobertura e transição, ambos do curso de rotinas; a seção 3 e a seção 5 organizam a revisão mensal e o acompanhamento da adoção ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 ---
 
@@ -92,7 +92,7 @@ Mês revisado: <mm/aaaa>.
 
 ---
 
-## 4. Comunicação de uma mudança (modelo T13, página 1)
+## 4. Comunicação de uma mudança (roteiro de comunicação, cobertura e transição, página 1)
 
 | Campo | Resposta |
 |---|---|

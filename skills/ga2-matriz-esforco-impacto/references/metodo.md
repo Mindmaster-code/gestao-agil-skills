@@ -64,7 +64,7 @@ de objetivos; use a de iniciativas **depois** do OKR. Não misture as duas numa 
 ## Saída
 
 - Salve a matriz datada na pasta escolhida pelo usuário. A fila também pode integrar o Plano do Ciclo existente.
-- Depois: a fila numerada vira a linha de cima de `ga2-backlog-2d`; Faça já alimenta os compromissos do ciclo (adaptação: até três por responsável); Planeje ganha data; Evite fica fora com motivo.
+- Depois: a fila numerada vira a linha de cima de `ga2-backlog-2d`; Faça já alimenta os compromissos do ciclo; Planeje ganha data; Evite fica fora com motivo.
 - Se houver insistência em um item do Evite ou disputa entre áreas, registre e leve ao decisor de prioridades. O facilitador não altera a prioridade por conta própria.
 
 ## Formas de saída

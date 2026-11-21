@@ -22,7 +22,7 @@ Não dispara para conduzir uma rotina específica: a diária é de `ga2-gestao-d
 - Aulas: curso de rotinas do gestor ágil, aulas 1 (sistema de rotinas) e 10 (implantar em 90 dias). Delas vêm a tabela de sintomas, o calendário, a conta do custo, as quatro janelas e a revisão do dia 90.
 - Fichas: Guia completo de rotinas de gestão, fichas C06 e C08, mais as fichas citadas no calendário e na tabela de sintomas.
 - Modelos: T15 (Inventário e revisão das rotinas), CAL (Calendário do gestor ágil) e P90 (Plano de implantação em 90 dias).
-- Template: não há canvas do curso. O calendário, o inventário e o plano de 90 dias seguem os modelos T15, CAL e P90 `(adaptação metodológica)`.
+- Template: não há canvas do curso. O calendário, o inventário e o plano de 90 dias seguem os inventário de rotinas, CAL e P90 ``.
 
 ## Ache a rotina pelo sintoma
 
@@ -80,7 +80,7 @@ Quando cada rotina tem hora marcada, ninguém precisa convocar, lembrar ou cobra
 8. **Acrescente uma rotina por ciclo,** a que o mapa pede. Em "Por acontecimento", escreva o gatilho no lugar do dia e do horário.
 9. **Desenhe o calendário** com `agenda-visual` quando o líder quiser pendurar ou compartilhar.
 
-### C. Inventário e custo por semana (modelo T15)
+### C. Inventário e custo por semana (inventário de rotinas)
 
 10. **Liste as rotinas que existem antes de criar outras.** Uma rotina pode cobrir mais de uma ficha do guia.
 11. **Calcule o custo por semana:** some os minutos de cada encontro da semana e multiplique pelo número de pessoas. Uma reunião de 45 minutos com seis pessoas custa 270 minutos da equipe, toda vez que acontece. Uma conversa individual de 30 minutos ocupa 30 minutos de cada pessoa e soma 60. Rotinas mensais e por acontecimento entram na agenda quando são necessárias, e não toda semana.
@@ -112,7 +112,7 @@ A rotina vale pelo efeito que ajuda a produzir. O encontro acontecer é só a co
 
 ### E. Plano de implantação em 90 dias (modelo P90)
 
-17. **Faça antes o inventário (modelo T15).** O plano parte do que já existe.
+17. **Faça antes o inventário (inventário de rotinas).** O plano parte do que já existe.
 18. **Escolha o conjunto inicial pelo sintoma e pelo número de hoje.** As quatro conversas do ciclo entram sempre.
 
 | Se o sintoma é | Comece por | Skills do pacote |
@@ -165,7 +165,7 @@ A rotina vale pelo efeito que ajuda a produzir. O encontro acontecer é só a co
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
 - Calendário do gestor ágil preenchido (modelo CAL), com a lista dos próximos ciclos.
-- Inventário das rotinas (modelo T15), com o custo por semana e uma decisão por rotina.
+- Inventário das rotinas (inventário de rotinas), com o custo por semana e uma decisão por rotina.
 - Plano de implantação em 90 dias (modelo P90), com as datas reais, o conjunto inicial e o número de hoje.
 - Depois: cada rotina que fica ganha versão local em `ga2-pop`; o calendário pode ser desenhado em `agenda-visual`; a melhoria de cada ciclo segue em `ga2-retrospectiva` e o painel do fim do ciclo em `ga2-painel-do-gestor`.
 

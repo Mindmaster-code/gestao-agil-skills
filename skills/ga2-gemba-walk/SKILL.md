@@ -3,6 +3,7 @@ name: ga2-gemba-walk
 description: "Conduz uma observação no lugar onde o trabalho acontece, com pergunta, fatos e uma ação. Use quando pedirem Gemba, observação direta, investigação no local ou entendimento de uma queda."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P5.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Vá e Veja — Gemba Walk

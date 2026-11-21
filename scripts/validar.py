@@ -32,6 +32,20 @@ FORBIDDEN = (
     "Duda",
     "Bia",
 )
+ABERTURA_OBRIGATORIA = "Antes de montar, pergunte o que faltar. Não invente dados."
+MARCAS_INTERNAS = (r"\(adaptação", r"v6 A\d", r"modelo T", r"\[v6")
+
+
+def arquivos_carregados(directory: Path) -> list[Path]:
+    arquivos = [directory / "SKILL.md"]
+    arquivos.extend(
+        directory / "references" / nome
+        for nome in ("metodo.md", "template.md", "checklist.md", "exemplo.md")
+    )
+    modelos = directory / "assets" / "modelos"
+    if modelos.is_dir():
+        arquivos.extend(modelos.glob("template-*.md"))
+    return [arquivo for arquivo in arquivos if arquivo.is_file()]
 
 
 def fail(message: str) -> None:
@@ -69,6 +83,15 @@ for directory in directories:
         fail(f"cabeçalho inválido: {directory.name}")
     if match.group(1) != directory.name:
         fail(f"nome do cabeçalho diverge da pasta: {directory.name}")
+    if directory.name != "ga2-5s" and ABERTURA_OBRIGATORIA not in content:
+        fail(f"a skill deve pedir os dados que faltam: {directory.name}")
+    if directory.name != "ga2-5s":
+        for path in arquivos_carregados(directory):
+            texto = path.read_text(encoding="utf-8")
+            if any(re.search(marca, texto, flags=re.I) for marca in MARCAS_INTERNAS):
+                fail(f"marca interna em material carregado: {path.relative_to(ROOT)}")
+            if "Entrada:" in texto:
+                fail(f"marca interna em material carregado: {path.relative_to(ROOT)}")
 
 if not PLUGIN_MANIFEST.is_file():
     fail("manifesto do plug-in ausente")

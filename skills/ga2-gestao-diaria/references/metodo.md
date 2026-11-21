@@ -23,7 +23,7 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
   de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
   os campos desta skill são construção deste pacote a partir de A14 e v6 aula 04.
 - Acréscimo do método: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
-- Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal (passos 16 a 26) `(adaptação metodológica)`.
+- Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal (passos 16 a 26) ``.
 
 ## Como conduzir
 
@@ -60,7 +60,7 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 
 ### C. Modo pessoal (fechar o expediente e preparar o próximo dia)
 
-Serve a uma pessoa que organiza o próprio dia, sem reunião. São dois momentos curtos que se encaixam: o fechamento deixa o dia seguinte quase pronto, e o preparo o confirma. Cada pessoa usa o quadro e a agenda que já tem. O modo alimenta a diária do time e não a substitui. Você prepara os rascunhos de aviso e de retorno; quem envia é a pessoa. O roteiro pode ser conduzido no chat: gere arquivo só se a pessoa pedir ou quiser guardar o registro. Fonte: fichas F05 e F06 do Guia completo de rotinas de gestão `(adaptação metodológica)`; a regra do quadro em dia é da aula A09.
+Serve a uma pessoa que organiza o próprio dia, sem reunião. São dois momentos curtos que se encaixam: o fechamento deixa o dia seguinte quase pronto, e o preparo o confirma. Cada pessoa usa o quadro e a agenda que já tem. O modo alimenta a diária do time e não a substitui. Você prepara os rascunhos de aviso e de retorno; quem envia é a pessoa. O roteiro pode ser conduzido no chat: gere arquivo só se a pessoa pedir ou quiser guardar o registro. Fonte: fichas F05 e F06 do Guia completo de rotinas de gestão ``; a regra do quadro em dia é da aula A09.
 
 **Fechar o expediente (5 a 15 minutos, ao fim do expediente)**
 

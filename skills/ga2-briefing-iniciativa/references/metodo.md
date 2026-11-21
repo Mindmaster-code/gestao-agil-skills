@@ -26,7 +26,7 @@ Uma demanda com seis campos mapeia objetivo, contexto, responsável, critério d
 
 Canônico desta skill: **v6 (núcleo + destaque por tipo)**, com os campos do ao vivo
 (recursos, custo, linha do tempo, riscos, envolvidos) como bloco "Como, quando e quanto"
-— é onde mora o como/onde/quanto do 5W2H que o A3 não carrega (adaptação metodológica do 5W2H). Família "de caso"
+— é onde mora o como/onde/quanto do 5W2H que o A3 não carrega. Família "de caso"
 dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), não se usa aqui.
 ## Como conduzir
 

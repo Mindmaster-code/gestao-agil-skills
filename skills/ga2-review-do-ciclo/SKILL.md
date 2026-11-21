@@ -3,6 +3,7 @@ name: ga2-review-do-ciclo
 description: "Compara o combinado com o entregue, exige prova e registra a decisão seguinte. Também junta, uma vez por mês, a voz do cliente, agrupada por necessidade e etapa, com um ajuste que tem dono. Use quando pedirem review, revisão do ciclo, demonstração da entrega, fechamento da semana, voz do cliente ou reclamações do mês."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P4.4`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Revisão do ciclo

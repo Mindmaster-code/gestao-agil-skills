@@ -1,7 +1,7 @@
 <!-- modelos: a3-kit-10.json, a3-v6.json -->
 # Relatório A3 — template (10 campos; v6 como superconjunto)
 
-Legenda: **[v6+ao vivo]** campo das duas versões · **[v6]** só na v6 · `(adaptação)` adaptação metodológica.
+Legenda: **** campo das duas versões · **** só na v6 · `` adaptação metodológica.
 Preencha da esquerda para a direita. Um caso por A3. Cabe em uma página.
 
 | Campo | Resposta |
@@ -17,12 +17,12 @@ Preencha da esquerda para a direita. Um caso por A3. Cabe em uma página.
 
 ## LADO ESQUERDO — entender o problema (PDCA: **Plan**)
 
-### 1. Contexto — por que este caso importa [v6+ao vivo] <!-- c:contexto -->
+### 1. Contexto — por que este caso importa  <!-- c:contexto -->
 Por que vale gastar energia agora? Ligue a receita, cliente, custo ou risco. 2–3 frases.
 
 >
 
-### 2. Situação atual — o que acontece hoje [v6+ao vivo]
+### 2. Situação atual — o que acontece hoje
 Só fato com número, fonte e data.
 
 <!-- c:situacao_atual -->
@@ -30,12 +30,12 @@ Só fato com número, fonte e data.
 |---|---|---|---|
 | | | | |
 
-### 3. Situação desejada (ideal) — onde quero chegar [v6+ao vivo] <!-- c:situacao_desejada -->
+### 3. Situação desejada (ideal) — onde quero chegar  <!-- c:situacao_desejada -->
 Número e prazo: "de ____ para ____ até ____".
 
 >
 
-### 4. Gap — a diferença entre hoje e o desejado [v6]
+### 4. Gap — a diferença entre hoje e o desejado
 (No ao vivo, mora dentro de "Análise de causa raiz".)
 
 <!-- c:gap -->
@@ -43,7 +43,7 @@ Número e prazo: "de ____ para ____ até ____".
 |---|---|---|---|---|
 | | | | | |
 
-### 5. Causa raiz — por que o problema acontece [v6+ao vivo] <!-- c:causa_raiz -->
+### 5. Causa raiz — por que o problema acontece  <!-- c:causa_raiz -->
 Resultado dos 5 Porquês / Ishikawa (`ga2-causa-raiz`). Processo ou regra, não pessoa.
 
 >
@@ -52,7 +52,7 @@ Resultado dos 5 Porquês / Ishikawa (`ga2-causa-raiz`). Processo ou regra, não 
 
 ## LADO DIREITO — escolher e acompanhar a solução (PDCA: fim do **Plan** → **Do** → **Check** → **Act**)
 
-### 6. Contramedidas — o que vai atacar a causa [v6+ao vivo] — fim do Plan
+### 6. Contramedidas — o que vai atacar a causa  — fim do Plan
 Uma por causa. Teste: "isso ataca a causa? se eu cortar, a causa continua?"
 
 <!-- c:contramedidas -->
@@ -62,11 +62,11 @@ Uma por causa. Teste: "isso ataca a causa? se eu cortar, a causa continua?"
 | C2 | | |
 | C3 | | |
 
-### 7. Plano de ação — 5W2H [v6+ao vivo; 5W2H = `(adaptação)`] — Do
+### 7. Plano de ação — 5W2H  — Do
 Obrigatório pela aula: **o quê · quem · quando**. As demais colunas completam quando há mais de um passo.
 
 <!-- c:plano -->
-| # | O quê (what) | Por quê (why — causa/contramedida) | Quem (who — dono único) | Quando (when — data) | Onde (where) `(adaptação)` | Como (how) `(adaptação)` | Quanto custa (how much) `(adaptação)` |
+| # | O quê (what) | Por quê (why — causa/contramedida) | Quem (who — dono único) | Quando (when — data) | Onde (where) `` | Como (how) `` | Quanto custa (how much) `` |
 |---|---|---|---|---|---|---|---|
 | 1 | | C_ | | ____/____ | | | |
 | 2 | | C_ | | ____/____ | | | |
@@ -74,7 +74,7 @@ Obrigatório pela aula: **o quê · quem · quando**. As demais colunas completa
 
 Regra desta adaptação: cada linha cabe em uma semana do dono; maior que isso, corte.
 
-### 8. Métricas — como vou medir [v6+ao vivo] — Check
+### 8. Métricas — como vou medir  — Check
 Mesma medida do campo 2.
 
 <!-- c:metricas -->
@@ -82,8 +82,8 @@ Mesma medida do campo 2.
 |---|---|---|---|---|---|
 | | | | | | |
 
-### 9. Acompanhamento — como está indo [v6] — Check
-Quando vou revisar? Com quem? (adaptação: revisão semanal no dia combinado com o dono)
+### 9. Acompanhamento — como está indo  — Check
+Quando vou revisar? Com quem?
 
 <!-- c:acompanhamento -->
 | Semana / data | Número medido | O que travou | Ajuste feito |
@@ -91,7 +91,7 @@ Quando vou revisar? Com quem? (adaptação: revisão semanal no dia combinado co
 | | | | |
 | | | | |
 
-### 10. Aprendizado do ciclo — o que ficou [v6] — Act <!-- c:aprendizado -->
+### 10. Aprendizado do ciclo — o que ficou  — Act <!-- c:aprendizado -->
 Para repetir ou evitar; o que vai para o próximo ciclo; se virou padrão, onde foi documentado.
 
 >

@@ -3,6 +3,7 @@ name: ga2-pdi
 description: "Monta um plano de desenvolvimento com objetivo de trabalho, forças, lacuna, ações 70-20-10, marco e acompanhamento. Também monta o PDI do próprio líder e conduz a conversa de carreira. Use quando pedirem PDI, desenvolvimento de pessoa, evolução profissional, estudar uma competência ou conversar sobre carreira."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Plano de Desenvolvimento Individual
 
 ## Como conduzir

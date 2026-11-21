@@ -1,6 +1,6 @@
 # Registro de decisões e de riscos: exemplos
 
-Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os modelos T03 e T12 do curso de rotinas.
+Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os registro de compromissos e decisões e T12 do curso de rotinas.
 
 ## 1. Fábrica de embalagens: a decisão registrada
 

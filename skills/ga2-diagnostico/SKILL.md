@@ -3,6 +3,7 @@ name: ga2-diagnostico
 description: "Compara a situação atual com a desejada, mede a distância e registra a linha de partida. Use quando pedirem diagnóstico, estado atual, meta, distância para a meta ou lado esquerdo do A3."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Diagnóstico atual e desejado
 
 ## Como conduzir

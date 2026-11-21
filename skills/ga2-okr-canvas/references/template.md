@@ -4,7 +4,7 @@
 
 Fonte dos campos: aula M04 A05–A09; `Canvas OKR.pdf` (legado); `06-template-okr-ga2-paisagem-editavel.pdf`;
 `01-ponte-a3-okr-ga2-editavel.pdf`; `07-checkpoint-do-plano-ga2-editavel.pdf`; roteiro v6 06 (check-in).
-Campo que a aula não cita vai marcado `(adaptação metodológica)`.
+Campo que a aula não cita vai marcado ``.
 
 ---
 
@@ -26,12 +26,12 @@ Campo que a aula não cita vai marcado `(adaptação metodológica)`.
 | Campo | Resposta |
 |---|---|
 | Caso / desafio `(do canvas v6)` <!-- c:caso --> | |
-| Empresa `(adaptação metodológica)` <!-- c:empresa --> | nome da empresa; se houver mais de uma, rotule cada número |
+| Empresa `` <!-- c:empresa --> | nome da empresa; se houver mais de uma, rotule cada número |
 | Nível <!-- c:nivel --> | empresa / área / equipe / pessoa |
 | Período <!-- c:periodo --> | trimestre / semestre / ano — de __/__ a __/__ |
 | Dono do OKR <!-- c:dono --> | um nome |
 | Data `(do canvas v6)` <!-- c:data --> | ____/____/______ |
-| Fonte canônica dos números `(adaptação metodológica)` <!-- c:fonte_numeros --> | fonte oficial e responsável pelo número, nomeados |
+| Fonte canônica dos números `` <!-- c:fonte_numeros --> | fonte oficial e responsável pelo número, nomeados |
 | Onde fica público <!-- c:publico --> | caminho ou canal |
 
 **Objetivo #1** — abrangente, inspira, "um grande porquê"; desafiador mas alcançável; alinhado à visão; sem número; com prazo. <!-- c:objetivo_1 -->
@@ -65,7 +65,7 @@ _(Objetivo #2 e #3: repita o bloco só se o período e o nível pedirem. No prim
 
 ---
 
-## Bloco 3 — Check-in semanal de OKR `(adaptação metodológica: formato a partir do roteiro v6 06; sem template oficial)`
+## Bloco 3 — Check-in semanal de OKR ``
 
 Toda semana, 5 a 15 minutos. Não reescreve nada; só põe o número do dia.
 

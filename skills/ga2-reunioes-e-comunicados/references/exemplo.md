@@ -1,6 +1,6 @@
 # Reuniões e comunicados: exemplos
 
-Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os modelos T16 e T13 do curso de rotinas.
+Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os roteiro de reunião e T13 do curso de rotinas.
 
 ## 1. Estúdio de arquitetura: a pergunta antes de marcar
 

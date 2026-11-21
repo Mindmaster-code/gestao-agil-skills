@@ -1,6 +1,6 @@
 # Sistema de rotinas: template
 
-Não há template oficial do curso para esta habilidade. As seções seguem os modelos CAL (calendário), T15 (inventário) e P90 (plano de 90 dias) do curso de rotinas `(adaptação metodológica)`. Preencha o que o líder souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções seguem os modelos CAL (calendário), T15 (inventário) e P90 (plano de 90 dias) do curso de rotinas ``. Preencha o que o líder souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 ---
 
@@ -73,7 +73,7 @@ Comece pela semana, com as quatro conversas: planejamento, diária, revisão e r
 
 ---
 
-## 2. Inventário e revisão das rotinas (modelo T15)
+## 2. Inventário e revisão das rotinas (inventário de rotinas)
 
 Liste as rotinas que já existem antes de criar outras, inclusive as que ninguém chama de rotina: a reunião de começo de semana, o relatório de fim de semana, o grupo de mensagem onde as decisões acontecem. Custo por semana = minutos × pessoas: some os minutos de cada encontro da semana e multiplique pelo número de pessoas.
 

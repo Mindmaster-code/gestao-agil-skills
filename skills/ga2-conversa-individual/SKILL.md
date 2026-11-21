@@ -3,6 +3,7 @@ name: ga2-conversa-individual
 description: "Prepara a conversa individual do líder com uma pessoa da equipe: acompanhamento de pauta aberta, conversa de motivação de 15 minutos, acompanhamento do PDI e conversa de permanência com o Mapa de Motivação 3.0. Use quando pedirem conversa individual, conversa a dois, acompanhamento de pessoa, conversa de motivação, rodízio de conversas ou conversa de permanência."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Conversa individual
 
 ## Como conduzir
@@ -78,4 +79,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-a folha da conversa individual (modelo T05), o rodízio da conversa de motivação, o Mapa de Motivação 3.0 e a preparação da conversa de permanência.
+a folha da conversa individual (folha de conversa individual), o rodízio da conversa de motivação, o Mapa de Motivação 3.0 e a preparação da conversa de permanência.

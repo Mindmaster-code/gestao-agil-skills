@@ -3,6 +3,7 @@ name: ga2-documentos-de-projeto
 description: "Organiza os documentos necessários em cada fase de um projeto, do contexto ao encerramento. Use quando pedirem dossiê, documentos do projeto, relatório de andamento ou resumo do ciclo."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Documentos do projeto
 
 ## Como conduzir

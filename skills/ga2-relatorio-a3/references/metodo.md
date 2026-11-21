@@ -26,7 +26,7 @@ e `ga2-causa-raiz` (campo 5). Aqui o foco é o lado direito (6–10) e a folha f
 **Campos: 10 da v6 como superconjunto.** Os 7 do ao vivo são 1, 2, 3, 5, 6, 7, 8 (no ao
 vivo o gap mora dentro da "Análise de causa raiz"). Os campos **4 Gap, 9 Acompanhamento e
 10 Aprendizado** são só v6. O 5W2H no plano de ação é adaptação metodológica identificada: a aula exige o
-quê/quem/quando; as outras quatro colunas são `(adaptação metodológica)`.
+quê/quem/quando; as outras quatro colunas são ``.
 ## Como conduzir
 
 **Lado esquerdo (Plan)** — preencha da esquerda para a direita; nada de solução ainda.

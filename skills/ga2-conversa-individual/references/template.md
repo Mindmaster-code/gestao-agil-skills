@@ -1,6 +1,6 @@
 # Conversa individual: template
 
-Não há template oficial do curso para esta habilidade. As seções 1 a 9 seguem o modelo T05 do curso de rotinas; a 10 e a 11 reúnem o rodízio e o Mapa de Motivação 3.0; a 12 prepara a conversa de permanência `(adaptação metodológica)`. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções 1 a 9 seguem o folha de conversa individual do curso de rotinas; a 10 e a 11 reúnem o rodízio e o Mapa de Motivação 3.0; a 12 prepara a conversa de permanência ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 Notas reservadas: este documento é só do líder. Não o envie à pessoa nem a outras pessoas sem pedido, e guarde com acesso restrito.
 

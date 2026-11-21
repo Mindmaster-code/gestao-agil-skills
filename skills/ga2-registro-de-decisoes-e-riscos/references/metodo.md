@@ -23,7 +23,7 @@ Não dispara para: a ata da reunião (`ga2-reunioes-e-comunicados`); o A3 e a ca
 - Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 3, 4, 5 e 8.
 - Fichas: Guia completo de rotinas de gestão, fichas B05 (registrar e acompanhar decisões), A07 (revisar riscos e continuidade da operação) e G07 (refletir sobre decisões e experiências).
 - Modelos: T03 (Registro de compromissos e decisões) e T12 (Preparação de decisão e registro de risco).
-- Template: não há canvas do curso. O `template.md` reproduz os campos dos modelos T03 e T12 e acrescenta a revisão da decisão e a lista do halter `(adaptação metodológica)`.
+- Template: não há canvas do curso. O `template.md` reproduz os campos dos registro de compromissos e decisões e T12 e acrescenta a revisão da decisão e a lista do halter ``.
 
 ## Como conduzir
 
@@ -42,12 +42,12 @@ Não dispara para: a ata da reunião (`ga2-reunioes-e-comunicados`); o A3 e a ca
    | Uma iniciativa | No briefing, a folha com o mínimo que todos precisam saber sobre ela |
    | Um problema | No A3, a folha única com problema, causa, plano e acompanhamento |
    | O que entra ou sai do ciclo | Na revisão do ciclo |
-   | Qualquer outro assunto da área | No registro de decisões (modelo T03) |
+   | Qualquer outro assunto da área | No registro de decisões (registro de compromissos e decisões) |
 
 8. **Se a reunião foi gravada,** a IA pode tirar as decisões, cada uma com dono e data. A IA tira a lista, e você confere antes de publicar.
 9. **Se a decisão passa da sua alçada,** o limite do que você decide sozinho, leve as opções e a sua recomendação a quem tem autoridade. Proteja os dados sensíveis no registro.
 
-### B. Preparar uma decisão importante (modelo T12, página 1)
+### B. Preparar uma decisão importante (registro de decisões e riscos, página 1)
 
 10. **Escreva a questão, o prazo útil e a autoridade de decisão,** e os critérios que serão usados.
 11. **Compare as alternativas:** o benefício e o custo de cada uma, e o risco e a premissa.
@@ -100,10 +100,10 @@ Reúna incidentes, dependências críticas, contratos, ausências e a lista ante
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Registro de compromissos e ações, com estado, dono, data e evidência (modelo T03, página 1).
-- Decisão registrada, com os cinco campos e os fatos e premissas (modelo T03, página 2).
-- Preparação de uma decisão importante (modelo T12, página 1).
-- Registro de riscos da área, com sinal, prioridade, prevenção, primeira resposta, quem responde, limite para escalar e teste (modelo T12, páginas 2 e 3).
+- Registro de compromissos e ações, com estado, dono, data e evidência (registro de compromissos e decisões, página 1).
+- Decisão registrada, com os cinco campos e os fatos e premissas (registro de compromissos e decisões, página 2).
+- Preparação de uma decisão importante (registro de decisões e riscos, página 1).
+- Registro de riscos da área, com sinal, prioridade, prevenção, primeira resposta, quem responde, limite para escalar e teste (registro de decisões e riscos, páginas 2 e 3).
 - Revisão da decisão: esperado, acontecido e premissa a ajustar.
 - Depois: a decisão comunicada em `ga2-reunioes-e-comunicados`; o procedimento de resposta escrito em `ga2-pop`; a aposta do halter em `ga2-folha-de-experimento`.
 
@@ -151,7 +151,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 |---|---|---|
 | Leve | líder de uma equipe pequena | a decisão com motivo, dono e "rever em", e uma lista de três riscos com sinal e primeira resposta |
 | Intermediária | gestor de uma área | o registro semanal de compromissos e decisões, a lista de riscos mensal com teste e a revisão das decisões na data |
-| Robusta | gestor de várias equipes | a intermediária, mais a decisão preparada no modelo T12, o halter do ciclo e a revisão do registro após cada incidente |
+| Robusta | gestor de várias equipes | a intermediária, mais a decisão preparada no registro de decisões e riscos, o halter do ciclo e a revisão do registro após cada incidente |
 
 ## Erros comuns
 

@@ -13,7 +13,7 @@ Calendário (modelo CAL)
 - [ ] A semana começa com as quatro conversas juntas: planejamento, diária, revisão e retrospectiva.
 - [ ] O que ficou em branco virou lista dos próximos ciclos, com data e dono, no ritmo de uma rotina por ciclo.
 
-Inventário (modelo T15)
+Inventário (inventário de rotinas)
 - [ ] Cada rotina tem dono, frequência, duração em minutos, número de pessoas e custo por semana (minutos × pessoas).
 - [ ] A conta soma os minutos de cada encontro da semana, e rotinas mensais e por acontecimento ficaram de fora do total semanal.
 - [ ] Cada rotina tem uma decisão: manter, ajustar, combinar, reduzir ou encerrar, com o motivo.

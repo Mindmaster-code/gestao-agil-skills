@@ -3,6 +3,7 @@ name: ga2-causa-raiz
 description: "Investiga causas com 5 Porquês ou Ishikawa e exige evidência em cada ligação. Use quando pedirem causa raiz, 5 Porquês, espinha de peixe, post-mortem ou separação entre sintoma e causa."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P1.3`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Causa raiz

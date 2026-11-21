@@ -3,6 +3,7 @@ name: ga2-abrir-projeto
 description: "Abre ou organiza a pasta durável de um projeto com responsável, acordo inicial, status, fases e evidências, localmente ou no Google Drive. Também organiza a pasta de uma área ou de uma rotina, com local oficial, dono, versão e validade. Use para iniciar ou arrumar um projeto, ou a pasta de uma área ou de uma rotina; não use para uma dúvida pontual."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Abrir projeto
 
 Use esta habilidade quando uma iniciativa precisa de um lugar durável para decisões, trabalho, evidências e acompanhamento. Ela serve tanto para abrir um projeto quanto para organizar uma pasta existente. Não imponha a abertura de projeto para uma pergunta, uma tarefa isolada ou uma decisão que se resolve no chat.

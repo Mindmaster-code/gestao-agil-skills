@@ -19,7 +19,7 @@ saída, afogada ou com salário torto — "resolva isso primeiro".
 - Base do método — Passo 6: Liderança de Times §4.8 (os dois templates; passo a passo; "quatro jeitos de matar um PDI"), §4.6 (Mapa de Motivação), §6.1 ("PDI vira plano de evolução de skill"), §8.2 (divergência entre versões).
 - Aulas: v6 pasta 07 aula 06 (caso do Bruno) — única aula narrada. Ao vivo: sem transcrição; só slides GA Aula — PDI, M08 (10 páginas) e `Exemplo Canvas PDI.pdf` (Armando Neto).
 - Templates: v6 Canvas PDI, Passo 6, v6; ao vivo Canvas PDI, Kit M10; exemplo Kit PDI preenchido, Kit de Implementação (referência bibliográfica) (Carlos, líder de separação).
-- Fichas G08 (estudar e desenvolver competências profissionais) e E04 (conversar sobre carreira e perspectivas) do Guia completo de rotinas de gestão, para o PDI do próprio líder e o roteiro da conversa de carreira `(adaptação metodológica)`.
+- Fichas G08 (estudar e desenvolver competências profissionais) e E04 (conversar sobre carreira e perspectivas) do Guia completo de rotinas de gestão, para o PDI do próprio líder e o roteiro da conversa de carreira ``.
 
 ## As duas versões (documentadas; esta referência adota a v6)
 
@@ -50,7 +50,7 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 
 ## Modo PDI do próprio líder (ficha G08)
 
-Serve ao líder que quer ampliar uma competência que limita ou amplia a contribuição dele. É um PDI de si mesmo: os mesmos campos da v6, mais um percurso curto de estudo ligado a um problema real. Semanal, com revisão mensal da aplicação. Fonte: ficha G08 do Guia completo de rotinas de gestão `(adaptação metodológica)`. O Feedback 360 como ponto de partida (`ga2-feedback-360`) e a nota "faça o PDI primeiro do líder que segura seu gargalo" (Kit) vêm do método.
+Serve ao líder que quer ampliar uma competência que limita ou amplia a contribuição dele. É um PDI de si mesmo: os mesmos campos da v6, mais um percurso curto de estudo ligado a um problema real. Semanal, com revisão mensal da aplicação. Fonte: ficha G08 do Guia completo de rotinas de gestão ``. O Feedback 360 como ponto de partida (`ga2-feedback-360`) e a nota "faça o PDI primeiro do líder que segura seu gargalo" (Kit) vêm do método.
 
 1. **Escolha uma competência** que limita ou amplia a sua contribuição atual. Uma por ciclo. A melhor fonte é o seu Feedback 360 (os padrões que duas ou mais pessoas apontaram); sem ele, use uma situação recente em que a falta dessa competência custou tempo ou resultado.
 2. **Defina o problema real em que vai aplicar:** uma situação do seu trabalho nas próximas semanas. Recuse "estudar o assunto" sem um caso.
@@ -62,7 +62,7 @@ Como os campos da v6 se encaixam: objetivo = o problema real; lacuna = a compet�
 
 ## Roteiro da conversa de carreira (ficha E04)
 
-Conversa do líder direto com uma pessoa do time sobre o que ela deseja assumir e sobre os caminhos possíveis. Semestral, ou quando houver mudança relevante de função ou de interesse, com 45 a 60 minutos. O registro dos acordos é reservado: a conversa e o roteiro ficam no chat, e o registro só é guardado onde o líder escolher, em destino privado. A ficha E04 não tem aula de origem `(adaptação metodológica)`; o roteiro usa o apêndice de carreira que já existe no `template.md` (versão ao vivo, canvas `pdi-kit`: objetivos de carreira de curto prazo, 1 ano; de médio, 2 a 3 anos; de longo, 5 anos ou mais) e o Mapa de Motivação 3.0 (Passo 6 §4.6). O PDI que nascer da conversa segue a v6, como o resto desta referência.
+Conversa do líder direto com uma pessoa do time sobre o que ela deseja assumir e sobre os caminhos possíveis. Semestral, ou quando houver mudança relevante de função ou de interesse, com 45 a 60 minutos. O registro dos acordos é reservado: a conversa e o roteiro ficam no chat, e o registro só é guardado onde o líder escolher, em destino privado. A ficha E04 não tem aula de origem ``; o roteiro usa o apêndice de carreira que já existe no `template.md` (versão ao vivo, canvas `pdi-kit`: objetivos de carreira de curto prazo, 1 ano; de médio, 2 a 3 anos; de longo, 5 anos ou mais) e o Mapa de Motivação 3.0 (Passo 6 §4.6). O PDI que nascer da conversa segue a v6, como o resto desta referência.
 
 1. **Ouça o que move a pessoa antes de falar de cargo:** autonomia (decidir como trabalha), maestria (ficar cada vez melhor) ou propósito (servir a algo maior). Pergunta: "Que parte do seu trabalho você faria mesmo se ninguém pedisse?" Deixe o silêncio. Pergunte, não anuncie.
 2. **Ouça o tipo de trabalho e de responsabilidade que ela deseja assumir,** nos horizontes do apêndice: curto (1 ano), médio (2 a 3 anos) e longo (5 anos ou mais).

@@ -3,6 +3,7 @@ name: ga2-okr-canvas
 description: "Monta e acompanha um OKR Canvas com objetivo, resultados-chave de partida e chegada, iniciativas e revisão periódica. Use quando pedirem OKR, resultado-chave, iniciativa ou acompanhamento de meta."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P2.1 e P2.7`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # OKR Canvas

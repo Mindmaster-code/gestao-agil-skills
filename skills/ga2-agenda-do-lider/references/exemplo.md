@@ -68,7 +68,7 @@ Helena aceitou a ordem e registrou a pedra grande: o plano de recuperação de l
 | Distrações capturadas para tratar depois | confirmar a sala da reunião de 12/11; responder à secretaria sobre o recreio |
 | Avanço registrado e próxima ação ao encerrar | rascunho completo, falta a data de início; próxima ação: fechar a data com a direção antes do bloco de 11/11 |
 
-### 1.4 Revisão pessoal (modelo T14), feita em 06/11
+### 1.4 Revisão pessoal (revisão pessoal do líder), feita em 06/11
 
 | Campo | Resposta |
 |---|---|

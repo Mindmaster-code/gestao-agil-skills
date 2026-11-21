@@ -3,7 +3,7 @@
 
 Fonte dos campos: M04 A15; editável `07-matriz-esforco-impacto-ga2-editavel.pdf` ("Use depois do OKR. Coloque as
 iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; v6 aula 07.
-Campo que a aula não cita vai marcado `(adaptação metodológica)`.
+Campo que a aula não cita vai marcado ``.
 
 **Cabeçalho**
 
@@ -14,8 +14,8 @@ Campo que a aula não cita vai marcado `(adaptação metodológica)`.
 | OKR de origem | caminho do OKR Canvas |
 | Quem priorizou <!-- c:dono --> | nome(s) |
 | Data <!-- c:data --> | |
-| Régua de impacto `(adaptação metodológica)` | alto = move KR ___ em ___ / destrava dinheiro, cliente, reputação ou decisão |
-| Régua de esforço `(adaptação metodológica)` | alto = mais de ___ dias de trabalho ou gate humano pendente |
+| Régua de impacto `` | alto = move KR ___ em ___ / destrava dinheiro, cliente, reputação ou decisão |
+| Régua de esforço `` | alto = mais de ___ dias de trabalho ou gate humano pendente |
 
 ## 1. Lista das iniciativas (só iniciativas — objetivo e KR ficam fora)
 

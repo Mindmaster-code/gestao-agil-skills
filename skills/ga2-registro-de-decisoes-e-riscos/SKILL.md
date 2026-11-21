@@ -3,6 +3,7 @@ name: ga2-registro-de-decisoes-e-riscos
 description: "Mantém em dia o registro de decisões, de compromissos e de riscos de uma área. Cada decisão leva motivo, dono de cada consequência, quem precisa saber e a data de rever; cada risco leva sinal, primeira resposta, quem responde e limite para escalar. Use quando pedirem registrar uma decisão, lista de riscos, plano de resposta a um risco ou revisar uma decisão."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Registro de decisões e de riscos
 
 ## Como conduzir
@@ -19,7 +20,7 @@ description: "Mantém em dia o registro de decisões, de compromissos e de risco
 Líder é qualquer pessoa que coordena trabalho e gente, em qualquer área. Descubra o ramo do usuário e use exemplos do ramo dele.
 
 - **A. Registrar uma decisão** (modo principal): cinco campos, em 2 a 5 minutos, no lugar onde o trabalho já mora.
-- **B. Preparar uma decisão importante**: questão, alternativas, fatos, incerteza e proposta com prazo (modelo T12).
+- **B. Preparar uma decisão importante**: questão, alternativas, fatos, incerteza e proposta com prazo (registro de decisões e riscos).
 - **C. Compromissos e decisões da semana**: cinco estados, evidência e revisão semanal.
 - **D. Lista de riscos**: sinal, prioridade, prevenção, primeira resposta, quem responde, limite para escalar e teste. Revisão mensal.
 - **E. Revisão da decisão**: o que eu esperava, o que aconteceu e qual premissa ajustar.
@@ -73,4 +74,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-o registro de compromissos e decisões (modelo T03), a preparação de decisão e o registro de riscos (modelo T12), a revisão da decisão e a lista do halter.
+o registro de compromissos e decisões (registro de compromissos e decisões), a preparação de decisão e o registro de riscos (registro de decisões e riscos), a revisão da decisão e a lista do halter.

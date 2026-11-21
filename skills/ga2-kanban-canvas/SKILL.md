@@ -3,6 +3,7 @@ name: ga2-kanban-canvas
 description: "Desenha um quadro Kanban com estados, raias, cartões, limites e regras visíveis. Também mostra no cartão a dependência entre áreas e organiza o encontro semanal entre elas. Use quando pedirem Kanban, quadro de trabalho, fluxo, cartões, bloqueios, políticas do quadro, dependência de outra área ou alinhamento entre áreas."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P3.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Kanban Canvas

@@ -25,7 +25,7 @@ Não dispara para: conversa difícil com fato, sentimento, necessidade e pedido 
 - Aulas: curso de rotinas do gestor ágil, aula 6 (conversas a dois), seções 2, 4 e 8.
 - Fichas: Guia completo de rotinas de gestão, fichas E01 (conversa individual de acompanhamento) e E09 (conversar sobre permanência e retenção). A ficha D08 liga o acompanhamento semanal do PDI.
 - Modelo: T05 (Conversa individual de acompanhamento).
-- Template: não há canvas do curso. O `template.md` reproduz os campos do modelo T05, o rodízio da conversa de motivação e os campos do Mapa de Motivação 3.0 `(adaptação metodológica)`.
+- Template: não há canvas do curso. O `template.md` reproduz os campos do folha de conversa individual, o rodízio da conversa de motivação e os campos do Mapa de Motivação 3.0 ``.
 
 ## Como conduzir
 
@@ -101,7 +101,7 @@ A pauta é da pessoa. O erro mais comum é fazer dela um acompanhamento de taref
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Roteiro da conversa preparado (modelo T05): temas da pessoa, acordos anteriores, perguntas.
+- Roteiro da conversa preparado (folha de conversa individual): temas da pessoa, acordos anteriores, perguntas.
 - Acordos registrados, cada um com responsável e data de revisão.
 - Rodízio das conversas de motivação, com datas.
 - Mapa de Motivação 3.0 da pessoa, quando a conversa for de motivação ou de permanência.

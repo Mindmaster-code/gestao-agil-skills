@@ -20,7 +20,7 @@ Não dispara para: a diária (`ga2-gestao-diaria`), a revisão do ciclo (`ga2-re
 - Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 1, 2 e 8; aula 8 (liderar a mudança e comunicar), seções 1, 2, 3, 5 e 8.
 - Fichas: Guia completo de rotinas de gestão, fichas B07 (preparar, conduzir e revisar reuniões) e B08 (comunicar decisões, mudanças e orientações). A ficha D09 liga a leitura do estágio do time.
 - Modelos: T16 (Preparação e registro de reunião) e T13 (Comunicação, cobertura e transição), página da comunicação.
-- Template: não há canvas do curso. O `template.md` reproduz os campos dos modelos T16 e T13 e acrescenta a revisão mensal das reuniões que se repetem `(adaptação metodológica)`.
+- Template: não há canvas do curso. O `template.md` reproduz os campos dos roteiro de reunião e T13 e acrescenta a revisão mensal das reuniões que se repetem ``.
 
 ## Como conduzir
 
@@ -63,7 +63,7 @@ A preparação leva de 5 a 15 minutos.
 
 ### D. Comunicar uma mudança
 
-A preparação leva de 10 a 20 minutos (modelo T13, página da comunicação). A decisão já deve estar validada, isto é, tomada por quem tem a autoridade. Quem é consultado é ouvido antes, para dar a informação que falta, e não decide.
+A preparação leva de 10 a 20 minutos (roteiro de comunicação, cobertura e transição, página da comunicação). A decisão já deve estar validada, isto é, tomada por quem tem a autoridade. Quem é consultado é ouvido antes, para dar a informação que falta, e não decide.
 
 18. **Separe as pessoas em três grupos:** quem age (vai agir de um jeito diferente), quem é consultado e quem só precisa saber. Escreva os nomes; o que o líder ainda não souber fica como "não definido".
 19. **Escreva o que muda, por quê e desde quando.**
@@ -104,10 +104,10 @@ A preparação leva de 10 a 20 minutos (modelo T13, página da comunicação). A
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Preparação da reunião (modelo T16): decisão esperada, participantes, teto, pauta, custo e as quatro perguntas.
+- Preparação da reunião (roteiro de reunião): decisão esperada, participantes, teto, pauta, custo e as quatro perguntas.
 - Registro depois da reunião: decisão ou ação, dono, data e evidência; quem comunica; próximo retorno.
 - Revisão mensal das reuniões que se repetem, com o custo e uma decisão para cada uma.
-- Comunicação da mudança (modelo T13, página 1): os três grupos, a frase de cada um, a orientação vigente e o destino da anterior, o canal e o teste do entendimento.
+- Comunicação da mudança (roteiro de comunicação, cobertura e transição, página 1): os três grupos, a frase de cada um, a orientação vigente e o destino da anterior, o canal e o teste do entendimento.
 - Depois: a decisão que merece registro próprio segue em `ga2-registro-de-decisoes-e-riscos`; o conjunto das rotinas e o custo por semana, em `ga2-sistema-de-rotinas`.
 
 ## Formas de saída
@@ -153,7 +153,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 | Régua | Quando | O que fica |
 |---|---|---|
 | Leve | líder de uma equipe pequena | a pergunta "uma mensagem resolve?", o teto e o custo de cada reunião, e a frase do que muda para cada grupo |
-| Intermediária | gestor de uma área | o modelo T16 completo, o registro com dono e data, a revisão mensal e o comunicado em três grupos |
+| Intermediária | gestor de uma área | o roteiro de reunião completo, o registro com dono e data, a revisão mensal e o comunicado em três grupos |
 | Robusta | gestor de várias equipes | a intermediária, mais o acompanhamento semanal da adoção e a leitura do estágio do time a cada mudança relevante |
 
 ## Erros comuns

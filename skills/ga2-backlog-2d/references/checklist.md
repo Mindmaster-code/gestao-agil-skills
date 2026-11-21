@@ -18,7 +18,7 @@ adaptação de corte por ciclo.
 
 **Detalhamento**
 - [ ] Cada item tem verbo, entrega e tamanho; o mais importante em cima.
-- [ ] Nenhum item maior que uma semana (adaptação de corte por ciclo) — o que era maior foi cortado.
+- [ ] Nenhum item maior que uma semana — o que era maior foi cortado.
 - [ ] Item perto de ser puxado está detalhado; o distante está macro.
 
 **Priorização**

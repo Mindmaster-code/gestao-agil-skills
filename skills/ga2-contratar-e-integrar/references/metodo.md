@@ -24,7 +24,7 @@ Não dispara para: o plano de desenvolvimento da pessoa (`ga2-pdi`); a cobertura
 - Aulas: curso de rotinas do gestor ágil, aula 7 (o ciclo das pessoas), seções 1 a 4 e 9.
 - Fichas: Guia completo de rotinas de gestão, fichas E07 (recrutar e selecionar profissionais) e E08 (integrar novos profissionais à equipe). A ficha E06 liga a revisão da necessidade de pessoas.
 - Modelo: T10 (Contratação e integração).
-- Template: não há canvas do curso. O `template.md` reproduz os campos do modelo T10 e acrescenta o roteiro da seleção como POP `(adaptação metodológica)`.
+- Template: não há canvas do curso. O `template.md` reproduz os campos do roteiro de contratação e integração e acrescenta o roteiro da seleção como POP ``.
 
 ## Como conduzir
 
@@ -90,10 +90,10 @@ A seleção é um trabalho que se repete, e por isso ganha um POP (procedimento 
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Teste do gargalo feito em (data), com a resposta de cada saída e a definição da necessidade (modelo T10, página 1).
+- Teste do gargalo feito em (data), com a resposta de cada saída e a definição da necessidade (roteiro de contratação e integração, página 1).
 - Roteiro da seleção como POP: responsabilidades, critérios escritos antes, entrevista e decisão registrada.
-- Plano de integração: etapas, colega de referência, primeira entrega com critério de aceite e lacunas com plano de apoio (modelo T10, página 2).
-- Integração em degraus, com os pontos de 7, 30, 60 e 90 dias e as datas (modelo T10, página 3).
+- Plano de integração: etapas, colega de referência, primeira entrega com critério de aceite e lacunas com plano de apoio (roteiro de contratação e integração, página 2).
+- Integração em degraus, com os pontos de 7, 30, 60 e 90 dias e as datas (roteiro de contratação e integração, página 3).
 - Depois: o procedimento escrito de cada entrega em `ga2-pop`; o plano de desenvolvimento em `ga2-pdi`.
 
 ## Formas de saída
@@ -139,7 +139,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 | Régua | Quando | O que fica |
 |---|---|---|
 | Leve | negócio pequeno ou primeira contratação | o teste do gargalo, cinco critérios escritos antes das entrevistas e os três degraus com os pontos de 7 e 30 dias |
-| Intermediária | gestor de uma equipe | o modelo T10 completo: necessidade, roteiro da seleção, integração progressiva e degraus com os quatro pontos |
+| Intermediária | gestor de uma equipe | o roteiro de contratação e integração completo: necessidade, roteiro da seleção, integração progressiva e degraus com os quatro pontos |
 | Robusta | gestor que contrata com frequência | a intermediária, mais a revisão trimestral da necessidade de pessoas e o aprendizado de cada seleção voltando para os critérios |
 
 ## Erros comuns

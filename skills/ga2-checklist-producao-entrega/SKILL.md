@@ -3,6 +3,7 @@ name: ga2-checklist-producao-entrega
 description: "Define o que um trabalho precisa para começar e para ser entregue com prova. Use quando perguntarem se algo pode começar, se está pronto, ou citarem DoR, DoD e critério de pronto."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P3.1 (compartilhado)`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Checklist para começar e entregar

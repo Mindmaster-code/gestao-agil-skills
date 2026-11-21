@@ -3,6 +3,7 @@ name: ga2-reunioes-e-comunicados
 description: "Prepara reuniões que terminam em decisão escrita e comunica mudanças a quem precisa agir. Pergunta se uma mensagem resolve, fixa teto e custo, registra com dono e data, revisa por mês as reuniões que se repetem e escreve a frase do que muda para cada grupo. Use quando pedirem pauta, custo ou registro de reunião, revisão de reuniões recorrentes ou comunicado de mudança."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Reuniões e comunicados
 
 ## Como conduzir
@@ -73,4 +74,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-a preparação e o registro da reunião (modelo T16), a revisão mensal das reuniões que se repetem e a comunicação de uma mudança em três grupos (modelo T13).
+a preparação e o registro da reunião (roteiro de reunião), a revisão mensal das reuniões que se repetem e a comunicação de uma mudança em três grupos (roteiro de comunicação, cobertura e transição).

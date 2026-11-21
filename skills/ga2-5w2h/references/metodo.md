@@ -19,7 +19,7 @@ Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M0
 - Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; v6 aula 05).
 - Passo 5 — Melhoria Contínua: exemplo da Ana.
 - Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma adaptação metodológica, com essa origem explicitada.
-- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento `(adaptação metodológica)`.
+- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento ``.
 ## Ligação com o A3 e com as contramedidas
 
 | Pergunta | De onde vem no A3 | Onde a aula pede |
@@ -32,7 +32,7 @@ Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M0
 
 Regra desta adaptação: **o quê / quem / quando** são obrigatórios em toda linha; **por quê** vem da
 causa raiz; **como / onde / quanto** completam quando o plano vai rodar sem briefing. As sete
-colunas são extensão do método `(adaptação metodológica identificada)`.
+colunas são extensão do método ``.
 
 ## Como conduzir
 
@@ -47,14 +47,14 @@ colunas são extensão do método `(adaptação metodológica identificada)`.
 7. **Como.** Dois ou três passos. Se não cabe na célula, a ação é grande demais — cortar.
 8. **Quanto.** Horas de trabalho ou R$ (material, ferramenta ou serviço). "Quanto em branco volta — é o que
    liga ao ROI." Custo que exige verba depende da aprovação do decisor competente.
-9. **Conferir os seis campos de acompanhamento** (adaptação metodológica): o quê, por quê, dono,
+9. **Conferir os seis campos de acompanhamento**: o quê, por quê, dono,
    "pronto é", prazo, onde trava. O 5W2H já responde cinco; falta "pronto é" — acrescente na
    coluna Status/prova.
 10. Salvar; cada linha vira cartão no Kanban ou compromisso do plano do ciclo.
 
 ## Orçamento: orçado, contratado e realizado (ficha A06)
 
-O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas ``.
 
 **Aviso de alçada.** Valor financeiro vem do responsável financeiro e de relatório autorizado. Não invente nem estime valor sem fonte. Compromisso fora da sua alçada exige a aprovação do responsável financeiro, e os temas técnicos pedem apoio contábil.
 
@@ -70,8 +70,8 @@ O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto
 ## Regras do método que valem aqui
 
 - "Sem isto não é plano: o quê · quem · quando." (v6 aula 05)
-- "Um dono por demanda. Apoio não vira co-dono." (adaptação metodológica: responsabilidade única)
-- "Cobrança sem data não é cobrança." (adaptação metodológica: prazo explícito) — linha sem data não é plano.
+- "Um dono por demanda. Apoio não vira co-dono."
+- "Cobrança sem data não é cobrança." — linha sem data não é plano.
 - "Contramedidas atacam a causa raiz, não o sintoma." (M02 A07, regra 20 do Passo 5)
 - "Um cartão, uma semana." Ação maior que isso é cortada antes de entrar.
 - O custo de cada iniciativa se escreve antes de ela começar, e uma vez por mês se compara o orçado, o contratado e o realizado. (aula 9; ficha A06)

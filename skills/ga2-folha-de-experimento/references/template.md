@@ -48,7 +48,7 @@ Preencha 1 a 5 **antes** de rodar. A 6 no fim, com o resultado junto. Sem a 1 co
 
 Registro: registro de experimento da área, com data e nome, no destino escolhido · Entra no placar de: <sexta AAAA-MM-DD> · Na hora? <sim, se acerto mexe em dinheiro/preço/produto ou falha virou risco>
 
-## Modo: testar uma ferramenta ou um fornecedor (ficha B10) `(adaptação metodológica)`
+## Modo: testar uma ferramenta ou um fornecedor (ficha B10) ``
 
 Preço, contrato, contratação e cancelamento seguem as alçadas e os termos aplicáveis. Esta folha mede o tempo devolvido.
 

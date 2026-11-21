@@ -3,6 +3,7 @@ name: ga2-estagio-do-time
 description: "Lê em que estágio de Tuckman o time está e qual é a jogada do líder, mede a confiança com o Termômetro da Confiança (uma pergunta, um minuto, sem nome, repetida em 30 dias) e monta o plano de transição de uma mudança. Use quando pedirem estágio do time, Tuckman, termômetro de confiança, time em conflito, chegada de gente nova ou acompanhar uma mudança."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P6.2`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Estágio do time

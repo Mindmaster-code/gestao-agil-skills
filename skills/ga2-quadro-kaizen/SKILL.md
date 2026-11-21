@@ -3,6 +3,7 @@ name: ga2-quadro-kaizen
 description: "Registra uma melhoria pequena com sinal, aposta, dono, prazo, aprendizado e decisão. Use quando pedirem Kaizen, fila de melhorias, pequeno ajuste ou resposta a indicador parado."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 > Modelo oficial do aluno: `P5.1`. O contrato visual e de campos está em `modelos/kit/kit.json`.
 
 # Quadro Kaizen

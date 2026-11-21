@@ -3,6 +3,7 @@ name: ga2-me-mostra
 description: "Use quando o usuário pedir para ver, desenhar ou explicar visualmente um caso, fluxo, problema, mudança ou decisão de gestão descrito no pedido ou na conversa atual; não use para assuntos sem um caso de gestão."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Me Mostra — Gestão Visual GA 2.0
 
 ## Regra principal

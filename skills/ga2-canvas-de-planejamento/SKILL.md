@@ -3,6 +3,7 @@ name: ga2-canvas-de-planejamento
 description: "Resume numa folha os nove blocos do planejamento: contexto, situação atual, ideal, gap, causa raiz, lista de objetivos, matriz de priorização, objetivos selecionados e resultados-chave com iniciativas. Use quando pedirem o canvas de planejamento, o canvas do curso numa página ou um resumo do diagnóstico e dos objetivos."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Canvas de Planejamento — a folha do curso
 
 ## Como conduzir

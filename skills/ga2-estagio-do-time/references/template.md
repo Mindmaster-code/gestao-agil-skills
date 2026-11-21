@@ -1,6 +1,6 @@
 # Estágio do time: template
 
-As seções 1 a 4 reproduzem os campos dos canvas do curso Estágio do Time (Tuckman) e Termômetro da Confiança do Time (a ficha do time e a folha do gestor), que existem em PDF e ficam fora deste pacote. A seção 5, o plano de transição da mudança, vem da ficha D09 `(adaptação metodológica)`. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+As seções 1 a 4 reproduzem os campos dos canvas do curso Estágio do Time (Tuckman) e Termômetro da Confiança do Time (a ficha do time e a folha do gestor), que existem em PDF e ficam fora deste pacote. A seção 5, o plano de transição da mudança, vem da ficha D09 ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 ---
 

@@ -21,7 +21,7 @@ um número parado pede um ângulo diferente; a pessoa responsável pela coordena
 - Base do método — Passo 5: Melhoria Contínua (antifragilidade: M07 A05 ao vivo; v6 pasta 06 aula 02 "Antifrágil — o erro é informação").
 - Política e folha acrescentadas pelo método: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
 - Webinar GAIA2k (w143), 01:15:40–01:17:32; curso de Design Thinking, aulas do curso. Referências bibliográficas de origem, sem presumir acesso aos arquivos internos.
-- Ficha B10 (avaliar fornecedores, ferramentas e recursos de trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 5) do curso de rotinas, para o modo de testar uma ferramenta ou um fornecedor `(adaptação metodológica)`.
+- Ficha B10 (avaliar fornecedores, ferramentas e recursos de trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 5) do curso de rotinas, para o modo de testar uma ferramenta ou um fornecedor ``.
 - A fonte original registra uma lacuna de curadoria sobre Design Thinking, barbell e antifragilidade; as aulas e o webinar acima são a procedência deste recorte.
 - Distinção de fontes: a proporção barbell 80–90/10–20 vem do webinar citado, não das transcrições ao vivo do GA 2.0. A versão v6 a incorpora na aula de Melhoria Contínua.
 
@@ -80,7 +80,7 @@ e o arquivo são o mesmo; divergiu, vale o arquivo.
 
 ## Modo: testar uma ferramenta ou um fornecedor (ficha B10)
 
-A regra é uma só: ferramenta que não devolve tempo não entra. Antes de renovar ou de contratar uma ferramenta ou um fornecedor crítico, gaste de 30 a 60 minutos para avaliar, e faça o teste curto com esta folha. A revisão dos itens críticos é mensal, e a de cada item vem antes da renovação. Dono: o responsável pelo recurso ou pelo contrato, com os usuários, o financeiro e os especialistas conforme a decisão. Fonte: ficha B10 e aula 9 do curso de rotinas `(adaptação metodológica)`.
+A regra é uma só: ferramenta que não devolve tempo não entra. Antes de renovar ou de contratar uma ferramenta ou um fornecedor crítico, gaste de 30 a 60 minutos para avaliar, e faça o teste curto com esta folha. A revisão dos itens críticos é mensal, e a de cada item vem antes da renovação. Dono: o responsável pelo recurso ou pelo contrato, com os usuários, o financeiro e os especialistas conforme a decisão. Fonte: ficha B10 e aula 9 do curso de rotinas ``.
 
 **Aviso de alçada.** Esta habilidade conduz o teste e a decisão pelo tempo devolvido. Preço, contrato, contratação e cancelamento seguem as alçadas da organização e os termos aplicáveis. Chame o especialista quando houver impacto técnico ou contratual. O teste não assina contrato nem cancela nada.
 

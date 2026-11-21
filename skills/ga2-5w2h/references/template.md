@@ -1,7 +1,7 @@
 <!-- modelos: 5w2h-lab.json -->
 # 5W2H — <slug do plano>
 
-Template de adaptação metodológica; não há template oficial de 5W2H nas fontes citadas. Fonte: M02 A07 ("pode usar o 5W2H… quem, quando, onde, quanto custa"); lado direito do A3 (v6 aula 05: "sem isto não é plano: o quê · quem · quando"). As sete colunas são extensão do método (adaptação do Passo 1).
+Template de adaptação metodológica; não há template oficial de 5W2H nas fontes citadas. Fonte: M02 A07 ("pode usar o 5W2H… quem, quando, onde, quanto custa"); lado direito do A3 (v6 aula 05: "sem isto não é plano: o quê · quem · quando"). As sete colunas são extensão do método.
 
 | Campo | Conteúdo |
 |---|---|
@@ -28,7 +28,7 @@ Regras: linha sem "quem" ou "quando" não entra. "Quem" com dois nomes volta. "Q
 |---|---|---|---|
 | | | | |
 
-## Orçamento: orçado, contratado e realizado (ficha A06) `(adaptação metodológica)`
+## Orçamento: orçado, contratado e realizado (ficha A06) ``
 
 Valor financeiro vem do responsável financeiro e de relatório autorizado. Não preencha valor sem fonte.
 

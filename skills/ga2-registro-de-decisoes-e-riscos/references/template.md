@@ -1,6 +1,6 @@
 # Registro de decisões e de riscos: template
 
-Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o modelo T03 e as seções 3 a 5, o modelo T12, ambos do curso de rotinas; as seções 6 e 7 acrescentam a revisão da decisão e a lista do halter `(adaptação metodológica)`. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o registro de compromissos e decisões e as seções 3 a 5, o registro de decisões e riscos, ambos do curso de rotinas; as seções 6 e 7 acrescentam a revisão da decisão e a lista do halter ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 Mantenha o registro no local oficial da equipe, com acesso adequado. Informação sensível vai para um registro privado e autorizado.
 
@@ -16,7 +16,7 @@ Mantenha o registro no local oficial da equipe, com acesso adequado. Informaçã
 
 ---
 
-## 1. Registro de compromissos e ações (modelo T03, página 1)
+## 1. Registro de compromissos e ações (registro de compromissos e decisões, página 1)
 
 Estados: **em execução** (alguém está fazendo agora), **aguardando** (espera resposta ou entrega de outra pessoa), **travado** (não anda sem ajuda ou decisão de alguém), **concluído** (pronto, com a evidência anotada) e **cancelado** (saiu do plano, com o motivo anotado).
 
@@ -41,7 +41,7 @@ Roteiro da revisão semanal (15 a 30 minutos):
 
 ---
 
-## 2. Decisão registrada (modelo T03, página 2)
+## 2. Decisão registrada (registro de compromissos e decisões, página 2)
 
 Uma decisão importante pode gerar várias ações: ligue as ações a ela pelo assunto. Registre onde o trabalho já mora: no briefing (iniciativa), no A3 (problema), na revisão do ciclo (o que entra ou sai) ou neste registro (qualquer outro assunto).
 
@@ -68,7 +68,7 @@ Rever em (data): <dd/mm/aaaa>
 
 ---
 
-## 3. Preparação de uma decisão (modelo T12, página 1)
+## 3. Preparação de uma decisão (registro de decisões e riscos, página 1)
 
 | Campo | Resposta |
 |---|---|
@@ -93,7 +93,7 @@ Rever em (data): <dd/mm/aaaa>
 
 ---
 
-## 4. Risco relacionado à decisão (modelo T12, página 2)
+## 4. Risco relacionado à decisão (registro de decisões e riscos, página 2)
 
 | Campo | Resposta |
 |---|---|
@@ -108,7 +108,7 @@ Classifique o risco com critérios que a organização entenda. Quando a chance 
 
 ---
 
-## 5. Registro de riscos da área (modelo T12, página 3)
+## 5. Registro de riscos da área (registro de decisões e riscos, página 3)
 
 Revise a lista uma vez por mês, de 30 a 60 minutos, e logo depois de qualquer incidente. Os riscos mais sérios ganham um teste da resposta.
 

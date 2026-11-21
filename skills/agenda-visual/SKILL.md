@@ -3,6 +3,7 @@ name: agenda-visual
 description: "Use para visualizar o planejamento de qualquer projeto como agenda, calendário ou linha do tempo em HTML inline ou imagem. Mostra fases, datas, dependências e responsabilidades; não cria eventos nem aprova o plano."
 ---
 
+Antes de montar, pergunte o que faltar. Não invente dados.
 # Agenda visual
 
 Transforme o plano do usuário em uma agenda visual que responda: quando acontece, o que fazer primeiro e quem faz o quê.
