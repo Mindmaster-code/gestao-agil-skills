@@ -12,7 +12,7 @@
 - O curso não traz template preenchível de 5S. O Relatório 5S desta habilidade é `(acréscimo do
   laboratório)`.
 
-Acréscimos do laboratório, marcados nos arquivos vizinhos, que vão além da aula:
+Acréscimos do laboratório, que vão além da aula (a procedência fica só neste arquivo):
 
 - o alvo como parâmetro e a tradução das cinco perguntas por alvo (`alvos.md`);
 - a etiqueta vermelha e a quarentena com prazo, antes de qualquer descarte;

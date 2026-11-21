@@ -1,4 +1,4 @@
-# 5S por alvo `(acréscimo do laboratório)`
+# 5S por alvo
 
 O método é um só (`metodo.md`). Este arquivo traduz as cinco perguntas para os alvos mais comuns:
 o que é um item, como se prova uso, onde é o lugar certo, qual é a sujeira típica e de onde vem,

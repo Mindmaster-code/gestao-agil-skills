@@ -12,6 +12,8 @@ são de fazer: tirar da frente o que não se usa, dar um lugar a cada coisa e li
 últimos são de comportamento: fazer isso todo dia, do mesmo jeito, até virar hábito. Cada S
 elimina desperdício, a começar pelo tempo gasto procurando.
 
+Antes de montar, pergunte o que faltar. Não invente dados.
+
 ## O alvo é o parâmetro
 
 O pedido traz o alvo: "5S na pasta do projeto", "5S no repositório", "5S nas campanhas",

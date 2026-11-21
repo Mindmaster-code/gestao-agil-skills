@@ -25,8 +25,8 @@
 
 ## Erros comuns
 
-- Mutirão sem padrão nem rotina: volta tudo em semanas (aula: "os três primeiros S são de fazer; o quarto e o quinto são de comportamento").
-- Jogar fora o que é pouco usado: as 497 ferramentas existem e vão para um lugar catalogado (aula).
+- Mutirão sem padrão nem rotina: volta tudo em semanas. Os três primeiros S são de fazer; o quarto e o quinto são de comportamento.
+- Jogar fora o que é pouco usado: as 497 ferramentas existem e vão para um lugar catalogado.
 - Começar pelo arquivo morto em vez da parte que se usa todo dia.
 - Copiar em vez de mover, criando a duplicata que se queria tirar.
 - Mover o que uma automação lê pelo caminho e quebrar quem dependia dele.
