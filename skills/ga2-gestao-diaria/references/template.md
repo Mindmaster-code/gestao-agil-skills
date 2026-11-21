@@ -93,7 +93,7 @@ Cobrança de hoje: P-NN ao <dono> — <o que falta> — data <dd/mm>.
 
 ---
 
-## 4. Modo pessoal: fechar o expediente e preparar o próximo dia ``
+## 4. Modo pessoal: fechar o expediente e preparar o próximo dia
 
 Este modo vem depois dos três formatos acima e não muda nenhum deles. Fichas F05 e F06 do Guia completo de rotinas de gestão. Cada pessoa usa o quadro e a agenda que já tem.
 

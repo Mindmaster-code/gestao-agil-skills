@@ -20,7 +20,7 @@ Não dispara para: a diária (`ga2-gestao-diaria`), a revisão do ciclo (`ga2-re
 - Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 1, 2 e 8; aula 8 (liderar a mudança e comunicar), seções 1, 2, 3, 5 e 8.
 - Fichas: Guia completo de rotinas de gestão, fichas B07 (preparar, conduzir e revisar reuniões) e B08 (comunicar decisões, mudanças e orientações). A ficha D09 liga a leitura do estágio do time.
 - Modelos: T16 (Preparação e registro de reunião) e T13 (Comunicação, cobertura e transição), página da comunicação.
-- Template: não há canvas do curso. O `template.md` reproduz os campos dos roteiro de reunião e T13 e acrescenta a revisão mensal das reuniões que se repetem ``.
+- Template: não há canvas do curso. O `template.md` reproduz os campos dos roteiro de reunião e T13 e acrescenta a revisão mensal das reuniões que se repetem.
 
 ## Como conduzir
 

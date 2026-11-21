@@ -1,6 +1,6 @@
 # Agenda do líder: template
 
-Não há template oficial do curso para esta habilidade. A agenda da semana (seções 1 a 7) é construção deste pacote a partir das fichas F03, G01, G02, G03, G06, G09 e G10 do Guia completo de rotinas de gestão ``. A revisão pessoal (seção 8) reproduz os campos do revisão pessoal do líder do mesmo guia.
+Não há template oficial do curso para esta habilidade. A agenda da semana (seções 1 a 7) é construção deste pacote a partir das fichas F03, G01, G02, G03, G06, G09 e G10 do Guia completo de rotinas de gestão. A revisão pessoal (seção 8) reproduz os campos da revisão pessoal do líder do mesmo guia.
 
 Preencha o que o líder souber. O que não souber fica em branco ou "em aberto", nunca inventado. Seções 5 a 7 só entram quando o líder pedir o modo.
 

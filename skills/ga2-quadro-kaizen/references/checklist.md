@@ -16,12 +16,12 @@
 
 ## Erros comuns (da aula)
 
-- Duas mudanças juntas — "você perde a chance de saber qual funcionou" ().
-- Sinal que é opinião do chefe: o quadro vira lista de ideias ().
+- Duas mudanças juntas — "você perde a chance de saber qual funcionou".
+- Sinal que é opinião do chefe: o quadro vira lista de ideias.
 - Teste grande que arrisca a operação.
 - Decisão por sensação, sem voltar ao número.
 - Quadro que nunca fecha.
-- Quatro ideias abertas em vez de uma fechada ().
+- Quatro ideias abertas em vez de uma fechada.
 - Kaizen para problema de causa incerta ou que atravessa áreas — isso é A3.
 - Confundir com a folha de experimento do barbell (divergência 22).
 

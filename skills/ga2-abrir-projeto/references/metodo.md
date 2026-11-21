@@ -50,7 +50,7 @@ Esse mapa orienta a navegação; não autoriza mover arquivos ou renomear pastas
 
 ## Pasta de área ou de rotina (ficha F08)
 
-Para o trabalho que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas e os registros de uma equipe. O projeto tem começo, meio e fim e usa as seis pastas acima. A área ou a rotina precisa que as pessoas encontrem a versão vigente, saibam quem responde por ela e tenham o acesso certo. Dono: o dono da informação ou do processo. Fonte: ficha F08 do Guia completo de rotinas de gestão ``.
+Para o trabalho que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas e os registros de uma equipe. O projeto tem começo, meio e fim e usa as seis pastas acima. A área ou a rotina precisa que as pessoas encontrem a versão vigente, saibam quem responde por ela e tenham o acesso certo. Dono: o dono da informação ou do processo. Fonte: ficha F08 do Guia completo de rotinas de gestão.
 
 **O que a pasta tem à vista**
 

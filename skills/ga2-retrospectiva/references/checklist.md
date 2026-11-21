@@ -22,7 +22,7 @@
 - Assunto que cabia na review.
 - Ação que depende de outra área ou do dirigente responsável (não está sob controle do time).
 - Ação sem data ("em breve") — o exemplo v6 comete esse erro.
-- Não fechar a ação anterior — a melhoria fica aberta para sempre ().
+- Não fechar a ação anterior — a melhoria fica aberta para sempre.
 - Pular a retro quando a semana foi ruim — é quando ela mais vale (M07 A01).
 
 ## Formas de saída

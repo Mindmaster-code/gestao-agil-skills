@@ -20,8 +20,8 @@ Não dispara para planejar o dia do time (`ga2-gestao-diaria`) nem o ciclo de um
 - Base do método: Passo 6 (Liderança de Times) §2.8 e §4.3 (Quadro de Delegação), que recebe a lista de aprovações da auditoria.
 - Base do método: Passo 0 (Fundamentos) §2.9 e §3 regras 2 e 10 (quem define valor é o cliente; documente e compartilhe o que aprendeu, o Yokoten).
 - Aulas: M04 A02 e A03 (Teoria das Pedras e Matriz de Eisenhower); M08 A09 (Quadro de Delegação); M02 A05 (Yokoten).
-- Fichas: Guia completo de rotinas de gestão, fichas F03, G01, G02, G03, G06, G09 e G10, e o revisão pessoal do líder (Revisão pessoal do líder), que também liga a ficha G07 (refletir sobre decisões e experiências). Os passos, tempos e exceções de cada rotina vêm das fichas.
-- Template: não há canvas do curso para esta habilidade. A agenda da semana é construção deste pacote a partir das fichas ``; a revisão pessoal reproduz os campos do revisão pessoal do líder.
+- Fichas: Guia completo de rotinas de gestão, fichas F03, G01, G02, G03, G06, G09 e G10, e a revisão pessoal do líder, que também liga a ficha G07 (refletir sobre decisões e experiências). Os passos, tempos e exceções de cada rotina vêm das fichas.
+- Template: não há canvas do curso para esta habilidade. A agenda da semana é construção deste pacote a partir das fichas; a revisão pessoal reproduz os campos da revisão pessoal do líder.
 
 ## A regra de base: o jarro, as pedras e a areia
 
@@ -36,7 +36,7 @@ O jarro é o tempo, as mesmas 24 horas para todo mundo. Pedras grandes, médias,
 
 Ordem de entrada na agenda: primeiro o importante sem urgência, depois o urgente e importante, depois o urgente de pouca importância e, por último, a areia, se sobrar. Areia se limita e não se proíbe: "nós não somos robôs".
 
-Duas leituras de "pedra grande". No quadro acima, pedra grande é o importante sem urgência. No campo "Pedra grande da semana" do revisão pessoal do líder, é a prioridade mais importante da semana. As duas costumam coincidir. Quando o item mais importante já tem prazo na semana (e por isso caiu em pedra média), ele continua sendo a pedra grande da semana e entra primeiro na agenda. O melhor é marcá-lo antes de o prazo chegar.
+Duas leituras de "pedra grande". No quadro acima, pedra grande é o importante sem urgência. No campo "Pedra grande da semana" da revisão pessoal do líder, é a prioridade mais importante da semana. As duas costumam coincidir. Quando o item mais importante já tem prazo na semana (e por isso caiu em pedra média), ele continua sendo a pedra grande da semana e entra primeiro na agenda. O melhor é marcá-lo antes de o prazo chegar.
 
 ## Os tempos de partida
 
@@ -114,12 +114,12 @@ Mostra onde a atuação do líder gera valor e onde virou dependência. Quando t
 33. **Identifique o que pode ser redesenhado:** tarefas repetidas, aprovações e reuniões.
 34. **Escolha uma atividade para eliminar, simplificar, delegar ou automatizar com controle.** Delegar ou automatizar pede responsabilidade, acesso e verificação para quem recebe. Recuse transferir um problema para quem não tem condições de resolvê-lo.
 35. **Combine a mudança e diga para onde vai o tempo liberado.** A capacidade liberada precisa de um destino relevante, como o próximo bloco de pedra grande.
-36. **Leve a lista de aprovações ao Quadro de Delegação** (`ga2-delegacao`): é a lista de assuntos do quadro. Comece por quatro, os que mais voltam, e onde o líder sempre responde igual escreva o critério ``.
+36. **Leve a lista de aprovações ao Quadro de Delegação** (`ga2-delegacao`): é a lista de assuntos do quadro. Comece por quatro, os que mais voltam, e onde o líder sempre responde igual escreva o critério.
 37. **Verifique na auditoria seguinte** se as consultas repetidas diminuíram e se a qualidade das entregas se manteve. Não meça o benefício só pelas horas retiradas.
 
 ### E. Relações (seção curta, ficha G09)
 
-Serve a conhecer experiências e informações que ajudam a entender o trabalho além da própria equipe. Semanal ou quinzenal, de 20 a 40 minutos por conversa. A ficha não tem aula de origem ``.
+Serve a conhecer experiências e informações que ajudam a entender o trabalho além da própria equipe. Semanal ou quinzenal, de 20 a 40 minutos por conversa. A ficha não tem aula de origem.
 
 38. **Escolha uma relação ou perspectiva importante** para o trabalho (um par, um cliente, um especialista, alguém de outra área).
 39. **Leve algo concreto:** um caso real e uma lição aprendida. É o Yokoten (documentar o que se aprendeu e compartilhar com outras áreas). Prepare uma questão concreta e entenda o contexto da outra pessoa.
@@ -130,7 +130,7 @@ Cuidados: respeite a confidencialidade e os limites da representação da empres
 
 ### F. Energia (seção curta, ficha G10)
 
-Serve a montar uma agenda que se sustenta ao longo do tempo. Planejamento semanal e ajustes diários, de 5 a 10 minutos para organizar. A ficha não tem aula de origem ``.
+Serve a montar uma agenda que se sustenta ao longo do tempo. Planejamento semanal e ajustes diários, de 5 a 10 minutos para organizar. A ficha não tem aula de origem.
 
 42. **Observe os padrões de disposição** e as atividades que exigem mais esforço.
 43. **Ponha o trabalho exigente em períodos viáveis da agenda.** O bloco de concentração e o de pensamento estratégico vão para esses períodos.
@@ -143,9 +143,9 @@ Aviso: a agenda não substitui cuidado de saúde nem resolve falta estrutural de
 
 ### G. Revisão pessoal do líder (revisão pessoal do líder)
 
-O líder faz sozinho, uma vez por período, com tempo reservado. A ficha G06 sugere uma revisão breve toda semana e uma mais ampla todo mês ``.
+O líder faz sozinho, uma vez por período, com tempo reservado. A ficha G06 sugere uma revisão breve toda semana e uma mais ampla todo mês.
 
-48. **Responda com fatos e exemplos,** preenchendo os campos do `template.md` (seção 8), na ordem do revisão pessoal do líder: período e responsabilidades, resultados e evidências, compromissos a renegociar, as cinco perguntas de agenda e contribuição, aprendizagem e condições de trabalho, e a tabela de próximas ações.
+48. **Responda com fatos e exemplos,** preenchendo os campos do `template.md` (seção 8), na ordem da revisão pessoal do líder: período e responsabilidades, resultados e evidências, compromissos a renegociar, as cinco perguntas de agenda e contribuição, aprendizagem e condições de trabalho, e a tabela de próximas ações.
 49. **Feche com a priorização do fim da semana:** três cortes, três entregas e a pedra grande da semana (modo A).
 50. **Escolha poucos ajustes** e leve para a próxima revisão. O tempo liberado por simplificação ou delegação precisa de uma finalidade relevante.
 51. **Ligue a revisão às outras ferramentas.** Prioridade de desenvolvimento vira o PDI (plano de desenvolvimento individual) do próprio líder em `ga2-pdi`. Decisão que o líder adia ou que volta toda semana vai para `ga2-delegacao`. Sinal de sobrecarga vai para o modo F.

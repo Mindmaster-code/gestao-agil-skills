@@ -56,7 +56,7 @@ Regra: linha sem prova = não entregue.
 |---|---|---|---|---|
 | | | | | |
 
-## 9. Voz do cliente do mês (ficha B09) ``
+## 9. Voz do cliente do mês (ficha B09)
 
 Uma vez por mês, de 30 a 60 minutos. Reúna as manifestações sem escolher só os casos bons. Proteja os dados dos clientes.
 

@@ -28,7 +28,7 @@ Regras: linha sem "quem" ou "quando" não entra. "Quem" com dois nomes volta. "Q
 |---|---|---|---|
 | | | | |
 
-## Orçamento: orçado, contratado e realizado (ficha A06) ``
+## Orçamento: orçado, contratado e realizado (ficha A06)
 
 Valor financeiro vem do responsável financeiro e de relatório autorizado. Não preencha valor sem fonte.
 

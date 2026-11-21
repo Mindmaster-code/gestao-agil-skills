@@ -3,7 +3,7 @@
 
 Fonte dos campos: canvas legado `Canvas Backlog 2D.pdf` (6) e `Canvas Backlog Priorizado.pdf` (6.1), aula M04 A17;
 v6 aula 08 (story map, fatia fina); Ficha `backlog-2d-ga2.pdf` (backbone · Essencial · Depois); editável Mod 2
-artefato 08 (E/D/O/Q). Campo que a aula não cita vai marcado ``.
+artefato 08. Campo que a aula não cita fica em aberto.
 
 ## Cabeçalho
 
@@ -12,11 +12,11 @@ artefato 08 (E/D/O/Q). Campo que a aula não cita vai marcado ``.
 | Nome da iniciativa (ou do plano) <!-- c:caso --> | |
 | Líder (dono do backlog / PO) <!-- c:dono --> | um nome |
 | Data <!-- c:data --> | |
-| KR que move `` | |
-| Leitura usada `` | [ ] v6 — linha de cima = iniciativas do OKR na ordem da matriz · [ ] ao vivo — linha de cima = etapas da iniciativa |
+| KR que move | |
+| Leitura usada | [ ] v6 — linha de cima = iniciativas do OKR na ordem da matriz · [ ] ao vivo — linha de cima = etapas da iniciativa |
 | Por que essa leitura | |
 | Onde o backlog vive (fácil de editar) | caminho / ferramenta |
-| Tamanho máximo de item `` | um cartão, uma semana · 1–3 dias (aula) |
+| Tamanho máximo de item | um cartão, uma semana · 1–3 dias (aula) |
 
 ## 1. Linha de cima (narrativa / backbone)
 
@@ -70,7 +70,7 @@ O essencial que atravessa o mapa e já entrega algo que o cliente reconhece.
 
 Meta do ciclo em uma frase: ______
 
-## 5. Manutenção ``
+## 5. Manutenção
 
 | Data | O que entrou / saiu / quebrou / reordenou | Quem |
 |---|---|---|
@@ -78,7 +78,7 @@ Meta do ciclo em uma frase: ______
 
 Regra: o que está perto de ser puxado fica detalhado; o distante fica macro. Mapa que não bate com o registro atual do trabalho está velho.
 
-## 6. Poda mensal ``
+## 6. Poda mensal
 
 Ficha F09 do Guia completo de rotinas de gestão. Mensal, de 20 a 40 minutos.
 

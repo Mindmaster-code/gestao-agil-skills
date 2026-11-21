@@ -16,7 +16,7 @@ Escolha uma das duas versões. Apague a outra.
 | **Como está hoje** — o que acontece agora? (número + fonte) | |
 | **Como quero que fique** — o que muda se der certo? (número + prazo) | |
 | **Primeiro passo** — qual ação simples vem primeiro? | |
-| **O que não vamos fazer** `` | |
+| **O que não vamos fazer** | |
 
 **Antes de seguir** (checklist do template oficial):
 - [ ] Consigo explicar meu caso em menos de 1 minuto.

@@ -114,7 +114,7 @@ Escalada: parado __ dias → pergunta na diária; __ dias → cobrança por escr
 
 ---
 
-### B7. Dependência entre áreas (ficha B06) ``
+### B7. Dependência entre áreas (ficha B06)
 
 Acrescente ao cartão padrão do B4 os dois campos abaixo, e a coluna "Aguardando outra área" ao fluxo do B2, com limite próprio.
 

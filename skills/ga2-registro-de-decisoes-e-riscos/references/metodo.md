@@ -23,7 +23,7 @@ Não dispara para: a ata da reunião (`ga2-reunioes-e-comunicados`); o A3 e a ca
 - Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 3, 4, 5 e 8.
 - Fichas: Guia completo de rotinas de gestão, fichas B05 (registrar e acompanhar decisões), A07 (revisar riscos e continuidade da operação) e G07 (refletir sobre decisões e experiências).
 - Modelos: T03 (Registro de compromissos e decisões) e T12 (Preparação de decisão e registro de risco).
-- Template: não há canvas do curso. O `template.md` reproduz os campos dos registro de compromissos e decisões e T12 e acrescenta a revisão da decisão e a lista do halter ``.
+- Template: não há canvas do curso. O `template.md` reproduz os campos dos registro de compromissos e decisões e T12 e acrescenta a revisão da decisão e a lista do halter.
 
 ## Como conduzir
 

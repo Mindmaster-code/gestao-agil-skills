@@ -29,7 +29,7 @@
 | Dono <!-- c:dono --> | |
 | Prazo <!-- c:prazo --> | <dd/mm> |
 
-Filtro (): sob controle do time? [ ] · cabe em um ciclo? [ ] · atrito repetido? [ ]
+Filtro: sob controle do time? [ ] · cabe em um ciclo? [ ] · atrito repetido? [ ]
 
 ## 3 · O aprendizado (fim do ciclo)
 

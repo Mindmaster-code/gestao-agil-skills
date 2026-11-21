@@ -127,4 +127,4 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 - Limite de KR: aula 2–5; editável Mod 2, Ficha e Kit 3; `Template+OKR+Canvas` 4. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
 - Template `Mod 02/02-template-okr-ga2-paisagem` é defeituoso (só campo para KR 1). Use o `Mod 2/06-template-okr`.
-- Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é `` a partir do roteiro v6 06.
+- Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é a partir do roteiro v6 06.

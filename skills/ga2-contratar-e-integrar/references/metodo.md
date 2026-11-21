@@ -24,7 +24,7 @@ Não dispara para: o plano de desenvolvimento da pessoa (`ga2-pdi`); a cobertura
 - Aulas: curso de rotinas do gestor ágil, aula 7 (o ciclo das pessoas), seções 1 a 4 e 9.
 - Fichas: Guia completo de rotinas de gestão, fichas E07 (recrutar e selecionar profissionais) e E08 (integrar novos profissionais à equipe). A ficha E06 liga a revisão da necessidade de pessoas.
 - Modelo: T10 (Contratação e integração).
-- Template: não há canvas do curso. O `template.md` reproduz os campos do roteiro de contratação e integração e acrescenta o roteiro da seleção como POP ``.
+- Template: não há canvas do curso. O `template.md` reproduz os campos do roteiro de contratação e integração e acrescenta o roteiro da seleção como POP.
 
 ## Como conduzir
 

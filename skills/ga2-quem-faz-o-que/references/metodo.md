@@ -22,7 +22,7 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
   «M06 A10 — Gestão de Equipe Eficiente — Quem faz o quê»; v6 pasta 05 aula 03
   ("dono do ciclo / quem faz / quem recebe"); M02 A01 (visão geral).
 - Template: **não existe**. Os campos desta skill são construção deste pacote.
-- Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; roteiro de comunicação, cobertura e transição, página 3 (transição de responsabilidade), para as duas seções novas ``.
+- Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; roteiro de comunicação, cobertura e transição, página 3 (transição de responsabilidade), para as duas seções novas.
 - Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde trava.
 
 ## Papéis — tradução do método para a organização
@@ -59,7 +59,7 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 
 ## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11)
 
-Fonte: ficha E11 e aula 6 do curso de rotinas ``. A revisão acontece a cada semestre, ou depois de uma mudança relevante de responsabilidade, com 45 a 90 minutos de análise. Dono: o responsável pela área, com apoio de pessoas. Use registros reservados.
+Fonte: ficha E11 e aula 6 do curso de rotinas. A revisão acontece a cada semestre, ou depois de uma mudança relevante de responsabilidade, com 45 a 90 minutos de análise. Dono: o responsável pela área, com apoio de pessoas. Use registros reservados.
 
 **Aviso de alçada.** Remuneração, reajuste, progressão, contrato e obrigação legal são decisão de quem tem autoridade e das áreas responsáveis, como recursos humanos e jurídico. Esta habilidade organiza a comparação e a evidência. Ela não decide, não calcula valores e não promete resultado.
 
@@ -73,7 +73,7 @@ Fonte: ficha E11 e aula 6 do curso de rotinas ``. A revisão acontece a cada sem
 
 ## Transferência de responsabilidades quando alguém muda de função ou sai (ficha E12)
 
-Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e transição, página 3 ``. Complementa o passo 8 de "Como conduzir", que trata do aceite do novo dono. O planejamento leva de 30 a 60 minutos, e a execução depende do caso. Dono: o líder responsável, com a área de pessoas. Use um plano restrito de transição.
+Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e transição, página 3. Complementa o passo 8 de "Como conduzir", que trata do aceite do novo dono. O planejamento leva de 30 a 60 minutos, e a execução depende do caso. Dono: o líder responsável, com a área de pessoas. Use um plano restrito de transição.
 
 **Aviso de alçada.** A parte formal, como desligamento, acessos, devoluções e obrigações, segue com as áreas responsáveis, nos momentos autorizados e com respeito à confidencialidade. Esta habilidade organiza a passagem do trabalho e não substitui essas áreas.
 

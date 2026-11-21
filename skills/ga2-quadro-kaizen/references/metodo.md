@@ -48,7 +48,7 @@ A fonte registra uma divergência de nomenclatura entre Kaizen e experimento (di
 1. **Registrar o sinal antes de pensar em solução.** Pergunta: "O que aconteceu, qual métrica,
    qual o número de hoje, qual a meta?" Escreve fato sem culpado. "Segure a vontade de
    escolher a solução agora." Recusa: sinal que é opinião do chefe — o quadro vira lista de ideias.
-2. **Passar as ideias pelo filtro** (): sob controle do time? cabe em um ciclo? move um
+2. **Passar as ideias pelo filtro**: sob controle do time? cabe em um ciclo? move um
    atrito repetido? A primeira que passa vira aposta; as outras vão para a **fila**.
 3. **Uma aposta, dono, prazo, o que esperamos.** Recusa: duas mudanças juntas; teste grande
    que arrisca a operação.
@@ -67,13 +67,13 @@ Uma em teste por ciclo por dono; o resto espera. Ideia sem número de hoje não 
 ## Regras do método que valem aqui
 
 - "Sem número de hoje não existe melhoria — existe opinião. Anote mesmo estimado." (canvas Painel v6)
-- "Uma mudança por ciclo, uma variável por vez." ()
+- "Uma mudança por ciclo, uma variável por vez."
 - "Toda melhoria termina num verbo: manter, ajustar ou descartar. Sem essa decisão, a
-  melhoria fica aberta para sempre." ()
-- "O que funcionou vira padrão escrito onde o time trabalha." ()
+  melhoria fica aberta para sempre."
+- "O que funcionou vira padrão escrito onde o time trabalha."
 - "Reserve 10–20% do ciclo para a aposta; 80–90% fica no comprovado; o meio morno fica
   vazio." (; política de inovação descrita neste método)
-- "Uma melhoria em 30 dias: semana 1 sinal e número; 2 teste; 3 evidência; 4 decisão." ()
+- "Uma melhoria em 30 dias: semana 1 sinal e número; 2 teste; 3 evidência; 4 decisão."
 
 ## Saída
 

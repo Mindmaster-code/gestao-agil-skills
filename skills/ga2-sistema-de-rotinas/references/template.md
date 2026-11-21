@@ -1,6 +1,6 @@
 # Sistema de rotinas: template
 
-Não há template oficial do curso para esta habilidade. As seções seguem os modelos CAL (calendário), T15 (inventário) e P90 (plano de 90 dias) do curso de rotinas ``. Preencha o que o líder souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções seguem os modelos CAL (calendário), T15 (inventário) e P90 (plano de 90 dias) do curso de rotinas. Preencha o que o líder souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 ---
 

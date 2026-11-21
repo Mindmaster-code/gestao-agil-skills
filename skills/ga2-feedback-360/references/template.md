@@ -45,7 +45,7 @@ Cruzamento com outra fonte (termômetro, retro, número parado): <>
 
 Agradeci e contei o que vou fazer a: <#, #, #…> em <data>. Próxima rodada: <data>, abrindo com o que mudou.
 
-## Revisão de desempenho de uma pessoa (ficha E02, folha de revisão de desempenho) ``
+## Revisão de desempenho de uma pessoa (ficha E02, folha de revisão de desempenho)
 
 Registro reservado. A revisão é uma conversa de desenvolvimento; decisões formais seguem o processo da organização.
 
@@ -86,7 +86,7 @@ Cuidados de condução:
 - [ ] Os feedbacks relevantes foram tratados perto dos acontecimentos, sem surpresa.
 - [ ] Separei a conversa de desenvolvimento das decisões formais.
 
-## Feedback na hora (ficha D03, folha de feedback e reconhecimento) ``
+## Feedback na hora (ficha D03, folha de feedback e reconhecimento)
 
 Em particular, logo depois do fato. Com os quatro passos, leva 3 minutos.
 
@@ -101,7 +101,7 @@ Em particular, logo depois do fato. Com os quatro passos, leva 3 minutos.
 
 Formulação possível: "Na situação descrita, ocorreu este fato e o impacto foi este. Quero entender a sua perspectiva. Para a próxima situação, precisamos combinar esta mudança e este apoio."
 
-## Reconhecimento de contribuição (ficha D04, folha de feedback e reconhecimento) ``
+## Reconhecimento de contribuição (ficha D04, folha de feedback e reconhecimento)
 
 | Campo | Resposta |
 |---|---|

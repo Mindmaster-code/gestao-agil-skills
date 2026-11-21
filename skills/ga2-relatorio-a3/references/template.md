@@ -1,7 +1,7 @@
 <!-- modelos: a3-kit-10.json, a3-v6.json -->
 # Relatório A3 — template (10 campos; v6 como superconjunto)
 
-Legenda: **** campo das duas versões · **** só na v6 · `` adaptação metodológica.
+Legenda: os campos indicam quando servem às duas versões, quando são exclusivos da v6 ou quando resultam de adaptação metodológica.
 Preencha da esquerda para a direita. Um caso por A3. Cabe em uma página.
 
 | Campo | Resposta |
@@ -66,7 +66,7 @@ Uma por causa. Teste: "isso ataca a causa? se eu cortar, a causa continua?"
 Obrigatório pela aula: **o quê · quem · quando**. As demais colunas completam quando há mais de um passo.
 
 <!-- c:plano -->
-| # | O quê (what) | Por quê (why — causa/contramedida) | Quem (who — dono único) | Quando (when — data) | Onde (where) `` | Como (how) `` | Quanto custa (how much) `` |
+| # | O quê (what) | Por quê (why — causa/contramedida) | Quem (who — dono único) | Quando (when — data) | Onde (where) | Como (how) | Quanto custa (how much) |
 |---|---|---|---|---|---|---|---|
 | 1 | | C_ | | ____/____ | | | |
 | 2 | | C_ | | ____/____ | | | |

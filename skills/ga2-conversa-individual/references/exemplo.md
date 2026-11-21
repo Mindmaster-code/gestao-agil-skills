@@ -1,6 +1,6 @@
 # Conversa individual: exemplos
 
-Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. As durações e o roteiro seguem o folha de conversa individual do curso de rotinas.
+Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. As durações e o roteiro seguem a folha de conversa individual do curso de rotinas.
 
 ## 1. Clínica odontológica: conversa de acompanhamento
 

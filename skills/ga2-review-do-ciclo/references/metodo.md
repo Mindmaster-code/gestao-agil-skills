@@ -22,7 +22,7 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
   roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
   individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
-- Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês ``.
+- Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês.
 
 ## Os 5 formatos, consolidados em um
 
@@ -63,7 +63,7 @@ continua / para / corta / escala, que é o vocabulário de acordo de cadência d
 
 ## Voz do cliente do mês (ficha B09)
 
-No método, quem define valor é o cliente. Por isso quem recebe a entrega participa da revisão, vê o trabalho funcionando e diz se serve, e a pergunta da reunião vira "isso serve para você?". Uma vez por mês, junte também tudo o que os clientes disseram, além do feedback de cada revisão. A revisão do mês leva de 30 a 60 minutos. Dono: o responsável pela experiência ou pela entrega ao cliente, com o atendimento, a operação e representantes dos clientes conforme o tema. Fonte: ficha B09 e aula 9 do curso de rotinas ``.
+No método, quem define valor é o cliente. Por isso quem recebe a entrega participa da revisão, vê o trabalho funcionando e diz se serve, e a pergunta da reunião vira "isso serve para você?". Uma vez por mês, junte também tudo o que os clientes disseram, além do feedback de cada revisão. A revisão do mês leva de 30 a 60 minutos. Dono: o responsável pela experiência ou pela entrega ao cliente, com o atendimento, a operação e representantes dos clientes conforme o tema. Fonte: ficha B09 e aula 9 do curso de rotinas.
 
 9. **Reúna as manifestações do mês sem escolher só os casos bons:** reclamações, elogios, pedidos, devoluções e dados de uso ou de atendimento, cada um com o contexto e a origem.
 10. **Agrupe por tipo de necessidade e pela etapa da experiência** em que o caso aconteceu.

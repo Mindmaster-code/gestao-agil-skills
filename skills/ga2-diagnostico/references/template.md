@@ -29,7 +29,7 @@ Só fato com número. Cada linha: o que · número · fonte (arquivo, log, paine
 
 Número financeiro: declarado pelo responsável financeiro da empresa ou marcado "a confirmar com ____".
 
-### 2a. Mapa as-is `` — só se o problema é de fluxo
+### 2a. Mapa as-is — só se o problema é de fluxo
 
 | # | Etapa | Quem faz | Entrada | Saída | Tempo / espera | Trava ou volta? |
 |---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Número financeiro: declarado pelo responsável financeiro da empresa ou marcado
 
 Onde o trabalho para hoje: ______
 
-### 2b. Linha de base ``
+### 2b. Linha de base
 
 | Métrica | Valor hoje | Data | Fonte (onde mora) | Lida com que frequência | Por quem |
 |---|---|---|---|---|---|

@@ -19,7 +19,7 @@ Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M0
 - Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; v6 aula 05).
 - Passo 5 — Melhoria Contínua: exemplo da Ana.
 - Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma adaptação metodológica, com essa origem explicitada.
-- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento ``.
+- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento.
 ## Ligação com o A3 e com as contramedidas
 
 | Pergunta | De onde vem no A3 | Onde a aula pede |
@@ -32,7 +32,7 @@ Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M0
 
 Regra desta adaptação: **o quê / quem / quando** são obrigatórios em toda linha; **por quê** vem da
 causa raiz; **como / onde / quanto** completam quando o plano vai rodar sem briefing. As sete
-colunas são extensão do método ``.
+colunas são extensão do método.
 
 ## Como conduzir
 
@@ -54,7 +54,7 @@ colunas são extensão do método ``.
 
 ## Orçamento: orçado, contratado e realizado (ficha A06)
 
-O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas ``.
+O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas.
 
 **Aviso de alçada.** Valor financeiro vem do responsável financeiro e de relatório autorizado. Não invente nem estime valor sem fonte. Compromisso fora da sua alçada exige a aprovação do responsável financeiro, e os temas técnicos pedem apoio contábil.
 

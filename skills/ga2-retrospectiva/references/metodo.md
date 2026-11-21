@@ -44,7 +44,7 @@ leitura da mesma folha olhando para trás. A regra de uma ação vence o `--help
 4. **Melhorar** — "O que atrapalhou o jeito de trabalhar?" Escreve a situação com fonte
    ("cartão P-04 ficou 21 dias sem dono"). Recusa: nome de pessoa como causa.
 5. **Parar** — "O que decidimos deixar de fazer?"
-6. **Filtrar as ideias** (): está sob controle do time? cabe em um ciclo? move um atrito
+6. **Filtrar as ideias**: está sob controle do time? cabe em um ciclo? move um atrito
    que apareceu mais de uma vez? A primeira que passa nas três vira ação. As outras vão para o
    estacionamento (lista de ideias estacionadas na pasta do caso), sem promessa.
 7. **Uma ação, dono, data, como medimos.** Recusa: duas ações; ação sem data; "em breve".
@@ -58,9 +58,9 @@ leitura da mesma folha olhando para trás. A regra de uma ação vence o `--help
   antes de falar; uma ação por ciclo com dono e prazo; a próxima retrô abre conferindo a ação
   da anterior." (regra 18, A08 / v6 aula 08)
 - "Uma mudança por ciclo. Duas viram nenhuma." (v6 aula 08) · "Se duas coisas mudam juntas,
-  você perde a chance de saber qual delas funcionou." ()
+  você perde a chance de saber qual delas funcionou."
 - "Não pule a retrospectiva. É a parte mais negligenciada do processo." (M07 A01)
-- "O que funcionou vira padrão escrito onde o time trabalha." ()
+- "O que funcionou vira padrão escrito onde o time trabalha."
 - "Problemas quase sempre têm causa raiz no processo, não nas pessoas." (M07 A12)
 - Retro produz uma melhoria só, com dono e data, registrada como PDCA (acordo de cadência do time, regra 3).
 

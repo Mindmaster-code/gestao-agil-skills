@@ -1,6 +1,6 @@
 # Contratar e integrar: template
 
-Não há template oficial do curso para esta habilidade. As seções 1, 2, 4 e 5 seguem as três páginas do roteiro de contratação e integração do curso de rotinas; a seção 3 organiza a seleção como POP ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções 1, 2, 4 e 5 seguem as três páginas do roteiro de contratação e integração do curso de rotinas; a seção 3 organiza a seleção como POP. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 Os marcos de integração são sugestões de acompanhamento e não criam prazo de contrato. Orçamento, contrato, remuneração e dados pessoais seguem com quem tem alçada e com a área responsável.
 

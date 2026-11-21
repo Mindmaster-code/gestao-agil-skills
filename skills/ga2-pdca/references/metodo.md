@@ -67,8 +67,8 @@ para ele e não repete o diagnóstico.
 - "Verificar = medir o sucesso relativo em relação à linha de base." (M02 A07)
 - "É ciclo que não acaba nunca, por isso se chama melhoria contínua." (M02 A07) — mas cada
   ciclo **fecha** com um Act escrito.
-- "Toda melhoria termina num verbo: manter, ajustar ou descartar." ()
-- "Uma mudança por ciclo, uma variável por vez." ()
+- "Toda melhoria termina num verbo: manter, ajustar ou descartar."
+- "Uma mudança por ciclo, uma variável por vez."
 - Mudança em agendamento automático, integração ou rotina entra com linha de base, execução, verificação pelo caminho real e ajuste. Observe também a política de mudança em produção do projeto.
 
 ## Saída

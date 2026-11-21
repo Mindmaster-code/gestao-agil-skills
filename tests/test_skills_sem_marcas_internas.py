@@ -6,6 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SKILLS = ROOT / "skills"
 ABERTURA = "Antes de montar, pergunte o que faltar. Não invente dados."
 MARCAS_INTERNAS = (r"\(adaptação", r"v6 A\d", r"modelo T", r"\[v6")
+RESIDUOS_VAZIOS = (r"(?<!`)``(?!`)", r"\(\)", r"\*{4}")
 
 
 def arquivos_carregados(skill: Path) -> list[Path]:
@@ -30,3 +31,4 @@ def test_skills_de_venda_perguntam_e_nao_expoem_marcas_internas() -> None:
             texto = arquivo.read_text(encoding="utf-8")
             assert not any(re.search(marca, texto, flags=re.I) for marca in MARCAS_INTERNAS), arquivo
             assert "Entrada:" not in texto, arquivo
+            assert not any(re.search(marca, texto) for marca in RESIDUOS_VAZIOS), arquivo

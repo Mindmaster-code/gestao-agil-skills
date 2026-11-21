@@ -44,7 +44,7 @@
 
 >
 
-## B. Ishikawa — espinha de peixe ``
+## B. Ishikawa — espinha de peixe
 
 Use quando há várias causas ao mesmo tempo. Cabeça do peixe = o problema observado acima.
 
@@ -61,7 +61,7 @@ Use quando há várias causas ao mesmo tempo. Cabeça do peixe = o problema obse
 **Ramo(s) escolhido(s)** <!-- c:ramos_escolhidos --> por relação causa-efeito e impacto: ______
 → rode o bloco A (5 Porquês) em cada ramo escolhido.
 
-## C. Pareto `` — só com contagem
+## C. Pareto — só com contagem
 
 | Causa | Ocorrências no período ____ | % | % acumulado |
 |---|---|---|---|

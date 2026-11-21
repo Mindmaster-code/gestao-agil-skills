@@ -23,7 +23,7 @@ como decisão de calibragem na retrospectiva.
   «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
 - Classe de atendimento: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §8 (limite
   por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
-- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5 ``.
+- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5.
 
 ## Como conduzir
 
@@ -75,7 +75,7 @@ como decisão de calibragem na retrospectiva.
 
 ### Parte 4: antes de abrir vaga (ficha E06)
 
-O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?"** vem antes de qualquer pedido de contratação. Serve a quem responde pela área, antes de abrir vaga ou mudar a estrutura, e a cada revisão trimestral. Conversa com a operação, o financeiro e a área de pessoas, conforme a decisão. Fonte: ficha E06 do Guia completo de rotinas de gestão ``; a regra "contratar é a última saída" é da aula A19.
+O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?"** vem antes de qualquer pedido de contratação. Serve a quem responde pela área, antes de abrir vaga ou mudar a estrutura, e a cada revisão trimestral. Conversa com a operação, o financeiro e a área de pessoas, conforme a decisão. Fonte: ficha E06 do Guia completo de rotinas de gestão; a regra "contratar é a última saída" é da aula A19.
 
 18. **Ache a etapa em que a fila se forma,** com os três sinais do passo 5: a coluna mais cheia, o cartão mais velho e quanto o time entrega por semana. Se faltarem dados, observe o trabalho antes de assumir um quadro definitivo.
 19. **Pergunte, uma de cada vez:**
@@ -87,7 +87,7 @@ O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver al
 
 ### Parte 5: canal oficial por tipo de pedido (ficha F10)
 
-Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.md`) e a política de urgência da Parte 2. Define onde os pedidos entram, onde as decisões ficam registradas e como o assunto urgente chega às pessoas, para que a equipe responda com previsibilidade. Dono: o gestor da equipe ou quem cuida da comunicação. Definição inicial de 30 a 45 minutos; revisão mensal ou quando houver falhas recorrentes. Fonte: ficha F10 do Guia completo de rotinas de gestão ``. Escolher o aplicativo de mensagem em si fica fora desta habilidade.
+Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.md`) e a política de urgência da Parte 2. Define onde os pedidos entram, onde as decisões ficam registradas e como o assunto urgente chega às pessoas, para que a equipe responda com previsibilidade. Dono: o gestor da equipe ou quem cuida da comunicação. Definição inicial de 30 a 45 minutos; revisão mensal ou quando houver falhas recorrentes. Fonte: ficha F10 do Guia completo de rotinas de gestão. Escolher o aplicativo de mensagem em si fica fora desta habilidade.
 
 22. **Liste os tipos de pedido e os canais que usam hoje** (conversa de corredor, mensagem, e-mail, ligação). Pergunta: "Por onde chegou o último pedido de cada tipo?"
 23. **Defina um canal oficial de entrada por tipo de pedido** e onde a decisão fica registrada. A demanda entra pelo quadro.

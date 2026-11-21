@@ -22,7 +22,7 @@ Não dispara para conduzir uma rotina específica: a diária é de `ga2-gestao-d
 - Aulas: curso de rotinas do gestor ágil, aulas 1 (sistema de rotinas) e 10 (implantar em 90 dias). Delas vêm a tabela de sintomas, o calendário, a conta do custo, as quatro janelas e a revisão do dia 90.
 - Fichas: Guia completo de rotinas de gestão, fichas C06 e C08, mais as fichas citadas no calendário e na tabela de sintomas.
 - Modelos: T15 (Inventário e revisão das rotinas), CAL (Calendário do gestor ágil) e P90 (Plano de implantação em 90 dias).
-- Template: não há canvas do curso. O calendário, o inventário e o plano de 90 dias seguem os inventário de rotinas, CAL e P90 ``.
+- Template: não há canvas do curso. O calendário, o inventário e o plano de 90 dias seguem o inventário de rotinas, CAL e P90.
 
 ## Ache a rotina pelo sintoma
 

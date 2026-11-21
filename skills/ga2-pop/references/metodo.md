@@ -22,7 +22,7 @@ um único executor.
 - Exemplo da aula: M04 A13 — “Exemplo Canvas POP” (aprovação de projetos, APPROJ001).
 - Exemplo do curso: Kit Implementação — “Conferência padrão de separação” (POP-SEP-001).
 - Critério de qualidade e revisão são adaptações metodológicas; a origem de cada campo está na tabela abaixo.
-- Fichas C09 (preservar e transferir conhecimento) e E10 (planejar ausências, cobertura e sucessão) do Guia completo de rotinas de gestão; aula 7 do curso de rotinas (cobrir as ausências) e roteiro de comunicação, cobertura e transição, página 2 (cobertura), para a seção de cobertura ``.
+- Fichas C09 (preservar e transferir conhecimento) e E10 (planejar ausências, cobertura e sucessão) do Guia completo de rotinas de gestão; aula 7 do curso de rotinas (cobrir as ausências) e roteiro de comunicação, cobertura e transição, página 2 (cobertura), para a seção de cobertura.
 ## Campos — de onde vem cada um
 
 | # | Campo | Origem | Nome usado nesta adaptação |
@@ -41,8 +41,8 @@ um único executor.
 | 12 | Riscos do processo e ações de mitigação | canvas | — |
 | 13 | Monitoramento contínuo para prevenir riscos | aula e slides A13; sem caixa no canvas | — |
 | 14 | Aprovação (nome, cargo, data) | canvas | — |
-| 15 | Critério de qualidade (como se sabe que um passo saiu certo) | `` — na aula vive diluído em indicadores e saídas | critério de qualidade |
-| 16 | Revisão (quando e quem revisa o POP; vale até) | `` — a aula só tem versão e aprovação | revisão |
+| 15 | Critério de qualidade (como se sabe que um passo saiu certo) | — na aula vive diluído em indicadores e saídas | critério de qualidade |
+| 16 | Revisão (quando e quem revisa o POP; vale até) | — a aula só tem versão e aprovação | revisão |
 
 ## Como conduzir
 
@@ -74,7 +74,7 @@ um único executor.
 
 ## Cobertura: este processo sobrevive às suas férias? (fichas E10 e C09)
 
-O POP responde metade da pergunta. A outra metade é um substituto que já fez o trabalho antes da ausência, com alguém olhando. Dono: o gestor da área. Um mapa mensal de 30 a 60 minutos e, a cada semestre, a revisão da cobertura e da sucessão das funções mais críticas. Fonte: fichas E10 e C09, aula 7 do curso de rotinas e roteiro de comunicação, cobertura e transição, página 2 ``. Programações e decisões formais de ausência seguem o processo da organização e da área de pessoas.
+O POP responde metade da pergunta. A outra metade é um substituto que já fez o trabalho antes da ausência, com alguém olhando. Dono: o gestor da área. Um mapa mensal de 30 a 60 minutos e, a cada semestre, a revisão da cobertura e da sucessão das funções mais críticas. Fonte: fichas E10 e C09, aula 7 do curso de rotinas e roteiro de comunicação, cobertura e transição, página 2. Programações e decisões formais de ausência seguem o processo da organização e da área de pessoas.
 
 13. **Faça a pergunta das férias:** "Este processo sobrevive às férias de quem faz?" Responda Sim, Só em parte ou Não. Se a resposta não for Sim, anote o que falta: o procedimento escrito, um substituto que praticou, ou os dois.
 14. **Monte o mapa de cobertura,** uma linha por atividade crítica: o titular, o substituto, a última vez que o substituto fez a atividade de verdade, quem observou, o teste marcado (data) e o preparo com o limite de decisão na cobertura.

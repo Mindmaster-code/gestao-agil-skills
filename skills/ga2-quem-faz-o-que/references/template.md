@@ -64,7 +64,7 @@ Aceitante, gate, apoio). Tudo que não está em aula vem marcado `(acréscimo do
 |---|---|---|---|
 | | | | |
 
-## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11) ``
+## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11)
 
 Registro reservado. Remuneração, contrato e obrigação legal ficam com quem decide e com as áreas responsáveis. Esta folha organiza a comparação e a evidência.
 
@@ -83,7 +83,7 @@ Registro reservado. Remuneração, contrato e obrigação legal ficam com quem d
 | Decisão e data em que a pessoa foi informada, individualmente | |
 | Discrepâncias e decisões pendentes para o semestre seguinte | |
 
-## Transferência de responsabilidades quando alguém muda de função ou sai (ficha E12, roteiro de comunicação, cobertura e transição página 3) ``
+## Transferência de responsabilidades quando alguém muda de função ou sai (ficha E12, roteiro de comunicação, cobertura e transição página 3)
 
 Plano restrito. A parte formal (desligamento, acessos, devoluções, obrigações) segue com as áreas responsáveis, nos momentos autorizados.
 

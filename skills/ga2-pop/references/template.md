@@ -2,7 +2,7 @@
 # POP — Procedimento Operacional Padrão — template
 
 Fonte dos campos: canvas legado “Canvas POP” (M10) (texto literal das caixas entre aspas), aula
-e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita vai marcado ``.
+e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica em aberto.
 
 ## Cabeçalho
 
@@ -10,8 +10,8 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita vai m
 |---|---|
 | **Nome do processo** <!-- c:nome --> | |
 | **Identificação** — "Data \ <!-- c:identificacao --> | Código \| Versão" | __/__/____ \| POP-___-___ \| v_._ |
-| Área / empresa `` | nome da empresa ou processo compartilhado, com recorte explícito |
-| Briefing de Processo de origem `` | caminho, ou "não há" |
+| Área / empresa | nome da empresa ou processo compartilhado, com recorte explícito |
+| Briefing de Processo de origem | caminho, ou "não há" |
 
 ## 1. Objetivo <!-- c:objetivo -->
 "Descreva o objetivo do processo. Finalidade: dar um direcionamento claro para todos os envolvidos."
@@ -44,7 +44,7 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita vai m
 "Descreva os passos para execução do processo. Utilize sequência."
 
 <!-- c:passos -->
-| # | Passo (um verbo) | Responsável | Com o quê (sistema / material) | O que sai deste passo | Critério de qualidade `` |
+| # | Passo (um verbo) | Responsável | Com o quê (sistema / material) | O que sai deste passo | Critério de qualidade |
 |---|---|---|---|---|---|
 | 1 | | | | | |
 | 2 | | | | | |
@@ -97,13 +97,13 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita vai m
 
 > ______________ — ______________ — __/__/____
 
-## 13. Revisão ``
+## 13. Revisão
 
 | Versão | Data | O que mudou | Quem | Próxima revisão |
 |---|---|---|---|---|
 | v1.0 | | primeira versão | | |
 
-## 14. Cobertura e substituto (fichas E10 e C09) ``
+## 14. Cobertura e substituto (fichas E10 e C09)
 
 Este processo sobrevive às férias de quem faz? [ ] Sim [ ] Só em parte [ ] Não
 

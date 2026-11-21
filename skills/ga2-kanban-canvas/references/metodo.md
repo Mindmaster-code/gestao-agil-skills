@@ -25,7 +25,7 @@ carteira de iniciativas**, que é o registro da carteira na pasta do caso.
   legado «M10 — Kanban Canvas» (A08) e `Canvas Kanban Avançado.pdf` (7.1).
 - Modelo operacional: modelo operacional de demandas (acréscimo do método, com regras incorporadas nesta referência) §7–8
   (estados comuns, condições, Kanbans hierárquicos).
-- Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas ``.
+- Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas.
 
 ## Como conduzir
 
@@ -53,7 +53,7 @@ carteira de iniciativas**, que é o registro da carteira na pasta do caso.
 
 ## Dependência entre áreas (ficha B06)
 
-Os quadros conversam entre si: o cartão do quadro da liderança da organização se desdobra no quadro da área e depois no quadro de cada equipe. Quando uma equipe depende de outra, a dependência fica escrita no cartão e o cartão espera numa coluna própria. As duas equipes enxergam a mesma coisa, e ninguém descobre o atraso só na hora de precisar do material. O encontro entre as áreas leva de 20 a 45 minutos, toda semana, ou a cada quinze dias enquanto houver dependência importante. Dono: quem responde pelo processo ou pela entrega integrada. Fonte: ficha B06 e aula 9 do curso de rotinas ``.
+Os quadros conversam entre si: o cartão do quadro da liderança da organização se desdobra no quadro da área e depois no quadro de cada equipe. Quando uma equipe depende de outra, a dependência fica escrita no cartão e o cartão espera numa coluna própria. As duas equipes enxergam a mesma coisa, e ninguém descobre o atraso só na hora de precisar do material. O encontro entre as áreas leva de 20 a 45 minutos, toda semana, ou a cada quinze dias enquanto houver dependência importante. Dono: quem responde pelo processo ou pela entrega integrada. Fonte: ficha B06 e aula 9 do curso de rotinas.
 
 11. **Escreva a dependência no cartão,** no campo "depende de" (a área, a pessoa e a data de passagem) e, do outro lado, no campo "entrega para".
 12. **Crie a coluna "Aguardando outra área",** com limite próprio. O cartão que espera outra área vai para ela, com a data em que deve receber o que falta, e não volta para trás.

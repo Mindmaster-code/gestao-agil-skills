@@ -20,7 +20,7 @@ do tamanho de uma semana. Cadeia: A3 → OKR → Matriz → **Backlog 2D** → K
 - Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
 - Adaptação metodológica: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
-- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal ``; lente do 5S: Passo 0 §2.14.
+- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal; lente do 5S: Passo 0 §2.14.
 ## As duas leituras — e qual usar
 
 | | Ao vivo (M04 A17, canvas 6/6.1) | v6 (aula 08, Story Map de Patton adaptado) |
@@ -62,7 +62,7 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
 
 ## Poda mensal da lista (ficha F09)
 
-A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão ``; o refinamento contínuo e a faixa Q são do método.
+A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão; o refinamento contínuo e a faixa Q são do método.
 
 1. **Escolha o conjunto** que dá trabalho para manter ou para achar o que importa: o backlog de uma iniciativa ou a lista do plano.
 2. **Separe os itens em grupos:** ativos (no ciclo ou perto dele), referências úteis, parados e sem uso. O dono escreve no cabeçalho o que conta como "parado" (por exemplo, sem movimento por vários ciclos) e usa a mesma régua todo mês.

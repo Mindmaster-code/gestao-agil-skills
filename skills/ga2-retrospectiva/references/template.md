@@ -27,7 +27,7 @@
 
 - 
 
-## 4. Filtro das ideias ()
+## 4. Filtro das ideias
 
 | Ideia | Sob controle do time? | Cabe em um ciclo? | Atrito repetido? | Vira ação? |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Registro de decisões e de riscos: template
 
-Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o registro de compromissos e decisões e as seções 3 a 5, o registro de decisões e riscos, ambos do curso de rotinas; as seções 6 e 7 acrescentam a revisão da decisão e a lista do halter ``. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+Não há template oficial do curso para esta habilidade. As seções 1 e 2 seguem o registro de compromissos e decisões e as seções 3 a 5, o registro de decisões e riscos, ambos do curso de rotinas; as seções 6 e 7 acrescentam a revisão da decisão e a lista do halter. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 Mantenha o registro no local oficial da equipe, com acesso adequado. Informação sensível vai para um registro privado e autorizado.
 
