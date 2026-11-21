@@ -51,6 +51,7 @@ pontual pode ir direto à habilidade correspondente, sem abrir projeto.
 - `ga2-quadro-kaizen`
 - `ga2-folha-de-experimento`
 - `ga2-gemba-walk`
+- `ga2-5s`
 
 ## 6. Liderança e times
 

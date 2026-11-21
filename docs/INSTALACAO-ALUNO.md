@@ -1,6 +1,6 @@
 # Como instalar o Gestão Ágil 2.0 no seu assistente
 
-Você vai instalar 40 habilidades. Depois disso, é só pedir em português:
+Você vai instalar 41 habilidades. Depois disso, é só pedir em português:
 "monta um A3 para este problema", "me mostra onde este fluxo trava",
 "organiza estas ações em um plano com dono e data".
 
@@ -18,13 +18,13 @@ O caminho mais curto. Um arquivo, um clique.
 4. O Claude mostra o conteúdo do pacote e um botão para aceitar. Clique no botão.
 5. Feche e abra o Claude de novo.
 
-Pronto. As 40 habilidades ficam disponíveis em qualquer conversa.
+Pronto. As 41 habilidades ficam disponíveis em qualquer conversa.
 
 ---
 
 ## Claude — navegador (claude.ai)
 
-Aqui cada habilidade entra separada. Não precisa instalar as 40: comece pelas que
+Aqui cada habilidade entra separada. Não precisa instalar as 41: comece pelas que
 você vai usar na primeira semana do curso.
 
 1. Baixe a pasta **skills-claude-web**. Dentro dela há um arquivo `.zip` por habilidade.

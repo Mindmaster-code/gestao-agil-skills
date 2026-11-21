@@ -2,6 +2,8 @@
 
 ## 0.5.1 — em preparo
 
+- 41 habilidades: entra `ga2-5s`, na trilha 5 (Melhoria e inovação). Aplica o 5S (utilização, organização, limpeza, padronização e disciplina) a qualquer alvo que o usuário nomear: mesa, pasta, caixa de e-mail, agenda, backlog, planilha, documentação, processo, repositório de código, estrutura de agentes de IA, campanhas de anúncio e funil comercial. Quatro modos (diagnóstico, arrumação, manutenção e rotina), foto do antes e do depois com nota de 0 a 4 por S, etiqueta vermelha com prazo antes de qualquer descarte, teste de achar, fonte da sujeira com contramedida à prova de erro, padrão de uma página e vigia que só lê para alvo digital. Parte da aula de 5S do Passo 0 (M02 A06); o resto vem marcado como acréscimo do laboratório.
+- `ga2-me-mostra` roteia pedidos de 5S para `ga2-5s`.
 - `agenda-visual`: o modelo requerido para imagem passa a ser `gpt-image-2.6-sunburst` (decisão de 05/11/2026; antes `gpt-image-2.5-sunburst`).
 
 ## 0.5.0 - 01/11/2026

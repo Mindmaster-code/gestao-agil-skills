@@ -1,6 +1,6 @@
 # Gestão Ágil 2.0 — habilidades e plug-in
 
-Este repositório distribui 40 habilidades do Gestão Ágil 2.0 em um único plug-in e
+Este repositório distribui 41 habilidades do Gestão Ágil 2.0 em um único plug-in e
 mantém os instaladores por pasta para ambientes compatíveis.
 
 O plug-in é somente de habilidades: não inclui MCP, Apps, Actions, conectores nem
@@ -43,7 +43,7 @@ de piloto e publicação está em [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 
 ## Uma fonte para o método
 
-Este repositório é a fonte canônica das 40 skills, incluindo método, templates, exemplos, modelos e testes.
+Este repositório é a fonte canônica das 41 skills, incluindo método, templates, exemplos, modelos e testes.
 A operação interna e os alunos usam instalações deste pacote. Regras privadas ficam no projeto consumidor.
 Edite aqui, valide e instale uma versão identificada. Não edite instalações, caches ou releases.
 

@@ -37,7 +37,7 @@ Serve aluno que usa terminal. O comando é `/plugin marketplace add` apontando p
 o repositório, seguido de `/plugin install gestao-agil-2@mindmaster`.
 
 Decisão pendente antes de divulgar: repositório público significa que qualquer
-pessoa instala as 40 habilidades do curso pago sem comprar. Repositório privado
+pessoa instala as 41 habilidades do curso pago sem comprar. Repositório privado
 protege o conteúdo, mas obriga o aluno a ter conta no GitHub com acesso concedido,
 o que reintroduz atrito justamente com quem se quer proteger.
 

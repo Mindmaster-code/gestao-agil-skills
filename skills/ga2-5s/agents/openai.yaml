@@ -1,0 +1,4 @@
+interface:
+  display_name: "5S"
+  short_description: "Aplica o 5S a qualquer alvo: tira o que não se usa, dá lugar,..."
+  default_prompt: "Aplique o 5S em [alvo], em português simples."

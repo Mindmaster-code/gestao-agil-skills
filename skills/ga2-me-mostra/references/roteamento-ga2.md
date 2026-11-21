@@ -26,6 +26,7 @@ campos, regras e destino. `ga2-me-mostra` determina o recorte e a apresentação
 | manter, melhorar, parar | `ga2-retrospectiva` | três colunas e uma ação escolhida |
 | melhoria em ciclos | `ga2-pdca` | roda ou fluxo Plan → Do → Check → Act |
 | melhoria pequena | `ga2-quadro-kaizen` | sinal → aposta → aprendizado → decisão |
+| 5S, arrumar, organizar, enxugar | `ga2-5s` | antes e depois com a nota dos cinco S |
 | hipótese e teste | `ga2-folha-de-experimento` | hipótese → protótipo → teste → critério |
 | números para quem decide | `ga2-painel-do-gestor` | painel com 3–5 números-âncora |
 | conversa difícil | `ga2-canvas-de-conversa-cnv` | fato → sentimento → necessidade → pedido |
