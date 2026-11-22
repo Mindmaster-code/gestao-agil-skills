@@ -165,11 +165,11 @@ e3729c4532e1a6941d87aeda2667ee69c0ea19908e181a819940e7d721c10089  modelos/kit/P5
 cd91a198bbbb097ba185ef90bb66f47d0cec268457e5660b9bc65bd025095f12  modelos/kit/P6.2-termometro-da-confianca.html
 a1041f095b038c2ce2ac328f6dbd710193cee7da61a3534d650d42d2eb92ef9b  modelos/kit/P6.3-feedback-360-do-lider.html
 7210f8768eae461e1434e42b544a3ce7723a617caae5b21aef0800735c297dc8  modelos/kit/P6.4-inteligencia-emocional-do-lider.html
-72736201fc9b1f8b902f159b0322c02174b4d0ac79b3b89d2b59a051e027d92f  modelos/kit/P6.5-plano-de-uma-pagina.html
+2c27e23fa2b646974976729ae35e4b7dcbc68754c30ae30ccf123d48944fc7cd  modelos/kit/P6.5-plano-de-uma-pagina.html
 c49264cf07de9a71361ae3a0f15430390036b041511fa12e4a9ed043edd5196f  modelos/kit/P7.1-painel-minimo.html
 459bc68e7b2fe91cf163e1d3681e383a769a5ac7c304472a109903bfa77c957e  modelos/kit/X.1-pop.html
 23e64d1c7b5ee237e02cf80801a6eea1aa09760ea763bb8b20fdb35ef6d76903  modelos/kit/X.2-quem-faz-o-que.html
-681419ec1afca757abdfed8ad0f97e06c469a4c1ec84d5fff8ff6c57d7b800ba  modelos/kit/_build/dados_kit.py
+414961d9aee9db452ba56b557f2713ce3868618f33f900bd06f9b733116b6a5b  modelos/kit/_build/dados_kit.py
 793d99b87fc3d1a736a3416f29e7cd7948cb58225d92398cbbbc180799ce2cec  modelos/kit/_build/gerar_kit.py
 97aad9355d40271975ff9148ab03e4074f00a6086638d4acf4af88dcec8dbe99  modelos/kit/_build/medir.cjs
 6aa6868831104fd15eedd9b47d973bd50e5ffeb19f30ec097bb84c3d5afeb1bc  modelos/kit/_build/render.cjs
@@ -197,7 +197,7 @@ a5fe96148eea0dfacc15487b61db48a197b546c32f4fc5d0264dd7252bad5908  modelos/kit/do
 7a70fe42bba01f63be4423d889bdc46d58a8f2c82b6585c3c1dc6c6a2459c97c  modelos/kit/docx/P6.2-termometro-da-confianca.docx
 56a09581cf39e7133cfe40a4ae502cecc71df06cb30d93747c35f7b667e4a263  modelos/kit/docx/P6.3-feedback-360-do-lider.docx
 c3761d0a68c26c49f8fa8895c1b43c8fdf5cc12f9aac10598ff88a39cb84e0d2  modelos/kit/docx/P6.4-inteligencia-emocional-do-lider.docx
-9277e06fb7d945ec44d12c0de5a40728c406eda2a6c8814c30df5a2651a15791  modelos/kit/docx/P6.5-plano-de-uma-pagina.docx
+337df265277e22d55232d536ba1e761492770e3d82bf10456c5f43e89d18c244  modelos/kit/docx/P6.5-plano-de-uma-pagina.docx
 f04699c8cf38582bb291f85182bce544d60622b2d831e5cd50b8a63da3b7aed9  modelos/kit/docx/P7.1-painel-minimo.docx
 900360c2e45219d76337efea2e143e22f851e9ce93295647d51028d828da18bf  modelos/kit/docx/X.1-pop.docx
 74d04ece1099804ec1c896af365c310a65e15a34c523e18762019f46186950e6  modelos/kit/docx/X.2-quem-faz-o-que.docx
@@ -228,7 +228,7 @@ a76f5df28868bdb5cef5593e26f5cbf63c52d4fe388a3151f0572c3ec40fa982  modelos/kit/pd
 ab66aa61717365d0c681ba9841954d346366636ffb8e49329eb648e87c8b2595  modelos/kit/pdf/P6.2-termometro-da-confianca.pdf
 e185b3413913d4618eebc46d93d82276f9ec007202e1cff2e9d344ffe1be96c1  modelos/kit/pdf/P6.3-feedback-360-do-lider.pdf
 d1bc2aacd23d6edcff995924fe7b0ec64753d14ccaf7fc11c6f51192c6a16edb  modelos/kit/pdf/P6.4-inteligencia-emocional-do-lider.pdf
-c5edf51920790c38f9641b420247abc6644c7bf5d8fd6487c733eb4948540083  modelos/kit/pdf/P6.5-plano-de-uma-pagina.pdf
+8d835d46dec215202dbc457ad2328a439797fdeaa5db05f0fc18abf6d4205274  modelos/kit/pdf/P6.5-plano-de-uma-pagina.pdf
 25956714d2145d467899784efe9d247ecb553828d524044e90eca22596e970df  modelos/kit/pdf/P7.1-painel-minimo.pdf
 1cdd0ee4556b4b994d28820d6ebcc3502c1c28f72a5a91b5659588a18c46a7d4  modelos/kit/pdf/X.1-pop.pdf
 8f20f5b74cb530e76964e4a111d099dffae3d38a85c51ca260dd518dff61b301  modelos/kit/pdf/X.2-quem-faz-o-que.pdf
@@ -284,8 +284,8 @@ e03ea0e1d54b9f5ab52aabfc301901ed062d947311a2a198149bc6be7d2a5a12  modelos/kit/pr
 bc800a86c610805a000c88329f8dab7e864ae1d1ffdbf32f579b4771f464bd50  modelos/kit/previa/P6.3-p2.png
 9a09d83523b16e2439a02941cbf0d5acb6c18ae11a4f46f87d78fc3d25c3ef67  modelos/kit/previa/P6.4-p1.png
 f12f4151160803d5e4aa38dded660f32e6d04dbaae65a4924fc7cbaadfb81ec7  modelos/kit/previa/P6.4-p2.png
-1a0d11b05913f72fd1e2c15b1e34e9fa887c8c2a4516a0166d38df70688cf7b3  modelos/kit/previa/P6.5-p1.png
-676f09d677fcb58729ae5d462769151d142b5b595504d15fcbd24060e44e444f  modelos/kit/previa/P6.5-p2.png
+3d362cbf4ddc377d6a6a19e3b7b9544959f2beed4cadf06465c98599abf958e7  modelos/kit/previa/P6.5-p1.png
+d0b6d99776dc77d9c804b558db72a78c7a243efaeaff67990f62e8c693962239  modelos/kit/previa/P6.5-p2.png
 67b7d535d5235698e517b5d3091d1fe20f846ca23895decdf868becbd5698b2a  modelos/kit/previa/P7.1-p1.png
 18e245df7dfccfd12ca6651127b9436a708077cf459384219f1ec44254fdb694  modelos/kit/previa/P7.1-p2.png
 dd90d79d5dc10b0e23ed44b0d7e5ac7fc717cbfc501cd9807717180e06cccc2f  modelos/kit/previa/X.1-p1.png
