@@ -149,7 +149,7 @@ A rotina vale pelo efeito que ajuda a produzir. O encontro acontecer é só a co
 ## Regras do método que valem aqui
 
 - O método diz como o trabalho roda; a rotina diz quando você cuida dele.
-- Primeiro o mapa, com o número de hoje, e depois a rotina. (curso de rotinas, aula 1)
+- Primeiro o mapa, com o número de hoje, e depois a rotina.
 - Não instale tudo de uma vez: comece pela semana, com as quatro conversas, e acrescente uma rotina por ciclo.
 - Toda rotina tem custo: duração vezes número de pessoas.
 - A rotina vale pelo efeito; o encontro acontecer é só a condição.

@@ -38,7 +38,7 @@
 
 ## Erros comuns
 
-| Erro | Onde a aula fala | Como recusar |
+| Erro | Fonte | Como recusar |
 |---|---|---|
 | Manual de 40 páginas | Kit | "Qual é o gargalo? POP é dele, não da operação." |
 | Passo sem responsável | — | "Quem faz o passo 3? 'Todo mundo' é ninguém." |
@@ -53,7 +53,7 @@
 | POP sem teste com quem nunca fez | Passo 2, critério de bem feito | "Quem executou só com o POP? Onde parou?" |
 | Segredo escrito no POP | regra de segurança desta adaptação | "Nunca. Aponta onde o acesso é pedido." |
 | Cobertura que nunca foi testada | — | "O substituto já fez isso com alguém olhando? Quando?" |
-| Substituto sem limite de decisão | aula 7; roteiro de comunicação, cobertura e transição | "Até onde ele decide sozinho? A quem escala?" |
+| Substituto sem limite de decisão | roteiro de comunicação, cobertura e transição | "Até onde ele decide sozinho? A quem escala?" |
 | Dupla carga permanente de quem cobre | — | "Quem cobre largou o quê? Se não, reduza o escopo ou peça reforço." |
 
 ## Formas de saída

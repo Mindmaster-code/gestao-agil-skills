@@ -85,7 +85,7 @@ Reúna incidentes, dependências críticas, contratos, ausências e a lista ante
 
 ## Regras do método que valem aqui
 
-- Sem o motivo, a decisão volta à mesa. Com dono e data para rever, ela é executada e revista quando o fato muda. (aula 5)
+- Sem o motivo, a decisão volta à mesa. Com dono e data para rever, ela é executada e revista quando o fato muda.
 - Toda consequência prática tem um dono com nome.
 - Registre a decisão onde o trabalho já mora.
 - A lista de riscos é a decisão que você toma antes do problema.

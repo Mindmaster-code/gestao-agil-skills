@@ -1,0 +1,18 @@
+# Procedência interna — `ga2-gemba-walk`
+
+Texto que estava em `skills/ga2-gemba-walk/references/fontes.md` até o commit `c12c204` (22/11/2026).
+Fica fora do pacote do comprador: a montagem leva só `skills/`, `modelos/kit/`, os manifestos e os termos.
+Serve à manutenção e à revisão do método; não copie de volta para `skills/`.
+
+---
+
+# Fontes e procedência
+
+- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; material de referência.
+- Template oficial: Canvas Editável — Roteiro do Vá e Veja, v6, Passo 5 (referência de origem; modelo público nos assets).
+- Regra de verificação adotada pelo laboratório: "pronto só depois de verificar pelo caminho real do usuário".
+
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

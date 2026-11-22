@@ -38,7 +38,7 @@
 
 ## Erros comuns (da aula)
 
-| Erro | Onde a aula fala | Como recusar |
+| Erro | Fonte | Como recusar |
 |---|---|---|
 | Objetivo que é tarefa ("implementar CRM") | "o mais frequente" | "Isso é iniciativa. Aonde você chega quando o CRM estiver implantado?" |
 | Objetivo vago, sem prazo, ou que abraça o mundo | — | pede uma frase, um prazo |

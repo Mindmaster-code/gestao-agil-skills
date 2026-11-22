@@ -42,7 +42,7 @@
 
 ## Erros comuns
 
-| Erro | Onde a aula fala | Como recusar |
+| Erro | Fonte | Como recusar |
 |---|---|---|
 | Começar pelo backlog, sem OKR nem matriz | "o erro mais comum" | "Qual KR isso move? Passou pela matriz?" |
 | Lista plana de 30 itens sem caminho | — | "Qual é a linha de cima? Do início ao fim." |

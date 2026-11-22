@@ -13,7 +13,7 @@ Campo que a aula não cita vai marcado como extensão do método.
 | Data <!-- c:data --> | |
 | Raia / empresa | Empresa A / Empresa B / Compartilhado / Processo interno |
 
-## Duas colunas (v6 slide 08 — passo a passo antes de preencher) <!-- c:trabalhos -->
+## Duas colunas (passo a passo antes de preencher) <!-- c:trabalhos -->
 
 | O que tem fim claro | O que chega todo dia |
 |---|---|

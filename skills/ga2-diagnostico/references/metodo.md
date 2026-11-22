@@ -43,8 +43,8 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 - **Quantifique o gap** e confira que contexto, atual e ideal "estão em linha".
 - **Gap pequeno talvez não valha um A3.** (material de referência)
 - **Vá e veja (Genchi Genbutsu).** Não resolva "do ar condicionado do escritório".
-- **Escreva a linha de base hoje.** (slide 19)
-- **O erro mais comum: resolver antes de entender.** (material de referência, slide 8)
+- **Escreva a linha de base hoje.**
+- **O erro mais comum: resolver antes de entender.**
 
 ## Saída
 

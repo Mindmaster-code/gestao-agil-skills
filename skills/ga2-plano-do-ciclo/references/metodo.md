@@ -82,7 +82,7 @@ dia é feita pelo dono no quadro da área, não na reunião. A escolha editorial
 - Cartão vem do Backlog 2D; cabe em uma semana; fatia fina entra primeiro.
 - A meta do plano é a que a review lê, copiada sem maquiagem.
 - Erro mais comum: distribuir tarefa até encher a agenda.
-- A capacidade se conta por pessoa, e a carga de cada uma se revisa toda semana, pelo volume em andamento e pela idade dos cartões. (ficha; aula 9)
+- A capacidade se conta por pessoa, e a carga de cada uma se revisa toda semana, pelo volume em andamento e pela idade dos cartões.
 - Converse sobre as causas antes de interpretar o número de uma pessoa, e não premie a sobrecarga contínua.
 
 ## Saída

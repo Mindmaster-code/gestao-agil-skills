@@ -1,0 +1,25 @@
+# Procedência interna — `ga2-matriz-esforco-impacto`
+
+Texto que estava em `skills/ga2-matriz-esforco-impacto/references/fontes.md` até o commit `c12c204` (22/11/2026).
+Fica fora do pacote do comprador: a montagem leva só `skills/`, `modelos/kit/`, os manifestos e os termos.
+Serve à manutenção e à revisão do método; não copie de volta para `skills/`.
+
+---
+
+# Fontes e procedência
+
+- Passo 2 — Organizar o Trabalho: variante de objetivos (M04 A09), conceito e campos da matriz (M04 A15), diferenças de nomes.
+- Aulas: M04 A15 (Esforço × Impacto), M04 A09 (Importância × Dificuldade sobre objetivos); v6, módulo 03, aula 07.
+- Templates: Artefato 07 — “Matriz Esforço Impacto GA2 editável”; Ficha artefato 05 — “Esforço Impacto GA2”; slide M04 A15 — “Matriz de Priorização”.
+- M10 não tem canvas próprio dessa matriz: ela aparece no “Template OKR Canvas”, com outros eixos.
+- Exemplo do curso: Kit Implementação — “OKR Canvas — Planejamento”, bloco 2 (variante de objetivos, Norte-Sul).
+
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte dos campos: M04 A15; editável `07-matriz-esforco-impacto-ga2-editavel.pdf` ("Use depois do OKR. Coloque as iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; material de referência. Campo que a aula não cita fica em aberto.
+- Fonte: M04 A15, M04 A09, v6 Passo 3 aula 07, editável Mod 2 artefato 07, Ficha artefato 05.
+
+As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
+O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
+Exemplos são fictícios e independentes; não comprovam resultados do usuário.

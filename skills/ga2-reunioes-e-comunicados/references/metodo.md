@@ -87,12 +87,12 @@ A preparação leva de 10 a 20 minutos (roteiro de comunicação, cobertura e tr
 
 ## Regras do método que valem aqui
 
-- Reunião boa termina em decisão escrita. (aula 5)
+- Reunião boa termina em decisão escrita.
 - Antes de convocar, pergunte se uma mensagem resolve.
 - Toda reunião tem teto, pauta curta e uma pessoa que conduz. O assunto que estoura o teto vira conversa separada.
 - O custo de uma reunião é a duração vezes o número de pessoas.
 - Uma vez por mês, revise as reuniões que se repetem e corte a que não decide.
-- Comunicar é confirmar que a pessoa entendeu. (aula 8)
+- Comunicar é confirmar que a pessoa entendeu.
 - Na mesma mudança, cada grupo recebe uma frase diferente: o que muda para mim.
 - A orientação anterior tem destino escrito, e a vigente fica num lugar só.
 - Dúvida é informação sobre o que a comunicação deixou de cobrir, e não resistência.

@@ -1,15 +1,7 @@
 # Fontes e procedência
 
-- Base do método — Passo 0: Fundamentos §2.14 (5S: utilização, organização, limpeza, padronização e
- disciplina; "das 500 ferramentas, o cara só usa 3"; "os três primeiros S são coisas que a gente tem
- que fazer; o quarto e o quinto são de comportamento"; vale para mesa física e digital) — M02 A06.
-- Base do método — Passo 0 §2.13 (os 7 desperdícios, usados como lente dos achados) — M02 A06.
-- Base do método — Passo 0 §2.22 (oito passos para começar no Lean; o oitavo é praticar 5S) — M02 A07.
-- Base do método — Passo 0 §5 (ritual "5S diário": todos, todo dia, só o necessário, organizado e
- limpo) — M02 A06.
-- Ficha F09 do Guia completo de rotinas de gestão (revisar acúmulos e simplificar a organização), para
- a poda mensal.
-- O curso não traz template preenchível de 5S. O Relatório 5S desta habilidade apoia o registro do ciclo.
+Esta skill aplica o método Gestão Ágil 2.0, da MindMaster, ao 5S: utilização, organização, limpeza,
+padronização e disciplina, em qualquer alvo, físico ou digital.
 
 Práticas aplicadas nesta habilidade:
 
@@ -25,7 +17,6 @@ Workplace* (1995), para a etiqueta vermelha e a gestão visual; Takashi Osada, *
 a Total Quality Environment* (1991); Seiichi Nakajima, *Introduction to TPM* (1988), para a limpeza
 como inspeção.
 
-As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
-O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+O método, o modelo e os critérios aplicáveis estão nos arquivos vizinhos desta pasta.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
 Exemplos são fictícios e independentes; não comprovam resultados do usuário.

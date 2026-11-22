@@ -8,7 +8,7 @@ revisão na sexta), **fluxo contínuo** (lote de trabalho: limite por etapa, dem
 quando abre vaga, triagem da fila) ou **híbrido** (os dois no mesmo quadro, com regra de
 convivência escrita). "É a decisão que vem antes do ritual."
 
-Vive no Passo 4 (Ritmo Ágil), aula 0 da v6, com conteúdo de. Entra: o Backlog 2D
+Vive no Passo 4 (Ritmo Ágil). Entra: o Backlog 2D
 e o Kanban montados, e a lista do que chega todo dia. Sai: a folha preenchida, registrada
 no portfólio, com a regra de execução escrita. Use também sempre que uma equipe disser
 "ciclo não funciona aqui" — quase sempre é fila e projeto no mesmo plano de semana.
@@ -46,10 +46,10 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 - **Lote de tempo × lote de trabalho.** Scrum dá foco e é fácil de planejar, mas exige previsibilidade e a mudança espera o próximo ciclo. Kanban tem flexibilidade total, mas exige gerir fila em toda etapa.
 - **Escolha pelo trabalho, não pela equipe** (material de referência).
-- **Fluxo puro muda duas coisas e mantém duas:** planejamento vira triagem da fila; revisão vira medição (tempo de fila, cartão mais velho, vazão). Diária e retrospectiva não mudam (material de referência, slide 07).
+- **Fluxo puro muda duas coisas e mantém duas:** planejamento vira triagem da fila; revisão vira medição (tempo de fila, cartão mais velho, vazão). Diária e retrospectiva não mudam.
 - **Ciclo de 1 a 4 semanas; o menor tempo em que se entrega algo de valor**. Ciclo não é prazo de projeto: a iniciativa leva seis semanas, o ciclo é de uma (material de referência).
-- **Fila e projeto no mesmo plano de semana = a fila estoura a meta** e a conclusão errada é "ciclo não funciona" (v6 slide 04).
-- **A regra de quem cede é escrita antes do ciclo 1**, não depois da primeira briga (v6 slide 08).
+- **Fila e projeto no mesmo plano de semana = a fila estoura a meta** e a conclusão errada é "ciclo não funciona".
+- **A regra de quem cede é escrita antes do ciclo 1**, não depois da primeira briga.
 - **Política de urgência** complementa esta folha: o que é urgente, quem pode chamar (uma pessoa), quantas por vez (uma), o que acontece com o pausado (material de referência).
 
 ## Saída
@@ -120,7 +120,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 
 ## Erros comuns
 
-- Jogar fila e projeto no mesmo plano de semana e concluir que "ciclo não funciona" (v6 slide 04).
+- Jogar fila e projeto no mesmo plano de semana e concluir que "ciclo não funciona".
 - Escolher pela equipe, não pelo trabalho (v6).
 - Tratar operação contínua como projeto (esperar que "acabe") ou projeto como processo (nunca fechar).
 - Fluxo sem limite por etapa: "tudo está sempre em andamento, nada está pronto" (material de referência).

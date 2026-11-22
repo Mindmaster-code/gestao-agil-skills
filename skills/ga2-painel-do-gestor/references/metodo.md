@@ -42,7 +42,7 @@ time e produtividade de uma vez) acima do OKR. O HTML não a tem. Ver divergênc
 (menor é melhor) = `meta / atual`. ≥100% verde (no alvo), 80–99% âmbar (quase), <80%
 vermelho (abaixo). No relatório, a cor vira palavra: no alvo / atenção / fora da meta.
 
-## Como conduzir (40 min, slide 11)
+## Como conduzir (40 min)
 
 1. **Pergunte o ciclo.** "Qual ciclo e qual período?" Escreva no cabeçalho. Recusa: painel sem período.
 2. **Um número por bloco.** Para cada pilar, pergunte as três do caiaque: o negócio entrega valor e dá lucro? as pessoas estão engajadas? o processo entrega produtividade? Escolha **um** indicador por pilar entre os seis que quase sempre servem: entregas do ciclo, tempo de entrega, retrabalho, satisfação de quem recebe, carga por pessoa, o que está parado esperando. Recusa: 14 números ("é lista"); sigla sem tradução (MTTR, SLA); número que ninguém coleta ("morre no 2º ciclo").
@@ -55,11 +55,11 @@ vermelho (abaixo). No relatório, a cor vira palavra: no alvo / atenção / fora
 
 ## Regras do método que valem aqui
 
-- Número sempre com meta, tendência e leitura. (slide 05)
-- Quatro blocos, nada mais; 14 números é lista; número que ninguém coleta morre. (slides 03 e 06)
+- Número sempre com meta, tendência e leitura.
+- Quatro blocos, nada mais; 14 números é lista; número que ninguém coleta morre.
 - Faça as três perguntas do caiaque antes de escolher métrica; nunca copie template da internet.
 - "Três linhas — não trinta": uma métrica por esfera.
-- Status do KR é uma palavra: no alvo, atenção, fora da meta. (slide 08)
+- Status do KR é uma palavra: no alvo, atenção, fora da meta.
 - Métrica com mais de uma fonte: declare a canônica antes de reportar. Número de dinheiro vem com a empresa correta e a fonte é o responsável financeiro dela.
 
 ## Divergência registrada: HTML × planilha
@@ -72,9 +72,9 @@ As duas versões oficiais não batem:
 | Indicadores por pilar | um (NPS · Clima · Tempo de entrega) | dois (NPS + ROI · Clima + Permanência · Entregas + Tempo) |
 | Evolução | % de entregas por ciclo | CSAT e Clima por ciclo |
 | Atingimento | mostra 110%, 103%, 125% em anéis | status numérico `=H/J*100` |
-| Roteiro | slide 08 "NPS 3,8 meta 4,3"; slide 09 "NPS 55 meta 50" | — |
+| Exemplos do roteiro | "NPS 3,8 meta 4,3"; "NPS 55 meta 50" | — |
 
-Contradição de fundo: a aula 03 diz "quem decide não quer atingimento, quer palavra", e o
+Contradição de fundo: o método diz "quem decide não quer atingimento, quer palavra", e o
 HTML exibe porcentagem. **aplicação prática preservada nesta referência:** o template usa um
 indicador por pilar (HTML), mantém a linha North Star (planilha) e mostra a **palavra** de
 status, com a % só entre parênteses. A fonte registra divergência na escala NPS/CSAT;

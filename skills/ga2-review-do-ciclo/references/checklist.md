@@ -25,7 +25,7 @@ Voz do cliente do mês
 
 - Apresentar em slide em vez de mostrar funcionando (material de referência).
 - Só o líder fala; quem fez não mostra.
-- Esconder o que não saiu (v6 slide 06).
+- Esconder o que não saiu.
 - Medir contra a expectativa que cresceu no meio do caminho (Kit Implementação).
 - Olhar só tarefas e esquecer as métricas do negócio.
 - Misturar review com retro: discutir "por que atrasou" aqui enfraquece as duas.

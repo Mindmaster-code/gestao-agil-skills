@@ -7,7 +7,7 @@ três perguntas simples — o que manter, o que parar, o que começar — acha o
 e escolhe dois focos com primeiro passo e data. Feedback "é a ferramenta mais barata que
 um líder tem" e "é presente, não julgamento".
 
-Vive no Passo 6 (Liderando Times), aula 08 da v6 — pedir feedback **antes** de dar. Entra
+Vive no Passo 6 (Liderando Times) — pedir feedback **antes** de dar. Entra
 antes: o Termômetro de Confiança (feedback completo só com time preparado). Sai depois:
 dois focos no plano de uma página; devolutiva a quem respondeu; entrada em registro de aprendizados escolhido.
 

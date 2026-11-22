@@ -1,18 +1,7 @@
 # Fontes e procedência
 
-- Passo 2 — Organizar o Trabalho: conceito de OKR, regras, check-in e Checkpoint do Plano.
-- Aulas: M04 A05 (OKR), A06 (KR bem escrito), A07 (cascata), A08 (iniciativas), A09 (fluxo do canvas).
-- v6, módulo 03 — Organizar o Trabalho: aulas 02 (ponte A3→OKR), 03 (objetivo), 04 (KR), 05 (iniciativas), 06 (check-in), 09 (fechamento).
-- Templates: M10 — “Canvas OKR”; Artefato 06 — “Template OKR GA2 paisagem editável”; Artefato 01 — “Ponte A3 OKR GA2 editável”; Artefato 07 — “Checkpoint do Plano GA2 editável”.
-- Check-in: sem template oficial; o bloco desta skill deriva do roteiro v6 06.
-- Exemplo do curso: Kit Implementação — OKR Canvas (Norte-Sul).
+Esta skill aplica o método Gestão Ágil 2.0, da MindMaster.
 
-## Procedência que saiu dos arquivos carregados (22/11/2026)
-
-- Fonte dos campos: aula M04 A05–A09; `Canvas OKR.pdf` (legado); `06-template-okr-ga2-paisagem-editavel.pdf`; `01-ponte-a3-okr-ga2-editavel.pdf`; `07-checkpoint-do-plano-ga2-editavel.pdf`; roteiro v6 06 (check-in). Campo que a aula não cita fica em aberto.
-- Fonte: M04 A05–A09, apostila OKR, v6 Passo 3 aulas 02–06 e 09, Kit Implementação.
-
-As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
-O método, template e critérios aplicáveis estão nos arquivos vizinhos.
+O método, o modelo e os critérios aplicáveis estão nos arquivos vizinhos desta pasta.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.
 Exemplos são fictícios e independentes; não comprovam resultados do usuário.

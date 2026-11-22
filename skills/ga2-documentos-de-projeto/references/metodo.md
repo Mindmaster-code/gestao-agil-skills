@@ -49,7 +49,7 @@ A definição equivale ao briefing; o andamento equivale ao Status Report. Não 
 
 ## Regras do método que valem aqui
 
-- **Sete artefatos do seu caso real, não de exemplo de livro.** (slide 16)
+- **Sete artefatos do seu caso real, não de exemplo de livro.**
 - **Ritual que não produziu arquivo não aconteceu.**
 - **Estado vem de arquivo, não de memória.** Arquivo velho = cartão parado.
 - **Status: rápido e honesto.** "Um retrato de 2 minutos, não um relatório longo. Adiantado, no prazo ou atrasado — sem maquiar." (Status Report do Desafio)

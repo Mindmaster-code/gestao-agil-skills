@@ -73,7 +73,7 @@ O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto
 - "Cobrança sem data não é cobrança." — linha sem data não é plano.
 - "Contramedidas atacam a causa raiz, não o sintoma."
 - "Um cartão, uma semana." Ação maior que isso é cortada antes de entrar.
-- O custo de cada iniciativa se escreve antes de ela começar, e uma vez por mês se compara o orçado, o contratado e o realizado. (aula 9; ficha)
+- O custo de cada iniciativa se escreve antes de ela começar, e uma vez por mês se compara o orçado, o contratado e o realizado.
 - Compromisso fora da alçada exige a aprovação do responsável financeiro.
 
 ## Saída

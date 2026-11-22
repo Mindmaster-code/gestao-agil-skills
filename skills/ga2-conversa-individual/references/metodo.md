@@ -87,7 +87,7 @@ A pauta é da pessoa. O erro mais comum é fazer dela um acompanhamento de taref
 
 ## Regras do método que valem aqui
 
-- A pauta da conversa de acompanhamento é da pessoa. (aula 6)
+- A pauta da conversa de acompanhamento é da pessoa.
 - Tarefa tem lugar no quadro e na diária. Esta conversa trata do que o quadro não mostra.
 - Poucos compromissos, para os dois lados, com retorno marcado.
 - Pergunte em vez de deduzir: o que move cada pessoa é diferente.

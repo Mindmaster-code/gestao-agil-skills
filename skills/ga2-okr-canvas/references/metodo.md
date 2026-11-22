@@ -122,6 +122,6 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 ## Divergências anotadas
 
-- Limite de KR: aula 2–5; modelo editável, Ficha e Kit 3; `Template+OKR+Canvas` 4. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
+- Limite de KR: as fontes do método variam de 2 a 5. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
 - Template o modelo editável é defeituoso (só campo para KR 1). Use o o modelo editável.
 - Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é a partir do roteiro.

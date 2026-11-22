@@ -50,7 +50,7 @@ dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), nã
 
 - **Classifique antes de detalhar.** Projeto, processo ou produto — briefing e backlog mudam.
 - **Escolha o tipo antes de preencher:** entrega única = projeto; alguém usa e você evolui = produto; jeito que se repete = processo. (material de referência)
-- **Objetivo em uma frase de resultado; escopo diz o que fica de fora; um número que prova; uma página.** (material de referência, slide 10)
+- **Objetivo em uma frase de resultado; escopo diz o que fica de fora; um número que prova; uma página.**
 - **Um briefing por projeto.**
 - **Nome, líder, objetivo + OKR vinculado, sempre.**
 - **Cabe numa página.** (material de referência)

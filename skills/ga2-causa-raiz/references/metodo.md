@@ -38,10 +38,10 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 - **Pergunte por quê pelo menos cinco vezes**, sempre sobre a resposta anterior, até uma causa de sistema. Parar cedo = tratar sintoma. (material de referência)
 - **Cada porquê precisa de evidência** — Genchi Genbutsu: "como eu sei que isso é verdade?" (material de referência)
-- **Causa é processo ou regra, nunca pessoa.** "No momento que você diz 'fulano errou', a investigação morre." (material de referência, slide 9)
+- **Causa é processo ou regra, nunca pessoa.** "No momento que você diz 'fulano errou', a investigação morre."
 - **Várias causas = Ishikawa + 5 Porquês em cada ramo. Pareto escolhe qual atacar primeiro.** (material de referência)
 - **A causa raiz não é o farol — é a falta de gestão do trabalho.**
-- **Métrica que cai vira A3, nunca cobrança.** (slide 13)
+- **Métrica que cai vira A3, nunca cobrança.**
 - **Cinco armadilhas:** parar cedo; pular nível; culpar pessoa; responder sem evidência; achar que há só uma causa. (material de referência)
 
 ## Saída

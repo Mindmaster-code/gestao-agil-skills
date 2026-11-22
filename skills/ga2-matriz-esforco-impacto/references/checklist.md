@@ -26,7 +26,7 @@
 
 ## Erros comuns
 
-| Erro | Onde a aula fala | Como recusar |
+| Erro | Fonte | Como recusar |
 |---|---|---|
 | Objetivo ou KR na matriz | — | "Isso é direção/meta. Só iniciativa entra." |
 | Só fazer o Faça já e jogar o resto fora | — | "A matriz dá sequência. Onde ficam os do Planeje, com data?" |
