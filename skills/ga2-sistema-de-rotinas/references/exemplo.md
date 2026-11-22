@@ -14,7 +14,7 @@ Rosa é dona de uma padaria com nove pessoas, ela incluída. As encomendas de bo
 | Sintoma da área, em uma frase | "As encomendas se perdem." |
 | Número de hoje | 6 encomendas esquecidas ou entregues fora do horário na última semana, contadas por Rosa no caderno do balcão e nas mensagens (medido) |
 
-Na tabela de sintomas, a linha "Demandas se perdem" manda começar pelas fichas F01, F02 e F10, e o conjunto inicial do plano de 90 dias, pelas fichas F01, F02 e F04. Rosa confirmou a causa com fato: das 6, quatro estavam só no caderno do balcão e duas só na mensagem de uma cliente. O problema era a entrada, e não a produção.
+Na tabela de sintomas, a linha "Demandas se perdem" indicou por onde começar o plano de 90 dias: a entrada única dos pedidos. Rosa confirmou a causa com fato: das 6, quatro estavam só no caderno do balcão e duas só na mensagem de uma cliente. O problema era a entrada, e não a produção.
 
 | Rotina escolhida | Dono |
 |---|---|

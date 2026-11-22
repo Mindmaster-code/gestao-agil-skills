@@ -13,7 +13,7 @@
 - [ ] Os focos viraram compromisso (plano do ciclo, PDI ou registro de aprendizados escolhido).
 - [ ] Próxima rodada marcada e abre com o que mudou.
 
-Revisão de desempenho de uma pessoa (ficha E02)
+Revisão de desempenho de uma pessoa
 - [ ] O Feedback 360 foi pedido a quatro a seis pessoas, e só os padrões (duas ou mais) entraram.
 - [ ] As evidências do período, as expectativas combinadas e a autoavaliação com exemplos estão na folha, nas cinco dimensões.
 - [ ] A expectativa estava clara; se não estava, o acordo foi corrigido antes de qualquer conclusão forte.
@@ -21,7 +21,7 @@ Revisão de desempenho de uma pessoa (ficha E02)
 - [ ] Há dois focos com prazo, as condições que o líder ajusta, o apoio e a data da próxima revisão.
 - [ ] A conversa de desenvolvimento ficou separada das decisões formais, e o registro é reservado.
 
-Feedback na hora e reconhecimento (fichas D03 e D04)
+Feedback na hora e reconhecimento
 - [ ] O feedback foi em particular, perto do fato, com fato e data, efeito, pergunta e combinado.
 - [ ] A pessoa foi ouvida até o fim antes do combinado, e o combinado é observável, com apoio e retorno.
 - [ ] O reconhecimento diz o fato e o efeito, elogia esforço e processo, e foi reservado ou público conforme a pessoa.

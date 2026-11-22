@@ -11,4 +11,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 | **Entrada** — Quando um item entra? <!-- c:entrada --> | |
 | **Pronto** — Quando um item termina? <!-- c:pronto --> | |
 | **Prioridade** — Como decidir o próximo item? <!-- c:prioridade --> | |
-| **Bloqueio** — O que fazer quando trava? <!-- c:bloqueio --> | |
+| **Bloqueio** — O que fazer quando algo para? <!-- c:bloqueio --> | |

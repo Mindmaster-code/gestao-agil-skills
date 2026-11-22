@@ -239,7 +239,7 @@
   },
   {
    "id": "trava_seg",
-   "rotulo": "O que me trava — SEG",
+   "rotulo": "O que me impede — SEG",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -259,7 +259,7 @@
   },
   {
    "id": "trava_ter",
-   "rotulo": "O que me trava — TER",
+   "rotulo": "O que me impede — TER",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -279,7 +279,7 @@
   },
   {
    "id": "trava_qua",
-   "rotulo": "O que me trava — QUA",
+   "rotulo": "O que me impede — QUA",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -299,7 +299,7 @@
   },
   {
    "id": "trava_qui",
-   "rotulo": "O que me trava — QUI",
+   "rotulo": "O que me impede — QUI",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -319,7 +319,7 @@
   },
   {
    "id": "trava_sex",
-   "rotulo": "O que me trava — SEX",
+   "rotulo": "O que me impede — SEX",
    "guia": "",
    "tipo": "texto-longo",
    "caixa": [
@@ -392,23 +392,23 @@
     "coluna": "SEX"
    },
    "trava_seg": {
-    "ancora": "trava",
+    "ancora": "bloqueio",
     "coluna": "SEG"
    },
    "trava_ter": {
-    "ancora": "trava",
+    "ancora": "bloqueio",
     "coluna": "TER"
    },
    "trava_qua": {
-    "ancora": "trava",
+    "ancora": "bloqueio",
     "coluna": "QUA"
    },
    "trava_qui": {
-    "ancora": "trava",
+    "ancora": "bloqueio",
     "coluna": "QUI"
    },
    "trava_sex": {
-    "ancora": "trava",
+    "ancora": "bloqueio",
     "coluna": "SEX"
    }
   }

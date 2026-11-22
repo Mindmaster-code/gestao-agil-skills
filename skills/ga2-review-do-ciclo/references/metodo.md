@@ -18,13 +18,13 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 - Templates: v6 «Canvas Editável — Revisão do Ciclo»;
- roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
+ roteiro «Roteiro de Review GA2 Editável»;
  individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
 
 ## Os 5 formatos, consolidados em um
 
-| Campo deste template | A07 ao vivo | Legado A07 | v6 | Roteiro Mod 05 | `--help` 10 |
+| Campo deste template | curso ao vivo | versão anterior | v6 | roteiro editável | versão individual |
 |---|---|---|---|---|---|
 | Meta combinada (copiada sem maquiagem) | meta do sprint | — | sim | o que foi combinado | — |
 | Ciclo e período | início/fim | — | sim | — | ciclo/período |
@@ -36,8 +36,8 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 | Aprendizado | — | aprendizados | — | — | o que aprendi |
 | O que muda no próximo ciclo | próximo sprint | — | sim | próximo ciclo | o que levo |
 
-Variantes: o legado A07 não tem meta nem data; só o Roteiro Mod 05 traz "decisões
-necessárias"; o `--help` 10 é individual. A consolidação é esta:
+Variantes: o versão anterior não tem meta nem data; só o roteiro editável traz "decisões
+necessárias"; o versão individual é individual. A consolidação é esta:
 o campo "Decisão" generaliza "aprovar, ajustar, cortar" do Roteiro para
 continua / para / corta / escala, que é o vocabulário de acordo de cadência do time regra 2.
 
@@ -48,7 +48,7 @@ continua / para / corta / escala, que é o vocabulário de acordo de cadência d
 2. **Por compromisso, pedir a prova.** Pergunta: "Mostra funcionando — URL, log, arquivo,
  mensagem?" Escreve a prova na linha. Recusa: "está quase", "deveria funcionar",
  slide no lugar da coisa. Linha sem prova = **não entregue**.
-3. **O que não ficou e por quê.** Pergunta: "O que travou e desde quando?" Escreve a causa
+3. **O que não ficou e por quê.** Pergunta: "O que parou e desde quando?" Escreve a causa
  (situação, não pessoa) e cria o cartão do próximo ciclo **na hora**, com dono.
 4. **Números.** Pergunta: "Qual KR ou métrica do briefing se mexeu? De quanto para quanto?"
  Número sempre com a empresa (uma empresa ≠ outra empresa). Recusa: "foi bem" sem número.
@@ -59,9 +59,9 @@ continua / para / corta / escala, que é o vocabulário de acordo de cadência d
 7. **Próximo ciclo.** O que muda, em uma linha; o que fica de fora, dito pelo nome.
 8. Salvar, atualizar registro de métricas na pasta do caso (data cumprida, aceite na 1ª) e abrir a Retro.
 
-## Voz do cliente do mês (ficha B09)
+## Voz do cliente do mês
 
-No método, quem define valor é o cliente. Por isso quem recebe a entrega participa da revisão, vê o trabalho funcionando e diz se serve, e a pergunta da reunião vira "isso serve para você?". Uma vez por mês, junte também tudo o que os clientes disseram, além do feedback de cada revisão. A revisão do mês leva de 30 a 60 minutos. Dono: o responsável pela experiência ou pela entrega ao cliente, com o atendimento, a operação e representantes dos clientes conforme o tema. Fonte: ficha B09 e aula 9 do curso de rotinas.
+No método, quem define valor é o cliente. Por isso quem recebe a entrega participa da revisão, vê o trabalho funcionando e diz se serve, e a pergunta da reunião vira "isso serve para você?". Uma vez por mês, junte também tudo o que os clientes disseram, além do feedback de cada revisão. A revisão do mês leva de 30 a 60 minutos. Dono: o responsável pela experiência ou pela entrega ao cliente, com o atendimento, a operação e representantes dos clientes conforme o tema.
 
 9. **Reúna as manifestações do mês sem escolher só os casos bons:** reclamações, elogios, pedidos, devoluções e dados de uso ou de atendimento, cada um com o contexto e a origem.
 10. **Agrupe por tipo de necessidade e pela etapa da experiência** em que o caso aconteceu.
@@ -83,7 +83,7 @@ No método, quem define valor é o cliente. Por isso quem recebe a entrega parti
 - "Feedback negativo é o mais valioso."
 - Review produz decisão (continua, para, corta, escala), não relato de atividade
  (acordo de cadência do time, regra 2). Linha sem prova conta como não entregue (regra 4).
-- Quem recebe a entrega diz se serve, e uma vez por mês a voz do cliente inteira entra na conversa, sem escolher só os casos bons. (aula 9; ficha B09)
+- Quem recebe a entrega diz se serve, e uma vez por mês a voz do cliente inteira entra na conversa, sem escolher só os casos bons.
 - Cada ajuste vindo do cliente tem um dono e um jeito de conferir no mês seguinte.
 
 ## Saída
@@ -144,8 +144,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

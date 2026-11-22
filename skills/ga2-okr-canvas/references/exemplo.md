@@ -51,7 +51,7 @@ Teste didático: os KRs medem resultado, mantêm a mesma unidade e juntos repres
 
 **Semana inicial · 08/09/2026 · Mariana.** Exemplo de cálculo; não representa reunião realizada.
 
-| KR | Número sintético de hoje | Nota 0–1 | O que mexeu | O que trava |
+| KR | Número sintético de hoje | Nota 0–1 | O que mexeu | O que impede |
 |---|---|---|---|---|
 | KR1 <!-- c:checkin_kr_1 --> | 15% (S1) | (15−15) ÷ (15−5) = 0 | Só linha de base | Causa sem validação |
 | KR2 <!-- c:checkin_kr_2 --> | 85% (S1) | (85−85) ÷ (95−85) = 0 | Só linha de base | Esperas por etapa não medidas |

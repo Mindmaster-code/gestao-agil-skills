@@ -13,7 +13,7 @@
 - [ ] registro de métricas na pasta do caso recebeu % de data cumprida e % de aceite na 1ª.
 - [ ] Durou até 30 minutos.
 
-Voz do cliente do mês (ficha B09)
+Voz do cliente do mês
 - [ ] As manifestações do mês foram reunidas sem escolher só os casos bons, com contexto e origem.
 - [ ] Foram agrupadas por tipo de necessidade e etapa da experiência.
 - [ ] Houve conversa com alguns clientes para entender os casos mais importantes.

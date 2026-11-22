@@ -8,6 +8,10 @@
 - Templates oficiais: Status Report do Desafio de 7 Dias (8 campos); legado editável do Módulo 04 (6 campos, semáforo, próxima ação); Resumo do Ciclo editável do Módulo 05 (5 campos); Plano e Revisão do Ciclo.
 - Diretriz prática: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fundamentos — visão de floresta e Lean: §1 (o que cada passo deixa pronto), §4.3 (Mapa da Jornada e próxima entrega).
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

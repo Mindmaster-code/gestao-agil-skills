@@ -9,6 +9,10 @@
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
 - Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês `(aplicação do método)`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha B09 e aula 9 do curso de rotinas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

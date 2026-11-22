@@ -3,7 +3,7 @@
 
 | Campo | Resposta |
 |---|---|
-| Caso / desafio <!-- c:caso --> | <o KR ou a dor que este quadro destrava> |
+| Caso / desafio <!-- c:caso --> | <o KR ou a dor que este quadro desbloqueia> |
 | Responsável <!-- c:dono --> | <líder> |
 | Data <!-- c:data --> | <AAAA-MM-DD> |
 

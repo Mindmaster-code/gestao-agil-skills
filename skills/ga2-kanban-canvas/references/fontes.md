@@ -12,6 +12,12 @@
  (estados comuns, condições, Kanbans hierárquicos).
 - Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas `(aplicação do método)`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha B06 e aula 9 do curso de rotinas.
+- §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio). hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas 03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
+- Modelo operacional: modelo operacional (estados comuns, condições, Kanbans hierárquicos).
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

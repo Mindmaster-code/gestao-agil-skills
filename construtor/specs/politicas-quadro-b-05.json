@@ -78,7 +78,7 @@
   {
    "id": "bloqueio",
    "rotulo": "Bloqueio",
-   "guia": "O que fazer quando trava?",
+   "guia": "O que fazer quando algo para?",
    "tipo": "texto-longo",
    "caixa": [
     36.0,

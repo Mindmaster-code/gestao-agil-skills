@@ -1,6 +1,6 @@
 # Estágio do time: exemplos
 
-Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os canvas do curso (Estágio do Time e Termômetro da Confiança) e a ficha D09.
+Exemplos fictícios, novos e independentes, de ramos diferentes. Pessoas, datas, números e registros são ilustrativos; não representam um caso real nem provam resultado. Os campos seguem os canvas do curso (Estágio do Time e Termômetro da Confiança) e o plano de transição da mudança.
 
 ## 1. Restaurante: ler o estágio
 
@@ -18,7 +18,7 @@ Zilda é dona de um restaurante com cozinha de dois turnos. Em 04/11/2026, ela l
 |---|---|
 | Onde o time está e por quê | Nas duas últimas semanas, os dois chefes de turno discutiram duas vezes, na frente da equipe, sobre quem libera a mesa para o prato quente. O salão reclamou de pratos esperando. |
 | Minha jogada agora | Definir responsabilidades. Em 11/11/2026, reunir os dois chefes e o salão, preencher o Quadro de Delegação para a liberação dos pratos, escrever o acordo e pendurá-lo ao lado do quadro. Zilda media e não corta a discussão. |
-| Qual resultado isso destrava | O tempo de espera do prato quente no salão |
+| Qual resultado isso desbloqueia | O tempo de espera do prato quente no salão |
 | Reavaliar em | 09/12/2026 |
 
 Zilda pensou em marcar "alto desempenho", porque a cozinha entregava no horário na maioria dos dias. O fato das duas últimas semanas mostrou o conflito. Se tivesse marcado o estágio errado, trataria uma discussão que precisava de acordo como problema de pessoas.

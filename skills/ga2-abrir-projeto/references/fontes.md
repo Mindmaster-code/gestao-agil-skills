@@ -16,3 +16,7 @@ Esta habilidade mantém a pasta, o acordo inicial e o status como pontos de liga
 ## Pasta de área ou de rotina
 
 O modo de pasta de área ou de rotina vem da ficha F08 (organizar arquivos, documentos e acessos) do Guia completo de rotinas de gestão `(aplicação do método)`. Não há aula de origem. A ligação com a poda de acúmulos usa a ficha F09 e `ga2-backlog-2d`.
+
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha F08 do Guia completo de rotinas de gestão.

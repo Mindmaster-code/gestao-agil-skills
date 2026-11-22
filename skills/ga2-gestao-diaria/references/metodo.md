@@ -16,10 +16,8 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
- template de equipe), §5 (linha "Reunião diária"), §6 item 3 (diária entre agentes), §8 itens 11 e 16.
 - Template: só individual — folha individual «gestao-diaria-ga2.pdf» (artefato 09: semana
- de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
- os campos desta skill são construção deste pacote a partir de A14 e material de referência.
+ de · por dia SEG–SEX: o que avancei · foco de hoje · o que me impede). Equipe: sem template;
 - Diretriz prática: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
 
 ## Como conduzir
@@ -29,10 +27,10 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 1. **Fixe o ritual uma vez:** horário, lugar (ou link), facilitador, quadro que será olhado,
  teto de 15 min. Pergunta: "A que horas, onde, em frente a qual quadro?" Recuse "quando der".
 2. **Meta do ciclo no alto.** Leia em voz alta (30 s) para que todos lembrem o porquê.
-3. **Percorra o quadro da direita para a esquerda** (Passo 3 §5): primeiro o que está quase
+3. **Percorra o quadro da direita para a esquerda**: primeiro o que está quase
  pronto, depois o que está no limite, depois o que avançou.
 4. **Três perguntas por pessoa, apontando o cartão:** o que entreguei desde ontem · o que vou
- puxar hoje · o que me trava. Recuse narrar a agenda; fala do cartão, não do dia.
+ puxar hoje · o que me impede. Recuse narrar a agenda; fala do cartão, não do dia.
 5. **Impedimento vira lista, não debate.** Anote: o quê · dono · até quando. Resolva depois,
  fora da diária, só com quem precisa (material de referência). Recuse resolver ali ("vira 40 minutos").
 6. **Mova os cartões durante a reunião** (: atualizar todo dia). Marque bloqueio e idade.
@@ -40,7 +38,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
  ou debate — pauta da retro.
 8. **Quem participa:** quem trabalha nos itens. SM e PO (quem cuida do processo e quem dá o
  rumo) podem assistir; o responsável pela área recomenda que participem, a v6 diz que a reunião não é
- para eles. No Diretriz prática: participam calados, salvo impedimento que só eles destravam.
+ para eles. No Diretriz prática: participam calados, salvo impedimento que só eles desbloqueiam.
 
 ### B. Diária entre agentes (resumos e caixa de mensagens) — o que quem conduz o método lê todo dia
 
@@ -49,7 +47,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 11. **Acompanhamento:** resumos diários, registros de demandas e documentos de acompanhamento das áreas atualizados nos últimos 7 dias. Use só para atualizar "Última prova" de cartão que mexeu.
 12. **Cadência:** registros de reporte e pasta do ciclo atual. Arquivo que não existe = ritual que não aconteceu.
 13. **Responda as três perguntas por cartão do ciclo:** avançou (prova nova)? puxa hoje (próximo
- passo escrito)? trava (gate, dependência, dias parado)?
+ passo escrito)? bloqueio (gate, dependência, dias parado)?
 14. **Dispare cobrança por escrito quando:** cartão parado ≥3 dias úteis sem prova nova · compromisso do plano
  perdeu a data (marque `atrasado dd/mm` no plano no mesmo dia) · gate sem decisor nomeado ·
  cartão sem dono (vai ao responsável pela área, não ao dono). Uma cobrança por dia; o resto espera a varredura de quarta.
@@ -57,11 +55,11 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ### C. Modo pessoal (fechar o expediente e preparar o próximo dia)
 
-Serve a uma pessoa que organiza o próprio dia, sem reunião. São dois momentos curtos que se encaixam: o fechamento deixa o dia seguinte quase pronto, e o preparo o confirma. Cada pessoa usa o quadro e a agenda que já tem. O modo alimenta a diária do time e não a substitui. Você prepara os rascunhos de aviso e de retorno; quem envia é a pessoa. O roteiro pode ser conduzido no chat: gere arquivo só se a pessoa pedir ou quiser guardar o registro. Fonte: fichas F05 e F06 do Guia completo de rotinas de gestão; a regra do quadro em dia é da aula A09.
+Serve a uma pessoa que organiza o próprio dia, sem reunião. São dois momentos curtos que se encaixam: o fechamento deixa o dia seguinte quase pronto, e o preparo o confirma. Cada pessoa usa o quadro e a agenda que já tem. O modo alimenta a diária do time e não a substitui. Você prepara os rascunhos de aviso e de retorno; quem envia é a pessoa. O roteiro pode ser conduzido no chat: gere arquivo só se a pessoa pedir ou quiser guardar o registro.
 
 **Fechar o expediente (5 a 15 minutos, ao fim do expediente)**
 
-16. **Atualize o estado das entregas no quadro:** mova o que avançou, marque o que travou e escreva o que ainda falta. Quadro em dia, todo dia, antes da diária.
+16. **Atualize o estado das entregas no quadro:** mova o que avançou, marque o que parou e escreva o que ainda falta. Quadro em dia, todo dia, antes da diária.
 17. **Prepare os retornos necessários** sobre compromissos ou riscos de prazo, para a pessoa enviar. Fato, efeito e data nova, e o nome de quem dará o próximo retorno.
 18. **Capture o que ficou sem destino:** assuntos que surgiram e ainda não têm dono, data nem cartão. Cada um ganha um destino (cartão, outra pessoa ou lista) ou é descartado.
 19. **Deixe a prioridade de amanhã e o primeiro passo escritos.** É o preparo do dia seguinte; feito aqui, os passos 22 e 23 viram só uma conferência.
@@ -76,7 +74,7 @@ Serve a uma pessoa que organiza o próprio dia, sem reunião. São dois momentos
 25. **Reserve o período de execução** e ajuste as expectativas quando necessário. Com trabalho imprevisível, mantenha a prioridade e uma alternativa de execução.
 26. **No dia seguinte, observe** se a prioridade avançou, o que alterou o plano e se algo foi esquecido. Use isso para melhorar a confiabilidade do registro e a previsão.
 
-Como o modo se liga ao resto: na folha individual (artefato 09), o fechamento preenche "O que avancei" e "O que me trava", e o preparo preenche "Foco de hoje". Na diária do time, o fechamento responde "entreguei desde ontem" e "me trava", e o preparo responde "puxo hoje".
+Como o modo se liga ao resto: na folha individual (artefato 09), o fechamento preenche "O que avancei" e "O que me impede", e o preparo preenche "Foco de hoje". Na diária do time, o fechamento responde "entreguei desde ontem" e "me impede", e o preparo responde "puxo hoje".
 
 ## Regras do método que valem aqui
 
@@ -150,8 +148,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).
@@ -160,7 +157,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 
 | Régua | Quando | O que fica |
 |---|---|---|
-| Leve | uma pessoa | grid individual artefato 09: avancei · foco de hoje · me trava. 5 min, mesmo horário. |
+| Leve | uma pessoa | grid individual artefato 09: avancei · foco de hoje · me impede. 5 min, mesmo horário. |
 | Intermediária | um time | reunião de 15 min, 3 perguntas por pessoa apontando o cartão, lista de impedimentos com dono, quadro movido na hora |
 | Robusta | time com acompanhamento assíncrono | leitura dos resumos e da caixa de mensagens (passos 9–15), uma cobrança por escrito por dia, registro de 5 linhas, escalada por dias parado |
 | Pessoal | uma pessoa que quer fechar e preparar o próprio dia, sem reunião | a folha da régua Leve, mais o fechamento (5 a 15 minutos) e o preparo (5 a 10 minutos) de cada dia, passos 16 a 26 |

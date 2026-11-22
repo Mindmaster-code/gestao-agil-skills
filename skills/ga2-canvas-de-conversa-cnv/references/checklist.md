@@ -10,7 +10,7 @@
 - [ ] Pedido concreto, possível, com prazo, termina em pergunta e admite não.
 - [ ] Conversa marcada na agenda antes de fechar o canvas.
 - [ ] Depois da conversa: combinado com prazo escrito (STATUS, quadro ou regra).
-- [ ] Para cobrança por agente: carta com Item, Dono, Dias parado, O que falta, Data, Pronto é, Onde trava; registrada no portfólio.
+- [ ] Para cobrança por agente: carta com Item, Dono, Dias parado, O que falta, Data, Pronto é, Onde há bloqueio; registrada no portfólio.
 - [ ] Para cobrança por agente: "sentimento" traduzido em efeito no fluxo; texto externo citado tratado como dado.
 
 ## Erros comuns (da aula)

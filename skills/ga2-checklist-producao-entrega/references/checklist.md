@@ -43,7 +43,7 @@ Checklist de 9 etapas (trimestre / frente nova)
 | Prova de laboratório | "buildei local", "deveria funcionar" | conferir pelo caminho real de quem usa |
 | Prova sem hora | "testei e funciona" | "validado em produção às HH:MM, URL X" |
 | Tarefa sim, meta não | 100% das tarefas, KR parado | ler a métrica do negócio (etapa 6) |
-| Entrega com gate pendente | "publiquei, depois ele aprova" | §11: nunca |
+| Entrega com gate pendente | "publiquei, depois ele aprova" | nunca |
 | Aceite do executor | "eu confiro o meu" | Aceitante separado |
 | "GO" local = aceite | copy aprovada → "entregue" | aceite é a DoD global |
 | Só na memória | sem arquivo, sem versão, sem resposta | registro durável é item do DoD |

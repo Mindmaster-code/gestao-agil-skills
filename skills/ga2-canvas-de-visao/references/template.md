@@ -60,4 +60,4 @@ Escolha uma das duas versões. Apague a outra.
 | sócios | | |
 | clientes / fornecedores | | |
 
-**Revisão:** anual, em ____/____ (apostila p.6). Quem revisa: ______.
+**Revisão:** anual, em ____/____. Quem revisa: ______.

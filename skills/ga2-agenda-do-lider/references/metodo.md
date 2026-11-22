@@ -39,14 +39,14 @@ Os tempos vêm das fichas e são um ponto de partida. Ajuste pela experiência r
 
 | Rotina | Ficha | Quando | Duração de partida |
 |---|---|---|---|
-| Priorização do fim da semana | G01, F03 | toda semana, de preferência na sexta-feira à tarde | 10 minutos |
-| Planejar a contribuição e organizar a agenda | G01, F03 | semanal; ajuste breve diário | 20 a 40 minutos (G01) e 20 a 30 minutos (F03) |
-| Trabalho importante com concentração | G02 | diária ou várias vezes na semana, conforme o papel | 45 a 90 minutos por bloco, uma opção ajustável |
-| Pensamento estratégico | G03 | semanal ou quinzenal | 45 a 90 minutos |
-| Auditoria da agenda e das aprovações | G06 | breve toda semana; revisão mais ampla todo mês | 20 a 45 minutos |
-| Relações | G09 | semanal ou quinzenal | 20 a 40 minutos por conversa |
-| Energia | G10 | planejamento semanal; ajustes diários | 5 a 10 minutos para organizar |
-| Revisão pessoal (revisão pessoal do líder) | G01, G06, G07, G10 | uma vez por período, sozinho | o tempo que o líder reservar |
+| Priorização do fim da semana | — | toda semana, de preferência na sexta-feira à tarde | 10 minutos |
+| Planejar a contribuição e organizar a agenda | — | semanal; ajuste breve diário | 20 a 40 minutos e 20 a 30 minutos |
+| Trabalho importante com concentração | — | diária ou várias vezes na semana, conforme o papel | 45 a 90 minutos por bloco, uma opção ajustável |
+| Pensamento estratégico | — | semanal ou quinzenal | 45 a 90 minutos |
+| Auditoria da agenda e das aprovações | — | breve toda semana; revisão mais ampla todo mês | 20 a 45 minutos |
+| Relações | — | semanal ou quinzenal | 20 a 40 minutos por conversa |
+| Energia | — | planejamento semanal; ajustes diários | 5 a 10 minutos para organizar |
+| Revisão pessoal (revisão pessoal do líder) | — | uma vez por período, sozinho | o tempo que o líder reservar |
 
 ## Como conduzir
 
@@ -74,7 +74,7 @@ Os tempos vêm das fichas e são um ponto de partida. Ajuste pela experiência r
 15. **Revise o dia seguinte** e as datas que exigem preparo antecipado. O ajuste diário e o fechamento do expediente seguem o modo pessoal de `ga2-gestao-diaria`.
 16. **Entregue a agenda da semana** (seção 2 do `template.md`) e, se o líder pedir, a revisão pessoal (modo G).
 
-### B. Bloco de trabalho importante com concentração (ficha G02)
+### B. Bloco de trabalho importante com concentração
 
 Serve ao trabalho que exige raciocínio e continuidade, ligado a uma entrega ou a uma decisão relevante. O bloco fica protegido na agenda por 45 a 90 minutos, uma opção ajustável, diária ou várias vezes na semana, conforme o papel.
 
@@ -85,7 +85,7 @@ Serve ao trabalho que exige raciocínio e continuidade, ligado a uma entrega ou 
 21. **Ao encerrar, registre o avanço e a próxima ação.** O bloco só está pronto quando o resultado foi salvo e a continuidade está definida.
 22. **Se houver urgência real,** interrompa conforme o acordo e replaneje o bloco. Acompanhe as saídas produzidas e as causas de interrupção, e ajuste duração e horário.
 
-### C. Bloco de pensamento estratégico (ficha G03)
+### C. Bloco de pensamento estratégico
 
 Serve a questões que afetam a direção e a capacidade futura da área. Semanal ou quinzenal, de 45 a 90 minutos, a princípio sozinho; chame pares ou especialistas conforme a questão. É uma pedra grande: importante, sem urgência.
 
@@ -98,7 +98,7 @@ Serve a questões que afetam a direção e a capacidade futura da área. Semanal
 
 Apoios: o norte da área vem de `ga2-canvas-de-visao` e os resultados, de `ga2-okr-canvas`. Um teste vira `ga2-folha-de-experimento`; um problema inteiro, com causa e plano, vira `ga2-relatorio-a3`.
 
-### D. Auditoria da agenda e das aprovações (ficha G06)
+### D. Auditoria da agenda e das aprovações
 
 Mostra onde a atuação do líder gera valor e onde virou dependência. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma. A Gestão Ágil ataca isso pela delegação. Breve toda semana e mais ampla todo mês, de 20 a 45 minutos.
 
@@ -112,7 +112,7 @@ Mostra onde a atuação do líder gera valor e onde virou dependência. Quando t
 36. **Leve a lista de aprovações ao Quadro de Delegação** (`ga2-delegacao`): é a lista de assuntos do quadro. Comece por quatro, os que mais voltam, e onde o líder sempre responde igual escreva o critério.
 37. **Verifique na auditoria seguinte** se as consultas repetidas diminuíram e se a qualidade das entregas se manteve. Não meça o benefício só pelas horas retiradas.
 
-### E. Relações (seção curta, ficha G09)
+### E. Relações (seção curta)
 
 Serve a conhecer experiências e informações que ajudam a entender o trabalho além da própria equipe. Semanal ou quinzenal, de 20 a 40 minutos por conversa. A ficha não tem aula de origem.
 
@@ -123,7 +123,7 @@ Serve a conhecer experiências e informações que ajudam a entender o trabalho 
 
 Cuidados: respeite a confidencialidade e os limites da representação da empresa; não compartilhe informação de terceiros sem autorização. A conversa não precisa gerar oportunidade imediata, e relação não se mede por contagem de contatos.
 
-### F. Energia (seção curta, ficha G10)
+### F. Energia (seção curta)
 
 Serve a montar uma agenda que se sustenta ao longo do tempo. Planejamento semanal e ajustes diários, de 5 a 10 minutos para organizar. A ficha não tem aula de origem.
 
@@ -138,7 +138,7 @@ Aviso: a agenda não substitui cuidado de saúde nem resolve falta estrutural de
 
 ### G. Revisão pessoal do líder (revisão pessoal do líder)
 
-O líder faz sozinho, uma vez por período, com tempo reservado. A ficha G06 sugere uma revisão breve toda semana e uma mais ampla todo mês.
+O líder faz sozinho, uma vez por período, com tempo reservado. A sugestão é uma revisão breve toda semana e uma mais ampla todo mês.
 
 48. **Responda com fatos e exemplos,** preenchendo os campos do `template.md` (seção 8), na ordem da revisão pessoal do líder: período e responsabilidades, resultados e evidências, compromissos a renegociar, as cinco perguntas de agenda e contribuição, aprendizagem e condições de trabalho, e a tabela de próximas ações.
 49. **Feche com a priorização do fim da semana:** três cortes, três entregas e a pedra grande da semana (modo A).
@@ -151,10 +151,10 @@ O líder faz sozinho, uma vez por período, com tempo reservado. A ficha G06 sug
 - Gestão de tempo é fazer gestão de pedrinha.
 - Areia se limita, não se proíbe.
 - O foco é o quadrante do importante sem urgência: planejar, prevenir, desenvolver.
-- A IA (inteligência artificial) organiza a lista; a decisão e o nome que assina são do líder. Primeira resposta é rascunho. (Passo 7 §2.12 e regra 9)
+- A IA (inteligência artificial) organiza a lista; a decisão e o nome que assina são do líder. Primeira resposta é rascunho.
 - Todo pedido à IA leva o limite "não invente número, meta ou data". (Passo 7 regra 4)
 - A folga de cerca de 30% do Plano do Ciclo cobre o imprevisto e também protege o ritmo do líder. (Passo 4 regra 4)
-- Quando toda decisão passa pelo líder, ele é o gargalo; o Quadro de Delegação dá a cada assunto um nível e um nome. (Passo 6 §2.8)
+- Quando toda decisão passa pelo líder, ele é o gargalo; o Quadro de Delegação dá a cada assunto um nível e um nome.
 - Documente e compartilhe o que aprendeu (Yokoten). (Passo 0 regra 10)
 
 ## Saída
@@ -199,7 +199,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

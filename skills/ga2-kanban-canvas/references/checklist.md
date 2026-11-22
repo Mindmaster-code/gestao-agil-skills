@@ -34,7 +34,7 @@ Carteira de iniciativas
 - [ ] Número nunca cruza raia (uma área ≠ outra área).
 - [ ] A "leitura da fotografia" diz qual é a primeira cobrança que sai.
 
-Dependência entre áreas (ficha B06)
+Dependência entre áreas
 - [ ] O cartão tem "depende de" e "entrega para", com a pessoa e a data de passagem.
 - [ ] Existe a coluna "Aguardando outra área", com limite próprio, e o cartão que espera nela não volta para trás.
 - [ ] As duas áreas veem o mesmo cartão.
@@ -51,7 +51,7 @@ Dependência entre áreas (ficha B06)
 | Kanban congestionado | coluna Fazendo com 12 cartões | escrever limite por etapa |
 | Cartão de área | "Marketing" no campo dono | nome de pessoa (material de referência) |
 | Cartão-iniciativa | seis semanas em "fazendo" | quebrar no Backlog 2D até caber numa semana |
-| Dar ré | cartão volta para A fazer quando trava | marca no cartão; fica parado e sinalizado |
+| Dar ré | cartão volta para A fazer quando algo para | marca no cartão; fica parado e sinalizado |
 | Política na gaveta | regra num PDF que ninguém abre | três regras mínimas no topo do quadro |
 | Quadro decorativo | "está lá só para tirar foto" | "um quadro que mente é pior que quadro nenhum" |
 | Coluna invisível | cartões somem por dias numa validação externa | criar a coluna com WIP próprio |

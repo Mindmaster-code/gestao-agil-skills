@@ -16,7 +16,6 @@ Processo recorrente tem briefing de processo + POP + quadro, sem plano de ciclo 
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
-- Fundamentos — visão de floresta e Lean: §1 (o que cada passo deixa pronto), §4.3 (Mapa da Jornada e próxima entrega).
 - Templates oficiais: Status Report do Desafio de 7 Dias (8 campos); legado editável do Módulo 04 (6 campos, semáforo, próxima ação); Resumo do Ciclo editável do Módulo 05 (5 campos); Plano e Revisão do Ciclo.
 - Diretriz prática: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
 
@@ -31,7 +30,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 | 4 | Planejar | Backlog 2D (+ matriz esforço × impacto) | `ga2-backlog-2d` | `04-backlog-2d.md` | dono |
 | 5 | Fluir | Kanban: colunas, políticas, WIP | `ga2-kanban-canvas` | `05-kanban.md` | dono; Gestor propõe WIP |
 | 6 | Ciclo | Plano do ciclo (meta, período, itens com dono) | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva` | `ciclos/AAAA-Www/plano.md` (linha da frente) | dono |
-| 7 | Pulso | **Status Report** (onde estou, travou, aprendi, próximo passo) | **esta skill** | `status/AAAA-MM-DD.md` | dono |
+| 7 | Pulso | **Status Report** (onde estou, parou, aprendi, próximo passo) | **esta skill** | `status/AAAA-MM-DD.md` | dono |
 | 8 | Revisar | Review do ciclo (combinado × entregue × prova) + Retro | `ga2-plano-do-ciclo` / `ga2-review-do-ciclo` / `ga2-retrospectiva` | `ciclos/AAAA-Www/review.md`, `retro.md` | Gestor + dono |
 | 9 | Fechar | **Resumo do Ciclo** (uma página; vira A3 de melhoria?) | **esta skill** | `90-resumo-ciclo-<n>.md` | dono |
 | — | Sempre | `README.md` — dono, empresa, régua, estado de cada documento, cartão no portfólio | esta skill | `README.md` | Gestor |
@@ -43,7 +42,7 @@ A definição equivale ao briefing; o andamento equivale ao Status Report. Não 
 
 1. **Confirme a pasta escolhida pelo usuário**, local ou no destino autorizado. Reuse a estrutura existente; se precisar organizar uma nova, use `ga2-abrir-projeto`. Registre no índice dono, empresa, régua, data e identificador do cartão. Recuse frente sem dono.
 2. **Diga em que fase a frente está** e qual é a "próxima entrega" (Mapa da Jornada). Frente que está na fase 6 sem os documentos 1–2 tem dívida: registre no README, não finja.
-3. **Status Report** (fase 7) — quando: toda sexta para frente em ciclo, ou quando o dono pede ajuda. Pergunta ao dono: "Que dia/semana está? No ritmo? O que já entregou, com prova? O que travou? O que aprendeu? Próximo passo, com data?" Retrato de 2 minutos; recuse relatório longo e recuse "no prazo" sem prova.
+3. **Status Report** (fase 7) — quando: toda sexta para frente em ciclo, ou quando o dono pede ajuda. Pergunta ao dono: "Que dia/semana está? No ritmo? O que já entregou, com prova? O que parou? O que aprendeu? Próximo passo, com data?" Retrato de 2 minutos; recuse relatório longo e recuse "no prazo" sem prova.
 4. **Resumo do Ciclo** (fase 9) — quando: no fim do ciclo da frente, depois de review e retro. Pergunta: "Qual era o problema ou objetivo? O que foi produzido ou melhorou, com evidência? O que ficou claro depois de executar? Continuar, ajustar, pausar ou escalar? Algum problema merece voltar ao A3?" Recuse lista de tarefas no lugar de evidência.
 5. **Confira o dossiê** na cadência combinada: documento da fase existe? tem data dos últimos 10 dias? tem assinatura? Registre a falta, quem deve responder, prazo e critério de pronto; envie cobrança apenas quando autorizado.
 6. **Feche**: quando a frente entrega (critério de pronto do briefing provado), `README.md` ganha estado "entregue — aceito por <dono do resultado> em dd/mm" e o cartão sai do quadro.
@@ -124,8 +123,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Separe pessoas de agentes de IA quando existirem. Sem nome na fonte, escreva "não definido" — nunca atribua responsabilidade por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Separe pessoas de agentes de IA quando existirem. Sem nome na fonte, escreva "não definido" — nunca atribua responsabilidade por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de `SAIDA-EDITAVEL.md`.
@@ -141,7 +139,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `SAIDA-EDITAVEL.md`
 ## Erros comuns
 
 - Pasta criada e vazia: dossiê de nome, não de fato.
-- Status Report que é lista de atividades — sem "no ritmo?", sem trava, sem próximo passo datado.
+- Status Report que é lista de atividades — sem "no ritmo?", sem bloqueio, sem próximo passo datado.
 - "No prazo" sem prova pelo caminho real.
 - Resumo do Ciclo com aprendizado genérico ("precisamos comunicar melhor") ou decisão sem verbo.
 - Pular o resumo e emendar o próximo ciclo — o aprendizado morre.

@@ -34,7 +34,7 @@
 | Impacto "alto" por achismo | — | "Qual número move e quanto?" |
 | Esforço sem unidade | — | "Horas? Dias? Tem gate humano?" |
 | Esquecer o gate humano no esforço | adaptação: custo da espera por aprovação | "O que espera aprovação custa dias parados. Conta como esforço." |
-| Misturar a grade de objetivos com a de iniciativas | nota metodológica sobre variantes do Passo 2 | "Objetivo se escolhe antes do OKR, com outra grade." |
+| Misturar a grade de objetivos com a de iniciativas | — | "Objetivo se escolhe antes do OKR, com outra grade." |
 | Chamar tarefa de iniciativa | — | "Tarefa se ordena no backlog. Qual é a aposta?" |
 | Matriz sem fila numerada | "você sai com uma fila ordenada" | "Quadrante não é ordem. Numera." |
 | Evite sem motivo escrito | (defensável) | "Por que fica fora? Quem pediu? Volta quando?" |

@@ -32,7 +32,7 @@
 | Pular nível | do sintoma direto para "falta de cultura" | preencher processo e rotina; sem eles não há plano acionável |
 | Culpar pessoa | "a pessoa esqueceu", "a ferramenta falhou" | "não existe passo ou controle que impeça X" |
 | Sem evidência | resposta plausível sem fonte | ir e ver; se não dá para ver, marcar "hipótese" e testar |
-| Só uma causa | duas travas independentes numa cadeia só | Ishikawa primeiro; 5 Porquês por ramo |
+| Só uma causa | duas bloqueios independentes numa cadeia só | Ishikawa primeiro; 5 Porquês por ramo |
 | Ishikawa decorativo | seis espinhas cheias, nenhum ramo escolhido | escolher e justificar |
 | Profundo demais | causa de sistema fora do controle do dono como única ação | atacar a acionável; registrar a profunda como dependência ou regra |
 

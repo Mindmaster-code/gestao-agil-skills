@@ -19,8 +19,8 @@
  },
  "campos": [
   {
-   "id": "travou",
-   "rotulo": "4 · O que travou ou atrasou?",
+   "id": "parou",
+   "rotulo": "4 · O que parou ou atrasou?",
    "guia": "Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade.",
    "tipo": "texto-longo",
    "caixa": [
@@ -78,7 +78,7 @@
   {
    "id": "status",
    "rotulo": "Status final",
-   "guia": "Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa destravar.",
+   "guia": "Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa de desbloqueio.",
    "tipo": "texto-longo",
    "caixa": [
     44.0,
@@ -127,12 +127,12 @@
  },
  "leitura": {
   "sem_documento": false,
-  "pergunta_padrao": "O que travou, o que aprendi e qual é a próxima ação?",
+  "pergunta_padrao": "O que parou, o que aprendi e qual é a próxima ação?",
   "capitulos": [
    {
     "titulo": "Aprendizado e próximo ajuste",
     "campos": [
-     "travou",
+     "parou",
      "aprendi",
      "ajuste",
      "status",

@@ -23,7 +23,7 @@ Skills only.
 
 1. Diagnostique meu caso e monte um Relatório A3.
 2. Conecte A3, OKR, Backlog 2D, Kanban e o próximo ciclo.
-3. Mostre visualmente onde este fluxo trava e qual decisão tomar.
+3. Mostre visualmente onde este fluxo emperra e qual decisão tomar.
 
 ## Casos de teste
 

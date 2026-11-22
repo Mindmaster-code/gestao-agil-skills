@@ -26,7 +26,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
  Recusa: lista com item sem dono ou sem o KR que move ("volta ao OKR").
 3. **Impacto.** Pergunta por item: "quanto isso move o KR? qual número e quanto?" Escreve
  alto ou baixo com o motivo em uma linha. Nesta adaptação, impacto = quanto move o KR no período
- ou quanto destrava dinheiro, cliente, reputação ou decisão. Recusa: "é importante" sem número.
+ ou quanto desbloqueia dinheiro, cliente, reputação ou decisão. Recusa: "é importante" sem número.
 4. **Esforço.** Pergunta: "quanto custa em tempo, dinheiro, complexidade e aprendizado? tem
  gate humano pendente?" Nesta adaptação, esforço = dias de trabalho + espera por aprovações. Recusa:
  estimativa sem unidade.
@@ -45,8 +45,8 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 - **Só iniciativas entram.** Objetivo e KR ficam fora.
 - **A matriz dá sequência, não descarte.** "Não é fazer só o Faça já e jogar o resto fora".
 - **Ordem de leitura:** resultado rápido → estratégico → apoio nas brechas → questionar o desperdício.
-- **Planeje = quebre em partes menores** (editável Mod 2).
-- **Encaixe só entra se não roubar foco** (editável Mod 2).
+- **Planeje = quebre em partes menores** (modelo editável).
+- **Encaixe só entra se não roubar foco** (modelo editável).
 - **Evite fica fora do backlog** com o motivo escrito (: "a do Evite não entra no backlog").
 - **Priorização transparente e defensável:** dá para explicar a um terceiro por que algo espera.
 - **Nomes usados nesta adaptação:** Faça já / Planeje / Encaixe / Evite (v6), impacto na vertical, esforço na horizontal. As equivalências com outras fontes estão no template.

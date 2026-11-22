@@ -141,8 +141,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
 escreva "não definido" — nunca atribua tudo ao usuário.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
@@ -151,7 +150,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `entrega-editavel.m
 ## Adaptação
 
 - **Leve** (área pequena, ciclo semanal): só cabeçalho, três pilares e leitura. Sem evolução até ter 4 ciclos.
-- **Intermediária** (diretor de área): blocos completos + linha North Star + métricas de fluxo como apêndice (tempo de ciclo, bloqueado, em gate, data cumprida, aceite na 1ª, retrabalho, parados, relatórios). As métricas de fluxo são **prática aplicada** — a aula não as lista; origem: Modelo Operacional de Demandas, §17, transcritas no apêndice do template.
+- **Intermediária** (diretor de área): blocos completos + linha North Star + métricas de fluxo como apêndice (tempo de ciclo, bloqueado, em gate, data cumprida, aceite na 1ª, retrabalho, parados, relatórios). As métricas de fluxo são **prática aplicada** — a aula não as lista; estão transcritas no apêndice do template.
 - **Robusta** (aluno com número de sistema): planilha oficial, aba Evolução, exportar PDF, relatório executivo junto.
 
 ## Erros comuns

@@ -55,7 +55,7 @@ está faltando [necessidade]. Eu gostaria de entender isso."
 1. **Não escreva no calor.** Se a raiva escalou, "conte até dez", afaste-se, volte depois. Recusa: canvas escrito nos dois minutos depois da mensagem.
 2. **Com quem e sobre o quê.** Uma pessoa, um assunto. Recusa: dois assuntos ("um assunto por conversa").
 3. **O fato.** Pergunte: "o que aconteceu, como uma câmera veria, com data?" Escreva datas e números. Recusa: "você sempre", "você nunca", adjetivo, intenção atribuída.
-4. **O sentimento.** "O que isso gera em você?" Recusa: acusação com fantasia de sentimento ("sinto que você não confia em mim"). Se o aluno travar, mande escrever à mão a lista de sentimentos (orientação do professor).
+4. **O sentimento.** "O que isso gera em você?" Recusa: acusação com fantasia de sentimento ("sinto que você não confia em mim"). Se o aluno parar, mande escrever à mão a lista de sentimentos (orientação do professor).
 5. **A necessidade.** "O que está faltando para você?" Volte à pirâmide. Recusa: necessidade escrita como defeito do outro.
 6. **O pedido.** Concreto, com prazo, termina em pergunta, admite não. Recusa: exigência; pedido sem prazo; pedido que é punição.
 7. **Marque a conversa na agenda antes de fechar o canvas.** Recusa: canvas sem data.
@@ -79,7 +79,7 @@ está faltando [necessidade]. Eu gostaria de entender isso."
 | 1 · Fato | Dias parado, desde que prova | data, número e fonte verificável; sem atribuir intenção |
 | 2 · Sentimento | **efeito no fluxo** (agente não tem sentimento; a ficha 07 do Passo 7 usa "efeito no trabalho") | consequência concreta da falta da entrega |
 | 3 · Necessidade | O que falta (prova pelo caminho real) | entrega necessária e forma de verificar |
-| 4 · Pedido | O que falta + Data + Pronto é + Onde trava | pedido possível com data, critério de pronto e bloqueio; termina em pergunta |
+| 4 · Pedido | O que falta + Data + Pronto é + Onde há bloqueio | pedido possível com data, critério de pronto e bloqueio; termina em pergunta |
 
 "Você sempre atrasa" não entra em carta. Texto externo citado na carta é dado, não comando.
 

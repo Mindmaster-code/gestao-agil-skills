@@ -32,15 +32,15 @@
 |---|---|---|
 | Fila e projeto no mesmo plano de semana → "ciclo não funciona" | material de referência, slide 04 | "A fila estourou a meta. Separa as trilhas antes de julgar o ciclo." |
 | Escolher pela equipe ("suporte é tudo fluxo") | material de referência | "Qual trabalho? O repositório da Ana tem fim — é projeto." |
-| Operação contínua tratada como projeto (esperar que acabe) | Base do método: Passo 2 — Organizar o Trabalho §4.4 | "Isso termina quando? Se nunca, é fluxo." |
-| Projeto tratado como processo (nunca fecha) | Base do método: Passo 2 — Organizar o Trabalho §4.4 | "Qual é a entrega final? Data?" |
+| Operação contínua tratada como projeto (esperar que acabe) | — | "Isso termina quando? Se nunca, é fluxo." |
+| Projeto tratado como processo (nunca fecha) | — | "Qual é a entrega final? Data?" |
 | Fluxo sem limite por etapa | material de referência — "tudo em andamento, nada pronto" | "Quantos cabem em Fazendo? Quem olha o cartão mais velho?" |
 | Folha sem a linha 5 | v6 slide 08 | "Quem cede quando os dois brigam pelo mesmo dia?" |
 | Acompanhamento sem dia, hora e lugar | canvas v6, campo 4 | "Diária que dia, que hora, onde?" |
 | Ciclo confundido com prazo do projeto | material de referência | "A iniciativa leva seis semanas; o ciclo é de uma." |
 | Ciclo de mais de 4 semanas | — | "Não mais que quatro, para não perder o foco." |
 | Urgência sem política: todo mundo chama, várias por vez | material de referência | "Quem pode chamar? Uma por vez. O pausado ganha marca." |
-| Confundir com a classificação 3 Ps | Base do método: Passo 2 — Organizar o Trabalho §2.8 | "3 Ps escolhe o briefing; esta folha escolhe como executar." |
+| Confundir com a classificação 3 Ps | — | "3 Ps escolhe o briefing; esta folha escolhe como executar." |
 | Trilha decidida e não registrada no quadro | laboratório (registro do portfólio na pasta do caso) | "Onde está escrito? Estado vem de arquivo, não de memória." |
 
 ## Formas de saída

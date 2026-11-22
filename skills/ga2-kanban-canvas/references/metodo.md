@@ -17,13 +17,8 @@ carteira de iniciativas**, que é o registro da carteira na pasta do caso.
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
- §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio).
- hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas
- 03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
 - Templates: folha individual «kanban-canvas-ga2.pdf» (artefato 07, v6) e
- `kanban-quadro-imprimir-ga2.pdf`; «Mod 03 — Kanban Mínimo GA2 Editável»;
-- Modelo operacional: modelo operacional de demandas §7–8
- (estados comuns, condições, Kanbans hierárquicos).
+ `kanban-quadro-imprimir-ga2.pdf`; «Kanban Mínimo GA2 Editável»;
 
 ## Como conduzir
 
@@ -49,9 +44,9 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 10. **Teste de bem feito:** alguém decide sem perguntar; as três políticas estão no quadro;
  cada cartão tem dono, idade e prova.
 
-## Dependência entre áreas (ficha B06)
+## Dependência entre áreas
 
-Os quadros conversam entre si: o cartão do quadro da liderança da organização se desdobra no quadro da área e depois no quadro de cada equipe. Quando uma equipe depende de outra, a dependência fica escrita no cartão e o cartão espera numa coluna própria. As duas equipes enxergam a mesma coisa, e ninguém descobre o atraso só na hora de precisar do material. O encontro entre as áreas leva de 20 a 45 minutos, toda semana, ou a cada quinze dias enquanto houver dependência importante. Dono: quem responde pelo processo ou pela entrega integrada. Fonte: ficha B06 e aula 9 do curso de rotinas.
+Os quadros conversam entre si: o cartão do quadro da liderança da organização se desdobra no quadro da área e depois no quadro de cada equipe. Quando uma equipe depende de outra, a dependência fica escrita no cartão e o cartão espera numa coluna própria. As duas equipes enxergam a mesma coisa, e ninguém descobre o atraso só na hora de precisar do material. O encontro entre as áreas leva de 20 a 45 minutos, toda semana, ou a cada quinze dias enquanto houver dependência importante. Dono: quem responde pelo processo ou pela entrega integrada.
 
 11. **Escreva a dependência no cartão,** no campo "depende de" (a área, a pessoa e a data de passagem) e, do outro lado, no campo "entrega para".
 12. **Crie a coluna "Aguardando outra área",** com limite próprio. O cartão que espera outra área vai para ela, com a data em que deve receber o que falta, e não volta para trás.
@@ -69,18 +64,18 @@ Os quadros conversam entre si: o cartão do quadro da liderança da organizaçã
 
 ## Bloqueio — três representações, uma escolhida
 
-O acervo tem três jeitos de mostrar cartão travado:
+O acervo tem três jeitos de mostrar cartão parado:
 
 | Representação | Onde aparece | Como funciona |
 |---|---|---|
 | A. Marca no cartão, coluna mantida | aula ao vivo (professor: "Kanban não dá ré") e aula de Trello | cartão fica onde estava, sinalizado em vermelho; métricas de tempo na coluna continuam válidas |
-| B. Coluna "Bloqueados" | template GA 2.0 `04-quadro-de-execucao` | cartão sai do fluxo para uma coluna própria, com "o que travou e quem destrava" |
+| B. Coluna "Bloqueados" | template GA 2.0 `04-quadro-de-execucao` | cartão sai do fluxo para uma coluna própria, com "o que parou e quem desbloqueia" |
 | C. Área "Impedimentos" separada | Canvas 7/7.1 e | o impedimento vira post-it numa área fora do fluxo; o cartão não se move |
 
 **Esta referência adota A**, por três motivos: é a única compatível com "Kanban não dá ré" (regra 13);
-o modelo operacional aprovado diz que "Bloqueada, Gate pendente e Apta para integração são
+a regra adotada diz que "Bloqueada, Gate pendente e Apta para integração são
 condições, não colunas"; e preserva a medida de dias parado por coluna. O cartão ganha a
-marca na coluna "Gate / trava" da carteira de iniciativas, com motivo, decisor e data do pedido.
+marca na coluna "Gate / bloqueio" da carteira de iniciativas, com motivo, decisor e data do pedido.
 A escolha da representação nos materiais do curso permanece uma divergência editorial; esta referência explicita a opção A e preserva as três origens.
 
 ## Regras do método que valem aqui
@@ -89,13 +84,13 @@ A escolha da representação nos materiais do curso permanece uma divergência e
 - Quadro mínimo: a fazer, fazendo, feito — e não pare nele.
 - Defina "pronto" por escrito antes de usar a coluna Feito.
 - Puxe, não empurre: só começa quando termina o anterior.
-- Kanban não dá ré: cartão travado fica parado e sinalizado, nunca volta.
+- Kanban não dá ré: cartão parado fica parado e sinalizado, nunca volta.
 - Políticas escritas no próprio quadro, onde valem.
 - Mais de um tipo de demanda = raias, não quadros soltos.
 - Cartão do tamanho de uma semana; vem do Backlog 2D, não se inventa no quadro.
 - Um quadro por contexto; quadros se conversam em hierarquia (carteira de iniciativas → área → projeto → pessoa).
 - "Um quadro que mente é pior que quadro nenhum."
-- Dependência boa é dependência à vista: o cartão diz de quem depende e para quem entrega, e espera em coluna própria. (aula 9; ficha B06)
+- Dependência boa é dependência à vista: o cartão diz de quem depende e para quem entrega, e espera em coluna própria.
 - Quando as áreas não têm alçada, a decisão sobe para quem responde pelo resultado comum.
 
 ## Saída
@@ -105,7 +100,7 @@ Os nomes abaixo são sugestões de organização, não dependências de reposit�
 - Quadro de uma frente ou área: quadro Kanban na pasta do caso (Diretriz prática: a aula não fixa caminho). Nome: `<area>-kanban.md`, ex.: `delivery-kanban.md`.
 - Kanban da carteira de iniciativas: registro da carteira na pasta do caso (já existe; esta skill é quem o mantém).
 - Cartão novo na carteira de iniciativas entra com as 6 linhas do padrão de comunicação
- (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava §1).
+ (registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde há bloqueio).
 - Depois: políticas de WIP e urgência (`ga2-politicas-wip-urgencia`), plano do ciclo
  (`ga2-plano-do-ciclo`), diária (`ga2-gestao-diaria`).
 - Dependência entre áreas: campos "depende de" e "entrega para" no cartão, coluna "Aguardando outra área" e acordos entre áreas com entradas, saídas e datas de passagem.
@@ -160,8 +155,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).
@@ -172,7 +166,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 |---|---|---|
 | Leve | uma pessoa, um caso, fila curta | quadro mínimo v6: 3 colunas, limite em Fazendo, "feito" escrito, revisão semanal de 15 min. Sem raias. |
 | Intermediária | uma área, 2–5 tipos de demanda | colunas do fluxo real, raias por tipo, cartão padrão completo, 5 políticas, marca de bloqueio |
-| Robusta | carteira de iniciativas de várias áreas | tudo acima + hierarquia de quadros, estados comuns do modelo operacional, dias parado e gate medidos, report semanal |
+| Robusta | carteira de iniciativas de várias áreas | tudo acima + hierarquia de quadros, estados comuns, dias parado e gate medidos, report semanal |
 
 Corte o que não tem dono de atualização. Coluna que ninguém move não existe.
 
@@ -182,7 +176,7 @@ Corte o que não tem dono de atualização. Coluna que ninguém move não existe
 - **Kanban no limbo:** ninguém atualiza; "está lá só para tirar foto".
 - **Kanban congestionado:** sem limite; tudo em andamento.
 - Cartão com nome de área ("Marketing") em vez de pessoa.
-- Mover cartão para trás quando trava — estraga a métrica.
+- Mover cartão para trás quando algo para — estraga a métrica.
 - Política num documento que ninguém abre, em vez de no quadro.
 - Cartão de iniciativa inteira (seis semanas) em vez de tarefa de uma semana.
 - Quadro com 14 colunas para impressionar; o responsável pela área lê no celular.

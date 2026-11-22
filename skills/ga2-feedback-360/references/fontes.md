@@ -7,6 +7,9 @@
 
 ## Procedência que saiu dos arquivos carregados (22/11/2026)
 
+- Fonte: ficha E02, aula 6 e folha de revisão de desempenho.
+- Fonte: ficha D03, aula 6 e folha de feedback e reconhecimento.
+- Fonte: ficha D04 e folha de feedback e reconhecimento.
 - Fichas E02 (revisar desempenho e alinhar sua evolução), D03 (dar feedback sobre comportamentos e entregas) e D04 (reconhecer contribuições e comportamentos úteis) do Guia completo de rotinas de gestão; aula 6 (seções 3 e 4) do curso de rotinas; folha de revisão de desempenho (revisão de desempenho) e T06 (feedback e reconhecimento), para as três seções novas.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.

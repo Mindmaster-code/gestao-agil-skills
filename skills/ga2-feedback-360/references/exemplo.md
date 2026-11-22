@@ -86,8 +86,8 @@ Nair é chefe de salão de um restaurante. Em 05/11/2026, chamou o garçom Caio 
 |---|---|
 | 1. Fato com data | "Ontem, 04/11/2026, no almoço, o pedido da mesa 7 saiu sem a conferência da comanda." |
 | 2. Efeito | "O prato voltou à cozinha, e a mesa esperou uns 15 minutos a mais." |
-| 3. Pergunta | "Como você viu o almoço de ontem?" Caio respondeu que a comanda impressa travou e que estava sozinho no salão. Nair ouviu até o fim. |
-| 4. Combinado | Quando a impressora travar, Caio chama Nair e não segue sem conferir. Nair coloca mais uma pessoa no salão no horário de pico. |
+| 3. Pergunta | "Como você viu o almoço de ontem?" Caio respondeu que a comanda impressa parou e que estava sozinho no salão. Nair ouviu até o fim. |
+| 4. Combinado | Quando a impressora parar, Caio chama Nair e não segue sem conferir. Nair coloca mais uma pessoa no salão no horário de pico. |
 | Retorno | 12/11/2026 |
 
 ## Reconhecimento (exemplo de outro ramo)

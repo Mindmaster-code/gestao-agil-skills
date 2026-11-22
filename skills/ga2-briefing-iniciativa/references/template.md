@@ -77,7 +77,7 @@ Depois de escolher, preencha o **núcleo comum** e só a variante do tipo. Apagu
 | **Recursos e custo estimado** — horas, R$ de materiais ou serviços, ferramenta <!-- c:recursos --> | |
 | **Linha do tempo** — início → marcos → fim <!-- c:linha_do_tempo --> | |
 | **Riscos e plano B** — o que pode dar errado → o que fazemos <!-- c:riscos --> | 1. ______ → ______ · 2. ______ → ______ |
-| **Onde trava** — o que só outra pessoa destrava (gate, decisão, acesso) | |
+| **Onde há bloqueio** — o que só outra pessoa desbloqueia (gate, decisão, acesso) | |
 
 ## Teste final
 

@@ -7,7 +7,7 @@ Ritual (equipe)
 - [ ] Em frente ao quadro (físico ou tela compartilhada).
 - [ ] Meta do ciclo lida no alto, antes de qualquer cartão.
 - [ ] Quadro percorrido da direita para a esquerda.
-- [ ] Cada pessoa fala apontando o cartão: entreguei · puxo hoje · me trava.
+- [ ] Cada pessoa fala apontando o cartão: entreguei · puxo hoje · me impede.
 - [ ] Impedimento anotado com dono e prazo; resolvido depois, fora da reunião.
 - [ ] Cartões movidos e bloqueios marcados durante a reunião.
 - [ ] Durou até 15 min; tempo real registrado.
@@ -20,11 +20,11 @@ Diária entre agentes
 - [ ] Cadência conferida por arquivo (reports e registros do ciclo), não por memória.
 - [ ] Compromisso do plano que perdeu a data marcado `atrasado dd/mm` hoje.
 - [ ] Uma cobrança escolhida pelo critério: dinheiro/meta → processo bloqueado → mais dias parado.
-- [ ] Cobrança por escrito com as 6 linhas (o que, por que, dono, pronto é, prazo, onde trava).
+- [ ] Cobrança por escrito com as 6 linhas (o que, por que, dono, pronto é, prazo, onde há bloqueio).
 - [ ] Registro de 5 linhas escrito, salvo e versionado.
 - [ ] Levou menos de 10 min.
 
-Modo pessoal (fichas F05 e F06)
+Modo pessoal
 - [ ] O fechamento levou de 5 a 15 minutos e o preparo, de 5 a 10.
 - [ ] O quadro está em dia: cartões movidos, bloqueios marcados e o que falta escrito.
 - [ ] Cada compromisso ou risco de prazo teve retorno a quem espera, com data nova e o nome de quem dá o próximo retorno. Quem envia é a pessoa.
@@ -38,7 +38,7 @@ Modo pessoal (fichas F05 e F06)
 |---|---|---|
 | Relatório para o chefe | cada um olha para o gestor, não para o quadro | pares falando do cartão; gestor cala |
 | Debate na diária | 40 min, um só impedimento | anotar com dono; resolver depois |
-| Agenda em vez de cartão | "hoje tenho reunião às 10, depois…" | "cartão X: entreguei, puxo, trava" |
+| Agenda em vez de cartão | "hoje tenho reunião às 10, depois…" | "cartão X: entreguei, puxo, bloqueio" |
 | Sem meta no alto | ninguém sabe por que está fazendo | copiar a meta do plano no topo |
 | Quadro atualizado em lote | sexta de manhã todo mundo move 10 cartões | mover na diária, todo dia |
 | Impedimento sem dono | reaparece três dias seguidos | dono + prazo + "com quem" |

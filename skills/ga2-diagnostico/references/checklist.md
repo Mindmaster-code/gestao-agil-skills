@@ -30,7 +30,7 @@
 | Medidas desencontradas | contexto fala de custo, meta fala de prazo | escolher uma medida e reescrever |
 | Gap pequeno virando A3 | projeto para mover 1 ponto sem efeito | executar e arquivar sem A3 |
 | Linha de base tardia | escrita depois de mudar | voltar ao log/histórico e reconstruir o "antes", com data |
-| Contexto enorme | checklist de 10 itens da A05 preenchido em prosa | v6: 2–3 frases; escopo e envolvidos vão para o briefing |
+| Contexto enorme | checklist de 10 itens da aula preenchido em prosa | v6: 2–3 frases; escopo e envolvidos vão para o briefing |
 
 ## Formas de saída
 

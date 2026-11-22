@@ -5,8 +5,8 @@
 
 Preenchido com a pessoa em: 01/09/2026 · Líder: Mariana · Ciclo: 01–30/09/2026.
 
-Travas conferidas no cenário: de saída? não · afogado? não · salário desalinhado? não.
-Se uma dessas travas existisse, o PDI aguardaria sua resolução.
+Bloqueios conferidas no cenário: de saída? não · afogado? não · salário desalinhado? não.
+Se uma dessas bloqueios existisse, o PDI aguardaria sua resolução.
 
 | Campo | Resposta |
 |---|---|

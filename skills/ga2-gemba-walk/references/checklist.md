@@ -2,7 +2,7 @@
 
 ## Bem feito quando
 
-- [ ] O gemba é o passo que mais trava, não o mais cômodo.
+- [ ] O gemba é o passo que mais emperra, não o mais cômodo.
 - [ ] A pergunta foi escrita antes de ir e não começa com "quem".
 - [ ] Olhou quem executa (log, arquivo, tela, agente dono) — não o report de quem fez.
 - [ ] "O que eu vi" tem só fatos: linha do log, data, texto, número.

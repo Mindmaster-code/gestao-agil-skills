@@ -33,7 +33,7 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 
 ## Como conduzir (: 20 min sozinho + 30 min com a pessoa)
 
-1. **Confira as três travas.** "Ela está de saída? afogada? com salário torto?" Se sim, pare: PDI não resolve impedimento.
+1. **Confira as três bloqueios.** "Ela está de saída? afogada? com salário torto?" Se sim, pare: PDI não resolve impedimento.
 2. **Pessoa e momento.** Cargo, tempo de casa e o fato de agora ("o Bruno ficou sozinho no time"). Recusa: cabeçalho sem o momento.
 3. **Hipótese sozinho (20 min):** objetivo, forças, lacunas. Objetivo é **frase de trabalho**: "resolver sozinho o caso fora do padrão e sustentar o número do painel". Recusa: frase de carreira ou de traço ("ser mais proativo").
 4. **Forças a alavancar.** Verbo alavancar, não elogiar: o que ela já faz bem que o objetivo usa. Recusa: lista de adjetivos.
@@ -45,9 +45,9 @@ ciclo (semanas). A fonte registra a diferença; não presuma unificação. Decla
 10. **Marco e prazo:** "12 de fevereiro, um mês publicando sem passar por mim". Recusa: sem data.
 11. **Como vou acompanhar:** conversa que já existe com um assunto a mais. Recusa: reunião nova só para o PDI.
 
-## Modo PDI do próprio líder (ficha G08)
+## Modo PDI do próprio líder
 
-Serve ao líder que quer ampliar uma competência que limita ou amplia a contribuição dele. É um PDI de si mesmo: os mesmos campos da v6, mais um percurso curto de estudo ligado a um problema real. Semanal, com revisão mensal da aplicação. Fonte: ficha G08 do Guia completo de rotinas de gestão. O Feedback 360 como ponto de partida (`ga2-feedback-360`) e a nota "faça o PDI primeiro do líder que segura seu gargalo" (Kit) vêm do método.
+Serve ao líder que quer ampliar uma competência que limita ou amplia a contribuição dele. É um PDI de si mesmo: os mesmos campos da v6, mais um percurso curto de estudo ligado a um problema real. Semanal, com revisão mensal da aplicação. O Feedback 360 como ponto de partida (`ga2-feedback-360`) e a nota "faça o PDI primeiro do líder que segura seu gargalo" (Kit) vêm do método.
 
 1. **Escolha uma competência** que limita ou amplia a sua contribuição atual. Uma por ciclo. A melhor fonte é o seu Feedback 360 (os padrões que duas ou mais pessoas apontaram); sem ele, use uma situação recente em que a falta dessa competência custou tempo ou resultado.
 2. **Defina o problema real em que vai aplicar:** uma situação do seu trabalho nas próximas semanas. Recuse "estudar o assunto" sem um caso.
@@ -57,15 +57,15 @@ Serve ao líder que quer ampliar uma competência que limita ou amplia a contrib
 
 Como os campos da v6 se encaixam: objetivo = o problema real; lacuna = a competência; 70% = a aplicação no caso real; 20% = o retorno de quem viu e a troca com um mentor, colega ou especialista; 10% = a fonte de estudo; marco = a revisão mensal; como vou acompanhar = os blocos marcados na agenda. Mentalidade de crescimento: "eu não sou bom nisso ainda". Se a agenda não tem espaço para os blocos, o problema é capacidade e não competência: comece por `ga2-agenda-do-lider` e `ga2-delegacao`.
 
-## Roteiro da conversa de carreira (ficha E04)
+## Roteiro da conversa de carreira
 
-Conversa do líder direto com uma pessoa do time sobre o que ela deseja assumir e sobre os caminhos possíveis. Semestral, ou quando houver mudança relevante de função ou de interesse, com 45 a 60 minutos. O registro dos acordos é reservado: a conversa e o roteiro ficam no chat, e o registro só é guardado onde o líder escolher, em destino privado. A ficha E04 não tem aula de origem; o roteiro usa o apêndice de carreira que já existe no `template.md` (versão ao vivo, canvas `pdi-kit`: objetivos de carreira de curto prazo, 1 ano; de médio, 2 a 3 anos; de longo, 5 anos ou mais) e o Mapa de Motivação 3.0 (Passo 6 §4.6). O PDI que nascer da conversa segue a v6, como o resto desta referência.
+Conversa do líder direto com uma pessoa do time sobre o que ela deseja assumir e sobre os caminhos possíveis. Semestral, ou quando houver mudança relevante de função ou de interesse, com 45 a 60 minutos. O registro dos acordos é reservado: a conversa e o roteiro ficam no chat, e o registro só é guardado onde o líder escolher, em destino privado. O roteiro usa o apêndice de carreira que já existe no `template.md` (versão ao vivo, canvas `pdi-kit`: objetivos de carreira de curto prazo, 1 ano; de médio, 2 a 3 anos; de longo, 5 anos ou mais) e o Mapa de Motivação 3.0. O PDI que nascer da conversa segue a v6, como o resto desta referência.
 
 1. **Ouça o que move a pessoa antes de falar de cargo:** autonomia (decidir como trabalha), maestria (ficar cada vez melhor) ou propósito (servir a algo maior). Pergunta: "Que parte do seu trabalho você faria mesmo se ninguém pedisse?" Deixe o silêncio. Pergunte, não anuncie.
 2. **Ouça o tipo de trabalho e de responsabilidade que ela deseja assumir,** nos horizontes do apêndice: curto (1 ano), médio (2 a 3 anos) e longo (5 anos ou mais).
 3. **Examine forças, experiências e lacunas** ligadas à direção escolhida, com fatos.
 4. **Explique as oportunidades, os critérios e as restrições que você conhece.** Diga o que você pode fazer, o que depende de outras pessoas e o que você não sabe. Não prometa posição, promoção, aumento nem vaga: isso é decisão de quem tem a alçada.
-5. **Combine experiências de desenvolvimento** e formas de demonstrar preparo. Se a pessoa quiser, leve o combinado para um PDI: uma lacuna por ciclo, ações 70-20-10 e marco com data. As três travas do PDI (de saída, afogada ou com salário torto) valem para o PDI e não para a conversa: se existir alguma, a conversa acontece e o PDI espera a trava ser resolvida.
+5. **Combine experiências de desenvolvimento** e formas de demonstrar preparo. Se a pessoa quiser, leve o combinado para um PDI: uma lacuna por ciclo, ações 70-20-10 e marco com data. As três bloqueios do PDI (de saída, afogada ou com salário torto) valem para o PDI e não para a conversa: se existir alguma, a conversa acontece e o PDI espera o bloqueio ser resolvida.
 6. **Marque o retorno,** com data e com o nome de quem dá o próximo passo. Registre o que foi dito em lugar reservado.
 
 Se não houver oportunidade disponível, diga com clareza e avalie alternativas viáveis; intenção não vira promessa de promoção. Se o assunto virar remuneração ou outra decisão fora da sua alçada, encaminhe a quem decide, com apoio da área de pessoas quando houver, e registre. No acompanhamento, revise as experiências realizadas e as evidências de preparo, e registre mudanças de interesse ou de contexto da organização.
@@ -90,7 +90,7 @@ Se não houver oportunidade disponível, diga com clareza e avalie alternativas 
 | Lacuna | uma por ciclo |
 | 70% | uso real em projeto da organização |
 | 20% | revisão da coordenação ou do dono da área (mensagem escrita ou relato do fim da semana) |
-| 10% | leitura da base do método e da aula original disponível |
+| 10% | leitura do material do método |
 | Marco | data e prova pelo caminho real |
 | Acompanhar | bloco do relato do fim da semana, não ritual novo |
 
@@ -159,8 +159,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
 escreva "não definido" — nunca atribua tudo ao usuário.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.

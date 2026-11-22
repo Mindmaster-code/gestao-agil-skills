@@ -100,7 +100,7 @@ Pendente: Lucas, responsável pela operação, decidirá após o piloto e o test
 ## Teste de bem feito
 
 - [ ] Lucas, sem executar a conferência habitual, tentará o POP com um lote de teste em 15/09.
-- [ ] Mariana registrará travas e corrigirá o documento antes de pedir aprovação.
+- [ ] Mariana registrará bloqueios e corrigirá o documento antes de pedir aprovação.
 - [ ] Resultado ainda não existe; não declarar que alguém executou.
 
 ## 14. Cobertura e substituto (exemplo de outro ramo)
@@ -114,6 +114,6 @@ Rosângela coordena o departamento pessoal de um escritório de contabilidade. A
 
 | Campo | Resposta |
 |---|---|
-| Execução que vai demonstrar o preparo | Júlio fecha a folha de novembro em 27/11/2026, e o POP é corrigido onde ele travar |
+| Execução que vai demonstrar o preparo | Júlio fecha a folha de novembro em 27/11/2026, e o POP é corrigido onde ele parar |
 | Contatos de escalada | Rosângela e o sócio responsável pelo departamento |
 | Lição para compartilhar | O setor fiscal também depende de uma pessoa só para as guias; Rosângela leva a lição à reunião do setor |

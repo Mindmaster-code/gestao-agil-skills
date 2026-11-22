@@ -32,7 +32,7 @@ e do individual onde indicado. Campo que nenhum template tem vem marcado como ex
 
 | | |
 |---|---|
-| Tempo disponível por semana (`--help` 08) <!-- c:tempo_disponivel --> | __ dias-pessoa ou horas |
+| Tempo disponível por semana (versão individual) <!-- c:tempo_disponivel --> | __ dias-pessoa ou horas |
 | 70% planejável | |
 | Nº máximo de compromissos | |
 
@@ -92,7 +92,7 @@ Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planej
 |---|---|---|
 | | | |
 
-## Como vou saber que o ciclo foi bom (`--help` 08) <!-- c:sucesso -->
+## Como vou saber que o ciclo foi bom (versão individual) <!-- c:sucesso -->
 
 | | |
 |---|---|

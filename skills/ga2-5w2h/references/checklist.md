@@ -24,7 +24,7 @@ Orçamento
 ## Erros comuns (da aula e desta adaptação)
 
 - "Quem" com dois nomes.
-- "Quando" = "em breve" (Passo 0 §4.6).
+- "Quando" = "em breve".
 - "Quanto" em branco — perde a ligação com o ROI.
 - Lista de tarefa sem ligação com a causa raiz.
 - Plano escrito antes de fechar o lado esquerdo do A3 (ordem do método).

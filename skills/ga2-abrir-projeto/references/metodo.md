@@ -48,9 +48,9 @@ Se o pedido for apenas por pastas, crie apenas a estrutura. Dados ausentes ficam
 Mantenha a pasta e o histórico. A estrutura anterior pode mapear visão e contexto para abertura, evidências para suas fases e operação para continuidade.
 Esse mapa orienta a navegação; não autoriza mover arquivos ou renomear pastas sem necessidade e sem considerar os links existentes.
 
-## Pasta de área ou de rotina (ficha F08)
+## Pasta de área ou de rotina
 
-Para o trabalho que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas e os registros de uma equipe. O projeto tem começo, meio e fim e usa as seis pastas acima. A área ou a rotina precisa que as pessoas encontrem a versão vigente, saibam quem responde por ela e tenham o acesso certo. Dono: o dono da informação ou do processo. Fonte: ficha F08 do Guia completo de rotinas de gestão.
+Para o trabalho que continua, sem data de encerramento: os procedimentos de um setor, os modelos de um escritório, as escalas e os registros de uma equipe. O projeto tem começo, meio e fim e usa as seis pastas acima. A área ou a rotina precisa que as pessoas encontrem a versão vigente, saibam quem responde por ela e tenham o acesso certo. Dono: o dono da informação ou do processo.
 
 **O que a pasta tem à vista**
 

@@ -38,7 +38,7 @@
   {
     "id": "positive-05-visual",
     "type": "positive",
-    "prompt": "Me mostre visualmente onde esse fluxo trava e qual decisão o quadro pede.",
+    "prompt": "Me mostre visualmente onde esse fluxo emperra e qual decisão o quadro pede.",
     "expected_skills": ["ga2-me-mostra"],
     "expected_behavior": "Gerar um visual curto em HTML, distinguir fato, estimativa e ponto em aberto e destacar a decisão.",
     "expected_result_shape": "HTML responsivo com pergunta, leitura direta, visual principal, provas e próximo passo.",

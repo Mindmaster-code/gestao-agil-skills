@@ -49,14 +49,14 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 9. **Checkpoint do Plano** (uma vez, ao fim do planejamento, depois da matriz e do backlog):
  as cinco perguntas do template, bloco 4. Sai "solta para executar" ou "volta e conserta".
 10. **Check-in semanal** (toda semana, 5–15 min, do 1º dia ao fim do ciclo): número de hoje
- por KR, nota 0–1 pelo de/para, o que mexeu, o que trava, ação até a próxima com dono.
+ por KR, nota 0–1 pelo de/para, o que mexeu, o que impede, ação até a próxima com dono.
  Template, bloco 3. Recusa: check-in sem número ("OKR escrito, não feito").
 
 ## Regras do método que valem aqui
 
 - **Pedra grande primeiro.** OKR antes de iniciativa, iniciativa antes de backlog.
-- **Poucos OKR:** 1 a 3 objetivos; 2 a 5 KR por objetivo. No primeiro ciclo, 1 objetivo e até 3 KR (Kit, editável Mod 2).
-- **Objetivo é direção sem número; KR é número sem atividade** (apostila p. 8; /04).
+- **Poucos OKR:** 1 a 3 objetivos; 2 a 5 KR por objetivo. No primeiro ciclo, 1 objetivo e até 3 KR (Kit, modelo editável).
+- **Objetivo é direção sem número; KR é número sem atividade**.
 - **KR em formato de/para com prazo**.
 - **Prefira medir resultado, não esforço**. "Lançar 4 produtos" é KR; "criar reunião de inovação" é tarefa.
 - **Toda iniciativa aponta para um KR.** Se não move número, é ocupação.
@@ -116,12 +116,12 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 - KR sem número de partida ou sem fonte: ninguém sabe a nota.
 - Três colunas de objetivo preenchidas no primeiro trimestre (Kit).
 - OKR imposto de cima, copiado da empresa para a área.
-- Usar os exemplos de A07 e A09 como modelo de KR — são tarefas; use A06 e o Kit (nota metodológica: exemplos de KR do Passo 2).
+- Usar como modelo de KR exemplos que são tarefas; use os exemplos do Kit.
 - Número de grupo sem rotular a empresa: cada empresa tem sua fonte e seu responsável pelo número.
 - Plano sem check-in na agenda: "separa quem faz OKR de quem só escreveu OKR".
 
 ## Divergências anotadas
 
-- Limite de KR: aula 2–5; editável Mod 2, Ficha e Kit 3; `Template+OKR+Canvas` 4. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
-- Template `Mod 02/02-template-okr-ga2-paisagem` é defeituoso (só campo para KR 1). Use o `Mod 2/06-template-okr`.
+- Limite de KR: aula 2–5; modelo editável, Ficha e Kit 3; `Template+OKR+Canvas` 4. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
+- Template o modelo editável é defeituoso (só campo para KR 1). Use o o modelo editável.
 - Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é a partir do roteiro.

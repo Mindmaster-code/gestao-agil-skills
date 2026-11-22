@@ -17,20 +17,20 @@ Na cadeia: Plano do ciclo → Review → **Retro** → PDCA / Quadro Kaizen → 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 - Templates: v6 «Canvas Editável — Retrospectiva»;
- «Mod 05 — Retrospectiva GA2 Editável»;
+ «Retrospectiva GA2 Editável»;
  individual folha individual «retrospectiva-ga2.pdf».
 
 ## As 4 versões do formato
 
 | Versão | Colunas | Ação |
 |---|---|---|
-| A08 ao vivo / v6 | Manter · Melhorar · **Parar** | uma, dono e prazo (o exemplo v6 tem dono, não tem data) |
-| Legado A08 "Reflexões da Equipe" | Funcionou bem · Podia ser melhor · **Vamos tentar** | uma mudança por sprint (Kit) |
-| Mod 05 editável | Funcionou · Atrapalhou · Manter · Ajustar | uma, dono e prazo |
-| `--help` 11 (individual) | Foi bem · Não foi bem · Vou mudar | "1 ou 2 experimentos" — contradiz a v6 |
+| curso ao vivo / v6 | Manter · Melhorar · **Parar** | uma, dono e prazo (o exemplo v6 tem dono, não tem data) |
+| versão anterior "Reflexões da Equipe" | Funcionou bem · Podia ser melhor · **Vamos tentar** | uma mudança por sprint (Kit) |
+| modelo editável | Funcionou · Atrapalhou · Manter · Ajustar | uma, dono e prazo |
+| versão individual | Foi bem · Não foi bem · Vou mudar | "1 ou 2 experimentos" — contradiz a v6 |
 
 O Gestor usa **Manter / Melhorar / Parar** (v6) e aceita "começou / parou / continuou" como
-leitura da mesma folha olhando para trás. A regra de uma ação vence o `--help` 11.
+leitura da mesma folha olhando para trás. A regra de uma ação vence o versão individual.
 
 ## Como conduzir (20–30 min, sexta 14h)
 
@@ -121,8 +121,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

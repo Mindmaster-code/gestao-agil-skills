@@ -18,7 +18,7 @@ Mantenha o registro no local oficial da equipe, com acesso adequado. Informaçã
 
 ## 1. Registro de compromissos e ações (registro de compromissos e decisões, página 1)
 
-Estados: **em execução** (alguém está fazendo agora), **aguardando** (espera resposta ou entrega de outra pessoa), **travado** (não anda sem ajuda ou decisão de alguém), **concluído** (pronto, com a evidência anotada) e **cancelado** (saiu do plano, com o motivo anotado).
+Estados: **em execução** (alguém está fazendo agora), **aguardando** (espera resposta ou entrega de outra pessoa), **parado** (não anda sem ajuda ou decisão de alguém), **concluído** (pronto, com a evidência anotada) e **cancelado** (saiu do plano, com o motivo anotado).
 
 | Assunto ou ação | Dono | Data | Evidência | Estado (escreva um dos cinco) |
 |---|---|---|---|---|

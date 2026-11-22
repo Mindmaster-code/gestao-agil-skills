@@ -15,7 +15,7 @@
 - [ ] Número de dinheiro vem com a empresa (identifique a empresa correta).
 - [ ] Entrou no placar de sexta em três linhas: testou / achou / agora.
 
-Testar ferramenta ou fornecedor (ficha B10)
+Testar ferramenta ou fornecedor
 - [ ] O recurso crítico tem responsável interno e data de decisão, e a renovação mais próxima veio primeiro.
 - [ ] A dor tem prova, e a linha de base do tempo gasto foi medida antes do teste.
 - [ ] O critério foi escrito antes de rodar, com o tempo devolvido como número.

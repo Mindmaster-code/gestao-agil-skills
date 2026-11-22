@@ -58,7 +58,7 @@ preenchem antes; a 6 no fim, com o resultado junto. Matar é resultado bom.
 - Pequeno, com prazo, sem tocar o guardrail nem o caminho quente. Acabou o prazo, morre ou vira decisão. (política de inovação, limites descritos nesta referência)
 - Taxa de falha alta não é problema; falta de experimento é — quem não rodou aparece pelo nome. (regras do placar descritas nesta referência)
 - Acerto que mexe em dinheiro/preço/produto ou falha que virou risco: report na hora, não na sexta.
-- Ferramenta que não devolve tempo não entra: o teste curto mede o tempo devolvido, e a decisão é manter, ajustar, substituir ou encerrar. (aula 9; ficha B10)
+- Ferramenta que não devolve tempo não entra: o teste curto mede o tempo devolvido, e a decisão é manter, ajustar, substituir ou encerrar.
 
 ## Como cobrar áreas sem experimento (papel de quem conduz o método)
 
@@ -67,7 +67,7 @@ Ritmo: pelo menos 1 experimento novo por área por quinzena, registrado antes de
 1. Na quinta, consulte o registro de experimentos de cada área e conte folhas com data nos últimos 14 dias.
 2. Área sem folha → cobrança ao responsável pela área: item "barbell — experimento da quinzena"; pronto é = registro salvo com perguntas 1–5 preenchidas; prazo = sexta do placar.
 3. Folha sem pergunta 1 com prova, ou critério escrito depois → conta como não rodado; a cobrança por escrito diz qual pergunta falta.
-4. Duas quinzenas sem folha → nome no bloco "O que trava" do relatório ao responsável pela coordenação. Quem conduz o método cobra o registro; não julga a ideia — isso é de quem responde pela área.
+4. Duas quinzenas sem folha → nome no bloco "O que impede" do relatório ao responsável pela coordenação. Quem conduz o método cobra o registro; não julga a ideia — isso é de quem responde pela área.
 
 ## Como compilar o placar (a pessoa responsável pela coordenação compila; quem conduz o método prepara)
 
@@ -78,9 +78,9 @@ esperando sim da autoridade competente em destaque. Quem não rodou, pelo nome. 
 apêndice. Teste antes de enviar: "quem decide entende sem perguntar nada?" O texto do canal de comunicação
 e o arquivo são o mesmo; divergiu, vale o arquivo.
 
-## Modo: testar uma ferramenta ou um fornecedor (ficha B10)
+## Modo: testar uma ferramenta ou um fornecedor
 
-A regra é uma só: ferramenta que não devolve tempo não entra. Antes de renovar ou de contratar uma ferramenta ou um fornecedor crítico, gaste de 30 a 60 minutos para avaliar, e faça o teste curto com esta folha. A revisão dos itens críticos é mensal, e a de cada item vem antes da renovação. Dono: o responsável pelo recurso ou pelo contrato, com os usuários, o financeiro e os especialistas conforme a decisão. Fonte: ficha B10 e aula 9 do curso de rotinas.
+A regra é uma só: ferramenta que não devolve tempo não entra. Antes de renovar ou de contratar uma ferramenta ou um fornecedor crítico, gaste de 30 a 60 minutos para avaliar, e faça o teste curto com esta folha. A revisão dos itens críticos é mensal, e a de cada item vem antes da renovação. Dono: o responsável pelo recurso ou pelo contrato, com os usuários, o financeiro e os especialistas conforme a decisão.
 
 **Aviso de alçada.** Esta habilidade conduz o teste e a decisão pelo tempo devolvido. Preço, contrato, contratação e cancelamento seguem as alçadas da organização e os termos aplicáveis. Chame o especialista quando houver impacto técnico ou contratual. O teste não assina contrato nem cancela nada.
 
@@ -100,7 +100,7 @@ Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Do
 
 - Folha: registro de experimento da área, com data e nome, no destino escolhido (modelo em `template.md`; as áreas que já têm `modelo-folha-de-experimento.md` usam o delas).
 - Placar: placar com data no destino escolhido (sexta), `mensal-AAAA-MM.md` (primeira semana do mês).
-- Carteira de iniciativas: cartão de acompanhamento de experimentos atualizado com a contagem por área; área sem folha entra na coluna "Gate / trava".
+- Carteira de iniciativas: cartão de acompanhamento de experimentos atualizado com a contagem por área; área sem folha entra na coluna "Gate / bloqueio".
 - Teste de ferramenta: tabela de ferramentas, com a decisão e o tempo devolvido, e o plano de transição quando houver troca.
 - Escalou → vira cartão novo na carteira de iniciativas com dono e "pronto é"; problema grande → ciclo completo de DT, um por mês por área.
 
@@ -156,8 +156,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
 escreva "não definido" — nunca atribua tudo ao usuário.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.

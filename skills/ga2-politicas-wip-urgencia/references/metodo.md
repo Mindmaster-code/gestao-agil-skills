@@ -15,11 +15,8 @@ como decisão de calibragem na retrospectiva.
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
- 9–14, §4.10 (limites — sem template), §4.11 (urgência — sem template), §6 itens 4–5.
 - Política de urgência v6: cinco linhas transcritas em `template.md` — o que é, quem chama, quantas, pausado e onde fica escrito.
-- Templates: só slides. «Mod 03 — Políticas do Quadro GA2 Editável» e
-- Classe de atendimento: modelo operacional de demandas §8 (limite
- por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
+- Templates: só slides. «Políticas do Quadro GA2 Editável» e
 
 ## Como conduzir
 
@@ -27,7 +24,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 1. **Conte o que está em andamento hoje, por coluna e por pessoa.** Pergunta: "Quantos cartões
  cada um tem começados e não terminados?" Escreva o número real.
-2. **Ponto de partida: o que está em andamento menos um** (material de referência). A apostila sugere
+2. **Ponto de partida: o que está em andamento menos um** (material de referência). O material sugere
  "pessoas ÷ 2 por etapa" — não está em aula; use só como segunda referência.
  Recuse "vamos sem limite por enquanto": nunca Kanban sem limite, inclusive dentro do ciclo.
 3. **Escreva o limite no topo de cada coluna de execução.** Fila (A fazer) e Feito não têm
@@ -44,7 +41,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 ### Parte 2 — Política de urgência (cinco linhas, material de referência)
 
 8. **O que é urgente aqui.** Pergunta: "O que conta como incêndio?" Escreva em uma linha.
- Modelo v6: "cliente parado, receita travada ou risco legal; o resto entra na fila".
+ Modelo v6: "cliente parado, receita parada ou risco legal; o resto entra na fila".
 9. **Quem pode chamar.** Uma pessoa só. "Urgência que qualquer um decreta deixa de ser urgência."
 10. **Quantas cabem por vez.** Uma. A segunda espera a primeira terminar. Na prática, a carteira de iniciativas
  reserva **2 vagas** na raia de urgência (uma por área, porque
@@ -58,7 +55,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 14. **Ligue o contador.** Por ciclo: quantas urgências entraram · o que tiraram do plano · quem foi
  avisado. Uma ou duas o ritmo absorve; metade do quadro em vermelho é sintoma → pauta da retro.
 
-### Parte 3 — Classe Crítica (modelo operacional do método)
+### Parte 3 — Classe Crítica
 
 15. Neste modelo, toda demanda tem **classe de atendimento**: Crítica, Com prazo ou Normal. Crítica =
  "dano relevante acontecendo agora". O solicitante pode sugerir; quem valida e interrompe é o
@@ -69,9 +66,9 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
  com o custo da troca registrado. Mensagem escrita com comando no escopo do remetente é executada e
  arquivada; não vira urgência por si.
 
-### Parte 4: antes de abrir vaga (ficha E06)
+### Parte 4: antes de abrir vaga
 
-O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?"** vem antes de qualquer pedido de contratação. Serve a quem responde pela área, antes de abrir vaga ou mudar a estrutura, e a cada revisão trimestral. Conversa com a operação, o financeiro e a área de pessoas, conforme a decisão. Fonte: ficha E06 do Guia completo de rotinas de gestão; a regra "contratar é a última saída" é da aula A19.
+O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?"** vem antes de qualquer pedido de contratação. Serve a quem responde pela área, antes de abrir vaga ou mudar a estrutura, e a cada revisão trimestral. Conversa com a operação, o financeiro e a área de pessoas, conforme a decisão.
 
 18. **Ache a etapa em que a fila se forma,** com os três sinais do passo 5: a coluna mais cheia, o cartão mais velho e quanto o time entrega por semana. Se faltarem dados, observe o trabalho antes de assumir um quadro definitivo.
 19. **Pergunte, uma de cada vez:**
@@ -81,9 +78,9 @@ O bloco **"Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver al
 20. **Só então descreva o perfil necessário e o benefício esperado** da contratação, ligados a resultados e a uma capacidade que dá para verificar. Contratação depende de orçamento e de autoridade aprovados: leve a decisão a quem a tem.
 21. **Revise o efeito da decisão** sobre entrega, carga e custo, e atualize a previsão quando a demanda mudar.
 
-### Parte 5: canal oficial por tipo de pedido (ficha F10)
+### Parte 5: canal oficial por tipo de pedido
 
-Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.md`) e a política de urgência da Parte 2. Define onde os pedidos entram, onde as decisões ficam registradas e como o assunto urgente chega às pessoas, para que a equipe responda com previsibilidade. Dono: o gestor da equipe ou quem cuida da comunicação. Definição inicial de 30 a 45 minutos; revisão mensal ou quando houver falhas recorrentes. Fonte: ficha F10 do Guia completo de rotinas de gestão. Escolher o aplicativo de mensagem em si fica fora desta habilidade.
+Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.md`) e a política de urgência da Parte 2. Define onde os pedidos entram, onde as decisões ficam registradas e como o assunto urgente chega às pessoas, para que a equipe responda com previsibilidade. Dono: o gestor da equipe ou quem cuida da comunicação. Definição inicial de 30 a 45 minutos; revisão mensal ou quando houver falhas recorrentes. Escolher o aplicativo de mensagem em si fica fora desta habilidade.
 
 22. **Liste os tipos de pedido e os canais que usam hoje** (conversa de corredor, mensagem, e-mail, ligação). Pergunta: "Por onde chegou o último pedido de cada tipo?"
 23. **Defina um canal oficial de entrada por tipo de pedido** e onde a decisão fica registrada. A demanda entra pelo quadro.
@@ -100,10 +97,10 @@ Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.m
 - "Pare de começar, comece a terminar."
 - Política de urgência escrita antes, no alto do quadro: o que é, quem, quantas, pausado, onde.
 - Conte as urgências por ciclo; muitas = causa a investigar.
-- Urgência não elimina a definição de pronto. (modelo operacional §11)
+- Urgência não elimina a definição de pronto.
 - "Você nunca mais vai fazer Kanban sem limite de WIP."
-- Antes de abrir vaga, pergunte se redistribuir, mudar o processo ou desenvolver alguém resolve. (ficha E06)
-- Cada tipo de pedido tem um canal oficial de entrada e um prazo de resposta combinado; o pedido que chega por outro caminho volta ao canal. (ficha F10)
+- Antes de abrir vaga, pergunte se redistribuir, mudar o processo ou desenvolver alguém resolve.
+- Cada tipo de pedido tem um canal oficial de entrada e um prazo de resposta combinado; o pedido que chega por outro caminho volta ao canal.
 
 ## Saída
 
@@ -164,8 +161,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).
@@ -176,12 +172,12 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 |---|---|---|
 | Leve (uma pessoa) | um número em Fazendo (começa em 2) | uma linha: "só eu chamo urgente; uma por vez; a pausada volta na frente" |
 | Intermediária (área) | limite por coluna de execução + por pessoa; três sinais lidos na sexta | cinco linhas + raia ou cartão vermelho + contador |
-| Robusta (carteira de iniciativas) | limite por dono (3) e por raia; registro de calibragem com data; gargalo no report ao responsável pela área | cinco linhas + raia com 2 vagas + classe Crítica do modelo operacional + trabalho deslocado registrado |
+| Robusta (carteira de iniciativas) | limite por dono (3) e por raia; registro de calibragem com data; gargalo no report ao responsável pela área | cinco linhas + raia com 2 vagas + classe Crítica + trabalho deslocado registrado |
 
 ## Erros comuns
 
 - Limite em todas as colunas, inclusive fila e Feito (exemplo Norte-Sul "4·4·4").
-- Subir o limite porque "cabe mais" — esconde a etapa que trava.
+- Subir o limite porque "cabe mais" — esconde a etapa que emperra.
 - Mudar o limite no meio da semana, por pressão.
 - Urgência sem dono que chama: vira "tudo urgente".
 - Duas urgências ao mesmo tempo, sem pausar nada: o plano morre em silêncio.

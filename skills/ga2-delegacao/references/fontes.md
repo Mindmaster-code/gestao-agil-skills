@@ -5,6 +5,10 @@
 - Templates: v6 Canvas Editável — Quadro de Delegação, v6, Passo 6; ao vivo Canvas Matriz Delegação, Kit M10 e slides GA — Aula — Matriz Delegação, M08; exemplo Matriz de Delegação preenchida, Kit de Implementação (referência bibliográfica).
 - Levantamento das aprovações: ficha G06 do Guia completo de rotinas de gestão (uso do tempo, centralização e reuniões) `(aplicação do método)`; a auditoria da agenda fica em `ga2-agenda-do-lider`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha G06 do Guia completo de rotinas de gestão.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

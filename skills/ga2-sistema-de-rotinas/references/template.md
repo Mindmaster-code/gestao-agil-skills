@@ -152,7 +152,7 @@ As quatro conversas do ciclo entram sempre.
 | | |
 | | |
 
-Comece pelas fichas do seu sintoma. Demandas que se perdem: F01, F02 e F04. Atraso e trabalho parado: A04, A05, B01 e B02. Dependência do gestor: D02, D07 e G06. Pessoas e relações: E01, D03 e D05.
+Comece pelas rotinas e skills que a tabela de sintomas indica para o seu caso.
 
 ### 4.2 As quatro janelas
 

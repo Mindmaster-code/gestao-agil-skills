@@ -27,7 +27,7 @@ Processo
 - [ ] Transferência de dono, se houve, tem aceite escrito do novo dono.
 - [ ] Área da frente declarada (Área A · Área B · Compartilhado).
 
-Revisão de responsabilidades (ficha E11)
+Revisão de responsabilidades
 - [ ] O papel previsto e o papel assumido estão lado a lado, por entrega, com fato e data.
 - [ ] Os critérios da organização e casos comparáveis foram consultados, para o tratamento ser coerente.
 - [ ] A contribuição não foi reduzida a um único indicador de volume.
@@ -35,7 +35,7 @@ Revisão de responsabilidades (ficha E11)
 - [ ] A decisão foi comunicada à pessoa, individualmente, com os critérios que podem ser explicados.
 - [ ] Remuneração, contrato e obrigação legal ficaram com quem decide e com as áreas responsáveis; o registro é reservado.
 
-Transição de responsabilidades (ficha E12)
+Transição de responsabilidades
 - [ ] A condução e as obrigações foram alinhadas com as áreas responsáveis antes de qualquer comunicação.
 - [ ] A lista do que a pessoa carrega tem entregas, contatos, informações e recursos.
 - [ ] Cada entrega tem POP, um dono único e aceite escrito do novo dono.

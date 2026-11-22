@@ -10,7 +10,7 @@ Limite de WIP
 - [ ] Os três sinais (coluna mais cheia, cartão mais velho, vazão) são lidos num dia fixo da semana.
 - [ ] Toda mudança de limite tem data, sinal observado e quem decidiu.
 - [ ] Calibragem acontece só na retrospectiva.
-- [ ] Etapa que trava fora do quadro virou coluna com limite próprio.
+- [ ] Etapa que emperra fora do quadro virou coluna com limite próprio.
 - [ ] Contratar/criar agente só aparece depois de provar o gargalo.
 
 Urgência
@@ -30,14 +30,14 @@ Classe Crítica
 - [ ] O trabalho deslocado está registrado no cartão pausado.
 - [ ] Pedido direto sem Prioridade explícita entrou na fila normal.
 
-Antes de abrir vaga (ficha E06)
+Antes de abrir vaga
 - [ ] A etapa em que a fila se forma foi achada com os três sinais do quadro, antes de qualquer pedido de vaga.
 - [ ] Redistribuir, mudar o processo e desenvolver alguém foram examinados, um por um, com evidência.
 - [ ] Se ainda falta gente, o perfil e o benefício esperado estão ligados a resultados que dá para verificar.
 - [ ] A decisão está com quem tem orçamento e autoridade aprovados.
 - [ ] O efeito da decisão sobre entrega, carga e custo será revisto, com data.
 
-Canal oficial por tipo de pedido (ficha F10)
+Canal oficial por tipo de pedido
 - [ ] Cada tipo de pedido tem um canal oficial de entrada e um lugar onde a decisão fica registrada.
 - [ ] O prazo de resposta de cada canal é compatível com a operação e não exige disponibilidade contínua.
 - [ ] Quem faz plantão ou atendimento tem cobertura antes de a consulta ser limitada a mensagens.

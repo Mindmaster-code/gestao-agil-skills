@@ -10,7 +10,7 @@
 | OKR de origem | caminho do OKR Canvas |
 | Quem priorizou <!-- c:dono --> | nome(s) |
 | Data <!-- c:data --> | |
-| Régua de impacto | alto = move KR ___ em ___ / destrava dinheiro, cliente, reputação ou decisão |
+| Régua de impacto | alto = move KR ___ em ___ / desbloqueia dinheiro, cliente, reputação ou decisão |
 | Régua de esforço | alto = mais de ___ dias de trabalho ou gate humano pendente |
 
 ## 1. Lista das iniciativas (só iniciativas — objetivo e KR ficam fora)
@@ -44,7 +44,7 @@ ALTO IMPACTO
 BAIXO IMPACTO baixo esforço ──────────────► alto esforço
 `
 
-Nomes equivalentes nas outras fontes: Resultados rápidos / Iniciativas estratégicas / Tarefas de apoio / Desperdício de tempo · Fazer primeiro / Planejar / Fazer se sobrar / Evitar por enquanto (editável Mod 2).
+Nomes equivalentes nas outras fontes: Resultados rápidos / Iniciativas estratégicas / Tarefas de apoio / Desperdício de tempo · Fazer primeiro / Planejar / Fazer se sobrar / Evitar por enquanto (modelo editável).
 
 ### 2.1 Quem está em cada quadrante (lista; um item por linha, separados por `<br>` — o canvas v6 lê daqui)
 

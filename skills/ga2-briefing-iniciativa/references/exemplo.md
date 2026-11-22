@@ -44,7 +44,7 @@ As variantes Produto e Processo foram omitidas porque o tipo escolhido é Projet
 | Recursos e custo estimado <!-- c:recursos --> | Estimativa sintética: 4 h de trabalho total; usar materiais existentes; nenhum gasto adicional autorizado. |
 | Linha do tempo <!-- c:linha_do_tempo --> | 08/09 rascunho → 11/09 evidências e decisão → 14/09 piloto condicional → 15/09 avaliação. |
 | Riscos e plano B <!-- c:riscos --> | Causa refutada → não rodar piloto e investigar outro ramo. Conferência atrasa doca → interromper o teste no lote e registrar o desvio. |
-| Onde trava | Lucas libera o piloto somente após a evidência causal e a confirmação dos envolvidos, em 11/09. |
+| Onde há bloqueio | Lucas libera o piloto somente após a evidência causal e a confirmação dos envolvidos, em 11/09. |
 
 ## Teste final
 

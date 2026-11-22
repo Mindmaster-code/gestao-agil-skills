@@ -10,7 +10,7 @@ Semana de <!-- c:periodo --> 14 a 18/09/2026 · Horário fixo: 09h. Fotografia s
 |---|---|---|---|---|---|
 | O que avancei <!-- c:avancei --> | plano e critérios combinados | checklist inicial salvo | quatro pedidos simulados conferidos | em aberto | em aberto |
 | Foco de hoje <!-- c:foco --> | preparar checklist | aplicar nos pedidos simulados | completar SIM-05 e concluir aplicação | em aberto | em aberto |
-| O que me trava <!-- c:trava --> | nada identificado | nada identificado | SIM-05 sem quantidade; completar até 14h | em aberto | em aberto |
+| O que me impede <!-- c:bloqueio --> | nada identificado | nada identificado | SIM-05 sem quantidade; completar até 14h | em aberto | em aberto |
 
 Próximo passo: review e retrospectiva em 18/09, às 16h e 16h30.
 
@@ -33,7 +33,7 @@ Meta copiada do plano: Na sexta, o checklist de conferência está revisado apó
 
 O quadro foi percorrido da direita para a esquerda: Feito, Em validação, Fazendo e A fazer.
 
-| Pessoa | Cartão | Entreguei desde ontem | Puxo hoje | Me trava |
+| Pessoa | Cartão | Entreguei desde ontem | Puxo hoje | Me impede |
 |---|---|---|---|---|
 | Lucas | NS-12 | quatro registros de aplicação completos, SIM-01 a SIM-04 | completar SIM-05 antes de puxar NS-13 | quantidade não informada no pedido simulado |
 
@@ -60,7 +60,7 @@ Tempo real dentro do cenário: 7 min. O dado de SIM-05 será discutido às 10h; 
 
 ### 3.2 Três perguntas por cartão
 
-| Cartão | Avançou | Puxa hoje | Trava |
+| Cartão | Avançou | Puxa hoje | Bloqueio |
 |---|---|---|---|
 | NS-12 | quatro registros completos em 15/09 | completar quinto registro | quantidade de SIM-05, um dia parado |
 
@@ -106,4 +106,4 @@ Exemplo fictício e independente. Marcos é sócio de um escritório de advocaci
 | Período de execução reservado | 10h30 às 12h |
 | Alternativa, se o trabalho for imprevisível | se a ligação com o perito atrasar, a petição é protocolada antes das 14h |
 
-Na diária de 06/11, Marcos responde "entreguei" com a contestação, "puxo hoje" com a petição e "me trava" com o documento do cliente.
+Na diária de 06/11, Marcos responde "entreguei" com a contestação, "puxo hoje" com a petição e "me impede" com o documento do cliente.

@@ -15,7 +15,7 @@
 - [ ] Equipe e interessados nomeados; "quem precisa saber antes" respondido.
 - [ ] Linha do tempo com início, marcos e fim (ou marcado o que falta e quem define).
 - [ ] Riscos com plano B.
-- [ ] "Onde trava" lista **todas** as decisões externas de uma vez, com o decisor.
+- [ ] "Onde há bloqueio" lista **todas** as decisões externas de uma vez, com o decisor.
 - [ ] Cabe numa página; quem nunca viu entende sem perguntar.
 - [ ] Lido pelos envolvidos (alinhamento inicial) e registrado como fonte da verdade.
 - [ ] Ligado a um KR (ou marcado "frente sem KR" para o responsável pelas prioridades).
@@ -32,7 +32,7 @@
 | Página inchada | recursos, riscos e história em três páginas | régua leve: 8 linhas |
 | Entregas em branco | gestor diz "não sei quais são as entregas" e o briefing para, ou a IA inventa | propor 4–7 a partir do "entra", marcar `[confirmar]`, aceitar item a item |
 | Antes do A3 | briefing de solução sem problema medido | voltar a `ga2-diagnostico` |
-| Gate escondido | descobrir uma decisão externa por vez | mapear todas em "onde trava" |
+| Gate escondido | descobrir uma decisão externa por vez | mapear todas em "onde há bloqueio" |
 
 ## Formas de saída
 

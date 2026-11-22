@@ -18,14 +18,13 @@ Duas versões: **curta** (Artefato 02, para uma frente ou um caso — 5 campos) 
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
-- Apostila do Passo 1, p.4–6: Canvas como primeiro documento do projeto.
 - Template curto: Artefato 02 — “Canvas de Visão curto GA2 editável”.
 - Exemplo do curso: Kit Implementação, Canvas de Visão da Norte-Sul.
 - Diferenças entre versões: o Canvas não existe na v6; a versão curta é de caso, não de empresa.
 
 ## Como conduzir
 
-Ordem da aula A04: **hoje → passado → tendências → futuro → como chegar → frase**.
+Ordem da aula: **hoje → passado → tendências → futuro → como chegar → frase**.
 
 1. **Escolha o objeto e o horizonte.** Pergunta: "É empresa, área, projeto ou frente? 3, 5 ou 10 anos?" Escreva no cabeçalho. Quando houver mais de uma empresa, faça um canvas **por empresa**, sem misturar números do grupo. Recuse canvas sem empresa no cabeçalho.
 2. **Situação atual (Hoje).** Pergunta: "Como está hoje: produto, números, clientes, pessoas, desafios? Qual a fonte de cada número?" Escreva só número com fonte e data. Número financeiro vem do responsável financeiro da empresa. O que não tem fonte entra como `[a medir]`. Recuse "a gente acha".
@@ -42,11 +41,11 @@ Norte"; o passo 6 vira "Primeiro passo"; o resto é opcional.
 
 ## Regras do método que valem aqui
 
-- **Visão antes de meta.** Sem canvas, OKR e projeto não têm âncora. (apostila p.6)
+- **Visão antes de meta.** Sem canvas, OKR e projeto não têm âncora.
 - **Comece pela situação atual e seja honesto:** nem minimizar problema nem exagerar sucesso.
 - **A visão direciona especialmente o que vocês não farão.**
 - **Comunique a visão com frequência**, até para sócios, fornecedores e clientes.
-- **Horizonte de 3, 5 ou 10 anos**; revisitar uma vez por ano. (apostila p.6)
+- **Horizonte de 3, 5 ou 10 anos**; revisitar uma vez por ano.
 - **Cabe numa página.** A frase cabe numa linha.
 
 ## Saída

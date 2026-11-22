@@ -7,7 +7,7 @@ Quadro: ______________________ · Dono do quadro: __________ · Data: __/__/____
 
 ## 1. Limite de trabalho em andamento (WIP)
 
-Campos de A19/A20/material de referência e apostila 14.2. Não há template oficial; o registro abaixo é
+Campos do material de referência. Não há template oficial; o registro abaixo é
 construção deste pacote a partir das aulas.
 
 ### 1.1 Fotografia de hoje (antes de fixar o limite)
@@ -52,7 +52,7 @@ Limite por pessoa: __ cartões ao mesmo tempo.
 | Entrada — quando um item entra <!-- c:entrada --> | |
 | Pronto — quando um item termina <!-- c:pronto --> | |
 | Prioridade — como escolher o próximo <!-- c:prioridade --> | |
-| Bloqueio — o que fazer quando trava <!-- c:bloqueio --> | |
+| Bloqueio — o que fazer quando algo para <!-- c:bloqueio --> | |
 
 ## 2. Política de urgência (cinco linhas, material de referência — escrever no alto do quadro)
 
@@ -81,7 +81,7 @@ Regra de leitura: 1–2 por ciclo o ritmo absorve. Metade do quadro em vermelho 
 
 ---
 
-## 3. Classe de atendimento (modelo operacional do método)
+## 3. Classe de atendimento
 
 Toda demanda recebe uma classe ao ficar Apta:
 
@@ -105,7 +105,7 @@ Toda demanda recebe uma classe ao ficar Apta:
 
 ---
 
-## 4. Canal oficial por tipo de pedido (política de entrada, ficha F10)
+## 4. Canal oficial por tipo de pedido (política de entrada)
 
 Complementa a regra Entrada da tabela 1.6. Dono: __________ · Definido em: __/__/____ · Revisão mensal em: __/__/____
 
@@ -125,7 +125,7 @@ Teste com casos reais:
 
 ---
 
-## 5. Antes de abrir vaga (ficha E06)
+## 5. Antes de abrir vaga
 
 Antes de abrir vaga: redistribuir, mudar o processo ou desenvolver alguém resolve?
 

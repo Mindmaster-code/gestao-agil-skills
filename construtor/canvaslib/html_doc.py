@@ -11,7 +11,7 @@ from datetime import date
 from . import TEMPLATE_ARTEFATO
 
 CSS_EXTRA = """
-/* ---------- forma documento (acréscimos; só tokens) ---------- */
+/* ---------- forma documento (complementos; só tokens) ---------- */
 section p.guia{font-family:var(--mono);font-size:12px;color:var(--ink-3);margin-top:6px}
 section .valor{margin-top:10px;color:var(--ink-2);font-size:15.5px}
 section .valor p{margin-top:8px}
@@ -135,7 +135,7 @@ def montar(spec: dict, valores: dict | None = None, meta: dict | None = None) ->
     pessoas = [("Responde pelo resultado", meta.get("dono") or "não definido"),
                ("Pessoas que participam", meta.get("participantes") or "não definido"),
                ("Agentes que executam", meta.get("agentes") or "não definido"),
-               ("Quem decide a trava", meta.get("decide_com") or "não definido"),
+               ("Quem decide o bloqueio", meta.get("decide_com") or "não definido"),
                ("Quem confirma que serve", meta.get("aceitante") or "não definido")]
     pessoas_html = ('<section><div class="s-head"><p class="eyebrow">Quem</p></div><h2>Pessoas envolvidas</h2>'
                     '<div class="scroll"><table class="pessoas"><tbody>' +

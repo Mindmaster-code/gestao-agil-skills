@@ -59,7 +59,7 @@ table.tab.grade td.ex{white-space:pre-line}
 .quad .lns{padding:0 3mm 1.5mm}
 .quad .lns .ex{left:3mm;right:3mm}
 
-/* quadro do time (A3 deitado): colunas com cartões, limite no cabeçalho e faixa de travados */
+/* quadro do time (A3 deitado): colunas com cartões, limite no cabeçalho e faixa de parados */
 .qd{display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:1fr auto;gap:3mm;margin:0 0 3mm}
 .qc{display:flex;flex-direction:column;background:var(--branco);border:1px solid var(--escrever);border-radius:3mm;overflow:hidden;min-height:0}
 .qc .cab{background:var(--pet-escuro);color:var(--creme);padding:2mm 3mm;line-height:1.25}

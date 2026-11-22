@@ -4,7 +4,7 @@
 
 ---
 
-## Bloco 1 — Ponte A3 → OKR (template Mod 02, artefato 01)
+## Bloco 1 — Ponte A3 → OKR (modelo editável)
 
 | Campo | Pergunta do template | Resposta |
 |---|---|---|
@@ -67,7 +67,7 @@ Toda semana, 5 a 15 minutos. Não reescreve nada; só põe o número do dia.
 
 **Semana ___ · data ___ · quem fez ___**
 
-| KR | Número de hoje (fonte) | Nota 0–1 (andado ÷ caminho) | O que mexeu desde a semana passada | O que trava |
+| KR | Número de hoje (fonte) | Nota 0–1 (andado ÷ caminho) | O que mexeu desde a semana passada | O que impede |
 |---|---|---|---|---|
 | KR1 <!-- c:checkin_kr_1 --> | | | | |
 | KR2 <!-- c:checkin_kr_2 --> | | | | |
@@ -83,7 +83,7 @@ Leitura rápida: KR parado há duas semanas → investiga · iniciativa pronta e
 
 ---
 
-## Bloco 4 — Checkpoint do Plano (template Mod 02, artefato 07 + 5 perguntas da)
+## Bloco 4 — Checkpoint do Plano (modelo editável + 5 perguntas da)
 
 Uma vez, ao fim do planejamento, depois da matriz e do backlog.
 

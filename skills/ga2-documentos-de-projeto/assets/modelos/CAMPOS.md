@@ -21,10 +21,10 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 
 | id | rótulo no canvas | texto-guia | âncora no template |
 |---|---|---|---|
-| `travou` | 4 · O que travou ou atrasou? | Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade. | `<!-- c:travou -->` |
+| `parou` | 4 · O que parou ou atrasou? | Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade. | `<!-- c:parou -->` |
 | `aprendi` | 5 · O que eu aprendi sobre meu sistema de trabalho? | O que ficou claro depois de tentar executar por 7 dias? | `<!-- c:aprendi -->` |
 | `ajuste` | 6 · Qual ajuste vou fazer no próximo ciclo? | Poucas mudanças: reduzir WIP, ajustar prioridade, mudar regra, pedir decisão. | `<!-- c:ajuste -->` |
-| `status` | Status final | Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa destravar. | `<!-- c:status -->` |
+| `status` | Status final | Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa de desbloqueio. | `<!-- c:status -->` |
 | `proxima_acao` | Próxima ação | Ação, dono e prazo. | `<!-- c:proxima_acao -->` |
 
 ## `status-report-b-04` — Status Report — 7 dias (editável)

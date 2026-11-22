@@ -47,13 +47,13 @@ colunas são extensão do método.
 8. **Quanto.** Horas de trabalho ou R$ (material, ferramenta ou serviço). "Quanto em branco volta — é o que
  liga ao ROI." Custo que exige verba depende da aprovação do decisor competente.
 9. **Conferir os seis campos de acompanhamento**: o quê, por quê, dono,
- "pronto é", prazo, onde trava. O 5W2H já responde cinco; falta "pronto é" — acrescente na
+ "pronto é", prazo, onde há bloqueio. O 5W2H já responde cinco; falta "pronto é" — acrescente na
  coluna Status/prova.
 10. Salvar; cada linha vira cartão no Kanban ou compromisso do plano do ciclo.
 
 ## Orçamento: orçado, contratado e realizado
 
-O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas.
+O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas.
 
 **Aviso de alçada.** Valor financeiro vem do responsável financeiro e de relatório autorizado. Não invente nem estime valor sem fonte. Compromisso fora da sua alçada exige a aprovação do responsável financeiro, e os temas técnicos pedem apoio contábil.
 

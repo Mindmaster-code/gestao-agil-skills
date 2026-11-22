@@ -23,25 +23,25 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## Ache a rotina pelo sintoma
 
-O sintoma é uma pista. A causa você confirma com fato, porque a mesma situação pode ter causas diferentes. A regra do método continua valendo: primeiro o mapa, com o número de hoje, e depois a rotina. Os códigos (F01, e outros) são as fichas do Guia completo de rotinas de gestão.
+O sintoma é uma pista. A causa você confirma com fato, porque a mesma situação pode ter causas diferentes. A regra do método continua valendo: primeiro o mapa, com o número de hoje, e depois a rotina.
 
-| Situação observada | Começar por | Saída procurada | Skills do pacote |
-|---|---|---|---|
-| Tudo parece prioritário | A03, A04, A05 | Escolhas e compromissos que a equipe consegue cumprir | `ga2-matriz-esforco-impacto`, `ga2-plano-do-ciclo` |
-| Tarefas ficam paradas | B01, B02, F04 | Bloqueios tratados e próximo passo | `ga2-gestao-diaria`, `ga2-politicas-wip-urgencia`, `ga2-kanban-canvas` |
-| Há esforço sem resultado claro | A02, B04 | Resultado esperado e decisão sobre o desvio | `ga2-okr-canvas`, `ga2-painel-do-gestor` |
-| Demandas se perdem | F01, F02, F10 | Entrada confiável e destino definido | `ga2-kanban-canvas`, `ga2-politicas-wip-urgencia` |
-| As áreas se cobram e a entrega não avança | B06, D07 | Acordos de transferência e responsabilidade | `ga2-kanban-canvas`, `ga2-quem-faz-o-que` |
-| O mesmo erro reaparece | C02, C03, C04 | Causa investigada e contramedida verificada | `ga2-gemba-walk`, `ga2-causa-raiz`, `ga2-quadro-kaizen` |
-| O gestor aprova tudo | D02, D07, G06 | Autonomia e limites de decisão | `ga2-delegacao`, `ga2-agenda-do-lider` |
-| Feedback vira conflito | G05, D03, D05 | Fatos, escuta e acordo observável | `ga2-feedback-360`, `ga2-canvas-de-conversa-cnv` |
-| Pessoas não sabem como crescer | E03, E04 | Prática de desenvolvimento e perspectiva real | `ga2-pdi`, `ga2-conversa-individual` |
-| A equipe está sobrecarregada | A05, E06, G10 | Redução, redistribuição ou reforço decidido | `ga2-plano-do-ciclo`, `ga2-politicas-wip-urgencia` |
-| Uma ausência interrompe a operação | E10, C09, A07 | Cobertura preparada e continuidade | `ga2-pop`, `ga2-registro-de-decisoes-e-riscos` |
-| A integração demora a funcionar | E08, C08, D01 | Acesso, orientação e prática acompanhada | `ga2-contratar-e-integrar`, `ga2-pop` |
-| Há versões conflitantes de orientação | B08, F08, C08 | Referência vigente e comunicação clara | `ga2-reunioes-e-comunicados`, `ga2-abrir-projeto`, `ga2-pop` |
-| O líder vive reagindo a mensagens | G01, F10, G02 | Prioridades protegidas e canal de urgência | `ga2-agenda-do-lider`, `ga2-politicas-wip-urgencia` |
-| Clientes repetem a mesma reclamação | B09, C07, C01 | Necessidade compreendida e processo ajustado | `ga2-review-do-ciclo`, `ga2-checklist-producao-entrega` |
+| Situação observada | Saída procurada | Skills do pacote |
+|---|---|---|
+| Tudo parece prioritário | Escolhas e compromissos que a equipe consegue cumprir | `ga2-matriz-esforco-impacto`, `ga2-plano-do-ciclo` |
+| Tarefas ficam paradas | Bloqueios tratados e próximo passo | `ga2-gestao-diaria`, `ga2-politicas-wip-urgencia`, `ga2-kanban-canvas` |
+| Há esforço sem resultado claro | Resultado esperado e decisão sobre o desvio | `ga2-okr-canvas`, `ga2-painel-do-gestor` |
+| Demandas se perdem | Entrada confiável e destino definido | `ga2-kanban-canvas`, `ga2-politicas-wip-urgencia` |
+| As áreas se cobram e a entrega não avança | Acordos de transferência e responsabilidade | `ga2-kanban-canvas`, `ga2-quem-faz-o-que` |
+| O mesmo erro reaparece | Causa investigada e contramedida verificada | `ga2-gemba-walk`, `ga2-causa-raiz`, `ga2-quadro-kaizen` |
+| O gestor aprova tudo | Autonomia e limites de decisão | `ga2-delegacao`, `ga2-agenda-do-lider` |
+| Feedback vira conflito | Fatos, escuta e acordo observável | `ga2-feedback-360`, `ga2-canvas-de-conversa-cnv` |
+| Pessoas não sabem como crescer | Prática de desenvolvimento e perspectiva real | `ga2-pdi`, `ga2-conversa-individual` |
+| A equipe está sobrecarregada | Redução, redistribuição ou reforço decidido | `ga2-plano-do-ciclo`, `ga2-politicas-wip-urgencia` |
+| Uma ausência interrompe a operação | Cobertura preparada e continuidade | `ga2-pop`, `ga2-registro-de-decisoes-e-riscos` |
+| A integração demora a funcionar | Acesso, orientação e prática acompanhada | `ga2-contratar-e-integrar`, `ga2-pop` |
+| Há versões conflitantes de orientação | Referência vigente e comunicação clara | `ga2-reunioes-e-comunicados`, `ga2-abrir-projeto`, `ga2-pop` |
+| O líder vive reagindo a mensagens | Prioridades protegidas e canal de urgência | `ga2-agenda-do-lider`, `ga2-politicas-wip-urgencia` |
+| Clientes repetem a mesma reclamação | Necessidade compreendida e processo ajustado | `ga2-review-do-ciclo`, `ga2-checklist-producao-entrega` |
 
 ## O calendário do gestor ágil
 
@@ -49,16 +49,16 @@ Quando cada rotina tem hora marcada, ninguém precisa convocar, lembrar ou cobra
 
 | Quando | No jeito do GA | Duração | Fichas |
 |---|---|---|---|
-| Todo dia | Preparar o dia, diária diante do quadro, fechar o expediente | De 5 a 10 min; até 15 min; de 5 a 15 min | F05, B01, F06 |
-| Começo da semana | Planejamento do ciclo e check-in do OKR (objetivos e resultados-chave) | De 15 a 30 min; de 5 a 15 min | A04, D01, A02 |
-| Ao longo da semana | Blocos de concentração, reflexão e estudo; conversa de motivação com uma pessoa; acompanhamento do PDI (plano de desenvolvimento individual) | De 45 a 90 min por bloco; 15 min; 30 min | G02, G03, G08, E01, D08 |
-| Fim da semana | Revisão do ciclo, retrospectiva e priorização da semana seguinte | 30 min; 30 min; 10 min | B03, C06, G01 |
-| Fim do ciclo, com quem acompanha o resultado | Painel do Gestor, Relatório Executivo e reunião de resultado | 40 min; 25 min; 15 min | B04, G04, G05 |
-| Todo mês | Vá e Veja, melhoria fechada em até 30 dias, poda da lista, voz do cliente, orçamento e riscos | Vá e Veja: pelo menos 1 hora | C02, C04, F09, B09, A06, A07 |
-| Todo trimestre | OKR do trimestre, revisão de desempenho e papéis | | A02, E02, D07 |
-| Todo semestre | Carreira, permanência, cobertura e remuneração | | E04, E09, E10, E11 |
-| Todo ano | Canvas de Visão revisto e orçamento | | A01, A06 |
-| Por acontecimento | Urgência pela regra escrita, melhoria aberta por sinal, A3 (a folha única de problema, causa, plano e acompanhamento) quando a métrica cai, contratação, integração, desligamento e conversa difícil com data | | B02, C04, C03, E07, E08, E12, D05 |
+| Todo dia | Preparar o dia, diária diante do quadro, fechar o expediente | De 5 a 10 min; até 15 min; de 5 a 15 min | — |
+| Começo da semana | Planejamento do ciclo e check-in do OKR (objetivos e resultados-chave) | De 15 a 30 min; de 5 a 15 min | — |
+| Ao longo da semana | Blocos de concentração, reflexão e estudo; conversa de motivação com uma pessoa; acompanhamento do PDI (plano de desenvolvimento individual) | De 45 a 90 min por bloco; 15 min; 30 min | — |
+| Fim da semana | Revisão do ciclo, retrospectiva e priorização da semana seguinte | 30 min; 30 min; 10 min | — |
+| Fim do ciclo, com quem acompanha o resultado | Painel do Gestor, Relatório Executivo e reunião de resultado | 40 min; 25 min; 15 min | — |
+| Todo mês | Vá e Veja, melhoria fechada em até 30 dias, poda da lista, voz do cliente, orçamento e riscos | Vá e Veja: pelo menos 1 hora | — |
+| Todo trimestre | OKR do trimestre, revisão de desempenho e papéis | | — |
+| Todo semestre | Carreira, permanência, cobertura e remuneração | | — |
+| Todo ano | Canvas de Visão revisto e orçamento | | — |
+| Por acontecimento | Urgência pela regra escrita, melhoria aberta por sinal, A3 (a folha única de problema, causa, plano e acompanhamento) quando a métrica cai, contratação, integração, desligamento e conversa difícil com data | | — |
 
 ## Como conduzir
 
@@ -114,10 +114,10 @@ A rotina vale pelo efeito que ajuda a produzir. O encontro acontecer é só a co
 
 | Se o sintoma é | Comece por | Skills do pacote |
 |---|---|---|
-| Demandas que se perdem | F01, F02 e F04 | `ga2-kanban-canvas`, `ga2-politicas-wip-urgencia` |
-| Atraso e trabalho parado | A04, A05, B01 e B02 | `ga2-plano-do-ciclo`, `ga2-gestao-diaria`, `ga2-politicas-wip-urgencia` |
-| Dependência do gestor | D02, D07 e G06 | `ga2-delegacao`, `ga2-quem-faz-o-que`, `ga2-agenda-do-lider` |
-| Pessoas e relações | E01, D03 e D05 | `ga2-conversa-individual`, `ga2-feedback-360`, `ga2-canvas-de-conversa-cnv` |
+| Demandas que se perdem | — | `ga2-kanban-canvas`, `ga2-politicas-wip-urgencia` |
+| Atraso e trabalho parado | — | `ga2-plano-do-ciclo`, `ga2-gestao-diaria`, `ga2-politicas-wip-urgencia` |
+| Dependência do gestor | — | `ga2-delegacao`, `ga2-quem-faz-o-que`, `ga2-agenda-do-lider` |
+| Pessoas e relações | — | `ga2-conversa-individual`, `ga2-feedback-360`, `ga2-canvas-de-conversa-cnv` |
 
 19. **Escreva as datas reais das quatro janelas** na agenda quando começar, e marque o que ficou feito.
 
@@ -155,7 +155,7 @@ A rotina vale pelo efeito que ajuda a produzir. O encontro acontecer é só a co
 - A rotina vale pelo efeito; o encontro acontecer é só a condição.
 - Três métricas, não trinta, e cada uma passa pelo teste do dono, da decisão e do número que dá para pegar. (Passo 5 regra 13)
 - Rotina com hora marcada dispensa convocar, lembrar e cobrar.
-- A versão local de cada rotina é um POP, testado por quem não conhece a prática. (Passo 2 §2.10)
+- A versão local de cada rotina é um POP, testado por quem não conhece a prática.
 
 ## Saída
 
@@ -199,7 +199,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

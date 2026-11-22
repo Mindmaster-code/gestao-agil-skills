@@ -17,8 +17,8 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 | `foco_qua` | Foco de hoje — QUA | | `<!-- c:foco -->` (coluna: QUA) |
 | `foco_qui` | Foco de hoje — QUI | | `<!-- c:foco -->` (coluna: QUI) |
 | `foco_sex` | Foco de hoje — SEX | | `<!-- c:foco -->` (coluna: SEX) |
-| `trava_seg` | O que me trava — SEG | | `<!-- c:trava -->` (coluna: SEG) |
-| `trava_ter` | O que me trava — TER | | `<!-- c:trava -->` (coluna: TER) |
-| `trava_qua` | O que me trava — QUA | | `<!-- c:trava -->` (coluna: QUA) |
-| `trava_qui` | O que me trava — QUI | | `<!-- c:trava -->` (coluna: QUI) |
-| `trava_sex` | O que me trava — SEX | | `<!-- c:trava -->` (coluna: SEX) |
+| `trava_seg` | O que me impede — SEG | | `<!-- c:bloqueio -->` (coluna: SEG) |
+| `trava_ter` | O que me impede — TER | | `<!-- c:bloqueio -->` (coluna: TER) |
+| `trava_qua` | O que me impede — QUA | | `<!-- c:bloqueio -->` (coluna: QUA) |
+| `trava_qui` | O que me impede — QUI | | `<!-- c:bloqueio -->` (coluna: QUI) |
+| `trava_sex` | O que me impede — SEX | | `<!-- c:bloqueio -->` (coluna: SEX) |

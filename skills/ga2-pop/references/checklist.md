@@ -26,10 +26,10 @@
 
 **Teste**
 - [ ] Alguém que nunca fez executou só com o POP e chegou à mesma saída.
-- [ ] Onde travou, o POP foi corrigido.
+- [ ] Onde parou, o POP foi corrigido.
 - [ ] Cabe em uma página (canvas) ou em duas telas; manual longo não é POP.
 
-**Cobertura (fichas E10 e C09)**
+**Cobertura**
 - [ ] A pergunta das férias foi feita e respondida (Sim, Só em parte ou Não), e o que falta está anotado.
 - [ ] Cada atividade crítica tem titular, substituto e a última vez que o substituto fez de verdade.
 - [ ] O substituto foi testado numa situação pertinente antes da ausência, com a execução acompanhada.
@@ -41,20 +41,20 @@
 | Erro | Onde a aula fala | Como recusar |
 |---|---|---|
 | Manual de 40 páginas | Kit | "Qual é o gargalo? POP é dele, não da operação." |
-| Passo sem responsável | A13 | "Quem faz o passo 3? 'Todo mundo' é ninguém." |
-| Sistema sem instrução de acesso | A13 | "Como a pessoa nova entra?" |
-| Sem versão nem aprovação | A13 (canvas: Data \| Código \| Versão; Aprovação) | "É rascunho. Quem aprovou, quando?" |
-| Processo que ninguém questionou | A12 (a planilha de 2–3 h que ninguém lia) | "Quem usa a saída? Por que existe?" |
-| Processo "que não dá para medir" | A12 — "todo processo pode ser medido" | "Qual indicador de adesão? Qual de resultado?" |
+| Passo sem responsável | — | "Quem faz o passo 3? 'Todo mundo' é ninguém." |
+| Sistema sem instrução de acesso | — | "Como a pessoa nova entra?" |
+| Sem versão nem aprovação | canvas: Data \| Código \| Versão; Aprovação | "É rascunho. Quem aprovou, quando?" |
+| Processo que ninguém questionou | — | "Quem usa a saída? Por que existe?" |
+| Processo "que não dá para medir" | "todo processo pode ser medido" | "Qual indicador de adesão? Qual de resultado?" |
 | Indicador de esforço | (vale para todo número) | "POPs escritos não é resultado. O erro caiu?" |
-| Objetivo = "padronizar" | A13 (finalidade: direcionamento claro) | "Padronizar para quê? Qual resultado?" |
+| Objetivo = "padronizar" | — | "Padronizar para quê? Qual resultado?" |
 | Checklist que vira carimbo | Kit, risco 2 | "Qual saída visível denuncia o pulo?" |
 | Gatilho "quando der" | canvas: "descreva como o processo inicia" | "O que faz começar? Evento, data, insumo." |
-| POP sem teste com quem nunca fez | Passo 2, critério de bem feito | "Quem executou só com o POP? Onde travou?" |
+| POP sem teste com quem nunca fez | Passo 2, critério de bem feito | "Quem executou só com o POP? Onde parou?" |
 | Segredo escrito no POP | regra de segurança desta adaptação | "Nunca. Aponta onde o acesso é pedido." |
-| Cobertura que nunca foi testada | aula 7; ficha E10 | "O substituto já fez isso com alguém olhando? Quando?" |
+| Cobertura que nunca foi testada | — | "O substituto já fez isso com alguém olhando? Quando?" |
 | Substituto sem limite de decisão | aula 7; roteiro de comunicação, cobertura e transição | "Até onde ele decide sozinho? A quem escala?" |
-| Dupla carga permanente de quem cobre | ficha E10 | "Quem cobre largou o quê? Se não, reduza o escopo ou peça reforço." |
+| Dupla carga permanente de quem cobre | — | "Quem cobre largou o quê? Se não, reduza o escopo ou peça reforço." |
 
 ## Formas de saída
 

@@ -47,7 +47,7 @@ não a um exemplo genérico.
 
 1. Nossa entrega no prazo caiu de 82% para 61% em oito semanas. Monta um Relatório A3.
 2. Tenho 14 iniciativas e 6 pessoas. Me ajuda a priorizar e montar o próximo ciclo.
-3. Me mostra visualmente onde este processo trava e qual decisão ele pede.
+3. Me mostra visualmente onde este processo emperra e qual decisão ele pede.
 
 ## Verificação antes do envio
 

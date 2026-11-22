@@ -51,7 +51,7 @@
 | Iniciativa sem KR ("me mantém ocupado") | — | "Qual número ela move? Se nenhum, por que existe?" |
 | Iniciativa pronta, número parado, e o KR é que muda | — | "Troca a iniciativa, não o KR." |
 | KR impossível que ninguém reposiciona |; adaptação de autoridade sobre a meta | registra e recomenda ao responsável pela meta; o decisor competente aprova a mudança |
-| Usar exemplos de A07/A09 como modelo de KR | nota metodológica: exemplos de KR do Passo 2 | usar A06 e o Kit (Norte-Sul) |
+| Usar como modelo de KR exemplos que são tarefas | — | usar os exemplos do Kit (Norte-Sul) |
 | OKR escrito sem check-in | — | "OKR escrito, não feito." |
 | Plano que não diz o que fazer segunda de manhã | — | "Plano de papel. Qual é a primeira tarefa e quem puxa?" |
 

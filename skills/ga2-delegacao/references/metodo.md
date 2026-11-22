@@ -46,7 +46,7 @@ Conversão para quem tem o template de 4: N4 Líder Decide = 1–2 · N3 Consult
 
 ## Antes da reunião: o levantamento das aprovações (duas semanas)
 
-Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fatos da agenda real. Este levantamento é a parte da auditoria da agenda (`ga2-agenda-do-lider`) que alimenta o quadro. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma. Fonte: ficha G06 do Guia completo de rotinas de gestão.
+Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fatos da agenda real. Este levantamento é a parte da auditoria da agenda (`ga2-agenda-do-lider`) que alimenta o quadro. Quando toda decisão passa pelo líder, ele é o gargalo, o ponto em que a fila se forma.
 
 - **Reúna duas semanas de rastros de aprovação:** pedidos de "posso?", "pode?" ou "aprova?", assinaturas, decisões tomadas em reunião e mensagens que esperaram resposta do líder. Sem registro, o líder anota cada pedido durante duas semanas.
 - **Faça uma linha por assunto, no verbo:** quem pediu (pelo papel), quantas vezes, o que o líder decidiu e o critério que usou. Marque se o critério está escrito ou só na cabeça do líder.
@@ -74,12 +74,12 @@ agente executa o que o prompt permitir". Tradução dos níveis para uma operaç
 |---|---|---|---|
 | 1–2 | autoridade humana competente decide e explica | política de autorização, controle técnico e registro da aprovação do projeto | preço, verba, contrato, estrutura, produto, pessoa, deploy em produção, DNS, exclusão de dado, mídia paga |
 | 3 | autoridade de coordenação ouve o responsável pela área e decide | acordo de autoridade da organização | prioridade entre áreas, mudança de dono, fronteira entre áreas |
-| 4 | coordenação e responsável pela área por acordo | demanda com o que, por quê, dono, pronto é, prazo, onde trava; status com gate e decisor nomeado | prazo de negócio, corte de escopo |
+| 4 | coordenação e responsável pela área por acordo | demanda com o que, por quê, dono, pronto é, prazo, onde há bloqueio; status com gate e decisor nomeado | prazo de negócio, corte de escopo |
 | 5 | Responsável pela área decide depois de ouvir a coordenação | STATUS do projeto | sequência de entregas dentro da área |
 | 6 | Responsável pela área decide e conta no relato do fim da semana | identidade canônica do agente | "o responsável pela área pede direto ao time técnico, dentro da autoridade registrada" |
 | 7 | Agente decide sem contar | identidade canônica, "Autoridade" | formato de artefato interno, pauta de ritual, classificar cartão como parado |
 
-Célula sem nome = agente que age sem autoridade ou trava sem motivo. Autoridade só viaja
+Célula sem nome = agente que age sem autoridade ou bloqueia sem motivo. Autoridade só viaja
 com fonte (arquivo, linha, hora, texto).
 
 ## Regras do método que valem aqui
@@ -153,8 +153,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
 escreva "não definido" — nunca atribua tudo ao usuário.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.

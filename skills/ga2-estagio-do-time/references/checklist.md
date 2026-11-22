@@ -36,7 +36,7 @@ Plano de transição
 | Três ações na rodada | ninguém sabe qual funcionou | uma ação, observável |
 | Sem segunda medição | a ação nunca é comparada | marcar a nova medição para 30 dias |
 | Dúvida chamada de resistência | o time para de perguntar | tratar a dúvida como informação sobre o que faltou |
-| Mudança grande com confiança baixa | a adoção trava | restabelecer a confiança antes e acompanhar toda semana |
+| Mudança grande com confiança baixa | a adoção emperra | restabelecer a confiança antes e acompanhar toda semana |
 
 ## Formas de saída
 

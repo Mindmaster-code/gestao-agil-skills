@@ -90,7 +90,7 @@ A pauta é da pessoa. O erro mais comum é fazer dela um acompanhamento de taref
 - A pauta da conversa de acompanhamento é da pessoa. (aula 6)
 - Tarefa tem lugar no quadro e na diária. Esta conversa trata do que o quadro não mostra.
 - Poucos compromissos, para os dois lados, com retorno marcado.
-- Pergunte em vez de deduzir: o que move cada pessoa é diferente. (Passo 6 §4.6)
+- Pergunte em vez de deduzir: o que move cada pessoa é diferente.
 - Dinheiro é fator higiênico. Salário justo é pré-requisito, e não se compensa com ação de motivação. (Passo 6 regra 6)
 - Intenção não vira promessa.
 - Não monte PDI para quem está de saída, afogado de trabalho ou com salário injusto. Resolva isso primeiro. (Passo 6 regra 21)
@@ -140,7 +140,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

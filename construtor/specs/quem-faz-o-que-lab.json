@@ -681,7 +681,7 @@
  },
  "leitura": {
   "sem_documento": false,
-  "pergunta_padrao": "Quem responde pelo resultado desta frente, quem aceita, quem faz e quem decide a trava?",
+  "pergunta_padrao": "Quem responde pelo resultado desta frente, quem aceita, quem faz e quem decide o bloqueio?",
   "capitulos": [
    {
     "titulo": "Papéis",

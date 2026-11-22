@@ -1,6 +1,6 @@
 # Estágio do time: template
 
-As seções 1 a 4 reproduzem os campos dos canvas do curso Estágio do Time (Tuckman) e Termômetro da Confiança do Time (a ficha do time e a folha do gestor), que existem em PDF e ficam fora deste pacote. A seção 5, o plano de transição da mudança, vem da ficha D09. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
+As seções 1 a 4 reproduzem os campos dos canvas do curso Estágio do Time (Tuckman) e Termômetro da Confiança do Time (a ficha do time e a folha do gestor), que existem em PDF e ficam fora deste pacote. A seção 5 traz o plano de transição da mudança. Preencha o que souber. O que não souber fica em branco ou "em aberto", nunca inventado.
 
 ---
 
@@ -30,7 +30,7 @@ Marque o estágio de hoje. Um só.
 |---|---|
 | Onde o time está e por quê (o fato das últimas duas semanas; o sinal que mostra a fase) | |
 | Minha jogada agora: o que eu faço como líder neste estágio (com data) | |
-| Qual resultado isso destrava | |
+| Qual resultado isso desbloqueia | |
 | Reavaliar em (o estágio muda; volte a esta folha) | <dd/mm/aaaa> |
 
 ---

@@ -24,7 +24,7 @@ Líder é qualquer pessoa que coordena trabalho e gente, em qualquer área. Desc
 - **C. Bloco de pensamento estratégico**: uma questão de direção, alternativas, premissas a validar e um encaminhamento.
 - **D. Auditoria da agenda e das aprovações**: onde o tempo foi e o que passou pelo líder em duas semanas. A lista de aprovações segue para o Quadro de Delegação (`ga2-delegacao`).
 - **E. Relações** e **F. Energia**: seções curtas, para o líder que pede esses temas.
-- **G. Revisão pessoal do líder**: a revisão pessoal do líder do Guia completo de rotinas de gestão.
+- **G. Revisão pessoal do líder**: a revisão pessoal do líder.
 
 Sem pedido específico, comece pelo modo A. O plano do dia a dia fica com `ga2-gestao-diaria`; o plano do ciclo da equipe, com `ga2-plano-do-ciclo`.
 
@@ -75,4 +75,4 @@ Consulte `references/exemplo.md` para entender o preenchimento; é fictício, nu
 Antes de entregar, aplique `references/checklist.md` por inteiro.
 
 Esta habilidade não tem canvas oficial do curso. O modelo de entrega é o `references/template.md`:
-a agenda da semana do líder e a revisão pessoal, com os campos da revisão pessoal do líder do Guia completo de rotinas de gestão.
+a agenda da semana do líder e a revisão pessoal, com os campos da revisão pessoal do líder.

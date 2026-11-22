@@ -165,7 +165,7 @@
  },
  "leitura": {
   "sem_documento": false,
-  "pergunta_padrao": "Em que ponto estou, o que entreguei com prova e o que travou?",
+  "pergunta_padrao": "Em que ponto estou, o que entreguei com prova e o que parou?",
   "capitulos": [
    {
     "titulo": "A semana",

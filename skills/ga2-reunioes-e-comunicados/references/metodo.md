@@ -140,7 +140,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

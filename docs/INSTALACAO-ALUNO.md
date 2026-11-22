@@ -1,7 +1,7 @@
 # Como instalar o Gestão Ágil 2.0 no seu assistente
 
 Você vai instalar 41 habilidades. Depois disso, é só pedir em português:
-"monta um A3 para este problema", "me mostra onde este fluxo trava",
+"monta um A3 para este problema", "me mostra onde este fluxo emperra",
 "organiza estas ações em um plano com dono e data".
 
 Escolha abaixo o caminho do assistente que você usa.
@@ -67,7 +67,7 @@ Fale em linguagem comum, do jeito que você falaria com um colega:
 - "Nossa entrega no prazo caiu de 82% para 61% em oito semanas. Monta um A3."
 - "Tenho 14 iniciativas e 6 pessoas. Me ajuda a priorizar."
 - "Quero transformar essa meta em OKR."
-- "Me mostra visualmente onde este processo trava."
+- "Me mostra visualmente onde este processo emperra."
 
 O assistente escolhe sozinho a habilidade certa. Você não precisa decorar nomes.
 
@@ -78,7 +78,7 @@ O assistente escolhe sozinho a habilidade certa. Você não precisa decorar nome
 - Feche e abra o assistente antes de testar. A instalação só vale em conversa nova.
 - No Claude no navegador, confira se a habilidade aparece marcada como ativa.
 - Se ainda assim não funcionar, fale com o suporte da MindMaster e diga qual
-  assistente você usa e em que passo travou.
+  assistente você usa e em que passo parou.
 
 ---
 

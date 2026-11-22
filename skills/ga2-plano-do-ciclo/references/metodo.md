@@ -14,7 +14,6 @@ copiada "sem maquiagem".
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
- regras 2–6, §4.5 (campos dos três templates), §6 item 2, §8 itens 2, 5, 6, 7.
 - Templates: v6 «Canvas Editável — Plano do Ciclo» (campos e exemplo da versão v6); ao vivo
 - Diretriz prática: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
 
@@ -46,7 +45,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## Capacidade e carga por pessoa
 
-A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque um time com capacidade sobrando pode ter uma pessoa afundada. A revisão da carga acontece toda semana, de 20 a 40 minutos, e antes quando houver ausência ou mudança de demanda. Dono: o gestor da equipe. Fonte: ficha A05 e aula 9 do curso de rotinas.
+A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque um time com capacidade sobrando pode ter uma pessoa afundada. A revisão da carga acontece toda semana, de 20 a 40 minutos, e antes quando houver ausência ou mudança de demanda. Dono: o gestor da equipe.
 
 11. **Faça a conta por pessoa.** Para cada uma: os dias do ciclo, menos as ausências, menos o trabalho fixo que não sai (atendimento, plantão, rotinas). O resultado são os dias disponíveis para o plano.
 12. **Use o histórico.** O que o time consegue entregar você tira do que ele entregou nos ciclos anteriores, sem chutar. Anote quantos cartões cada pessoa terminou nos últimos ciclos.
@@ -56,7 +55,7 @@ A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque 
 16. **Aponte o trabalho que depende de uma pessoa só e o trabalho invisível,** o que alguém faz e não aparece no quadro. A cobertura desse trabalho está em `ga2-pop`.
 17. **Redistribua responsabilidades ou reduza compromissos.** Por exemplo, retire uma entrega da pessoa que também está cobrindo a ausência de um colega. Evite premiar a sobrecarga contínua.
 18. **Combine apoio, transferência de conhecimento e uma data para olhar de novo.**
-19. **Use o limite de trabalho em andamento** para travar a sobrecarga em cada coluna: com a coluna cheia, ninguém puxa nada novo, e quem ficou livre ajuda a terminar (`ga2-politicas-wip-urgencia`).
+19. **Use o limite de trabalho em andamento** para parar a sobrecarga em cada coluna: com a coluna cheia, ninguém puxa nada novo, e quem ficou livre ajuda a terminar (`ga2-politicas-wip-urgencia`).
 20. **Se a demanda passa do que o time consegue,** a decisão de escopo, prazo ou reforço sobe para quem tem autoridade, com as opções e a sua recomendação.
 21. **Acompanhe os atrasos, as horas adicionais recorrentes** e a concentração de tarefas em poucas pessoas.
 
@@ -65,9 +64,9 @@ A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque 
 | Fonte | Duração |
 |---|---|
 | Aula ao vivo | ~2 h: 10 min abertura + 10 min meta + ~40 min o que entra + decomposição ("parte mais longa") + revisão |
-| Apostila §12 | 60 min |
+| — | 60 min |
 | material de referência | 15 a 30 min, segunda de manhã |
-| Apostila p.15 (colada do Scrum Guide) | até 8 h para sprint de um mês |
+| — | até 8 h para sprint de um mês |
 
 **Na prática usa 15 minutos por responsável de área, por mensagem escrita** (acordo de cadência do time). Motivo: ciclo de uma
 semana, até 3 compromissos, itens já quebrados no Backlog 2D. A decomposição em tarefas de um
@@ -146,8 +145,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

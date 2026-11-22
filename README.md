@@ -130,7 +130,7 @@ Depois de instalar, reinicie o assistente. Peça pela tarefa em linguagem comum:
 
 ```text
 Monta um A3 para este problema.
-Me mostra onde este fluxo trava.
+Me mostra onde este fluxo emperra.
 Organiza estas ações em um plano com dono e data.
 ```
 

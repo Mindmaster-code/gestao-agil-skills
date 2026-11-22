@@ -86,7 +86,7 @@ Mesma medida do campo 2.
 Quando vou revisar? Com quem?
 
 <!-- c:acompanhamento -->
-| Semana / data | Número medido | O que travou | Ajuste feito |
+| Semana / data | Número medido | O que parou | Ajuste feito |
 |---|---|---|---|
 | | | | |
 | | | | |

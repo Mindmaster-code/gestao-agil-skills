@@ -17,7 +17,7 @@ no portfólio, com a regra de execução escrita. Use também sempre que uma equ
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
-- Templates: canvas v6 «Canvas Editável — Decisão Projeto ou Fluxo» (5 campos; exemplo `folha_decisao_exemplo.pdf`, caso Ana); legado «Mod 04 — Decisão Projeto ou Fluxo GA2 Editável» (artefato 11, 2 páginas, 5 campos com nomes um pouco diferentes). As variantes têm nomes diferentes: preserve o modelo solicitado; não substitua uma pela outra sem confirmação.
+- Templates: canvas v6 «Canvas Editável — Decisão Projeto ou Fluxo» (5 campos; exemplo `folha_decisao_exemplo.pdf`, caso Ana); legado «Decisão Projeto ou Fluxo GA2 Editável» (artefato 11, 2 páginas, 5 campos com nomes um pouco diferentes). As variantes têm nomes diferentes: preserve o modelo solicitado; não substitua uma pela outra sem confirmação.
 - Exemplo do curso: Ana (atendimento) — fila de tickets em fluxo + repositório de respostas em ciclos de uma semana.
 
 ## Como conduzir
@@ -107,8 +107,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

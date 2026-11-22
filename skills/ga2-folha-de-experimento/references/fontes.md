@@ -7,6 +7,10 @@
 - A fonte original registra uma lacuna de curadoria sobre Design Thinking, barbell e antifragilidade; as aulas e o webinar acima são a procedência deste recorte.
 - Distinção de fontes: a proporção barbell 80–90/10–20 vem do webinar citado, não das transcrições ao vivo do GA 2.0. A versão v6 a incorpora na aula de Melhoria Contínua.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha B10 e aula 9 do curso de rotinas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

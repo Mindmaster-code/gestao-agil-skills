@@ -58,9 +58,9 @@ As duas leituras pertencem às fontes indicadas. O corte desta adaptação é **
  ser puxado fica detalhado; o distante fica macro. Pergunta na varredura: "o mapa ainda
  bate com o registro atual do trabalho?"
 
-## Poda mensal da lista (ficha F09)
+## Poda mensal da lista
 
-A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente. Fonte: ficha F09 do Guia completo de rotinas de gestão; o refinamento contínuo e a faixa Q são do método.
+A lista é viva: o que perdeu o sentido sai. A poda mensal tira da lista, e das pastas que a acompanham, o que não serve mais, e deixa o que sobra mais fácil de ler e de manter. Mensal, de 20 a 40 minutos; mais ampla quando mudar a forma de trabalho. Dono: o dono do backlog. O 5S (só o necessário à mão, organizado e limpo) serve de lente.
 
 1. **Escolha o conjunto** que dá trabalho para manter ou para achar o que importa: o backlog de uma iniciativa ou a lista do plano.
 2. **Separe os itens em grupos:** ativos (no ciclo ou perto dele), referências úteis, parados e sem uso. O dono escreve no cabeçalho o que conta como "parado" (por exemplo, sem movimento por vários ciclos) e usa a mesma régua todo mês.
@@ -80,7 +80,7 @@ Sinais: o tempo para achar um item e o esforço para manter a lista. Se o acúmu
 - **A fatia fina é o primeiro sprint**. Todo ciclo entrega algo de valor que o cliente reconheça.
 - **Tarefa pequena:** 1 a 3 dias; "se possível até um dia"; **um cartão, uma semana**.
 - **"A mesma peça andando":** a iniciativa nasce no OKR, ganha ordem na matriz e ganha detalhe no backlog — não muda de nome no caminho.
-- **Refinamento contínuo (grooming):** o perto fica detalhado, o longe fica genérico (apostila §4).
+- **Refinamento contínuo (grooming):** o perto fica detalhado, o longe fica genérico.
 - **Não comece pelo backlog.** "Muita gente começa por aqui, erroneamente" — OKR e matriz vêm antes.
 
 ## Saída
@@ -123,7 +123,7 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 - **Leve** (uma iniciativa, uma pessoa): linha de cima com 3–5 colunas, 2–3 itens por coluna, só E e "depois" (como a Ficha). Fatia fina = 3 tarefas = primeiro ciclo.
 - **Intermediária** (frente de área): as quatro faixas E/D/O/Q, cada item com dono e tamanho, fatia fina marcada, cartões da primeira semana escritos com "pronto é".
-- **Robusta** (produto ou projeto grande, várias áreas): leitura ao vivo por iniciativa + um mapa v6 do plano apontando para cada um; refinamento registrado na revisão periódica do backlog; gate humano marcado na coluna onde trava.
+- **Robusta** (produto ou projeto grande, várias áreas): leitura ao vivo por iniciativa + um mapa v6 do plano apontando para cada um; refinamento registrado na revisão periódica do backlog; gate humano marcado na coluna onde há bloqueio.
 
 ## Erros comuns
 
@@ -133,7 +133,7 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 - Tarefa do tamanho de uma iniciativa: cartão parado por semanas.
 - Começar pelo backlog sem OKR nem matriz.
 - Backlog em papel ou sem dono: morre em uma semana.
-- Editável Mod 2 como único template: virou 1D (só E/D/O/Q, sem narrativa) — use o canvas legado ou a Ficha para a linha de cima (nota metodológica sobre as duas leituras).
+- Modelo editável como único template: virou 1D (só E/D/O/Q, sem narrativa) — use o canvas legado ou a Ficha para a linha de cima.
 - Apagar sem olhar o critério de guarda: o item tinha obrigação de guarda ou valor de evidência.
 - Deixar a faixa Q crescer todo mês, sem decisão do dono.
 - Poda que vira reorganização da lista inteira, sem ganho de leitura.

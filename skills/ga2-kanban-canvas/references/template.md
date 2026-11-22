@@ -87,7 +87,7 @@ O que (uma frase, resultado): ______________________________
 Dono (nome de pessoa): ______ Apoio (não é co-dono): ______
 Prazo: __/__ Início: __/__ Idade: __ dias
 Pronto é (checklist): [ ] ____ [ ] ____ [ ] prova pelo caminho real
-Bloqueio: [ ] nenhum [ ] gate: quem decide ______ pedido em __/__ [ ] trava: ______
+Bloqueio: [ ] nenhum [ ] gate: quem decide ______ pedido em __/__ [ ] bloqueio: ______
 Prova: (link / arquivo / log / mensagem)
 `
 
@@ -101,7 +101,7 @@ Prova: (link / arquivo / log / mensagem)
 | Prioridade — como escolher o próximo | |
 | Limites — por coluna e por pessoa <!-- c:limites_politica --> | |
 | Atualização — quem, quando <!-- c:atualizacao --> | |
-| Bloqueio — o que fazer quando trava; parado N dias sobe para <!-- c:bloqueio --> | |
+| Bloqueio — o que fazer quando algo para; parado N dias sobe para <!-- c:bloqueio --> | |
 | Por que isso existe (Kit Implementação) | |
 
 ### B6. Bloqueio — representação escolhida
@@ -114,7 +114,7 @@ Escalada: parado __ dias → pergunta na diária; __ dias → cobrança por escr
 
 ---
 
-### B7. Dependência entre áreas (ficha B06)
+### B7. Dependência entre áreas
 
 Acrescente ao cartão padrão do B4 os dois campos abaixo, e a coluna "Aguardando outra área" ao fluxo do B2, com limite próprio.
 
@@ -161,13 +161,13 @@ Conflito que as áreas não têm alçada para resolver, e quem responde pelo res
 
 `Área A` · `Área B` · `Compartilhado` · `Processo interno`
 
-### C3. Colunas (estados comuns do modelo operacional §7, reduzidos para a carteira de iniciativas)
+### C3. Colunas (estados comuns, reduzidos para a carteira de iniciativas)
 
 `Sem dono` · `Sem STATUS` · `Em preparação` · `Em execução` · `Em gate` (condição) · `Bloqueado` (condição) · `Parado` (condição) · `Entregue` · `Aceito`
 
 ### C4. Quadro
 
-| ID | Frente | Raia | Dono | Coluna | Última prova | Dias parado | Gate / trava | Fonte |
+| ID | Frente | Raia | Dono | Coluna | Última prova | Dias parado | Gate / bloqueio | Fonte |
 |---|---|---|---|---|---|---|---|---|
 | P-__ | | | | | | | | |
 

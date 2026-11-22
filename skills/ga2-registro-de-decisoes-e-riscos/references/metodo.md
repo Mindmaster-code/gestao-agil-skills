@@ -54,7 +54,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ### C. Acompanhar compromissos e decisões (toda semana, 15 a 30 minutos)
 
-14. **Registre cada compromisso com assunto, dono, data, evidência e um dos cinco estados:** em execução (alguém está fazendo agora), aguardando (espera resposta ou entrega de outra pessoa), travado (não anda sem ajuda ou decisão de alguém), concluído (pronto, com a evidência anotada) e cancelado (saiu do plano, com o motivo anotado).
+14. **Registre cada compromisso com assunto, dono, data, evidência e um dos cinco estados:** em execução (alguém está fazendo agora), aguardando (espera resposta ou entrega de outra pessoa), parado (não anda sem ajuda ou decisão de alguém), concluído (pronto, com a evidência anotada) e cancelado (saiu do plano, com o motivo anotado).
 15. **Na revisão semanal, siga o roteiro:** retome os itens vencidos e os que precisam de preparação; confirme a evidência antes de encerrar; identifique as dependências sem resposta e faça o encaminhamento; renegocie prazo e escopo com quem recebe a entrega; retire os compromissos que perderam sentido, com a decisão registrada.
 16. **Olhe também as decisões que ainda não viraram ação** e as que chegaram na data de rever. Uma decisão importante pode gerar várias ações: ligue as ações a ela pelo assunto.
 17. **Acompanhe as decisões sem execução, as pendências vencidas** e as decisões reabertas por falta de informação ou de comunicação.
@@ -92,7 +92,7 @@ Reúna incidentes, dependências críticas, contratos, ausências e a lista ante
 - Todo risco tem sinal, primeira resposta e uma pessoa que responde, com o limite de até onde ela resolve sozinha.
 - Na data do "rever em", pergunte o que esperava, o que aconteceu e qual premissa mudar.
 - Decisão que passa da alçada sobe com as opções e a recomendação.
-- De 10 a 20% do ciclo para a aposta; o resto fica no que funciona. (Passo 5 §2.6)
+- De 10 a 20% do ciclo para a aposta; o resto fica no que funciona.
 
 ## Saída
 
@@ -138,7 +138,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

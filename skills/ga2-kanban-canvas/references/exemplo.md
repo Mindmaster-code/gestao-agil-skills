@@ -117,7 +117,7 @@ Sem dono · Sem registro de estado · Em preparação · Em execução · Entreg
 
 ### C4. Quadro
 
-| ID | Frente | Raia | Dono | Coluna | Última prova | Dias parado | Gate / trava | Fonte simulada |
+| ID | Frente | Raia | Dono | Coluna | Última prova | Dias parado | Gate / bloqueio | Fonte simulada |
 |---|---|---|---|---|---|---|---|---|
 | NS-01 | Checklist de conferência | Expedição | Mariana | Em execução | versão inicial, 15/09 | 1 | SIM-05 incompleto; Lucas, 16/09 | registro NS-01 de 16/09 |
 | NS-02 | Fila de dúvidas | Atendimento | Lucas | Em execução | resposta registrada, 16/09 | 0 | nenhum | registro NS-02 de 16/09 |

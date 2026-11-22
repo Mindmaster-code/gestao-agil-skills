@@ -11,7 +11,12 @@
  «Mod 03 — Quadro de Execução GA2 Editável» (evidência na coluna Concluídos).
 - Diretriz prática: modelo operacional de demandas §5 (contrato mínimo para ficar Apta =
  o DoR do laboratório), §11 (DoD, Entregue, Aceita, gate); regra de entrega verificada "Entrega verificada";
- registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde trava §1 ("pronto é"); registro do portfólio na pasta do caso (políticas).
+ registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde há bloqueio §1 ("pronto é"); registro do portfólio na pasta do caso (políticas).
+
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- §4.8 (política de Entrada e de Pronto; DoD genérico + por tipo de tarefa, Canvas 7.2), §3 regra 10. «Quadro de Execução GA2 Editável» (evidência na coluna Concluídos).
+- Diretriz prática: modelo operacional (contrato mínimo para ficar Apta = o DoR do laboratório), §11 (DoD, Entregue, Aceita, gate); regra de entrega verificada "Entrega verificada"; registro de demanda em seis linhas — o que, por que, dono, pronto é, prazo, onde há bloqueio §1 ("pronto é"); registro do portfólio na pasta do caso (políticas).
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.

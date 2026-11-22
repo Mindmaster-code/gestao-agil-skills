@@ -2,7 +2,7 @@
 # Checklist de produção e entrega — template (DoR / DoD)
 
 Três partes: (A) o checklist original de 9 etapas da, como está no PDF; (B) o DoR
-do laboratório, derivado das etapas 1–4 e do contrato mínimo do modelo operacional; (C) o DoD da
+do laboratório, derivado das etapas 1–4 e do contrato mínimo de demandas; (C) o DoD da
 laboratório, derivado das etapas 5–8, do Canvas 7.2 e da regra "prova pelo caminho real". Campo que a
 aula não cita vem marcado como extensão do método.
 
@@ -54,15 +54,15 @@ Cartão: P-__ · Dono: ______ · Checado por: ______ em __/__/____
 | # | Item | Origem | OK | Se falta, o que escrever |
 |---|---|---|---|---|
 | 1 | Origem: contramedida do A3 / iniciativa do OKR / entrega do Backlog 2D | etapas 1–3 | [ ] | |
-| 2 | Dono único (nome de pessoa) | etapa 4 "equipe com nome e função"; §5 | [ ] | |
-| 3 | Aceitante nomeado (ou verificação objetiva) | §5 | [ ] | |
+| 2 | Dono único (nome de pessoa) | etapa 4 "equipe com nome e função" | [ ] | |
+| 3 | Aceitante nomeado (ou verificação objetiva) | — | [ ] | |
 | 4 | "Pronto é" escrito — prova pelo caminho real | etapa 4 "metas e métricas"; 6 linhas | [ ] | |
 | 5 | Cabe em uma semana; quebrado em tarefas ≤ 1 dia | etapa 4 "sprint backlog"; | [ ] | |
-| 6 | Compromisso: Comprometida (capacidade confirmada pelo diretor) | §9 | [ ] | |
-| 7 | Classe: Crítica / Com prazo / Normal; Data comprometida | §9 | [ ] | |
-| 8 | Gates mapeados de uma vez: ação sensível → decisor → proposta → data do pedido | §11; regra de ouro | [ ] | |
+| 6 | Compromisso: Comprometida (capacidade confirmada pelo diretor) | — | [ ] | |
+| 7 | Classe: Crítica / Com prazo / Normal; Data comprometida | — | [ ] | |
+| 8 | Gates mapeados de uma vez: ação sensível → decisor → proposta → data do pedido | regra de ouro | [ ] | |
 | 9 | Riscos com plano de resposta | etapa 4 "ações para riscos" | [ ] | |
-| 10 | Pacote de contexto: quem executa acha tudo sem perguntar | §5 | [ ] | |
+| 10 | Pacote de contexto: quem executa acha tudo sem perguntar | — | [ ] | |
 | 11 | Dono abaixo do WIP (laboratório: 3) | política do quadro | [ ] | |
 | 12 | Empresa rotulada (Empresa A · Empresa B · Compartilhado) | | [ ] | |
 
@@ -84,10 +84,10 @@ Cartão: P-__ · Dono: ______ · Aceitante: ______ · Checado em __/__/____ às 
 | 3 | Revisão por par ou revisor nomeado (quando o tipo exige) | 7.2 "revisão e aprovação" | [ ] | |
 | 4 | Documentação / registro durável atualizado (acompanhamento, diário, versão; commit quando houver repositório) | 7.2 "documentação" | [ ] | |
 | 5 | Comunicação: carta de volta na caixa de quem pediu | 7.2 "comunicação" | [ ] | |
-| 6 | Métrica de negócio lida, com empresa rotulada; demanda cumprida ≠ objetivo atingido | etapa 6; §12 | [ ] | |
-| 7 | Nenhum gate exigido pela DoD pendente | §11 | [ ] | |
+| 6 | Métrica de negócio lida, com empresa rotulada; demanda cumprida ≠ objetivo atingido | etapa 6 | [ ] | |
+| 7 | Nenhum gate exigido pela DoD pendente | — | [ ] | |
 | 8 | Verbo honesto no report ("validado em produção às HH:MM" / "não validado em runtime") | regra de entrega verificada | [ ] | |
-| 9 | Dono marcou Entregue; Aceitante conferiu e marcou Aceita | §11; etapa 8 | [ ] | |
+| 9 | Dono marcou Entregue; Aceitante conferiu e marcou Aceita | etapa 8 | [ ] | |
 
 ### C2. DoD por tipo de tarefa (Canvas 7.2 pede "checklist por tipo"; tipos são do laboratório — prática aplicada)
 

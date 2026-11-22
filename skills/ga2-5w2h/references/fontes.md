@@ -6,6 +6,10 @@
 - Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma aplicação do método, com essa origem explicitada.
 - Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento `(aplicação do método)`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: ficha A06 e aula 9 do curso de rotinas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

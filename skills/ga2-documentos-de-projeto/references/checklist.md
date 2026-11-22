@@ -16,7 +16,7 @@
 - [ ] Cabe em 2 minutos de leitura.
 - [ ] Diz o dia/ciclo e responde "no ritmo?" com adiantado / no prazo / atrasado.
 - [ ] Cada entrega tem prova pelo caminho real (URL, arquivo, log, commit).
-- [ ] Cada trava nomeia quem destrava e a data do pedido.
+- [ ] Cada bloqueio nomeia quem desbloqueia e a data do pedido.
 - [ ] Tem aprendizado sobre o caso e sobre o próprio sistema de trabalho.
 - [ ] Termina com próximo passo: ação, dono, data.
 - [ ] Não maquiou: atrasado está escrito "atrasado".
@@ -36,9 +36,9 @@
 | Erro | Como aparece | Correção |
 |---|---|---|
 | Dossiê de nome | pasta com README e mais nada há 3 semanas | cobrar o documento da fase, com "pronto é" |
-| Status = lista de tarefas | 12 bullets de atividade, sem ritmo nem trava | 8 campos do template; cortar ao essencial |
+| Status = lista de tarefas | 12 bullets de atividade, sem ritmo nem bloqueio | 8 campos do template; cortar ao essencial |
 | "No prazo" sem prova | entrega citada sem link | pedir a prova; sem prova = não entregue |
-| Trava sem decisor | "depende de aprovação" | nome + data do pedido; entra na fila de gates |
+| Bloqueio sem decisor | "depende de aprovação" | nome + data do pedido; entra na fila de gates |
 | Resumo genérico | "aprendemos a comunicar melhor" | "tudo que dependia de decisão parou 10 semanas; gate é o gargalo" |
 | Decisão sem verbo | "avaliar próximos passos" | "escalar à responsável Mariana até 18/09/2026 — Lucas" |
 | Emendar ciclo sem resumo | plano novo sem fechar o anterior | resumo antes do plano; regra 1 da cadência |

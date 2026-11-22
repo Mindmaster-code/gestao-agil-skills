@@ -33,7 +33,7 @@
 - [ ] Registro de manutenção: o que entrou, saiu, quebrou, reordenou, e quando.
 - [ ] Mapa bate com o registro atual do trabalho do dono; se não bate, está velho.
 
-**Poda mensal (ficha F09)**
+**Poda mensal**
 - [ ] A poda aconteceu no mês, com o conjunto escolhido e a régua de "parado" escrita.
 - [ ] Os itens Q e os parados passaram pela decisão do dono: manter, quebrar, arquivar ou apagar.
 - [ ] O critério de guarda foi confirmado antes de arquivar ou apagar; nenhum registro obrigatório saiu.
@@ -52,9 +52,9 @@
 | Backlog sem dono | — | "Quem ordena? Quem detalha?" |
 | Backlog em papel / não editável | "o backlog é vivo" | "Onde ele vive? Dá para editar hoje?" |
 | Item do Evite que voltou pela linha de cima | — | "A matriz tirou. Quem pôs de volta e por quê?" |
-| Usar só o editável Mod 2 (E/D/O/Q sem narrativa) | nota metodológica sobre as duas leituras | "Virou lista 1D. Cadê a linha de cima?" |
+| Usar só o modelo editável (E/D/O/Q sem narrativa) | — | "Virou lista 1D. Cadê a linha de cima?" |
 | Fatia fina sem "pronto é" | adaptação: entrega conferida | "Como eu vejo isso pronto pelo caminho real?" |
-| Mapa que ninguém atualiza | apostila §4 (grooming) | "Data da última mudança? Bate com o registro atual do trabalho?" |
+| Mapa que ninguém atualiza | — | "Data da última mudança? Bate com o registro atual do trabalho?" |
 | Apagar sem olhar a guarda | item com obrigação de guarda ou valor de evidência some | confirmar o critério de guarda antes de arquivar ou apagar |
 | Faixa Q que só cresce | o questionável se acumula todo mês | decisão do dono na poda: manter, quebrar, arquivar ou apagar |
 | Poda que vira reorganização total | meia manhã mexendo na lista sem ganho de leitura | podar o que perdeu o sentido e simplificar só o que atrapalha |

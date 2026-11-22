@@ -54,8 +54,8 @@ Template oficial: `desafio-7-dias-status-report-ga2.pdf` (8 campos). Campos marc
 ## Que resultado apareceu `(legado)` <!-- c:resultado -->
 - <sinal simples: prazo, qualidade, fila, bloqueio removido, feedback observado ou aprendizado>
 
-## O que travou (bloqueios) <!-- c:travou -->
-- <trava> — quem destrava: <nome> — pedido em <dd/mm> `(lab: decisor e data)`
+## O que parou (bloqueios) <!-- c:parou -->
+- <bloqueio> — quem desbloqueia: <nome> — pedido em <dd/mm> `(lab: decisor e data)`
 
 ## O que aprendi até aqui <!-- c:aprendi -->
 - (sobre o caso e sobre o meu sistema de trabalho `(legado)`)

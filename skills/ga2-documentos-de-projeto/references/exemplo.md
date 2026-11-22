@@ -52,7 +52,7 @@ Sem esses registros, a entrega fica declarada pelo participante, não comprovada
 Dado ilustrativo: oito confirmações concluídas em dez tentativas. Isso mede execução do teste, não redução de devoluções.
 A devolução só poderá ser medida depois da entrega dos pedidos, com período e denominador definidos.
 
-### O que travou <!-- c:travou -->
+### O que parou <!-- c:parou -->
 
 Dois clientes do cenário não responderam. Lucas consulta a política de contato até 09/09/2026; Mariana decide o ajuste.
 

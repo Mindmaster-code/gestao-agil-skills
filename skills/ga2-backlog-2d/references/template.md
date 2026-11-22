@@ -76,7 +76,7 @@ Regra: o que está perto de ser puxado fica detalhado; o distante fica macro. Ma
 
 ## 6. Poda mensal
 
-Ficha F09 do Guia completo de rotinas de gestão. Mensal, de 20 a 40 minutos.
+Mensal, de 20 a 40 minutos.
 
 | Campo | Resposta |
 |---|---|

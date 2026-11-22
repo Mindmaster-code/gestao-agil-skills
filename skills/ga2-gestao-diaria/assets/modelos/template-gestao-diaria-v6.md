@@ -14,4 +14,4 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 |---|---|---|---|---|---|
 | **O que avancei** <!-- c:avancei --> | | | | | |
 | **Foco de hoje** <!-- c:foco --> | | | | | |
-| **O que me trava** <!-- c:trava --> | | | | | |
+| **O que me impede** <!-- c:bloqueio --> | | | | | |

@@ -54,7 +54,7 @@ Contratar não entrou na decisão: o cenário aponta espera por informação, n�
 
 | Linha | Texto |
 |---|---|
-| O que é urgente | cliente com entrega parada, receita travada ou risco legal imediato, com registro |
+| O que é urgente | cliente com entrega parada, receita parada ou risco legal imediato, com registro |
 | Quem pode chamar | Mariana |
 | Quantas cabem | uma por vez; a segunda espera |
 | O que acontece com o pausado | recebe marca, motivo e data; volta na frente ao terminar a urgência |

@@ -29,7 +29,7 @@ Não há número financeiro neste diagnóstico.
 
 Tempos abaixo são estimativas didáticas por pedido, não medições reais.
 
-| # | Etapa | Quem faz | Entrada | Saída | Tempo / espera | Trava ou volta? |
+| # | Etapa | Quem faz | Entrada | Saída | Tempo / espera | Para ou volta? |
 |---|---|---|---|---|---|---|
 | 1 | Receber pedido | Lucas | Pedido autorizado | Lista para separar | 5 min | Não observada |
 | 2 | Separar | Lucas | Lista | Volumes separados | 15 min | Local a observar |

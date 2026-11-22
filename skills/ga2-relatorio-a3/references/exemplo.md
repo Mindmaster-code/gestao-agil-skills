@@ -72,7 +72,7 @@ Nenhuma ação supera uma semana. C2 será detalhada após a primeira revisão; 
 Revisão com Lucas em 14/09/2026.
 
 <!-- c:acompanhamento -->
-| Data | Número medido | O que travou | Ajuste |
+| Data | Número medido | O que parou | Ajuste |
 |---|---|---|---|
 | 08/09/2026 | Só linha de base sintética: 15% | Causa sem validação | Investigar; não liberar mudança |
 | 14/09/2026 | A medir após investigação | A registrar na revisão | Decidir manter, ajustar ou descartar |

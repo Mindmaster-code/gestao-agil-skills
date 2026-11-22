@@ -3,7 +3,7 @@
 
 Preenchido com a pessoa em: <AAAA-MM-DD> · Líder: <nome> · Ciclo: <AAAA-Www … AAAA-Www>
 
-Travas conferidas antes: de saída? <não> · afogada? <não> · salário torto? <não>
+Bloqueios conferidas antes: de saída? <não> · afogada? <não> · salário torto? <não>
 
 | Campo | Resposta |
 |---|---|
@@ -54,7 +54,7 @@ Apêndice opcional (versão ao vivo, para horizonte de carreira): Objetivos de c
 
 ---
 
-## Modo PDI do próprio líder (ficha G08)
+## Modo PDI do próprio líder
 
 | Campo | Resposta |
 |---|---|
@@ -71,7 +71,7 @@ Apêndice opcional (versão ao vivo, para horizonte de carreira): Objetivos de c
 
 ---
 
-## Roteiro da conversa de carreira (ficha E04)
+## Roteiro da conversa de carreira
 
 Registro reservado. Guarde em destino privado. Os horizontes seguem o apêndice opcional acima (versão ao vivo, canvas `pdi-kit`).
 
@@ -91,6 +91,6 @@ Registro reservado. Guarde em destino privado. Os horizontes seguem o apêndice 
 |---|---|
 | Experiências de desenvolvimento combinadas e como demonstrar preparo | |
 | O que não prometi (posição, promoção, aumento, vaga) | |
-| Encaminhamento para um PDI, se a pessoa quiser (as três travas conferidas) | |
+| Encaminhamento para um PDI, se a pessoa quiser (as três bloqueios conferidas) | |
 | Retorno marcado para | |
 | Mudanças de interesse ou de contexto a registrar no acompanhamento | |

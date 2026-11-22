@@ -14,6 +14,10 @@
 
 ## Procedência que saiu dos arquivos carregados (22/11/2026)
 
+- Fonte: ficha E06 do Guia completo de rotinas de gestão; a regra "contratar é a última saída" é da aula A19.
+- Fonte: ficha F10 do Guia completo de rotinas de gestão.
+- 9–14, §4.10 (limites — sem template), §4.11 (urgência — sem template), §6 itens 4–5.
+- Classe de atendimento: modelo operacional (limite por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
 - Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5.
 
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.

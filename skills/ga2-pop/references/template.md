@@ -100,7 +100,7 @@
 |---|---|---|---|---|
 | v1.0 | | primeira versão | | |
 
-## 14. Cobertura e substituto (fichas E10 e C09)
+## 14. Cobertura e substituto
 
 Este processo sobrevive às férias de quem faz? [ ] Sim [ ] Só em parte [ ] Não
 
@@ -126,4 +126,4 @@ O que falta, se a resposta não for Sim (procedimento escrito, substituto que pr
 ## Teste de bem feito (antes de aprovar)
 
 - [ ] Alguém que nunca fez executou só com este POP e chegou na mesma saída do veterano.
-- [ ] Onde travou, o POP foi corrigido — não a pessoa.
+- [ ] Onde parou, o POP foi corrigido — não a pessoa.

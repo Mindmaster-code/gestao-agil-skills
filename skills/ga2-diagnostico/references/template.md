@@ -31,7 +31,7 @@ Número financeiro: declarado pelo responsável financeiro da empresa ou marcado
 
 ### 2a. Mapa as-is — só se o problema é de fluxo
 
-| # | Etapa | Quem faz | Entrada | Saída | Tempo / espera | Trava ou volta? |
+| # | Etapa | Quem faz | Entrada | Saída | Tempo / espera | Para ou volta? |
 |---|---|---|---|---|---|---|
 | 1 | | | | | | |
 | 2 | | | | | | |

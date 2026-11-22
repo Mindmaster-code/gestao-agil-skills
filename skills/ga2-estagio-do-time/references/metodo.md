@@ -21,7 +21,6 @@ Não dispara para: escrever o comunicado da mudança (`ga2-reunioes-e-comunicado
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 - Canvas do curso, em PDF e fora deste pacote: Estágio do Time (Tuckman), artefato 6.4; Termômetro da Confiança do Time, a ficha do time e a folha do gestor.
-- Template: o `template.md` reproduz os campos desses canvas e acrescenta o plano de transição da mudança, a partir da ficha D09.
 
 ## Como conduzir
 
@@ -40,7 +39,7 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 3. **Escreva onde o time está e por quê:** o sinal que mostra a fase, em fato, sem culpado.
 4. **Escreva a jogada do líder agora,** com data.
-5. **Ligue o estágio a um resultado:** qual meta ou número isso destrava. Se o estágio marcado não explica o número que não anda, marcou errado.
+5. **Ligue o estágio a um resultado:** qual meta ou número isso desbloqueia. Se o estágio marcado não explica o número que não anda, marcou errado.
 6. **Reavalie a cada ciclo.** O estágio muda, e o time não pula etapa. Time que nunca discorda não está em harmonia: pode estar com medo. O acordo do conflito é a regra do estágio de acordo.
 7. **Lembre que a chegada e a mudança movem o time.** Quem chega costuma devolver o grupo à formação (`ga2-contratar-e-integrar`), mas o estágio se confirma pelo fato, e não pela regra. Uma mudança no trabalho costuma devolvê-lo ao conflito.
 
@@ -57,7 +56,7 @@ Faça em uma reunião que já existe. A confiança é percepção de quem sente:
 14. **Uma ação por rodada.** Três ações juntas escondem qual delas funcionou.
 15. **Confiança baixa muda o passo seguinte.** Peça feedback com as três perguntas simples (`ga2-feedback-360`) antes de usar uma ferramenta completa, e reconstrua a confiança antes de liderar uma mudança grande.
 
-### C. Plano de transição da mudança (ficha D09)
+### C. Plano de transição da mudança
 
 Faça uma conversa de acompanhamento antes da mudança e uma por semana nas primeiras semanas, de 20 a 45 minutos cada.
 
@@ -86,7 +85,7 @@ Faça uma conversa de acompanhamento antes da mudança e uma por semana nas prim
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Estágio do time: o estágio marcado, onde o time está e por quê, a jogada do líder e o resultado que ela destrava.
+- Estágio do time: o estágio marcado, onde o time está e por quê, a jogada do líder e o resultado que ela desbloqueia.
 - Termômetro da Confiança: a ficha do time para imprimir e a folha do gestor, com a distribuição antes, o que o time escreveu, a ação do gestor, a nova medição e a distribuição depois.
 - Plano de transição da mudança, com as conversas semanais, as dificuldades que apareceram e os ajustes.
 - Depois: o comunicado em `ga2-reunioes-e-comunicados`; o quadro de decisões em `ga2-delegacao`.
@@ -124,7 +123,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

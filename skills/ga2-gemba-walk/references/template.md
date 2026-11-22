@@ -11,7 +11,7 @@
 
 | Campo | Conteúdo |
 |---|---|
-| Onde é o gemba (o passo do fluxo que mais trava) <!-- c:onde --> | <serviço, arquivo, caixa, URL, tela> |
+| Onde é o gemba (o passo do fluxo que mais emperra) <!-- c:onde --> | <serviço, arquivo, caixa, URL, tela> |
 | Com quem (quem executa, não quem reporta) <!-- c:quem --> | |
 | Quando · quanto tempo <!-- c:quando --> | |
 | O que eu quero entender (uma pergunta; nunca começa com "quem") <!-- c:pergunta --> | |

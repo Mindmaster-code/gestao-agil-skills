@@ -75,7 +75,7 @@ A seleção é um trabalho que se repete, e por isso ganha um POP (procedimento 
 
 - Contratar é a última saída, e só depois de achar o gargalo. (Passo 4 regra 11)
 - Os critérios da seleção vêm antes dos candidatos.
-- A seleção é um trabalho que se repete: tem POP. (Passo 2 §2.10)
+- A seleção é um trabalho que se repete: tem POP.
 - Cada etapa do ciclo entrega para a seguinte: seleção sem critério gera integração difícil.
 - Integre em degraus: acompanha, faz com orientação, entrega sozinha.
 - Os pontos de 7, 30, 60 e 90 dias são referência, e não prazo de contrato.
@@ -126,7 +126,7 @@ O título diz a consequência, não o achado. Curto não é vago: corte a palavr
 aberto) e fonte reconferível. Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato traz quem responde pelo resultado, quais **pessoas** participam (pelo nome),
-quem decide a trava e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
+quem decide o bloqueio e quem confirma que serve. Sem nome na fonte, escreva "não definido" e nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).
@@ -141,7 +141,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 
 ## Erros comuns
 
-- Abrir a vaga sem achar o gargalo: o quadro mostrava uma etapa travada, e não falta de gente.
+- Abrir a vaga sem achar o gargalo: o quadro mostrava uma etapa parada, e não falta de gente.
 - Escrever os critérios depois de ver o primeiro candidato.
 - Perguntar o que não é pertinente à função, ou guardar dados pessoais em planilha aberta.
 - Concentrar a integração no primeiro dia e deixar a pessoa sozinha depois.

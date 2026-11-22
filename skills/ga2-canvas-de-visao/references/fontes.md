@@ -7,6 +7,10 @@
 - Exemplo do curso: Kit Implementação, Canvas de Visão da Norte-Sul.
 - Diferenças entre versões: o Canvas não existe na v6; a versão curta é de caso, não de empresa.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Apostila do Passo 1, p.4–6: Canvas como primeiro documento do projeto.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

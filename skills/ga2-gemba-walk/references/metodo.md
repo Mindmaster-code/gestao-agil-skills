@@ -6,8 +6,7 @@ Gemba = o lugar onde as coisas acontecem. Genchi genbutsu = "vá e veja" com os 
 olhos. "Vá para o local do problema, veja, sinta, execute junto, converse com quem faz — e não
 só olhe relatórios ou o relato de outras pessoas." É comportamento, não técnica.
 
-Use quando o número caiu e ninguém sabe por quê; antes de escrever um A3; no passo do fluxo
-que mais trava; e, por regra, pelo menos uma hora por mês. Entra antes: um número ruim do
+Use quando o número caiu e ninguém sabe por quê; antes de escrever um A3; no passo do fluxo que mais emperra; e, por regra, pelo menos uma hora por mês. Entra antes: um número ruim do
 painel ou um cartão parado. Sai depois: **um fato que nenhum relatório contaria**, levado
 para a retro, o A3 ou o Quadro Kaizen.
 
@@ -31,14 +30,14 @@ o report de quem fez:
 | diretor em silêncio | canal de pedidos e histórico de leitura | carta lida e não respondida × carta nunca aberta |
 | report "feito" | o arquivo em registro de relatórios escolhido, a URL, o log citado | a prova existe e bate com o texto? |
 | pulso diário | registro diário da área | o que o agente viu hoje, em vez do resumo |
-| aluno ou cliente travado | URL de produção logado como aluno; tópico do Telegram | a tela que a pessoa vê |
+| aluno ou cliente parado | URL de produção logado como aluno; tópico do Telegram | a tela que a pessoa vê |
 
 Só leitura. O Gestor não roda comando de produção (systemd start/stop, deploy, banco) — isso é
 do responsável técnico autorizado. Ler log, listar arquivo e abrir URL é observar; mudar é executar.
 
 ## Como conduzir
 
-1. **Escolher o lugar.** Pergunta: "Qual passo do fluxo mais trava hoje?" Escreve onde é o
+1. **Escolher o lugar.** Pergunta: "Qual passo do fluxo mais emperra hoje?" Escreve onde é o
  gemba (serviço, arquivo, caixa, URL). Recusa: gemba escolhido por conveniência.
 2. **Escrever a pergunta antes de ir.** Uma só. "O que eu quero entender?" Recusa: pergunta
  que começa com "quem" — vira caça ao culpado.
@@ -49,7 +48,7 @@ do responsável técnico autorizado. Ler log, listar arquivo e abrir URL é obse
 5. **O que me surpreendeu.** Uma linha — o fato que o relatório não contaria.
 6. **Por que isto acontece.** 5 porquês até a causa no processo, nunca na pessoa.
 7. **Contramedida.** Cabe num teste pequeno → Quadro Kaizen; causa incerta ou várias áreas →
- A3; exige código, infra ou timer → pedido ao responsável técnico: o que, por quê, dono, pronto é, prazo e onde trava.
+ A3; exige código, infra ou timer → pedido ao responsável técnico: o que, por quê, dono, pronto é, prazo e onde há bloqueio.
 8. **Quem padroniza e prazo.** Sair com uma ação, dono e data. Recusa: gemba que termina em
  "interessante".
 
@@ -126,8 +125,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha. Sem nome na fonte,
 escreva "não definido" — nunca atribua tudo ao usuário.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.

@@ -37,7 +37,7 @@ Revisão
 | Lista de riscos de uma vez só | o incidente aconteceu e a lista não mudou | revisar todo mês e depois de cada incidente |
 | Risco sem sinal | ninguém percebe que ele chegou | escrever o sinal de aproximação |
 | Resposta sem teste | na hora, ninguém acha o contato | testar a resposta dos riscos mais sérios |
-| Sem limite para escalar | a pessoa trava ou decide demais | dizer até onde ela resolve sozinha |
+| Sem limite para escalar | a pessoa empaca ou decide demais | dizer até onde ela resolve sozinha |
 | Rever pelo resultado | a decisão vira acerto ou erro de sorte | lembrar o que se sabia no dia |
 | Dado sensível em lugar aberto | o registro circula | usar registro privado e autorizado |
 

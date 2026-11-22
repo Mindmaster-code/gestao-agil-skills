@@ -10,7 +10,7 @@ Use para ordem, passagem do trabalho e ponto de espera.
 `text
 Entrada → Triagem → Execução → Aprovação → Entrega
  │ ▲
- └─ trava: prova ausente
+ └─ bloqueio: prova ausente
 `
 
 Rótulo em cada seta só quando a condição importa. Em HTML, use SVG inline ou blocos com

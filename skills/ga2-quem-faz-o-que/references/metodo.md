@@ -17,9 +17,8 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 
 A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
- template), §7 perguntas 27–28, §8 item 12 (quem dá o feedback na review).
 - Template: **não existe**. Os campos desta skill são construção deste pacote.
-- Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde trava.
+- Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde há bloqueio.
 
 ## Papéis — tradução do método para a organização
 
@@ -53,9 +52,8 @@ A procedência desta skill está em `fontes.md`, nesta mesma pasta.
  lá o antigo responde.
 9. **Registre na matriz** e cole o dono no cartão do quadro e nas 6 linhas da demanda.
 
-## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11)
+## Revisão de responsabilidades: papel previsto contra papel assumido
 
-Fonte: ficha E11 e aula 6 do curso de rotinas. A revisão acontece a cada semestre, ou depois de uma mudança relevante de responsabilidade, com 45 a 90 minutos de análise. Dono: o responsável pela área, com apoio de pessoas. Use registros reservados.
 
 **Aviso de alçada.** Remuneração, reajuste, progressão, contrato e obrigação legal são decisão de quem tem autoridade e das áreas responsáveis, como recursos humanos e jurídico. Esta habilidade organiza a comparação e a evidência. Ela não decide, não calcula valores e não promete resultado.
 
@@ -67,9 +65,8 @@ Fonte: ficha E11 e aula 6 do curso de rotinas. A revisão acontece a cada semest
 15. **Salário justo é pré-requisito.** Injustiça salarial é impedimento, e nenhuma ação de motivação resolve isso. Corrija primeiro e só depois conduza a conversa sobre autonomia, metas e desenvolvimento.
 16. **Revise as discrepâncias de função e as decisões pendentes** no semestre seguinte.
 
-## Transferência de responsabilidades quando alguém muda de função ou sai (ficha E12)
+## Transferência de responsabilidades quando alguém muda de função ou sai
 
-Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e transição, página 3. Complementa o passo 8 de "Como conduzir", que trata do aceite do novo dono. O planejamento leva de 30 a 60 minutos, e a execução depende do caso. Dono: o líder responsável, com a área de pessoas. Use um plano restrito de transição.
 
 **Aviso de alçada.** A parte formal, como desligamento, acessos, devoluções e obrigações, segue com as áreas responsáveis, nos momentos autorizados e com respeito à confidencialidade. Esta habilidade organiza a passagem do trabalho e não substitui essas áreas.
 
@@ -90,12 +87,12 @@ Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e tra
 - Cartão com nome de pessoa, não de área; cartão de todo mundo não é de ninguém.
 - Quem recebe o resultado aparece na review.
 - Diretriz prática: nenhuma demanda chega a Apta sem exatamente um dono; toda demanda tem DoD e Aceitante
- antes de executar; apoio não vira co-dono. (modelo operacional §1)
+ antes de executar; apoio não vira co-dono.
 - Diretriz prática: gate responde "podemos fazer esta ação sensível?"; aceite responde "cumpriu a DoD?". Pessoas
  podem ser diferentes.
 - Diretriz prática: quem conduz o método é dono do processo; o responsável pela área é dono do resultado e Aceitante. (organograma l.214)
-- Papel previsto e papel assumido ficam lado a lado, e a diferença orienta a conversa. Salário justo é pré-requisito; ninguém promete reajuste nem promoção antes da aprovação. (aula 6; ficha E11)
-- Quando alguém sai ou muda de função, cada entrega ganha um dono único, que aceita por escrito, e quem assume faz o trabalho uma vez com quem sai ao lado. (aula 7; ficha E12)
+- Papel previsto e papel assumido ficam lado a lado, e a diferença orienta a conversa. Salário justo é pré-requisito; ninguém promete reajuste nem promoção antes da aprovação.
+- Quando alguém sai ou muda de função, cada entrega ganha um dono único, que aceita por escrito, e quem assume faz o trabalho uma vez com quem sai ao lado.
 
 ## Saída
 
@@ -103,7 +100,7 @@ Os nomes abaixo são sugestões de organização, não dependências de reposit�
 
 - Matriz em matriz de papéis na pasta do caso, ou seção
  "Papéis" dentro do STATUS/charter da frente (documento de acompanhamento do caso).
-- Coluna "Dono" do registro da carteira de iniciativas na pasta do caso recebe só o dono; apoio vai na coluna "Gate / trava"
+- Coluna "Dono" do registro da carteira de iniciativas na pasta do caso recebe só o dono; apoio vai na coluna "Gate / bloqueio"
  ou na fonte, nunca como segundo dono.
 - Depois: cartão entra no Plano do Ciclo (`ga2-plano-do-ciclo`); DoD e Aceitante alimentam
  `ga2-checklist-producao-entrega`; conflito de fronteira vira mensagem escrita ao responsável pela área.
@@ -157,8 +154,7 @@ aberto) e fonte reconferível. O que o sistema *faria* é sempre "em aberto", nu
 Número sem fonte não vira pixel.
 
 **Pessoas envolvidas:** todo artefato de projeto ou frente traz o bloco — quem responde pelo
-resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide a
-trava e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
+resultado, quais **pessoas** participam (pelo nome), quais **agentes** executam, quem decide o bloqueio e quem confirma que serve. Pessoa e agente nunca na mesma linha: identifique explicitamente o tipo de participante. Sem nome na fonte, escreva "não definido" — nunca atribua tudo a uma única pessoa por suposição.
 
 No fluxo Markdown → HTML, gere o HTML da fonte atual.
 Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.md](entrega-editavel.md).

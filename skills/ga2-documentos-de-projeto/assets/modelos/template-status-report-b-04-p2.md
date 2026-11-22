@@ -8,8 +8,8 @@ Preencha este arquivo e gere o canvas ou o documento com o construtor. Regras: u
 
 | Campo | Resposta |
 |---|---|
-| **4 · O que travou ou atrasou?** — Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade. <!-- c:travou --> | |
+| **4 · O que parou ou atrasou?** — Impedimentos, falta de clareza, dependências, retrabalho ou mudança de prioridade. <!-- c:parou --> | |
 | **5 · O que eu aprendi sobre meu sistema de trabalho?** — O que ficou claro depois de tentar executar por 7 dias? <!-- c:aprendi --> | |
 | **6 · Qual ajuste vou fazer no próximo ciclo?** — Poucas mudanças: reduzir WIP, ajustar prioridade, mudar regra, pedir decisão. <!-- c:ajuste --> | |
-| **Status final** — Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa destravar. <!-- c:status --> | |
+| **Status final** — Verde: andou bem. Amarelo: andou com bloqueios. Vermelho: precisa de desbloqueio. <!-- c:status --> | |
 | **Próxima ação** — Ação, dono e prazo. <!-- c:proxima_acao --> | |

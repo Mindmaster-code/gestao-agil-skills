@@ -6,7 +6,7 @@ construção deste pacote a partir de e material de referência.
 
 ---
 
-## 1. Individual — artefato 09 "Gestão Diária" (`--help/gestao-diaria-ga2.pdf`)
+## 1. Individual — "Gestão Diária"
 
 **Semana de:** <!-- c:periodo --> __/__ a __/__ · **Horário fixo:** ____
 
@@ -14,7 +14,7 @@ construção deste pacote a partir de e material de referência.
 |---|---|---|---|---|---|
 | O que avancei <!-- c:avancei --> | | | | | |
 | Foco de hoje (1 a 3 coisas) <!-- c:foco --> | | | | | |
-| O que me trava (+ ação para destravar) <!-- c:trava --> | | | | | |
+| O que me impede (+ ação para desbloquear) <!-- c:bloqueio --> | | | | | |
 
 Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
@@ -37,7 +37,7 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 **Meta do ciclo (copiada do plano):** ______________________________
 
-| Pessoa | Cartão | Entreguei desde ontem | Puxo hoje | Me trava |
+| Pessoa | Cartão | Entreguei desde ontem | Puxo hoje | Me impede |
 |---|---|---|---|---|
 | | | | | |
 | | | | | |
@@ -67,7 +67,7 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 ### 3.2 Três perguntas por cartão do ciclo
 
-| Cartão | Avançou (prova nova, data) | Puxa hoje (próximo passo) | Trava (gate / dependência / dias parado) |
+| Cartão | Avançou (prova nova, data) | Puxa hoje (próximo passo) | Bloqueio (gate / dependência / dias parado) |
 |---|---|---|---|
 | P-__ | | | |
 
@@ -75,9 +75,9 @@ Próximo passo: no fim da semana, faça a Review e a Retrospectiva.
 
 | Gatilho | Para quem | Skill |
 |---|---|---|
-| parado ≥3 dias úteis sem prova nova | dono do cartão | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde trava |
-| compromisso do plano perdeu a data | dono; marcar `atrasado dd/mm` no plano hoje | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde trava |
-| gate sem decisor nomeado | dono (nomear) | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde trava |
+| parado ≥3 dias úteis sem prova nova | dono do cartão | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde há bloqueio |
+| compromisso do plano perdeu a data | dono; marcar `atrasado dd/mm` no plano hoje | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde há bloqueio |
+| gate sem decisor nomeado | dono (nomear) | cobrança em seis linhas: o que, por que, dono, pronto é, prazo, onde há bloqueio |
 | cartão sem dono | nome a definir | cobrança por escrito ao responsável pela área |
 | parado ≥10 dias | responsável pela área (escala) | cobrança por escrito ao responsável pela área |
 
@@ -95,14 +95,14 @@ Cobrança de hoje: P-NN ao <dono> — <o que falta> — data <dd/mm>.
 
 ## 4. Modo pessoal: fechar o expediente e preparar o próximo dia
 
-Este modo vem depois dos três formatos acima e não muda nenhum deles. Fichas F05 e F06 do Guia completo de rotinas de gestão. Cada pessoa usa o quadro e a agenda que já tem.
+Este modo vem depois dos três formatos acima e não muda nenhum deles. Cada pessoa usa o quadro e a agenda que já tem.
 
 ### 4.1 Fechar o expediente (5 a 15 minutos), em __/__/____
 
 | Campo | Resposta |
 |---|---|
 | Quadro em dia (cartões movidos, bloqueios marcados, o que falta escrito) | [ ] sim |
-| Estado das entregas (o que avançou, o que travou, o que ainda falta) | |
+| Estado das entregas (o que avançou, o que parou, o que ainda falta) | |
 | Retornos enviados sobre compromissos ou riscos de prazo (para quem, o quê, data nova, quem dá o próximo retorno) | |
 | O que ficou sem destino (assunto e destino: cartão, pessoa ou lista) | |
 | Ocorrência urgente em andamento e passagem de responsabilidade | |
@@ -125,6 +125,6 @@ Este modo vem depois dos três formatos acima e não muda nenhum deles. Fichas F
 |---|---|
 | O que avancei | estado das entregas (4.1) |
 | Foco de hoje (1 a 3 coisas) | entrega prioritária e primeiro passo (4.2) |
-| O que me trava | dependências (4.2) e retornos pendentes (4.1) |
+| O que me impede | dependências (4.2) e retornos pendentes (4.1) |
 
-Na diária do time, o fechamento responde "entreguei desde ontem" e "me trava"; o preparo responde "puxo hoje".
+Na diária do time, o fechamento responde "entreguei desde ontem" e "me impede"; o preparo responde "puxo hoje".

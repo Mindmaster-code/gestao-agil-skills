@@ -9,4 +9,4 @@ Gerado pelo construtor (`construir.py --campos-md`). Não editar à mão.
 | `entrada` | Entrada | Quando um item entra? | `<!-- c:entrada -->` |
 | `pronto` | Pronto | Quando um item termina? | `<!-- c:pronto -->` |
 | `prioridade` | Prioridade | Como decidir o próximo item? | `<!-- c:prioridade -->` |
-| `bloqueio` | Bloqueio | O que fazer quando trava? | `<!-- c:bloqueio -->` |
+| `bloqueio` | Bloqueio | O que fazer quando algo para? | `<!-- c:bloqueio -->` |
