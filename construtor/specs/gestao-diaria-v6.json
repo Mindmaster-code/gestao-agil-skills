@@ -238,7 +238,7 @@
    "opcional": true
   },
   {
-   "id": "trava_seg",
+   "id": "bloqueio_seg",
    "rotulo": "O que me impede — SEG",
    "guia": "",
    "tipo": "texto-longo",
@@ -258,7 +258,7 @@
    "opcional": true
   },
   {
-   "id": "trava_ter",
+   "id": "bloqueio_ter",
    "rotulo": "O que me impede — TER",
    "guia": "",
    "tipo": "texto-longo",
@@ -278,7 +278,7 @@
    "opcional": true
   },
   {
-   "id": "trava_qua",
+   "id": "bloqueio_qua",
    "rotulo": "O que me impede — QUA",
    "guia": "",
    "tipo": "texto-longo",
@@ -298,7 +298,7 @@
    "opcional": true
   },
   {
-   "id": "trava_qui",
+   "id": "bloqueio_qui",
    "rotulo": "O que me impede — QUI",
    "guia": "",
    "tipo": "texto-longo",
@@ -318,7 +318,7 @@
    "opcional": true
   },
   {
-   "id": "trava_sex",
+   "id": "bloqueio_sex",
    "rotulo": "O que me impede — SEX",
    "guia": "",
    "tipo": "texto-longo",
@@ -391,23 +391,23 @@
     "ancora": "foco",
     "coluna": "SEX"
    },
-   "trava_seg": {
+   "bloqueio_seg": {
     "ancora": "bloqueio",
     "coluna": "SEG"
    },
-   "trava_ter": {
+   "bloqueio_ter": {
     "ancora": "bloqueio",
     "coluna": "TER"
    },
-   "trava_qua": {
+   "bloqueio_qua": {
     "ancora": "bloqueio",
     "coluna": "QUA"
    },
-   "trava_qui": {
+   "bloqueio_qui": {
     "ancora": "bloqueio",
     "coluna": "QUI"
    },
-   "trava_sex": {
+   "bloqueio_sex": {
     "ancora": "bloqueio",
     "coluna": "SEX"
    }

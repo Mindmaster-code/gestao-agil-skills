@@ -21,7 +21,8 @@ MARCAS_INTERNAS = (
     r"\bfichas?\s+[A-G]\d{2}\b",
     r"Guia completo de rotinas",
     r"\b(?:legado|ao vivo)\s+A\d{2}\b|\bA\d{2}\s+ao vivo\b",
-    r"\b(?:des)?trav(?:a|as|o|ar|am|ou|ava|ado|ada|ados|adas|ando|amento|e|em)\b",
+    # sem \b: "_" e dígito também separam, para pegar ids como trava_seg e data-campo="trava"
+    r"(?<![A-Za-zÀ-ÿ])(?:des)?trav(?:a|as|o|ar|am|ou|ava|ado|ada|ados|adas|ando|amento|e|em)(?![A-Za-zÀ-ÿ])",
     r"\((?:adaptação|acréscimo)",
     r"\b(?:adaptação|acréscimo)\s+do\s+(?:método|laboratório)",
     r"\bmodelo\s+T\d*",
@@ -76,8 +77,19 @@ def test_arvore_entregue_sem_marcas_internas() -> None:
     assert len(list(SKILLS.glob("*/references/fontes.md"))) == 40
     achados = []
     for arquivo in arquivos:
-        texto = arquivo.read_text(encoding="utf-8")
+        texto = re.sub(r"data:[a-z/+.-]+;base64,[A-Za-z0-9+/=]+", "data:", arquivo.read_text(encoding="utf-8"))
         for marca in MARCAS_INTERNAS:
             for m in re.finditer(marca, texto, flags=re.I):
                 achados.append(f"{arquivo.relative_to(ROOT)}: {texto[max(0, m.start() - 30):m.end() + 20]!r}")
     assert not achados, "\n".join(achados[:20])
+
+
+def test_ids_de_campo_sem_palavra_vetada() -> None:
+    """Os ids diários da gestão diária seguem c:bloqueio (regra da casa de 17/11/2026)."""
+    campos = (SKILLS / "ga2-gestao-diaria" / "assets" / "modelos" / "CAMPOS.md").read_text(encoding="utf-8")
+    canvas = (SKILLS / "ga2-gestao-diaria" / "assets" / "modelos" / "canvas-gestao-diaria-v6.html").read_text(encoding="utf-8")
+    spec = (ROOT / "construtor" / "specs" / "gestao-diaria-v6.json").read_text(encoding="utf-8")
+    for dia in ("seg", "ter", "qua", "qui", "sex"):
+        for texto in (campos, canvas, spec):
+            assert f"bloqueio_{dia}" in texto
+            assert f"trava_{dia}" not in texto
