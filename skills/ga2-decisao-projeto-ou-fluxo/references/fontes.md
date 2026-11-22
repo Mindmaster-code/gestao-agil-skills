@@ -6,6 +6,10 @@
 - Templates: canvas v6 «Canvas Editável — Decisão Projeto ou Fluxo» (5 campos; exemplo `folha_decisao_exemplo.pdf`, caso Ana); legado «Mod 04 — Decisão Projeto ou Fluxo GA2 Editável» (artefato 11, 2 páginas, 5 campos com nomes um pouco diferentes). As variantes têm nomes diferentes: preserve o modelo solicitado; não substitua uma pela outra sem confirmação.
 - Exemplo do curso: Ana (atendimento) — fila de tickets em fluxo + repositório de respostas em ciclos de uma semana.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte: M06 A11, v6 Passo 4 aula 00 (slides 04, 07, 08) e aula 06 (urgência), canvas v6 e legado Mod 04 artefato 11.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

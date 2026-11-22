@@ -59,7 +59,6 @@ Os focos entram no plano do ciclo de 07–11/09. Lucas acompanha o compromisso; 
 Próxima rodada: 25/09/2026, começando por contar o que mudou e apresentar o registro do ciclo.
 Não criar avaliação de desempenho, ranking nem compartilhamento público das respostas.
 
-
 ## Revisão de desempenho de uma pessoa (exemplo de outro ramo)
 
 Cristina coordena oito instrutores numa escola de natação. Em 16/11/2026, fez a revisão trimestral do instrutor Gustavo, em 45 minutos. Gustavo trouxe a autoavaliação com exemplos. Cristina pediu o Feedback 360 a cinco pessoas: duas colegas, a secretaria, um responsável de aluno e a coordenadora pedagógica. Leu só os padrões: o que duas ou mais disseram.

@@ -21,9 +21,8 @@ Não dispara para: conversa difícil com fato, sentimento, necessidade e pedido 
 
 ## Fonte no método
 
-- Base do método: Passo 6 (Liderança de Times) §2.7 (Motivação 3.0: propósito, autonomia e maestria; dinheiro é fator higiênico, e salário justo é pré-requisito), §3 regras 6, 20 e 21, §4.6 (Mapa de Motivação 3.0) e §5 (rituais e cadência: conversa de motivação, combinar o PDI e acompanhar o PDI).
-- Aulas: curso de rotinas do gestor ágil, aula 6 (conversas a dois), seções 2, 4 e 8.
-- Fichas: Guia completo de rotinas de gestão, fichas E01 (conversa individual de acompanhamento) e E09 (conversar sobre permanência e retenção). A ficha D08 liga o acompanhamento semanal do PDI.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Modelo: T05 (Conversa individual de acompanhamento).
 - Template: não há canvas do curso. O `template.md` reproduz os campos da folha de conversa individual, o rodízio da conversa de motivação e os campos do Mapa de Motivação 3.0.
 

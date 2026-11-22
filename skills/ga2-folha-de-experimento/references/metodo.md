@@ -18,10 +18,10 @@ um número parado pede um ângulo diferente; a pessoa responsável pela coordena
 
 ## Fonte no método
 
-- Base do método — Passo 5: Melhoria Contínua (antifragilidade: M07 A05 ao vivo; v6 pasta 06 aula 02 "Antifrágil — o erro é informação").
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Política e folha acrescentadas pelo método: regra, cadência, limites, seis perguntas e placar de sexta, mensal e imediato. Estão transcritos nas seções desta referência e em `template.md` e `checklist.md`.
 - Webinar GAIA2k (w143), 01:15:40–01:17:32; curso de Design Thinking, aulas do curso. Referências bibliográficas de origem, sem presumir acesso aos arquivos internos.
-- Ficha B10 (avaliar fornecedores, ferramentas e recursos de trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 5) do curso de rotinas, para o modo de testar uma ferramenta ou um fornecedor.
 - A fonte original registra uma lacuna de curadoria sobre Design Thinking, barbell e antifragilidade; as aulas e o webinar acima são a procedência deste recorte.
 - Distinção de fontes: a proporção barbell 80–90/10–20 vem do webinar citado, não das transcrições ao vivo do GA 2.0. A versão v6 a incorpora na aula de Melhoria Contínua.
 
@@ -52,7 +52,7 @@ preenchem antes; a 6 no fim, com o resultado junto. Matar é resultado bom.
 
 ## Regras do método que valem aqui
 
-- O erro é informação; manter / descartar / testar uma coisa nova a cada ciclo. (M07 A05; v6 06/02)
+- O erro é informação; manter / descartar / testar uma coisa nova a cada ciclo. (/02)
 - 80–90% não se mexe; 10–20% testa o mais diferente possível, toda semana, em aposta pequena. (GAIA2k 01:15)
 - Sem dor com prova, não roda. Critério escrito antes. Variação tímida conta como zero. (folha acrescentada pelo método)
 - Pequeno, com prazo, sem tocar o guardrail nem o caminho quente. Acabou o prazo, morre ou vira decisão. (política de inovação, limites descritos nesta referência)

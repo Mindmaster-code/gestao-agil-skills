@@ -11,6 +11,15 @@
 - Template: não há canvas do curso para esta habilidade. A agenda da semana (seções 1 a 7 do `template.md`) é construção deste pacote a partir das fichas.
 - aplicação do método: o critério escrito onde o líder sempre responde igual; as seções de relações (G09) e energia (G10), que não têm aula de origem; a ligação da revisão pessoal às outras habilidades do pacote.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Base do método: Passo 2 (Organizar o Trabalho) §1 (a causa raiz é a inversão de prioridades: a areia entra no jarro antes das pedras grandes), §2.1 (Teoria das Pedras), §2.2 (Matriz de Eisenhower) e §3 regra 1 (pedra grande primeiro, sempre).
+- Base do método: Passo 7 (Ferramentas, IA e Painel do Gestor) §4.8 (Biblioteca de Prompts de Gestão, prompt 9, "Priorização quando tudo é urgente": com mais de 7 demandas urgentes e importantes, o problema é capacidade, e não priorização), §5 (linha "Priorização de sexta": 10 minutos, três cortes e três entregas da semana), §2.12 e §3 regras 4, 7 e 9 (a IA organiza, quem decide é você).
+- Base do método: Passo 4 (Ritmo Ágil) §3 regra 4 (planeje cerca de 70% da capacidade; os 30% restantes somem em imprevisto).
+- Base do método: Passo 6 (Liderança de Times) §2.8 e §4.3 (Quadro de Delegação), que recebe a lista de aprovações da auditoria.
+- Base do método: Passo 0 (Fundamentos) §2.9 e §3 regras 2 e 10 (quem define valor é o cliente; documente e compartilhe o que aprendeu, o Yokoten).
+- Fichas: Guia completo de rotinas de gestão, fichas F03, G01, G02, G03, G06, G09 e G10, e a revisão pessoal do líder, que também liga a ficha G07 (refletir sobre decisões e experiências). Os passos, tempos e exceções de cada rotina vêm das fichas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

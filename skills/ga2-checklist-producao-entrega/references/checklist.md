@@ -37,19 +37,19 @@ Checklist de 9 etapas (trimestre / frente nova)
 
 | Erro | Sinal | Correção |
 |---|---|---|
-| "Pronto" na cabeça | cada um entrega uma coisa diferente | escrever e colar na coluna (v6 07) |
+| "Pronto" na cabeça | cada um entrega uma coisa diferente | escrever e colar na coluna |
 | Cartão puxado cru | sem dono / sem "pronto é" / sem origem | DoR antes de puxar; volta a Em preparação |
 | Gate descoberto na entrega | "ah, precisa do dirigente responsável" na sexta | item 8 do DoR: todos os gates de uma vez |
 | Prova de laboratório | "buildei local", "deveria funcionar" | conferir pelo caminho real de quem usa |
 | Prova sem hora | "testei e funciona" | "validado em produção às HH:MM, URL X" |
-| Tarefa sim, meta não | 100% das tarefas, KR parado | ler a métrica do negócio (etapa 6; A07) |
+| Tarefa sim, meta não | 100% das tarefas, KR parado | ler a métrica do negócio (etapa 6) |
 | Entrega com gate pendente | "publiquei, depois ele aprova" | §11: nunca |
 | Aceite do executor | "eu confiro o meu" | Aceitante separado |
-| "GO" local = aceite | copy aprovada → "entregue" | aceite é a DoD global (§8) |
+| "GO" local = aceite | copy aprovada → "entregue" | aceite é a DoD global |
 | Só na memória | sem arquivo, sem versão, sem resposta | registro durável é item do DoD |
 | Número sem empresa | "faturamento" sem origem | nome da empresa ou unidade, sempre |
 | Checklist de 9 etapas por cartão | 9 etapas para uma carta | DoR/DoD por cartão; 9 etapas por trimestre |
-| Urgência sem DoD | "era urgente, não deu pra provar" | urgência não elimina DoD (§11) |
+| Urgência sem DoD | "era urgente, não deu pra provar" | urgência não elimina DoD |
 
 ## Formas de saída
 

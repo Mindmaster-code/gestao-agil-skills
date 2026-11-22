@@ -12,6 +12,10 @@
  por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
 - Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão `(aplicação do método)`; regra "contratar é a última saída": aula A19.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

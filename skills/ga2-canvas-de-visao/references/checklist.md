@@ -23,7 +23,7 @@
 - [ ] Os cinco itens do "Antes de seguir" marcados — se algum não marca, a visão ainda não vira A3.
 - [ ] Horizonte de 12 meses ou menos, com algo observável no fim.
 
-## Erros comuns (da aula A03/A04)
+## Erros comuns (da aula)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

@@ -4,7 +4,7 @@
 
 Grade 2×2 que ordena iniciativas: **impacto** (quanto move os KR) no eixo vertical, **esforço**
 (tempo, custo, complexidade, curva de aprendizado) no horizontal. "Gestão é escolha;
-priorizar é usar essa escolha de modo inteligente" (M04 A15). A matriz torna a escolha
+priorizar é usar essa escolha de modo inteligente". A matriz torna a escolha
 "transparente e defensável": quando alguém pergunta por que algo está esperando, "está lá
 um método para se provar".
 
@@ -14,11 +14,10 @@ fila do planejamento do ciclo.
 
 ## Fonte no método
 
-- Passo 2 — Organizar o Trabalho: variante de objetivos (M04 A09), conceito e campos da matriz (M04 A15), diferenças de nomes.
-- Aulas: M04 A15 (Esforço × Impacto), M04 A09 (Importância × Dificuldade sobre objetivos); v6, módulo 03, aula 07.
-- Templates: Artefato 07 — “Matriz Esforço Impacto GA2 editável”; Ficha artefato 05 — “Esforço Impacto GA2”; slide M04 A15 — “Matriz de Priorização”.
-- M10 não tem canvas próprio dessa matriz: ela aparece no “Template OKR Canvas”, com outros eixos.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Exemplo do curso: Kit Implementação — “OKR Canvas — Planejamento”, bloco 2 (variante de objetivos, Norte-Sul).
+
 ## Como conduzir
 
 1. **Confira a entrada.** Pergunta: "isso é iniciativa, objetivo ou KR?" Só iniciativa entra.
@@ -43,18 +42,18 @@ fila do planejamento do ciclo.
 
 ## Regras do método que valem aqui
 
-- **Só iniciativas entram.** Objetivo e KR ficam fora (v6 07).
-- **A matriz dá sequência, não descarte.** "Não é fazer só o Faça já e jogar o resto fora" (v6 07).
-- **Ordem de leitura:** resultado rápido → estratégico → apoio nas brechas → questionar o desperdício (M04 A15; v6 07).
+- **Só iniciativas entram.** Objetivo e KR ficam fora.
+- **A matriz dá sequência, não descarte.** "Não é fazer só o Faça já e jogar o resto fora".
+- **Ordem de leitura:** resultado rápido → estratégico → apoio nas brechas → questionar o desperdício.
 - **Planeje = quebre em partes menores** (editável Mod 2).
 - **Encaixe só entra se não roubar foco** (editável Mod 2).
-- **Evite fica fora do backlog** com o motivo escrito (v6 08: "a do Evite não entra no backlog").
-- **Priorização transparente e defensável:** dá para explicar a um terceiro por que algo espera (M04 A15).
+- **Evite fica fora do backlog** com o motivo escrito (: "a do Evite não entra no backlog").
+- **Priorização transparente e defensável:** dá para explicar a um terceiro por que algo espera.
 - **Nomes usados nesta adaptação:** Faça já / Planeje / Encaixe / Evite (v6), impacto na vertical, esforço na horizontal. As equivalências com outras fontes estão no template.
 
-## Variante: Importância × Dificuldade sobre objetivos (M04 A09)
+## Variante: Importância × Dificuldade sobre objetivos
 
-No fluxo do OKR Canvas estendido (M04 A09), a mesma grade serve para escolher **quais
+No fluxo do OKR Canvas estendido, a mesma grade serve para escolher **quais
 objetivos** entram no trimestre: eixos Importância/Impacto × Dificuldade/Custo; quadrantes
 1 Quick Wins ("alto valor"), 2 Estratégico ("tem que ter"), 3 Desejável ("quando puder"),
 4 Distrações ("não priorizar"). "Normalmente a gente prioriza o 1 e o 2, e mais o número 1."
@@ -81,7 +80,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 |---|---|---|---|
 | `../assets/modelos/canvas-matriz-v6.html` **(padrão)** | Canvas Editável — Matriz de Priorização · família v6 | "no canvas v6" | pronto |
 
-
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.
 Confira IDs, campos sem preencher, ausência de `{{` residual, conteúdo sem estouro e uma página quando o modelo exigir.
@@ -102,10 +100,10 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 ## Erros comuns
 
-- Pôr objetivo ou KR na matriz (v6 07).
-- Fazer só o quadrante Faça já e descartar o resto (v6 07).
+- Pôr objetivo ou KR na matriz.
+- Fazer só o quadrante Faça já e descartar o resto.
 - Começar pelo item grande e caro — "sem a matriz talvez a Ana tivesse começado justamente por essa" (trocar o sistema; trocar o ERP no Kit).
 - Impacto "alto" sem dizer qual número move.
 - Esforço sem contar o gate humano: esperar uma aprovação custa dias parados, não apenas horas de execução.
-- Misturar a grade de objetivos (A09) com a de iniciativas (A15) — eixos e nomes diferentes.
+- Misturar a grade de objetivos com a de iniciativas — eixos e nomes diferentes.
 - Chamar tarefa de iniciativa: tarefa se ordena no Backlog 2D, não na matriz (a variante de objetivos está separada nesta skill).

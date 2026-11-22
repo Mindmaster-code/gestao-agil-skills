@@ -16,11 +16,11 @@
 
 ## Erros comuns (da aula e da aplicação do laboratório)
 
-- Check por sensação, sem número (M07 / v6).
+- Check por sensação, sem número.
 - Act que não padroniza: "funcionou" e ninguém escreveu onde.
 - PDCA que não acaba nunca — sem data de fechamento do ciclo.
 - Pular o Check e abrir outro Plan.
-- Plano sem linha de base (M02 A07: o plano **é** a linha de base).
+- Plano sem linha de base (: o plano **é** a linha de base).
 - Duas mudanças no mesmo ciclo — não se sabe qual funcionou.
 - Confundir com A3: o A3 diagnostica; o PDCA roda. Se há A3, o PDCA aponta para ele.
 - Causa raiz que é pessoa.

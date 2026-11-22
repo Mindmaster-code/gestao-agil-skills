@@ -48,12 +48,12 @@ Transição de responsabilidades (ficha E12)
 |---|---|---|
 | Dois donos | "Mariana e Lucas" | um nome; o outro vira Aceitante ou apoio |
 | Dono-área | "Operações" | pessoa |
-| Cartão de todo mundo | "o time" | "cartão de todo mundo não é de ninguém" (v6 03) |
-| SM + PO na mesma pessoa | o gestor prioriza e também conduz a retro | delegar um dos dois (A10) |
+| Cartão de todo mundo | "o time" | "cartão de todo mundo não é de ninguém" |
+| SM + PO na mesma pessoa | o gestor prioriza e também conduz a retro | delegar um dos dois |
 | Aceitante = executor | "eu mesmo confiro" | quem recebe o resultado confere |
 | Aceitante = dono do processo | "o dono do processo aceita" | quem conduz o método cobra, não aceita (organograma l.214) |
 | Gate sem pessoa | "depende da instância que decide" | nome + proposta + data |
-| Gate confundido com aceite | "aprovou a copy, então está entregue" | aceite é DoD global (§8, §11) |
+| Gate confundido com aceite | "aprovou a copy, então está entregue" | aceite é DoD global |
 | Apoio co-dono | apoio aparece na coluna Dono | coluna Dono só com o dono único |
 | Filha escondida | apoio publica sem cartão próprio | demanda filha com dono, DoD, Aceitante |
 | Transferência por mensagem | "passei pra você" sem resposta | novo dono aceita por escrito; até lá o antigo responde |

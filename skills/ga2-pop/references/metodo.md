@@ -3,7 +3,7 @@
 ## O que é e quando usar
 
 "Documento formal que descreve as etapas de um processo, padronizando e trazendo clareza"
-(M04 A13). É "um grande checklist" para alguém executar sem depender de interpretação —
+. É "um grande checklist" para alguém executar sem depender de interpretação —
 "quando a gente fica refém da interpretação na hora de executar um processo, é um
 problemão". Serve para férias, promoção, treinamento e onboarding; traz eficiência,
 qualidade e rastreabilidade (auditoria).
@@ -16,13 +16,11 @@ um único executor.
 
 ## Fonte no método
 
-- Passo 2 — Organizar o Trabalho: conceito de POP, regras e campos consolidados.
-- Aula e slides: M04 A13 — “Padronizando Processos — POP”; não há aula v6 de POP.
-- Template legado: M10 — “Canvas POP” (PDF estático, 11 blocos); sem editável nas fontes citadas.
-- Exemplo da aula: M04 A13 — “Exemplo Canvas POP” (aprovação de projetos, APPROJ001).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Exemplo do curso: Kit Implementação — “Conferência padrão de separação” (POP-SEP-001).
 - Critério de qualidade e revisão são adaptações metodológicas; a origem de cada campo está na tabela abaixo.
-- Fichas C09 (preservar e transferir conhecimento) e E10 (planejar ausências, cobertura e sucessão) do Guia completo de rotinas de gestão; aula 7 do curso de rotinas (cobrir as ausências) e roteiro de comunicação, cobertura e transição, página 2 (cobertura), para a seção de cobertura.
+
 ## Campos — de onde vem cada um
 
 | # | Campo | Origem | Nome usado nesta adaptação |
@@ -89,13 +87,13 @@ O POP responde metade da pergunta. A outra metade é um substituto que já fez o
 
 ## Regras do método que valem aqui
 
-- **POP documenta passo a passo com dono, entrada, saída, sistema e como acessar** (M04 A13).
+- **POP documenta passo a passo com dono, entrada, saída, sistema e como acessar**.
 - **POP do gargalo, não da operação inteira.** "POP vira padrão quando descreve uma tarefa específica, mensurável e com dono" (Kit).
-- **Todo processo pode ser medido** (M04 A12) — POP sem indicador não fecha.
-- **Ao mapear processo, questione cada etapa:** "por que você faz isso? quem usa?" — a planilha que ninguém lê sai (M04 A12).
-- **Estabeleça monitoramento contínuo para prevenir riscos** (A13).
+- **Todo processo pode ser medido** — POP sem indicador não fecha.
+- **Ao mapear processo, questione cada etapa:** "por que você faz isso? quem usa?" — a planilha que ninguém lê sai.
+- **Estabeleça monitoramento contínuo para prevenir riscos**.
 - **Bem feito = uma pessoa nova executa do mesmo jeito que o veterano** (critério de bem feito do Passo 2).
-- **Classifique antes:** POP é para processo; projeto e produto têm briefing próprio (M04 A10).
+- **Classifique antes:** POP é para processo; projeto e produto têm briefing próprio.
 - **Este processo sobrevive às suas férias?** O POP responde metade; um substituto que já fez o trabalho, com alguém olhando, responde a outra metade. (aula 7; fichas E10 e C09)
 - **A lição de uma cobertura vai para o POP** e é compartilhada com quem faz trabalho parecido (Yokoten).
 
@@ -120,7 +118,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 |---|---|---|---|
 | `../assets/modelos/canvas-pop-kit.html` **(padrão)** | POP - Procedimento Operacional Padrão · família kit | "no canvas do kit" | pronto |
 
-
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.
 Confira IDs, campos sem preencher, ausência de `{{` residual, conteúdo sem estouro e uma página quando o modelo exigir.
@@ -142,10 +139,10 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 ## Erros comuns
 
 - Manual de 40 páginas (Kit).
-- Passo sem responsável; "todo mundo" é ninguém (A13).
-- Sistema sem instrução de acesso (A13: "login é com seu e-mail e senha, não existe senha corporativa").
+- Passo sem responsável; "todo mundo" é ninguém.
+- Sistema sem instrução de acesso (: "login é com seu e-mail e senha, não existe senha corporativa").
 - POP sem aprovação nem versão — rascunho que ninguém segue.
-- POP de processo que ninguém questionou (a planilha de 2–3 h a cada dois dias que "mandaram fazer", A12).
+- POP de processo que ninguém questionou (a planilha de 2–3 h a cada dois dias que "mandaram fazer").
 - Indicador de esforço ("X POPs escritos") no lugar de adesão e resultado.
 - Checklist que vira carimbo automático sem conferência real (Kit, risco 2) — a saída visível (etiqueta, registro) é o que denuncia.
 - Cobertura que nunca foi testada: o substituto só leu o POP, nunca fez o trabalho com alguém olhando.

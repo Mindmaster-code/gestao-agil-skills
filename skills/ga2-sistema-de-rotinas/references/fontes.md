@@ -10,6 +10,14 @@
 - Divergência registrada: a tabela de sintomas (aula 1) e a do conjunto inicial (aula 10) listam fichas diferentes para o mesmo sintoma, como "Demandas que se perdem" (F01, F02 e F10 contra F01, F02 e F04). A habilidade mantém as duas, cada uma no seu uso: a de sintomas escolhe a rotina por onde começar, e a do conjunto inicial monta o plano de 90 dias.
 - aplicação do método: a tabela de sintomas lista, na última coluna, as skills deste pacote que correspondem às ferramentas citadas no curso; a coluna não vem do curso.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Base do método: Passo 4 (Ritmo Ágil) §5 (rituais e cadência) e §2.8 a §2.14 (diária, limite de trabalho em andamento, urgência, revisão e retrospectiva): as quatro conversas do ciclo e o teto de duração de cada uma.
+- Base do método: Passo 5 (Melhoria Contínua) §2.10 (Teoria do Caiaque) e §3 regra 13 (todo número passa pelo teste: tem dono, muda alguma decisão e dá para pegar sem operação paralela).
+- Base do método: Passo 2 (Organizar o Trabalho) §2.10 (POP, o procedimento operacional padrão), para a versão local de cada rotina.
+- Aulas: curso de rotinas do gestor ágil, aulas 1 (sistema de rotinas) e 10 (implantar em 90 dias). Delas vêm a tabela de sintomas, o calendário, a conta do custo, as quatro janelas e a revisão do dia 90.
+- Fichas: Guia completo de rotinas de gestão, fichas C06 e C08, mais as fichas citadas no calendário e na tabela de sintomas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

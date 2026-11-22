@@ -8,6 +8,10 @@
 - aplicação do método: o plano de transição da mudança (seção 5 do `template.md`), montado a partir dos cinco passos da ficha D09 e da aula 8; o curso não tem canvas para ele.
 - Divergência registrada: o roteiro do módulo de liderança descreve o termômetro com quatro frases, e o PDF da ficha traz uma pergunta em escala de 1 a 3. Esta habilidade segue o PDF.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Aulas: curso de rotinas do gestor ágil, aula 8 (liderar a mudança e comunicar), seções 3, 4, 5 e 8; aula 7 (o ciclo das pessoas), seção 4, sobre o grupo que volta à formação quando alguém chega.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

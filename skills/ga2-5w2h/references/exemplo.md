@@ -29,7 +29,6 @@ As três linhas são compromissos propostos para o ciclo de 08–14/09/2026; ain
 | 08/09/2026 | 1–3 | Plano didático montado; nada executado | Somente este exemplo fictício |
 | 11/09/2026 | 3 | A registrar na data | Resultado real ainda inexistente |
 
-
 ## Orçamento do mês (exemplo de outro ramo)
 
 Helena responde pelo orçamento de uma escola de música. Em 27/11/2026, fez a revisão mensal de 60 minutos com a secretaria financeira. O orçamento disponível do período é de R$ 10.500. Os valores são ilustrativos.

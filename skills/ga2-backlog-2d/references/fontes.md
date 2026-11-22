@@ -8,6 +8,12 @@
 - aplicação do método: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
 - Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal `(aplicação do método)`; lente do 5S: Passo 0 §2.14.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal; lente do 5S: Passo 0 §2.14.
+- Fonte dos campos: canvas legado `Canvas Backlog 2D.pdf` (6) e `Canvas Backlog Priorizado.pdf` (6.1), aula M04 A17; material de referência (story map, fatia fina); Ficha `backlog-2d-ga2.pdf` (backbone · Essencial · Depois); editável Mod 2 artefato 08. Campo que a aula não cita fica em aberto.
+- Fonte: M04 A16–A17, M06 A04 e apostila §4, v6 Passo 3 aulas 08–09, Kit Implementação (canvas 6 e 6.1), adaptação de corte por ciclo.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

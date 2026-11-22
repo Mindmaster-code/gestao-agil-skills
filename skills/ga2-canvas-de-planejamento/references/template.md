@@ -2,10 +2,6 @@
 # Canvas de Planejamento — template
 <!-- modelos de origem: planejamento-kit.json, planejamento-curso-kit.json -->
 
-Fonte dos campos: `Canva+Planejamento.pdf` (blocos 1–5 e 9) e `CANVAS DO CURSO GA 2.0.pdf` (9 blocos), kit M10;
-aulas M06 A01/A02 e M04 A09 (matriz de objetivos). Texto literal do canvas entre aspas. Campo que a aula não
-cita vai marcado . As âncoras `<!-- c:id -->` são lidas pelo construtor de canvas.
-
 ## Cabeçalho
 
 | Campo | Resposta |

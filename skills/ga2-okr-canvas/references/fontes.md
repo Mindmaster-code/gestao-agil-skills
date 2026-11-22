@@ -7,6 +7,11 @@
 - Check-in: sem template oficial; o bloco desta skill deriva do roteiro v6 06.
 - Exemplo do curso: Kit Implementação — OKR Canvas (Norte-Sul).
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte dos campos: aula M04 A05–A09; `Canvas OKR.pdf` (legado); `06-template-okr-ga2-paisagem-editavel.pdf`; `01-ponte-a3-okr-ga2-editavel.pdf`; `07-checkpoint-do-plano-ga2-editavel.pdf`; roteiro v6 06 (check-in). Campo que a aula não cita fica em aberto.
+- Fonte: M04 A05–A09, apostila OKR, v6 Passo 3 aulas 02–06 e 09, Kit Implementação.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

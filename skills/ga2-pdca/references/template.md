@@ -1,7 +1,7 @@
 <!-- modelos de origem: pdca-lab.json -->
 # PDCA — <slug da melhoria>
 
-Template do laboratório (L-02). Fonte: M02 A07 (PDCA), M03 A05 (A3 contém o PDCA), Quadro Kaizen. Aula não dá formulário: campos derivados e identificados na própria orientação.
+Template do laboratório. Parte do PDCA ensinado no curso (o A3 contém o PDCA) e do Quadro Kaizen. Aula não dá formulário: campos derivados e identificados na própria orientação.
 
 | Campo | Conteúdo |
 |---|---|

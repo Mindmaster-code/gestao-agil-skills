@@ -11,12 +11,12 @@ que mais trava; e, por regra, pelo menos uma hora por mês. Entra antes: um núm
 painel ou um cartão parado. Sai depois: **um fato que nenhum relatório contaria**, levado
 para a retro, o A3 ou o Quadro Kaizen.
 
-Vive no **Passo 5 — Melhoria Contínua** (M07 A12; material de referência).
+Vive no **Passo 5 — Melhoria Contínua** (material de referência).
 
 ## Fonte no método
 
-- Base do método — Passo 5: Melhoria Contínua §2.16, §4.4, §6.4, regras 18, 19 e 21, divergência 18 — M07 A12; material de referência.
-- Template oficial: Canvas Editável — Roteiro do Vá e Veja, v6, Passo 5 (referência de origem; modelo público nos assets).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Regra de verificação adotada pelo laboratório: "pronto só depois de verificar pelo caminho real do usuário".
 
 ## O gemba de uma operação de agentes
@@ -55,15 +55,15 @@ do responsável técnico autorizado. Ler log, listar arquivo e abrir URL é obse
 
 ## Regras do método que valem aqui
 
-- "Vá ver antes de decidir. Relatório comprime a realidade." (M07 A12)
+- "Vá ver antes de decidir. Relatório comprime a realidade."
 - "Uma hora por mês no lugar onde o trabalho acontece." (material de referência)
 - "Pergunta escrita antes, nunca começando com 'quem'." (material de referência)
 - "Observe o processo pessoalmente; converse com quem executa; não culpe nem julgue; planeje
- contramedidas; padronize e replique." (A12 — cinco princípios)
+ contramedidas; padronize e replique." (cinco princípios)
 - "Problemas quase sempre têm causa raiz no processo, não nas pessoas. Se o processo permite
- que o erro aconteça, o erro vai acontecer." (M07 A12)
+ que o erro aconteça, o erro vai acontecer."
 - "O número diz que caiu; só o lugar diz por quê." (canvas v6)
-- "Métrica ruim gera pergunta e A3, não cobrança automática." (M07 A06)
+- "Métrica ruim gera pergunta e A3, não cobrança automática."
 
 ## Saída
 

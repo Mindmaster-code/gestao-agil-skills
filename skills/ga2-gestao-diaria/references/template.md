@@ -2,7 +2,7 @@
 # Gestão diária — template
 
 Três formatos. O único com template oficial é o individual (artefato 09). Os outros dois são
-construção deste pacote a partir de M06 A14 e material de referência .
+construção deste pacote a partir de e material de referência.
 
 ---
 

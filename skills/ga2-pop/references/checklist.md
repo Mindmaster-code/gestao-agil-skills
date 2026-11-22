@@ -1,8 +1,5 @@
 # POP — checklist de "bem feito" e erros comuns
 
-Fonte: M04 A12 (questionar o processo), M04 A13 (POP), canvas legado `Canvas POP.pdf`, exemplo da aula (APPROJ001),
-Kit Implementação (POP-SEP-001).
-
 ## Bem feito
 
 **É caso de POP?**
@@ -49,7 +46,7 @@ Kit Implementação (POP-SEP-001).
 | Sem versão nem aprovação | A13 (canvas: Data \| Código \| Versão; Aprovação) | "É rascunho. Quem aprovou, quando?" |
 | Processo que ninguém questionou | A12 (a planilha de 2–3 h que ninguém lia) | "Quem usa a saída? Por que existe?" |
 | Processo "que não dá para medir" | A12 — "todo processo pode ser medido" | "Qual indicador de adesão? Qual de resultado?" |
-| Indicador de esforço | v6 04 (vale para todo número) | "POPs escritos não é resultado. O erro caiu?" |
+| Indicador de esforço | (vale para todo número) | "POPs escritos não é resultado. O erro caiu?" |
 | Objetivo = "padronizar" | A13 (finalidade: direcionamento claro) | "Padronizar para quê? Qual resultado?" |
 | Checklist que vira carimbo | Kit, risco 2 | "Qual saída visível denuncia o pulo?" |
 | Gatilho "quando der" | canvas: "descreva como o processo inicia" | "O que faz começar? Evento, data, insumo." |

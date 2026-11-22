@@ -15,17 +15,15 @@ carteira de iniciativas**, que é o registro da carteira na pasta do caso.
 
 ## Fonte no método
 
-- Base do método: Passo 3 — Gestão Visual §2.10–2.20 (Kanban, cinco passos, não dá ré, três erros, raias),
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  §4.3–4.9 (artefatos), §6.1 (Kanban da carteira de iniciativas), §8 item 4 (bloqueio).
-- Aulas: M05 A07 (Kanban, professor), A08 (Kanban Canvas), A09–A13 (fluxo, quadro vivo,
  hierarquia), A14 (tipos de demanda e raias), A17 (cartão e WIP no Trello); v6 pasta 04 aulas
  03 (Kanban mínimo), 04 (montar o quadro do caso), 05 (políticas).
 - Templates: folha individual «kanban-canvas-ga2.pdf» (artefato 07, v6) e
  `kanban-quadro-imprimir-ga2.pdf`; «Mod 03 — Kanban Mínimo GA2 Editável»;
- legado «M10 — Kanban Canvas» (A08) e `Canvas Kanban Avançado.pdf` (7.1).
 - Modelo operacional: modelo operacional de demandas §7–8
  (estados comuns, condições, Kanbans hierárquicos).
-- Ficha B06 (alinhar áreas e dependências) do Guia completo de rotinas de gestão e aula 9 (seção 2) do curso de rotinas, para a seção de dependência entre áreas.
 
 ## Como conduzir
 
@@ -71,32 +69,32 @@ Os quadros conversam entre si: o cartão do quadro da liderança da organizaçã
 
 ## Bloqueio — três representações, uma escolhida
 
-O acervo tem três jeitos de mostrar cartão travado (Base do método: Passo 3 — Gestão Visual §8.4):
+O acervo tem três jeitos de mostrar cartão travado:
 
 | Representação | Onde aparece | Como funciona |
 |---|---|---|
-| A. Marca no cartão, coluna mantida | M05 A07 (professor: "Kanban não dá ré"), Trello A17 | cartão fica onde estava, sinalizado em vermelho; métricas de tempo na coluna continuam válidas |
+| A. Marca no cartão, coluna mantida | aula ao vivo (professor: "Kanban não dá ré") e aula de Trello | cartão fica onde estava, sinalizado em vermelho; métricas de tempo na coluna continuam válidas |
 | B. Coluna "Bloqueados" | template GA 2.0 `04-quadro-de-execucao` | cartão sai do fluxo para uma coluna própria, com "o que travou e quem destrava" |
-| C. Área "Impedimentos" separada | Canvas 7/7.1 e M05 A13 | o impedimento vira post-it numa área fora do fluxo; o cartão não se move |
+| C. Área "Impedimentos" separada | Canvas 7/7.1 e | o impedimento vira post-it numa área fora do fluxo; o cartão não se move |
 
 **Esta referência adota A**, por três motivos: é a única compatível com "Kanban não dá ré" (regra 13);
 o modelo operacional aprovado diz que "Bloqueada, Gate pendente e Apta para integração são
-condições, não colunas" (§7–8); e preserva a medida de dias parado por coluna. O cartão ganha a
+condições, não colunas"; e preserva a medida de dias parado por coluna. O cartão ganha a
 marca na coluna "Gate / trava" da carteira de iniciativas, com motivo, decisor e data do pedido.
 A escolha da representação nos materiais do curso permanece uma divergência editorial; esta referência explicita a opção A e preserva as três origens.
 
 ## Regras do método que valem aqui
 
-- Desenhe o fluxo **atual**, com o time; não copie modelo da internet. (A07, v6 04)
-- Quadro mínimo: a fazer, fazendo, feito — e não pare nele. (A07, A12)
-- Defina "pronto" por escrito antes de usar a coluna Feito. (A07, v6 05)
-- Puxe, não empurre: só começa quando termina o anterior. (A07, A12)
-- Kanban não dá ré: cartão travado fica parado e sinalizado, nunca volta. (A07)
-- Políticas escritas no próprio quadro, onde valem. (A11, v6 05)
-- Mais de um tipo de demanda = raias, não quadros soltos. (A14)
-- Cartão do tamanho de uma semana; vem do Backlog 2D, não se inventa no quadro. (v6 04)
-- Um quadro por contexto; quadros se conversam em hierarquia (carteira de iniciativas → área → projeto → pessoa). (A11)
-- "Um quadro que mente é pior que quadro nenhum." (v6 05)
+- Desenhe o fluxo **atual**, com o time; não copie modelo da internet.
+- Quadro mínimo: a fazer, fazendo, feito — e não pare nele.
+- Defina "pronto" por escrito antes de usar a coluna Feito.
+- Puxe, não empurre: só começa quando termina o anterior.
+- Kanban não dá ré: cartão travado fica parado e sinalizado, nunca volta.
+- Políticas escritas no próprio quadro, onde valem.
+- Mais de um tipo de demanda = raias, não quadros soltos.
+- Cartão do tamanho de uma semana; vem do Backlog 2D, não se inventa no quadro.
+- Um quadro por contexto; quadros se conversam em hierarquia (carteira de iniciativas → área → projeto → pessoa).
+- "Um quadro que mente é pior que quadro nenhum."
 - Dependência boa é dependência à vista: o cartão diz de quem depende e para quem entrega, e espera em coluna própria. (aula 9; ficha B06)
 - Quando as áreas não têm alçada, a decisão sobe para quem responde pelo resultado comum.
 

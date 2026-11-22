@@ -14,13 +14,8 @@ Não dispara para planejar o dia do time (`ga2-gestao-diaria`) nem o ciclo de um
 
 ## Fonte no método
 
-- Base do método: Passo 2 (Organizar o Trabalho) §1 (a causa raiz é a inversão de prioridades: a areia entra no jarro antes das pedras grandes), §2.1 (Teoria das Pedras), §2.2 (Matriz de Eisenhower) e §3 regra 1 (pedra grande primeiro, sempre).
-- Base do método: Passo 7 (Ferramentas, IA e Painel do Gestor) §4.8 (Biblioteca de Prompts de Gestão, prompt 9, "Priorização quando tudo é urgente": com mais de 7 demandas urgentes e importantes, o problema é capacidade, e não priorização), §5 (linha "Priorização de sexta": 10 minutos, três cortes e três entregas da semana), §2.12 e §3 regras 4, 7 e 9 (a IA organiza, quem decide é você).
-- Base do método: Passo 4 (Ritmo Ágil) §3 regra 4 (planeje cerca de 70% da capacidade; os 30% restantes somem em imprevisto).
-- Base do método: Passo 6 (Liderança de Times) §2.8 e §4.3 (Quadro de Delegação), que recebe a lista de aprovações da auditoria.
-- Base do método: Passo 0 (Fundamentos) §2.9 e §3 regras 2 e 10 (quem define valor é o cliente; documente e compartilhe o que aprendeu, o Yokoten).
-- Aulas: M04 A02 e A03 (Teoria das Pedras e Matriz de Eisenhower); M08 A09 (Quadro de Delegação); M02 A05 (Yokoten).
-- Fichas: Guia completo de rotinas de gestão, fichas F03, G01, G02, G03, G06, G09 e G10, e a revisão pessoal do líder, que também liga a ficha G07 (refletir sobre decisões e experiências). Os passos, tempos e exceções de cada rotina vêm das fichas.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Template: não há canvas do curso para esta habilidade. A agenda da semana é construção deste pacote a partir das fichas; a revisão pessoal reproduz os campos da revisão pessoal do líder.
 
 ## A regra de base: o jarro, as pedras e a areia
@@ -152,10 +147,10 @@ O líder faz sozinho, uma vez por período, com tempo reservado. A ficha G06 sug
 
 ## Regras do método que valem aqui
 
-- Pedra grande primeiro, sempre. A areia que entra antes deixa a pedra grande de fora. (Passo 2 regra 1; M04 A02)
-- Gestão de tempo é fazer gestão de pedrinha. (M04 A02)
-- Areia se limita, não se proíbe. (M04 A02)
-- O foco é o quadrante do importante sem urgência: planejar, prevenir, desenvolver. (M04 A02)
+- Pedra grande primeiro, sempre. A areia que entra antes deixa a pedra grande de fora. (Passo 2 regra 1)
+- Gestão de tempo é fazer gestão de pedrinha.
+- Areia se limita, não se proíbe.
+- O foco é o quadrante do importante sem urgência: planejar, prevenir, desenvolver.
 - A IA (inteligência artificial) organiza a lista; a decisão e o nome que assina são do líder. Primeira resposta é rascunho. (Passo 7 §2.12 e regra 9)
 - Todo pedido à IA leva o limite "não invente número, meta ou data". (Passo 7 regra 4)
 - A folga de cerca de 30% do Plano do Ciclo cobre o imprevisto e também protege o ritmo do líder. (Passo 4 regra 4)

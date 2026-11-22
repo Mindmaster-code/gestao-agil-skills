@@ -16,17 +16,14 @@ Não dispara para conduzir uma rotina específica: a diária é de `ga2-gestao-d
 
 ## Fonte no método
 
-- Base do método: Passo 4 (Ritmo Ágil) §5 (rituais e cadência) e §2.8 a §2.14 (diária, limite de trabalho em andamento, urgência, revisão e retrospectiva): as quatro conversas do ciclo e o teto de duração de cada uma.
-- Base do método: Passo 5 (Melhoria Contínua) §2.10 (Teoria do Caiaque) e §3 regra 13 (todo número passa pelo teste: tem dono, muda alguma decisão e dá para pegar sem operação paralela).
-- Base do método: Passo 2 (Organizar o Trabalho) §2.10 (POP, o procedimento operacional padrão), para a versão local de cada rotina.
-- Aulas: curso de rotinas do gestor ágil, aulas 1 (sistema de rotinas) e 10 (implantar em 90 dias). Delas vêm a tabela de sintomas, o calendário, a conta do custo, as quatro janelas e a revisão do dia 90.
-- Fichas: Guia completo de rotinas de gestão, fichas C06 e C08, mais as fichas citadas no calendário e na tabela de sintomas.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Modelos: T15 (Inventário e revisão das rotinas), CAL (Calendário do gestor ágil) e P90 (Plano de implantação em 90 dias).
 - Template: não há canvas do curso. O calendário, o inventário e o plano de 90 dias seguem o inventário de rotinas, CAL e P90.
 
 ## Ache a rotina pelo sintoma
 
-O sintoma é uma pista. A causa você confirma com fato, porque a mesma situação pode ter causas diferentes. A regra do método continua valendo: primeiro o mapa, com o número de hoje, e depois a rotina. Os códigos (F01, A04 e outros) são as fichas do Guia completo de rotinas de gestão.
+O sintoma é uma pista. A causa você confirma com fato, porque a mesma situação pode ter causas diferentes. A regra do método continua valendo: primeiro o mapa, com o número de hoje, e depois a rotina. Os códigos (F01, e outros) são as fichas do Guia completo de rotinas de gestão.
 
 | Situação observada | Começar por | Saída procurada | Skills do pacote |
 |---|---|---|---|

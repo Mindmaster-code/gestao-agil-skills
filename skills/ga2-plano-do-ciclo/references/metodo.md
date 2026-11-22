@@ -12,15 +12,11 @@ copiada "sem maquiagem".
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.4 (ciclo), §2.6 (planejamento), §2.7 (sistema puxado), §3
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  regras 2–6, §4.5 (campos dos três templates), §6 item 2, §8 itens 2, 5, 6, 7.
-- Base do método: Passo 3 — Gestão Visual §2.23 (ponte Backlog 2D → cartão; fatia fina).
-- Aulas: M06 A05 (Canvas Sprint Plan), A11 (tamanho do ciclo), A13 (Sprint Planning); v6
- pasta 05 aulas 02 (ciclo) e 03 (planejamento do ciclo).
 - Templates: v6 «Canvas Editável — Plano do Ciclo» (campos e exemplo da versão v6); ao vivo
- «M06 A05 — Canvas Sprint Plan»; individual folha individual «sprint-plano-ciclo-ga2.pdf».
 - Diretriz prática: plano segunda 09h, até 3 compromissos por responsável de área; variante consolidada em `template.md`.
-- Ficha A05 (revisar capacidade e distribuição do trabalho) do Guia completo de rotinas de gestão e aula 9 (seção 3) do curso de rotinas, para a seção de capacidade e carga por pessoa.
 
 ## Como conduzir
 
@@ -41,14 +37,14 @@ copiada "sem maquiagem".
 6. **Cada item com dono, data e "pronto é".** Nome de pessoa, nunca área. "Pronto é" = como se
  verifica pelo caminho real (URL, arquivo, log, mensagem). Recuse item sem "pronto é": a
  demanda ainda não está pensada. Recuse item maior que uma semana — volta ao mapa e quebra.
-7. **Quebre em tarefas de um dia ou menos** (A13). Tarefa de cinco dias fica a semana inteira
+7. **Quebre em tarefas de um dia ou menos**. Tarefa de cinco dias fica a semana inteira
  em "fazendo" e ninguém vê progresso.
 8. **Marque os rituais**: diária (hora, lugar), review e retro (dia, hora). No Diretriz prática: diária por
  leitura dos resumos e da caixa de mensagens; review sexta 12h; retro sexta 14h.
-9. **Leve os riscos do briefing** e escreva a resposta de cada um (A03, checklist etapa 4).
+9. **Leve os riscos do briefing** e escreva a resposta de cada um (checklist etapa 4).
 10. **Feche e registre.** Sprint backlog no quadro; plano salvo no destino escolhido, com data e versão. Use commit quando houver repositório.
 
-## Capacidade e carga por pessoa (ficha A05)
+## Capacidade e carga por pessoa
 
 A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque um time com capacidade sobrando pode ter uma pessoa afundada. A revisão da carga acontece toda semana, de 20 a 40 minutos, e antes quando houver ausência ou mudança de demanda. Dono: o gestor da equipe. Fonte: ficha A05 e aula 9 do curso de rotinas.
 
@@ -68,26 +64,26 @@ A conta do passo 4 vale para o time. Esta seção vale para cada pessoa, porque 
 
 | Fonte | Duração |
 |---|---|
-| M06 A13 (ao vivo) | ~2 h: 10 min abertura + 10 min meta + ~40 min o que entra + decomposição ("parte mais longa") + revisão |
+| Aula ao vivo | ~2 h: 10 min abertura + 10 min meta + ~40 min o que entra + decomposição ("parte mais longa") + revisão |
 | Apostila §12 | 60 min |
 | material de referência | 15 a 30 min, segunda de manhã |
 | Apostila p.15 (colada do Scrum Guide) | até 8 h para sprint de um mês |
 
 **Na prática usa 15 minutos por responsável de área, por mensagem escrita** (acordo de cadência do time). Motivo: ciclo de uma
 semana, até 3 compromissos, itens já quebrados no Backlog 2D. A decomposição em tarefas de um
-dia é feita pelo dono no quadro da área, não na reunião. A escolha editorial de duração entre versões permanece em aberto (Base do método, Passo 4, §8.5); não esconda essa divergência.
+dia é feita pelo dono no quadro da área, não na reunião. A escolha editorial de duração entre versões permanece em aberto; não esconda essa divergência.
 
 ## Regras do método que valem aqui
 
-- Ciclo = o menor tempo que entrega algo de valor. Comece com uma semana; depois não mude. (A11, v6 02)
-- Todo ciclo abre com uma meta escrita, uma só. (A13, v6 03)
-- A equipe escolhe o que dá para fazer; ninguém recebe cartão de presente. Planeje ~70%. (A13, v6 03)
-- Quebre em tarefas de um dia ou menos. (A13)
-- Cartão com nome de pessoa, não de área. (v6 03)
-- Cartão vem do Backlog 2D; cabe em uma semana; fatia fina entra primeiro. (v6 04, Passo 3)
-- A meta do plano é a que a review lê, copiada sem maquiagem. (v6 07)
-- Erro mais comum: distribuir tarefa até encher a agenda. (v6 03)
-- A capacidade se conta por pessoa, e a carga de cada uma se revisa toda semana, pelo volume em andamento e pela idade dos cartões. (ficha A05; aula 9)
+- Ciclo = o menor tempo que entrega algo de valor. Comece com uma semana; depois não mude.
+- Todo ciclo abre com uma meta escrita, uma só.
+- A equipe escolhe o que dá para fazer; ninguém recebe cartão de presente. Planeje ~70%.
+- Quebre em tarefas de um dia ou menos.
+- Cartão com nome de pessoa, não de área.
+- Cartão vem do Backlog 2D; cabe em uma semana; fatia fina entra primeiro.
+- A meta do plano é a que a review lê, copiada sem maquiagem.
+- Erro mais comum: distribuir tarefa até encher a agenda.
+- A capacidade se conta por pessoa, e a carga de cada uma se revisa toda semana, pelo volume em andamento e pela idade dos cartões. (ficha; aula 9)
 - Converse sobre as causas antes de interpretar o número de uma pessoa, e não premie a sobrecarga contínua.
 
 ## Saída

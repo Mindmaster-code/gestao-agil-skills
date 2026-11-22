@@ -1,7 +1,5 @@
 # Decisão Projeto ou Fluxo — checklist de "bem feito" e erros comuns
 
-Fonte: M06 A11, v6 Passo 4 aula 00 (slides 04, 07, 08) e aula 06 (urgência), canvas v6 e legado Mod 04 artefato 11.
-
 ## Bem feito
 
 **Antes**
@@ -40,7 +38,7 @@ Fonte: M06 A11, v6 Passo 4 aula 00 (slides 04, 07, 08) e aula 06 (urgência), ca
 | Folha sem a linha 5 | v6 slide 08 | "Quem cede quando os dois brigam pelo mesmo dia?" |
 | Acompanhamento sem dia, hora e lugar | canvas v6, campo 4 | "Diária que dia, que hora, onde?" |
 | Ciclo confundido com prazo do projeto | material de referência | "A iniciativa leva seis semanas; o ciclo é de uma." |
-| Ciclo de mais de 4 semanas | M06 A11 | "Não mais que quatro, para não perder o foco." |
+| Ciclo de mais de 4 semanas | — | "Não mais que quatro, para não perder o foco." |
 | Urgência sem política: todo mundo chama, várias por vez | material de referência | "Quem pode chamar? Uma por vez. O pausado ganha marca." |
 | Confundir com a classificação 3 Ps | Base do método: Passo 2 — Organizar o Trabalho §2.8 | "3 Ps escolhe o briefing; esta folha escolhe como executar." |
 | Trilha decidida e não registrada no quadro | laboratório (registro do portfólio na pasta do caso) | "Onde está escrito? Estado vem de arquivo, não de memória." |

@@ -1,9 +1,9 @@
 <!-- modelos de origem: quem-faz-o-que-lab.json -->
 # Quem faz o quê — template
 
-Não existe template oficial no curso. Campos da aula M06 A10 (SM, PO, membros, gerente ágil),
+Não existe template oficial no curso. Campos da (SM, PO, membros, gerente ágil),
 da material de referência (dono do ciclo, quem faz, quem recebe) e do modelo operacional do método (Dono,
-Aceitante, gate, apoio). Tudo que não está em aula vem marcado .
+Aceitante, gate, apoio). Tudo que não está em aula vem marcado como extensão do método.
 
 ---
 
@@ -38,7 +38,7 @@ Aceitante, gate, apoio). Tudo que não está em aula vem marcado .
 | Quem faz <!-- c:quem_faz --> | |
 | Quem recebe o resultado (aparece na review) <!-- c:quem_recebe --> | |
 
-## Acumulações declaradas (A10)
+## Acumulações declaradas
 
 | Pessoa | Acumula | Permitido? |
 |---|---|---|
@@ -58,7 +58,7 @@ Aceitante, gate, apoio). Tudo que não está em aula vem marcado .
 |---|---|---|---|---|
 | | | | | tem dono/DoD/Aceitante/handoff ou gate próprios |
 
-## Transferência de dono (§6)
+## Transferência de dono
 
 | De | Para | Aceitou por escrito em | Contexto entregue (arquivo) |
 |---|---|---|---|

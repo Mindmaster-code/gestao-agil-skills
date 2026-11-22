@@ -18,10 +18,8 @@ Não dispara para: a ata da reunião (`ga2-reunioes-e-comunicados`); o A3 e a ca
 
 ## Fonte no método
 
-- Base do método: Passo 5 (Melhoria Contínua) §2.5 (antifragilidade), §2.6 (estratégia do halter: de 10 a 20% do ciclo na aposta) e §4.8 (A3 de melhoria, com o campo Aprendizado).
-- Base do método: Passo 2 (Organizar o Trabalho) §2.9 (briefing, onde a decisão sobre uma iniciativa fica registrada).
-- Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 3, 4, 5 e 8.
-- Fichas: Guia completo de rotinas de gestão, fichas B05 (registrar e acompanhar decisões), A07 (revisar riscos e continuidade da operação) e G07 (refletir sobre decisões e experiências).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Modelos: T03 (Registro de compromissos e decisões) e T12 (Preparação de decisão e registro de risco).
 - Template: não há canvas do curso. O `template.md` reproduz os campos dos registro de compromissos e decisões e T12 e acrescenta a revisão da decisão e a lista do halter.
 

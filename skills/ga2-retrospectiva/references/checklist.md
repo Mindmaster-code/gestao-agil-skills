@@ -18,12 +18,12 @@
 
 - Desabafo sem ação (material de referência).
 - Lista de doze melhorias; "1 ou 2 experimentos" — duas viram nenhuma.
-- Caça ao culpado; falar de pessoa em vez de situação (M06 A08, M07 A12).
+- Caça ao culpado; falar de pessoa em vez de situação.
 - Assunto que cabia na review.
 - Ação que depende de outra área ou do dirigente responsável (não está sob controle do time).
 - Ação sem data ("em breve") — o exemplo v6 comete esse erro.
 - Não fechar a ação anterior — a melhoria fica aberta para sempre.
-- Pular a retro quando a semana foi ruim — é quando ela mais vale (M07 A01).
+- Pular a retro quando a semana foi ruim — é quando ela mais vale.
 
 ## Formas de saída
 

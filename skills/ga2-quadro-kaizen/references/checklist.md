@@ -23,7 +23,7 @@
 - Quadro que nunca fecha.
 - Quatro ideias abertas em vez de uma fechada.
 - Kaizen para problema de causa incerta ou que atravessa áreas — isso é A3.
-- Confundir com a folha de experimento do barbell (divergência 22).
+- Confundir com a folha de experimento do barbell.
 
 ## Formas de saída
 

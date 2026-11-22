@@ -34,7 +34,7 @@ Registro
 - [ ] Arquivo salvo em Plano do Ciclo na pasta do caso (ou `plano-<responsável>.md`).
 - [ ] Versão e data registradas; commit quando houver repositório. Ritual que não produziu arquivo não aconteceu.
 
-Capacidade e carga por pessoa (ficha A05)
+Capacidade e carga por pessoa
 - [ ] A capacidade foi contada por pessoa: dias do ciclo, ausências e trabalho fixo, e o planejado ficou em cerca de 70%.
 - [ ] O histórico dos ciclos anteriores sustentou a conta, sem chute.
 - [ ] A carga de cada pessoa foi revista na semana: volume em andamento e idade dos cartões.

@@ -12,13 +12,12 @@ Review, recebe ação na Retro, fecha quando o número volta (≤ 30 dias).
 um pouco melhor). O lado 10–20% (a aposta diferente) tem outro registro: a **folha de
 experimento**. Não duplicar: um experimento não vira Kaizen nem o contrário.
 
-Vive no **Passo 5 — Melhoria Contínua** (artefato central da v6, aula 01).
+Vive no **Passo 5 — Melhoria Contínua** (artefato central da v6).
 
 ## Fonte no método
 
-- Base do método — Passo 5: Melhoria Contínua §2.9, §2.6 (barbell), §4.1, §4.7 (folha de experimento),
- §6.3, regras 5–9, divergência 22 — v6 aulas 01, 03, 04 (não há aula ao vivo).
-- Template oficial: Canvas Editável — Quadro Kaizen do Ciclo, v6, Passo 5 (referência de origem; modelo público nos assets).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Folha de experimento (lado 10–20): skill `ga2-folha-de-experimento`; as seis perguntas e os limites estão na referência de método dessa skill.
 
 ## Kaizen × folha de experimento
@@ -32,7 +31,7 @@ Vive no **Passo 5 — Melhoria Contínua** (artefato central da v6, aula 01).
 | Onde | pasta de melhorias escolhida pelo usuário ou junto do ciclo | registro de experimento da área, com data e nome |
 | Cobrança | uma por ciclo, o Gestor registra | placar quinzenal, o Gestor cobra, a pessoa responsável pela coordenação compila |
 
-A fonte registra uma divergência de nomenclatura entre Kaizen e experimento (divergência 22). Nesta skill, preserve a separação explicitada acima; não presuma que as versões foram fundidas.
+A fonte registra uma divergência de nomenclatura entre Kaizen e experimento. Nesta skill, preserve a separação explicitada acima; não presuma que as versões foram fundidas.
 
 ## Gatilhos que abrem um Kaizen
 

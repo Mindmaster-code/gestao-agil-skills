@@ -34,7 +34,7 @@ Travas conferidas antes: de saída? <não> · afogada? <não> · salário torto?
 |---|---|---|
 | <trabalho que hoje passa pelo líder e passa a ser dela; alguém sente falta se não for feito> | <meia hora por semana, caso real decidido por ela, sem pauta e sem relatório> | <o menor pedaço que resolve: um módulo, não um curso> |
 
-### Plano de ação (kit M10 "Canvas PDI") — uma linha por ação
+### Plano de ação (kit "Canvas PDI") — uma linha por ação
 <!-- c:plano_acao -->
 | Ação | Recursos necessários | Prazo | Métrica de sucesso |
 |---|---|---|---|

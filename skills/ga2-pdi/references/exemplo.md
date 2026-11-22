@@ -44,7 +44,7 @@ Lucas corrigiu o objetivo e escolheu a lacuna numa conversa de 30 minutos. As a�
 Mudar prazo prometido continua fora da autonomia deste PDI.
 No cenário, a sequência sem alterar prazo é nível 6: Lucas decide e conta depois.
 
-### Plano de ação (kit M10) — mesmas ações em linhas
+### Plano de ação — mesmas ações em linhas
 
 <!-- c:plano_acao -->
 | Ação | Recursos necessários | Prazo | Métrica de sucesso |

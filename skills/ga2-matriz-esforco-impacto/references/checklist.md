@@ -1,7 +1,5 @@
 # Matriz Esforço × Impacto — checklist de "bem feito" e erros comuns
 
-Fonte: M04 A15, M04 A09, v6 Passo 3 aula 07, editável Mod 2 artefato 07, Ficha artefato 05.
-
 ## Bem feito
 
 **Entrada**
@@ -30,16 +28,16 @@ Fonte: M04 A15, M04 A09, v6 Passo 3 aula 07, editável Mod 2 artefato 07, Ficha 
 
 | Erro | Onde a aula fala | Como recusar |
 |---|---|---|
-| Objetivo ou KR na matriz | v6 07 | "Isso é direção/meta. Só iniciativa entra." |
-| Só fazer o Faça já e jogar o resto fora | v6 07 | "A matriz dá sequência. Onde ficam os do Planeje, com data?" |
-| Começar pelo item grande e caro | v6 07 (trocar o sistema); Kit (trocar o ERP) | "Quanto ele move em 90 dias? Quanto custa? Cai no Evite." |
-| Impacto "alto" por achismo | M04 A15 | "Qual número move e quanto?" |
-| Esforço sem unidade | M04 A15 | "Horas? Dias? Tem gate humano?" |
+| Objetivo ou KR na matriz | — | "Isso é direção/meta. Só iniciativa entra." |
+| Só fazer o Faça já e jogar o resto fora | — | "A matriz dá sequência. Onde ficam os do Planeje, com data?" |
+| Começar pelo item grande e caro | (trocar o sistema); Kit (trocar o ERP) | "Quanto ele move em 90 dias? Quanto custa? Cai no Evite." |
+| Impacto "alto" por achismo | — | "Qual número move e quanto?" |
+| Esforço sem unidade | — | "Horas? Dias? Tem gate humano?" |
 | Esquecer o gate humano no esforço | adaptação: custo da espera por aprovação | "O que espera aprovação custa dias parados. Conta como esforço." |
-| Misturar a grade de objetivos (A09) com a de iniciativas (A15) | nota metodológica sobre variantes do Passo 2 | "Objetivo se escolhe antes do OKR, com outra grade." |
-| Chamar tarefa de iniciativa | v6 05 | "Tarefa se ordena no backlog. Qual é a aposta?" |
-| Matriz sem fila numerada | v6 07 — "você sai com uma fila ordenada" | "Quadrante não é ordem. Numera." |
-| Evite sem motivo escrito | M04 A15 (defensável) | "Por que fica fora? Quem pediu? Volta quando?" |
+| Misturar a grade de objetivos com a de iniciativas | nota metodológica sobre variantes do Passo 2 | "Objetivo se escolhe antes do OKR, com outra grade." |
+| Chamar tarefa de iniciativa | — | "Tarefa se ordena no backlog. Qual é a aposta?" |
+| Matriz sem fila numerada | "você sai com uma fila ordenada" | "Quadrante não é ordem. Numera." |
+| Evite sem motivo escrito | (defensável) | "Por que fica fora? Quem pediu? Volta quando?" |
 
 ## Formas de saída
 

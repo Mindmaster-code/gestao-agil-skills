@@ -2,10 +2,6 @@
 # OKR Canvas — template
 <!-- modelos: okr-kit-02.json, okr-v6.json -->
 
-Fonte dos campos: aula M04 A05–A09; `Canvas OKR.pdf` (legado); `06-template-okr-ga2-paisagem-editavel.pdf`;
-`01-ponte-a3-okr-ga2-editavel.pdf`; `07-checkpoint-do-plano-ga2-editavel.pdf`; roteiro v6 06 (check-in).
-Campo que a aula não cita fica em aberto.
-
 ---
 
 ## Bloco 1 — Ponte A3 → OKR (template Mod 02, artefato 01)
@@ -87,7 +83,7 @@ Leitura rápida: KR parado há duas semanas → investiga · iniciativa pronta e
 
 ---
 
-## Bloco 4 — Checkpoint do Plano (template Mod 02, artefato 07 + 5 perguntas da v6 09)
+## Bloco 4 — Checkpoint do Plano (template Mod 02, artefato 07 + 5 perguntas da)
 
 Uma vez, ao fim do planejamento, depois da matriz e do backlog.
 
@@ -98,7 +94,7 @@ Uma vez, ao fim do planejamento, depois da matriz e do backlog.
 | Riscos de execução <!-- c:checkpoint_riscos --> | O que pode impedir o plano? | |
 | Decisão de seguir <!-- c:checkpoint_decisao --> | O que precisa estar pronto para avançar? | |
 
-As cinco perguntas (v6 09), sim ou não:
+As cinco perguntas, sim ou não:
 
 1. A3 com problema real e causa raiz? ___
 2. OKR completo: objetivo, KR de/para, iniciativas ligadas? ___

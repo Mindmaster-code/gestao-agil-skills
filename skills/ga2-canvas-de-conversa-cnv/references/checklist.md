@@ -1,6 +1,6 @@
 # Canvas de Conversa (CNV) — bem feito e erros comuns
 
-## Bem feito (M08 A12; v6 03)
+## Bem feito
 
 - [ ] Escrito calmo, não nos minutos depois do gatilho.
 - [ ] Uma pessoa, um assunto.

@@ -14,7 +14,7 @@
 - [ ] Linhas viraram cartão ou compromisso do plano do ciclo.
 - [ ] Ação técnica ou de produção está com o responsável autorizado, não automaticamente com quem facilita o plano.
 
-Orçamento (ficha A06)
+Orçamento
 - [ ] Todo "Quanto" foi escrito antes de a iniciativa começar, e a soma foi comparada com o orçamento antes de aprovar.
 - [ ] A revisão do mês compara o orçado, o contratado e o realizado, e não só o realizado.
 - [ ] O desvio foi separado em valor, prazo e volume.
@@ -23,7 +23,7 @@ Orçamento (ficha A06)
 
 ## Erros comuns (da aula e desta adaptação)
 
-- "Quem" com dois nomes (M07 §4.10).
+- "Quem" com dois nomes.
 - "Quando" = "em breve" (Passo 0 §4.6).
 - "Quanto" em branco — perde a ligação com o ROI.
 - Lista de tarefa sem ligação com a causa raiz.

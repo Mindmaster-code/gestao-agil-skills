@@ -2,7 +2,7 @@
 # Kanban Canvas — template
 
 Três blocos. Preencha só o que a régua do caso pede (leve = bloco A; intermediária = A + B;
-robusta = A + B + C). Campo sem fonte na aula vem marcado .
+robusta = A + B + C). Campo sem fonte na aula vem marcado como extensão do método.
 
 ---
 
@@ -50,7 +50,7 @@ Kanban Mínimo (artefato 03) pede ainda: **Cartões essenciais** (quais itens vi
 
 ## Bloco B — Kanban completo de uma área ou frente
 
-### B1. Cabeçalho (A08, professor)
+### B1. Cabeçalho (professor)
 
 | Campo | Preencha |
 |---|---|
@@ -60,7 +60,7 @@ Kanban Mínimo (artefato 03) pede ainda: **Cartões essenciais** (quais itens vi
 | Onde o quadro mora | |
 | Quem atualiza e quando | |
 
-### B2. Colunas do fluxo real (A09–A12)
+### B2. Colunas do fluxo real
 
 Desenhe da entrada da demanda até a entrega. Limite só nas colunas de execução.
 
@@ -72,14 +72,14 @@ Desenhe da entrada da demanda até a entrega. Limite só nas colunas de execuç�
 | 3 | | sim | | | |
 | 4 | | não (pronto) | — | | |
 
-### B3. Raias — tipos de demanda (A14)
+### B3. Raias — tipos de demanda
 
 | Raia | Tipo de demanda | Colunas que usa | Observação |
 |---|---|---|---|
 | | | | |
 | Urgência | emergencial | fila → execução → feito | ver `ga2-politicas-wip-urgencia` |
 
-### B4. Cartão padrão (A17 + material de referência)
+### B4. Cartão padrão (+ material de referência)
 
 `
 [RAIA] ______ | [ORIGEM] OKR ___ · KR __ · entrega ___ | [PROJETO] ______

@@ -67,7 +67,7 @@ Depois de escolher, preencha o **núcleo comum** e só a variante do tipo. Apagu
 
 ---
 
-## Como, quando e quanto (do briefing ao vivo — M03 A09/A10; aqui mora o como/onde/quanto do 5W2H)
+## Como, quando e quanto (do briefing ao vivo; aqui mora o como/onde/quanto do 5W2H)
 
 | Campo | Preencha |
 |---|---|

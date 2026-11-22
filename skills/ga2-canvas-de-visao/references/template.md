@@ -29,7 +29,7 @@ Escolha uma das duas versões. Apague a outra.
 
 ---
 
-## Versão completa (M10 — empresa ou área)
+## Versão completa (empresa ou área)
 
 | Campo | Resposta |
 |---|---|
@@ -49,7 +49,7 @@ Escolha uma das duas versões. Apague a outra.
 | 6 | **Evolução necessária / Como chegar lá** <!-- c:como_chegar --> | ações estratégicas, investimentos (tempo, recurso, tecnologia), competências, parcerias | |
 | 7 | **Visão (uma frase)** <!-- c:visao --> | essência, como será reconhecido, valores e missão — cabe numa linha | |
 
-**O que NÃO vamos fazer por causa desta visão** (pelo menos um item — M03 A03):
+**O que NÃO vamos fazer por causa desta visão** (pelo menos um item):
 -
 
 **Comunicação** — para quem e com que frequência:

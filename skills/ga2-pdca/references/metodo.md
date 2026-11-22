@@ -14,10 +14,9 @@ Vive no **Passo 0 — Fundamentos** (conceito) e é usado no Passo 4 (retro) e P
 
 ## Fonte no método
 
-- Base do método — Passo 0: Fundamentos, Visão de Floresta e Lean §2.17, §4.5, regra 12, §8.7 — M02 A07.
-- Base do método — Passo 1: Entender o Contexto §2.10 e "Como o A3 contém o PDCA" — M03 A05.
-- Base do método — Passo 5: Melhoria Contínua §2.17, §4.9, regras 7, 8 e 9 — M07 A13; v6 Quadro Kaizen.
-- A aula não fornece formulário oficial (lacuna L-02). O template derivado pelo laboratório está em `template.md`; os acréscimos continuam marcados.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
+- A aula não fornece formulário oficial. O template derivado pelo laboratório está em `template.md`; os acréscimos continuam marcados.
 
 ## Como o A3 contém o PDCA
 
@@ -63,9 +62,9 @@ para ele e não repete o diagnóstico.
 
 ## Regras do método que valem aqui
 
-- "Todo ciclo de melhoria contínua tem que obedecer essas quatro etapas." (M02 A07)
-- "Verificar = medir o sucesso relativo em relação à linha de base." (M02 A07)
-- "É ciclo que não acaba nunca, por isso se chama melhoria contínua." (M02 A07) — mas cada
+- "Todo ciclo de melhoria contínua tem que obedecer essas quatro etapas."
+- "Verificar = medir o sucesso relativo em relação à linha de base."
+- "É ciclo que não acaba nunca, por isso se chama melhoria contínua." — mas cada
  ciclo **fecha** com um Act escrito.
 - "Toda melhoria termina num verbo: manter, ajustar ou descartar."
 - "Uma mudança por ciclo, uma variável por vez."

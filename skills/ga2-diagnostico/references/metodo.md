@@ -15,12 +15,12 @@ Regra de ouro do passo: "Segura, entende primeiro." Aqui não entra solução.
 
 ## Fonte no método
 
-- Passo 1 — Entender o Contexto: contexto, atual, ideal e gap (M03 A05/A06; material de referência “A3 Lado Esquerdo”); regras de evidência, mesma medida e meta com prazo.
-- Passo 0 — Fundamentos: PDCA (M02 A07), linha de base dos três pilares e regra “escreva a linha de base hoje”.
-- Template oficial: Artefato 05 — “A3 lado esquerdo GA2 editável”: Contexto · Problema claro · Situação atual com evidências · Análise inicial.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Canvas Editável — A3 (v6, campos 1–4); roteiro “A3 Lado Esquerdo”.
 - Pré-diagnóstico: Artefato 01 — “Caso Refinado GA2 editável”.
-- Mapa as-is e linha de base são adaptações metodológicas derivadas do PDCA (A07) e de mapear o fluxo de valor (Lean, Passo 3). Não são campos atribuídos ao template oficial.
+- Mapa as-is e linha de base são adaptações metodológicas derivadas do PDCA e de mapear o fluxo de valor (Lean, Passo 3). Não são campos atribuídos ao template oficial.
+
 ## Como conduzir
 
 1. **Refine o caso.** Pergunta: "Em uma frase, qual é o caso? O que entra neste ciclo e o que fica fora?" Escreva no cabeçalho (Caso · Responsável · Data · Empresa). Recuse caso sem recorte.
@@ -36,14 +36,14 @@ Regra de ouro do passo: "Segura, entende primeiro." Aqui não entra solução.
 
 ## Regras do método que valem aqui
 
-- **Comece sempre pela situação atual** e seja honesto. (M03 A04, A06)
+- **Comece sempre pela situação atual** e seja honesto.
 - **Preencha o A3 da esquerda para a direita. Nada de solução aqui ainda.** (material de referência)
-- **Situação atual só com fato e número.** "Troque 'está ruim' por 'leva 72h'." (M03 A06; material de referência)
-- **Situação ideal com número e prazo.** "Não 'melhorar', mas '80% no primeiro contato'." (M03 A06)
-- **Quantifique o gap** e confira que contexto, atual e ideal "estão em linha". (M03 A06)
+- **Situação atual só com fato e número.** "Troque 'está ruim' por 'leva 72h'." (material de referência)
+- **Situação ideal com número e prazo.** "Não 'melhorar', mas '80% no primeiro contato'."
+- **Quantifique o gap** e confira que contexto, atual e ideal "estão em linha".
 - **Gap pequeno talvez não valha um A3.** (material de referência)
-- **Vá e veja (Genchi Genbutsu).** Não resolva "do ar condicionado do escritório". (M03 A05)
-- **Escreva a linha de base hoje.** (v6 00, slide 19)
+- **Vá e veja (Genchi Genbutsu).** Não resolva "do ar condicionado do escritório".
+- **Escreva a linha de base hoje.** (slide 19)
 - **O erro mais comum: resolver antes de entender.** (material de referência, slide 8)
 
 ## Saída
@@ -66,7 +66,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 |---|---|---|---|
 | Canvas Editável — A3 · família v6, fornecido pela skill pública `ga2-relatorio-a3` | Canvas Editável — A3 · família v6 | "no canvas v6": use `ga2-relatorio-a3`, que inclui esse modelo | disponível em `ga2-relatorio-a3` |
 | `../assets/modelos/canvas-a3-esquerdo-b-05.html` **(padrão)** | A3 — lado esquerdo (editável) · família b 05 | "no editável" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

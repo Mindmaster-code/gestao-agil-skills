@@ -8,16 +8,15 @@ revisão na sexta), **fluxo contínuo** (lote de trabalho: limite por etapa, dem
 quando abre vaga, triagem da fila) ou **híbrido** (os dois no mesmo quadro, com regra de
 convivência escrita). "É a decisão que vem antes do ritual."
 
-Vive no Passo 4 (Ritmo Ágil), aula 0 da v6, com conteúdo de M06 A11. Entra: o Backlog 2D
+Vive no Passo 4 (Ritmo Ágil), aula 0 da v6, com conteúdo de. Entra: o Backlog 2D
 e o Kanban montados, e a lista do que chega todo dia. Sai: a folha preenchida, registrada
 no portfólio, com a regra de execução escrita. Use também sempre que uma equipe disser
 "ciclo não funciona aqui" — quase sempre é fila e projeto no mesmo plano de semana.
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.3 (lotes de tempo × lotes de trabalho), §2.4 (ciclo), §3 regra 20 (fluxo puro muda duas coisas), §4.4 (campos), §6 item 1 (aplicação no laboratório).
-- Base do método: Passo 2 — Organizar o Trabalho §2.8 (3 Ps: projeto, processo, produto) — a classificação que antecede esta decisão.
-- Aulas: M06 A11 (Scrum × Kanban, professor: "suporte ao aluno roda em Kanban com limite por pessoa por dia; projetos e produtos rodam em Scrum"); v6 Passo 4 aula 00 "Decisão" (08/08/2026).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Templates: canvas v6 «Canvas Editável — Decisão Projeto ou Fluxo» (5 campos; exemplo `folha_decisao_exemplo.pdf`, caso Ana); legado «Mod 04 — Decisão Projeto ou Fluxo GA2 Editável» (artefato 11, 2 páginas, 5 campos com nomes um pouco diferentes). As variantes têm nomes diferentes: preserve o modelo solicitado; não substitua uma pela outra sem confirmação.
 - Exemplo do curso: Ana (atendimento) — fila de tickets em fluxo + repositório de respostas em ciclos de uma semana.
 
@@ -45,10 +44,10 @@ no portfólio, com a regra de execução escrita. Use também sempre que uma equ
 
 ## Regras do método que valem aqui
 
-- **Lote de tempo × lote de trabalho.** Scrum dá foco e é fácil de planejar, mas exige previsibilidade e a mudança espera o próximo ciclo. Kanban tem flexibilidade total, mas exige gerir fila em toda etapa (M06 A11).
+- **Lote de tempo × lote de trabalho.** Scrum dá foco e é fácil de planejar, mas exige previsibilidade e a mudança espera o próximo ciclo. Kanban tem flexibilidade total, mas exige gerir fila em toda etapa.
 - **Escolha pelo trabalho, não pela equipe** (material de referência).
 - **Fluxo puro muda duas coisas e mantém duas:** planejamento vira triagem da fila; revisão vira medição (tempo de fila, cartão mais velho, vazão). Diária e retrospectiva não mudam (material de referência, slide 07).
-- **Ciclo de 1 a 4 semanas; o menor tempo em que se entrega algo de valor** (M06 A11). Ciclo não é prazo de projeto: a iniciativa leva seis semanas, o ciclo é de uma (material de referência).
+- **Ciclo de 1 a 4 semanas; o menor tempo em que se entrega algo de valor**. Ciclo não é prazo de projeto: a iniciativa leva seis semanas, o ciclo é de uma (material de referência).
 - **Fila e projeto no mesmo plano de semana = a fila estoura a meta** e a conclusão errada é "ciclo não funciona" (v6 slide 04).
 - **A regra de quem cede é escrita antes do ciclo 1**, não depois da primeira briga (v6 slide 08).
 - **Política de urgência** complementa esta folha: o que é urgente, quem pode chamar (uma pessoa), quantas por vez (uma), o que acontece com o pausado (material de referência).
@@ -57,7 +56,7 @@ no portfólio, com a regra de execução escrita. Use também sempre que uma equ
 
 Os nomes abaixo são sugestões de organização, não dependências de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Arquivo: folha de decisão na pasta do caso ; resumo de uma linha por frente na coluna "Trilha" de registro do portfólio na pasta do caso .
+- Arquivo: folha de decisão na pasta do caso; resumo de uma linha por frente na coluna "Trilha" de registro do portfólio na pasta do caso.
 - Depois: trabalho em ciclo entra no Plano do Ciclo de segunda (`ga2-plano-do-ciclo`, `ga2-review-do-ciclo` e `ga2-retrospectiva`, até 3 compromissos por diretor); trabalho em fluxo ganha limite por etapa e entra na varredura diária pelo cartão mais velho; a regra de execução vira política escrita no alto do quadro.
 - Se a decisão muda o dono ou a prioridade entre áreas, não é desta folha: vai ao dirigente responsável.
 
@@ -124,7 +123,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 
 - Jogar fila e projeto no mesmo plano de semana e concluir que "ciclo não funciona" (v6 slide 04).
 - Escolher pela equipe, não pelo trabalho (v6).
-- Tratar operação contínua como projeto (esperar que "acabe") ou projeto como processo (nunca fechar) (Base do método: Passo 2 — Organizar o Trabalho §4.4).
+- Tratar operação contínua como projeto (esperar que "acabe") ou projeto como processo (nunca fechar).
 - Fluxo sem limite por etapa: "tudo está sempre em andamento, nada está pronto" (material de referência).
 - Folha sem a linha 5 — a regra de quem cede.
 - Acompanhamento sem dia, hora e lugar.

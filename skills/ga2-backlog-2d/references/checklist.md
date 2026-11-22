@@ -1,8 +1,5 @@
 # Backlog 2D — checklist de "bem feito" e erros comuns
 
-Fonte: M04 A16–A17, M06 A04 e apostila §4, v6 Passo 3 aulas 08–09, Kit Implementação (canvas 6 e 6.1),
-adaptação de corte por ciclo.
-
 ## Bem feito
 
 **Antes de começar**
@@ -47,17 +44,17 @@ adaptação de corte por ciclo.
 
 | Erro | Onde a aula fala | Como recusar |
 |---|---|---|
-| Começar pelo backlog, sem OKR nem matriz | M04 A16 — "o erro mais comum" | "Qual KR isso move? Passou pela matriz?" |
-| Lista plana de 30 itens sem caminho | v6 08 | "Qual é a linha de cima? Do início ao fim." |
-| Caprichar 100% numa coluna antes da seguinte | v6 08 — "fatie fino" | "O que é o mínimo que atravessa o mapa?" |
+| Começar pelo backlog, sem OKR nem matriz | "o erro mais comum" | "Qual KR isso move? Passou pela matriz?" |
+| Lista plana de 30 itens sem caminho | — | "Qual é a linha de cima? Do início ao fim." |
+| Caprichar 100% numa coluna antes da seguinte | "fatie fino" | "O que é o mínimo que atravessa o mapa?" |
 | Item grande e caro no Essencial | Kit (o ERP) | "Isso cabe no primeiro ciclo? Move número em 90 dias?" |
 | Tarefa do tamanho da iniciativa | adaptação de corte por ciclo | "Um cartão, uma semana. Corta." |
-| Backlog sem dono | M04 A16 | "Quem ordena? Quem detalha?" |
-| Backlog em papel / não editável | M04 A16 — "o backlog é vivo" | "Onde ele vive? Dá para editar hoje?" |
-| Item do Evite que voltou pela linha de cima | v6 08 | "A matriz tirou. Quem pôs de volta e por quê?" |
+| Backlog sem dono | — | "Quem ordena? Quem detalha?" |
+| Backlog em papel / não editável | "o backlog é vivo" | "Onde ele vive? Dá para editar hoje?" |
+| Item do Evite que voltou pela linha de cima | — | "A matriz tirou. Quem pôs de volta e por quê?" |
 | Usar só o editável Mod 2 (E/D/O/Q sem narrativa) | nota metodológica sobre as duas leituras | "Virou lista 1D. Cadê a linha de cima?" |
 | Fatia fina sem "pronto é" | adaptação: entrega conferida | "Como eu vejo isso pronto pelo caminho real?" |
-| Mapa que ninguém atualiza | M06 apostila §4 (grooming) | "Data da última mudança? Bate com o registro atual do trabalho?" |
+| Mapa que ninguém atualiza | apostila §4 (grooming) | "Data da última mudança? Bate com o registro atual do trabalho?" |
 | Apagar sem olhar a guarda | item com obrigação de guarda ou valor de evidência some | confirmar o critério de guarda antes de arquivar ou apagar |
 | Faixa Q que só cresce | o questionável se acumula todo mês | decisão do dono na poda: manter, quebrar, arquivar ou apagar |
 | Poda que vira reorganização total | meia manhã mexendo na lista sem ganho de leitura | podar o que perdeu o sentido e simplificar só o que atrapalha |

@@ -1,7 +1,5 @@
 # OKR Canvas — checklist de "bem feito" e erros comuns
 
-Fonte: M04 A05–A09, apostila OKR, v6 Passo 3 aulas 02–06 e 09, Kit Implementação.
-
 ## Bem feito (todos "sim" antes de soltar)
 
 **Ponte**
@@ -42,20 +40,20 @@ Fonte: M04 A05–A09, apostila OKR, v6 Passo 3 aulas 02–06 e 09, Kit Implement
 
 | Erro | Onde a aula fala | Como recusar |
 |---|---|---|
-| Objetivo que é tarefa ("implementar CRM") | v6 03 — "o mais frequente" | "Isso é iniciativa. Aonde você chega quando o CRM estiver implantado?" |
-| Objetivo vago, sem prazo, ou que abraça o mundo | v6 03 | pede uma frase, um prazo |
-| KR que é entrega ("criar o repositório", "publicar 20 respostas") | v6 04 | "Publicar 20 respostas é esforço. Qual número muda quando elas existirem?" |
-| KR sem número de partida | v6 06 | "Sem partida não há nota. Quem mede? Pede ao responsável pela medição antes de cobrar resultado." |
-| Mais de 5 KR ou mais de 3 objetivos | M04 A05 | "Você vai gastar mais tempo medindo do que fazendo." |
+| Objetivo que é tarefa ("implementar CRM") | "o mais frequente" | "Isso é iniciativa. Aonde você chega quando o CRM estiver implantado?" |
+| Objetivo vago, sem prazo, ou que abraça o mundo | — | pede uma frase, um prazo |
+| KR que é entrega ("criar o repositório", "publicar 20 respostas") | — | "Publicar 20 respostas é esforço. Qual número muda quando elas existirem?" |
+| KR sem número de partida | — | "Sem partida não há nota. Quem mede? Pede ao responsável pela medição antes de cobrar resultado." |
+| Mais de 5 KR ou mais de 3 objetivos | — | "Você vai gastar mais tempo medindo do que fazendo." |
 | Três colunas de objetivo no primeiro trimestre | Kit | "Um objetivo. Os outros ficam para o próximo ciclo." |
-| OKR copiado da empresa para a área | M04 A07 | "A pergunta é 'como minha área contribui?', não copiar o KR." |
-| OKR secreto | M04 A06 | "Onde ele fica público?" |
-| Iniciativa sem KR ("me mantém ocupado") | v6 05 | "Qual número ela move? Se nenhum, por que existe?" |
-| Iniciativa pronta, número parado, e o KR é que muda | v6 06 | "Troca a iniciativa, não o KR." |
-| KR impossível que ninguém reposiciona | v6 06; adaptação de autoridade sobre a meta | registra e recomenda ao responsável pela meta; o decisor competente aprova a mudança |
+| OKR copiado da empresa para a área | — | "A pergunta é 'como minha área contribui?', não copiar o KR." |
+| OKR secreto | — | "Onde ele fica público?" |
+| Iniciativa sem KR ("me mantém ocupado") | — | "Qual número ela move? Se nenhum, por que existe?" |
+| Iniciativa pronta, número parado, e o KR é que muda | — | "Troca a iniciativa, não o KR." |
+| KR impossível que ninguém reposiciona |; adaptação de autoridade sobre a meta | registra e recomenda ao responsável pela meta; o decisor competente aprova a mudança |
 | Usar exemplos de A07/A09 como modelo de KR | nota metodológica: exemplos de KR do Passo 2 | usar A06 e o Kit (Norte-Sul) |
-| OKR escrito sem check-in | v6 06 | "OKR escrito, não feito." |
-| Plano que não diz o que fazer segunda de manhã | v6 09 | "Plano de papel. Qual é a primeira tarefa e quem puxa?" |
+| OKR escrito sem check-in | — | "OKR escrito, não feito." |
+| Plano que não diz o que fazer segunda de manhã | — | "Plano de papel. Qual é a primeira tarefa e quem puxa?" |
 
 ## Formas de saída
 

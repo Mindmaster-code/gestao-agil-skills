@@ -6,7 +6,7 @@ Backlog de duas dimensões. **Horizontal (linha de cima, espinha dorsal):** a se
 início ao fim. **Vertical (embaixo de cada coluna):** o que precisa existir ali, o mais
 importante em cima. Depois, prioriza em **E/D/O/Q** (Essencial = mínimo viável; Desejável;
 Opcional; Questionável) e marca a **fatia fina**: o essencial que atravessa o mapa e já
-entrega valor. Ela é o primeiro ciclo. Motivo do desenho: "somos seres visuais" (M04 A17).
+entrega valor. Ela é o primeiro ciclo. Motivo do desenho: "somos seres visuais".
 
 Vive no Passo 2, **depois da matriz e antes do Kanban**. Entra: a fila ordenada da matriz (ou
 a iniciativa escolhida). Sai: o mapa, a fatia fina e os cartões do primeiro ciclo, cada um
@@ -14,22 +14,20 @@ do tamanho de uma semana. Cadeia: A3 → OKR → Matriz → **Backlog 2D** → K
 
 ## Fonte no método
 
-- Passo 2 — Organizar o Trabalho: backlog, Backlog 2D, regras e diferenças entre as duas leituras.
-- Passo 4 — Ritmo Ágil: Backlog 2D (M06 A04) e refinamento contínuo.
-- Aulas: M04 A16 (backlog), A17 (Backlog 2D), A18 (tarefas pequenas); M06 A04; v6, módulo 03, aulas 08 (story map) e 09 (fechamento).
-- Templates: M10 — “Canvas Backlog 2D” (6) e “Canvas Backlog Priorizado” (6.1); Artefato 08 — “Canvas Backlog 2D GA2 editável” (só E/D/O/Q, sem narrativa); Ficha “Backlog 2D GA2” (linha de cima + Essencial + Depois).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Exemplo do curso: Kit Implementação — Canvas 6 e 6.1 (Norte-Sul).
 - aplicação do método: cada tarefa do mapa vira cartão; teto de uma semana por cartão, mantendo a preferência da aula por 1–3 dias.
-- Ficha F09 (revisar acúmulos e simplificar a organização) do Guia completo de rotinas de gestão, para a poda mensal; lente do 5S: Passo 0 §2.14.
+
 ## As duas leituras — e qual usar
 
-| | Ao vivo (M04 A17, canvas 6/6.1) | v6 (aula 08, Story Map de Patton adaptado) |
+| | Ao vivo (canvas 6/6.1) | v6 (Story Map de Patton adaptado) |
 |---|---|---|
 | Linha de cima | **etapas** da iniciativa: fases, subfases, etapas do processo ou módulos do produto | **iniciativas do OKR**, na ordem que a matriz deu |
 | Um mapa para | cada iniciativa ("você vai fazer um desse por iniciativa") | o plano inteiro |
 | Embaixo | entregas de cada etapa, depois priorizadas E/D/O/Q | tarefas pequenas, essencial no topo |
 | Primeiro ciclo | a faixa E | a fatia fina em âmbar |
-| Tamanho do item | 1 a 3 dias (A16); "até um dia" (A18) | "do tamanho de um passo" |
+| Tamanho do item | 1 a 3 dias; "até um dia" | "do tamanho de um passo" |
 
 **Esta adaptação usa a v6 por padrão**: linha de cima = iniciativas do OKR; tarefa do mapa = cartão.
 **Use a leitura ao vivo quando a iniciativa é um produto ou projeto grande**, com etapas próprias: o mapa é da iniciativa e a linha de cima são as fases.
@@ -75,15 +73,15 @@ Sinais: o tempo para achar um item e o esforço para manter a lista. Se o acúmu
 
 ## Regras do método que valem aqui
 
-- **Backlog é lista viva e ordenada por valor ao cliente final.** Topo detalhado, fundo macro; num lugar fácil de editar, não em papel (M04 A16).
-- **Backlog tem um dono (PO).** Co-cria, mas ordenar é dele (M04 A16). Os canvas chamam de "Líder" — mesmo papel.
-- **Duas dimensões:** narrativa + detalhamento; depois E/D/O/Q; o Essencial é o MVP (M04 A17).
-- **Linha de cima vem da matriz; o do Evite não entra** (v6 08).
-- **A fatia fina é o primeiro sprint** (v6 08). Todo ciclo entrega algo de valor que o cliente reconheça (M04 A18).
-- **Tarefa pequena:** 1 a 3 dias (A16); "se possível até um dia" (A18); **um cartão, uma semana**.
-- **"A mesma peça andando":** a iniciativa nasce no OKR, ganha ordem na matriz e ganha detalhe no backlog — não muda de nome no caminho (v6 09).
-- **Refinamento contínuo (grooming):** o perto fica detalhado, o longe fica genérico (M06 apostila §4).
-- **Não comece pelo backlog.** "Muita gente começa por aqui, erroneamente" (M04 A16) — OKR e matriz vêm antes.
+- **Backlog é lista viva e ordenada por valor ao cliente final.** Topo detalhado, fundo macro; num lugar fácil de editar, não em papel.
+- **Backlog tem um dono (PO).** Co-cria, mas ordenar é dele. Os canvas chamam de "Líder" — mesmo papel.
+- **Duas dimensões:** narrativa + detalhamento; depois E/D/O/Q; o Essencial é o MVP.
+- **Linha de cima vem da matriz; o do Evite não entra**.
+- **A fatia fina é o primeiro sprint**. Todo ciclo entrega algo de valor que o cliente reconheça.
+- **Tarefa pequena:** 1 a 3 dias; "se possível até um dia"; **um cartão, uma semana**.
+- **"A mesma peça andando":** a iniciativa nasce no OKR, ganha ordem na matriz e ganha detalhe no backlog — não muda de nome no caminho.
+- **Refinamento contínuo (grooming):** o perto fica detalhado, o longe fica genérico (apostila §4).
+- **Não comece pelo backlog.** "Muita gente começa por aqui, erroneamente" — OKR e matriz vêm antes.
 
 ## Saída
 
@@ -109,7 +107,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 | `../assets/modelos/canvas-backlog-priorizado-kit-6-1.html` | Backlog | 2 Dimensões Priorizado · família kit 6.1 | "no canvas do kit" | pronto |
 | `../assets/modelos/canvas-backlog-2d-v6.html` | Canvas Editável — Backlog 2D · família v6 | "no canvas v6" | pronto |
 
-
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.
 Confira IDs, campos sem preencher, ausência de `{{` residual, conteúdo sem estouro e uma página quando o modelo exigir.
@@ -130,12 +127,12 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 ## Erros comuns
 
-- Lista plana de 30 itens sem caminho (v6 08).
-- Caprichar 100% numa coluna antes de encostar na seguinte — "fatie fino" (v6 08).
+- Lista plana de 30 itens sem caminho.
+- Caprichar 100% numa coluna antes de encostar na seguinte — "fatie fino".
 - Jogar o item grande e caro no Essencial (Kit: o ERP).
 - Tarefa do tamanho de uma iniciativa: cartão parado por semanas.
-- Começar pelo backlog sem OKR nem matriz (M04 A16).
-- Backlog em papel ou sem dono: morre em uma semana (M04 A16).
+- Começar pelo backlog sem OKR nem matriz.
+- Backlog em papel ou sem dono: morre em uma semana.
 - Editável Mod 2 como único template: virou 1D (só E/D/O/Q, sem narrativa) — use o canvas legado ou a Ficha para a linha de cima (nota metodológica sobre as duas leituras).
 - Apagar sem olhar o critério de guarda: o item tinha obrigação de guarda ou valor de evidência.
 - Deixar a faixa Q crescer todo mês, sem decisão do dono.

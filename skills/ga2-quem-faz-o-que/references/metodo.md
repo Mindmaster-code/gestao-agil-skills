@@ -10,19 +10,15 @@ operacional: **Dono**, **Aceitante**, **Apoio**, **Decisor de gate**, **Executor
 para a regra de ouro "um dono por demanda; apoio não vira co-dono".
 
 Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no Passo 3 como
-"papéis e responsabilidades" (M02 A01), sem aula própria lá. Entra antes do Plano do Ciclo
+"papéis e responsabilidades", sem aula própria lá. Entra antes do Plano do Ciclo
 (cartão sem dono não entra) e alimenta a review (quem recebe o resultado está na sala).
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.15 (SM, PO e membros), §3 regras 6, 21, §4.13 (campos — sem
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  template), §7 perguntas 27–28, §8 item 12 (quem dá o feedback na review).
-- Base do método: Passo 3 — Gestão Visual §2.22 e §8.8 (papéis prometidos no Passo 3, sem aula), §6.4 (aplicação dos papéis).
-- Aulas: M06 A10 ("Gestão de Equipe Eficiente — Quem faz o quê"), slides em
- «M06 A10 — Gestão de Equipe Eficiente — Quem faz o quê»; v6 pasta 05 aula 03
- ("dono do ciclo / quem faz / quem recebe"); M02 A01 (visão geral).
 - Template: **não existe**. Os campos desta skill são construção deste pacote.
-- Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; roteiro de comunicação, cobertura e transição, página 3 (transição de responsabilidade), para as duas seções novas.
 - Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde trava.
 
 ## Papéis — tradução do método para a organização
@@ -54,7 +50,7 @@ Vive no Passo 4 (Ritmo Ágil, aula de organização do time) e é prometido no P
 7. **Acumulações declaradas.** Pergunta: "Alguém é dono e também executa? Alguém cuida do
  processo e também dá o rumo?" Escreva. Recuse SM + PO na mesma pessoa.
 8. **Transferência.** Se o dono muda, o novo aceita contexto e responsabilidade por escrito; até
- lá o antigo responde (§6).
+ lá o antigo responde.
 9. **Registre na matriz** e cole o dono no cartão do quadro e nas 6 linhas da demanda.
 
 ## Revisão de responsabilidades: papel previsto contra papel assumido (ficha E11)
@@ -89,14 +85,14 @@ Fonte: ficha E12, aula 7 (seção 6) e roteiro de comunicação, cobertura e tra
 
 ## Regras do método que valem aqui
 
-- Não é tarefa, é responsabilidade. (A10)
-- Um líder não acumula SM e PO; pode ser um e delegar o outro. (A10)
-- Cartão com nome de pessoa, não de área; cartão de todo mundo não é de ninguém. (v6 03)
-- Quem recebe o resultado aparece na review. (v6 07)
+- Não é tarefa, é responsabilidade.
+- Um líder não acumula SM e PO; pode ser um e delegar o outro.
+- Cartão com nome de pessoa, não de área; cartão de todo mundo não é de ninguém.
+- Quem recebe o resultado aparece na review.
 - Diretriz prática: nenhuma demanda chega a Apta sem exatamente um dono; toda demanda tem DoD e Aceitante
- antes de executar; apoio não vira co-dono. (modelo operacional §1, §6)
+ antes de executar; apoio não vira co-dono. (modelo operacional §1)
 - Diretriz prática: gate responde "podemos fazer esta ação sensível?"; aceite responde "cumpriu a DoD?". Pessoas
- podem ser diferentes. (§11)
+ podem ser diferentes.
 - Diretriz prática: quem conduz o método é dono do processo; o responsável pela área é dono do resultado e Aceitante. (organograma l.214)
 - Papel previsto e papel assumido ficam lado a lado, e a diferença orienta a conversa. Salário justo é pré-requisito; ninguém promete reajuste nem promoção antes da aprovação. (aula 6; ficha E11)
 - Quando alguém sai ou muda de função, cada entrega ganha um dono único, que aceita por escrito, e quem assume faz o trabalho uma vez com quem sai ao lado. (aula 7; ficha E12)
@@ -180,7 +176,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Dois donos ("Mariana e Lucas") — ninguém responde.
 - Dono = área ("Operações", "TI").
 - Aceitante = quem executou, ou = dono do processo.
-- Confundir "GO" local (copy aprovada) com aceite da demanda (§8).
+- Confundir "GO" local (copy aprovada) com aceite da demanda.
 - Gate sem pessoa nem data ("depende da instância que decide").
 - Apoio tratado como co-dono; ou apoio com DoD própria sem virar demanda filha.
 - SM e PO na mesma pessoa "porque o time é pequeno".

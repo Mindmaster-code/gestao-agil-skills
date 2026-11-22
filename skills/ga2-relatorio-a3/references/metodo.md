@@ -16,17 +16,16 @@ e `ga2-causa-raiz` (campo 5). Aqui o foco é o lado direito (6–10) e a folha f
 
 ## Fonte no método
 
-- Passo 1 — Entender o Contexto: sete campos ao vivo (M03 A08), dez campos v6 (aulas 02, 03 e 05), PDCA no A3 e plano de ação.
-- Passo 0 — Fundamentos: PDCA e 5W2H (M02 A07); a aula permite usar o 5W2H no plano.
-- Templates oficiais: “Canvas Editável — A3” (v6, dez campos); Artefato 04 — “Template A3 GA2 editável”; M10 — “Relatório A3” (ao vivo, sete campos); “A3 plano de ação GA2”.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Materiais de demonstração: A3 lado esquerdo e A3 lado direito.
-- Exemplos do curso: M03 A08 — “A3 — Exemplo” (Lucro Total); Kit Implementação — Relatório A3 (Norte-Sul).
 - As diferenças de campos e a extensão do 5W2H estão explicadas abaixo; a revisão semanal é uma adaptação de acompanhamento.
 
 **Campos: 10 da v6 como superconjunto.** Os 7 do ao vivo são 1, 2, 3, 5, 6, 7, 8 (no ao
 vivo o gap mora dentro da "Análise de causa raiz"). Os campos **4 Gap, 9 Acompanhamento e
 10 Aprendizado** são só v6. O 5W2H no plano de ação é aplicação do método identificada: a aula exige o
 quê/quem/quando; as outras quatro colunas são.
+
 ## Como conduzir
 
 **Lado esquerdo (Plan)** — preencha da esquerda para a direita; nada de solução ainda.
@@ -51,13 +50,13 @@ quê/quem/quando; as outras quatro colunas são.
 
 - **Preencha da esquerda para a direita.** "A coluna da direita só fica boa depois que a da esquerda tiver número." (material de referência)
 - **Contramedida tem que atacar a causa raiz. Se não conecta, corta.** (material de referência)
-- **Plano de ação sem dono e prazo é intenção.** Cada linha: o quê, quem, quando. (M03 A08; material de referência)
+- **Plano de ação sem dono e prazo é intenção.** Cada linha: o quê, quem, quando. (material de referência)
 - **Métrica do lado direito = mesma medida do lado esquerdo.** (material de referência)
 - **O A3 é vivo: volte, meça, ajuste e registre o aprendizado.** (material de referência)
-- **Cabe numa página.** "Se não cabe, você ainda não entendeu o problema." (material de referência; M03 A08)
+- **Cabe numa página.** "Se não cabe, você ainda não entendeu o problema." (material de referência)
 - **Um caso por A3.** (Canvas Editável A3)
-- **O A3 dá início a um PDCA**; Plan = contexto até contramedidas; Do = plano; Check e Act = acompanhamento. (M02 A07)
-- **Como, onde e quanto** ficam para o briefing e o planejamento quando não cabem na folha. (M03 A08)
+- **O A3 dá início a um PDCA**; Plan = contexto até contramedidas; Do = plano; Check e Act = acompanhamento.
+- **Como, onde e quanto** ficam para o briefing e o planejamento quando não cabem na folha.
 
 ## Saída
 
@@ -79,7 +78,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 |---|---|---|---|
 | `../assets/modelos/canvas-a3-kit-10.html` **(padrão)** | Relatório A3 · família kit 10 | "no canvas do kit" | pronto |
 | `../assets/modelos/canvas-a3-v6.html` | Canvas Editável — A3 · família v6 | "no canvas v6" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

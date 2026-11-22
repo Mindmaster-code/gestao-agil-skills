@@ -6,6 +6,11 @@
 - M10 não tem canvas próprio dessa matriz: ela aparece no “Template OKR Canvas”, com outros eixos.
 - Exemplo do curso: Kit Implementação — “OKR Canvas — Planejamento”, bloco 2 (variante de objetivos, Norte-Sul).
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fonte dos campos: M04 A15; editável `07-matriz-esforco-impacto-ga2-editavel.pdf` ("Use depois do OKR. Coloque as iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; material de referência. Campo que a aula não cita fica em aberto.
+- Fonte: M04 A15, M04 A09, v6 Passo 3 aula 07, editável Mod 2 artefato 07, Ficha artefato 05.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

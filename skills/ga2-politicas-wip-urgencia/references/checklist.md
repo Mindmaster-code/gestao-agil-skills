@@ -50,7 +50,7 @@ Canal oficial por tipo de pedido (ficha F10)
 | Erro | Sinal | Correção |
 |---|---|---|
 | Sem limite "por enquanto" | tudo em andamento, nada sai | fixar hoje: andamento menos um |
-| Limite alto demais | cartões parados na etapa, fila invisível | baixar o limite ou criar a coluna escondida (A20) |
+| Limite alto demais | cartões parados na etapa, fila invisível | baixar o limite ou criar a coluna escondida |
 | Limite baixo demais | gente ociosa reclamando | subir um ponto e observar um ciclo |
 | Limite em fila e Feito | "4 · 4 · 4" (Norte-Sul) | limite só onde há trabalho |
 | Mudar limite sob pressão | número muda toda semana | só na retro, com sinal e data |
@@ -59,7 +59,7 @@ Canal oficial por tipo de pedido (ficha F10)
 | Duas urgências juntas | plano some sem ninguém pausar | uma por vez; a segunda espera |
 | Pausar sem marca | "por que atrasou?" sem resposta | marca + motivo + data no cartão |
 | Política no chat | ninguém acha a regra no calor | topo do quadro |
-| Confundir pedido com prioridade | pedido direto do chefe vira interrupção | fila normal; só Prioridade explícita interrompe (§9) |
+| Confundir pedido com prioridade | pedido direto do chefe vira interrupção | fila normal; só Prioridade explícita interrompe |
 | Abrir vaga antes de testar | "precisamos de mais gente" sem a coluna mais cheia identificada | redistribuir, mudar o processo ou desenvolver alguém primeiro |
 | Dois canais oficiais para o mesmo pedido | pedidos duplicados e perdidos | um canal por tipo de pedido, com o registro da decisão |
 | Prazo que exige disponibilidade contínua | a equipe vive de olho no celular | prazo combinado e cobertura para plantão |

@@ -2,8 +2,7 @@
 # Plano do Ciclo — template
 
 Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do template ao vivo
-(A05) e do individual (`--help` 08) onde indicado. Campo que nenhum template tem vem marcado
-.
+e do individual onde indicado. Campo que nenhum template tem vem marcado como extensão do método.
 
 ---
 
@@ -11,7 +10,7 @@ Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do temp
 
 | Campo | Preencha |
 |---|---|
-| Caso / Desafio (v6) · Nome do projeto (A05) <!-- c:caso --> | |
+| Caso / Desafio · Nome do projeto <!-- c:caso --> | |
 | Responsável · Líder do projeto <!-- c:dono --> | |
 | Data do planejamento <!-- c:data --> | |
 | Ciclo nº · Período (início e fim) <!-- c:periodo --> | Ciclo __ · __ dias · seg __/__ a sex __/__ |
@@ -37,7 +36,7 @@ Campos do canvas v6 (`Canvas Editavel - Plano do Ciclo.pdf`), acrescidos do temp
 | 70% planejável | |
 | Nº máximo de compromissos | |
 
-## Capacidade por pessoa (ficha A05)
+## Capacidade por pessoa
 
 Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planeje cerca de 70% do total.
 
@@ -70,7 +69,7 @@ Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planej
 | | | dono | |
 | | | | |
 
-## Rituais do ciclo (A05 + v6) <!-- c:rituais -->
+## Rituais do ciclo (+ v6) <!-- c:rituais -->
 
 | Ritual | Dia | Hora | Lugar / canal | Duração |
 |---|---|---|---|---|
@@ -87,7 +86,7 @@ Dias disponíveis = dias do ciclo, menos ausências, menos trabalho fixo. Planej
 | 2 | | | | | | |
 | 3 | | | | | | |
 
-## Riscos do briefing e resposta (A03, checklist etapa 4)
+## Riscos do briefing e resposta (checklist etapa 4)
 
 | Risco | Plano de resposta neste ciclo | Dono |
 |---|---|---|

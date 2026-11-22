@@ -46,7 +46,7 @@ Níveis: 1 Dizer · 2 Vender · 3 Consultar (você decide) · 4 Concordar (junto
 
 N4 Líder Decide = 1–2 · N3 Consulta o Líder = 3–5 · N2 Consulta Equipe = 4 · N1 Decide Sozinho = 6–7.
 
-### Quadro de 4 níveis (kit M10 "Matriz de Delegação") — preencha só se for gerar o canvas do kit
+### Quadro de 4 níveis (kit "Matriz de Delegação") — preencha só se for gerar o canvas do kit
 <!-- c:assuntos_4 -->
 | Tarefa / decisão | Nível 1 — decide sozinho | Nível 2 — consulta a equipe | Nível 3 — consulta o líder | Nível 4 — o líder decide |
 |---|---|---|---|---|

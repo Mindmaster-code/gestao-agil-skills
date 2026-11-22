@@ -42,7 +42,7 @@ Há um nome e um nível por linha. Reabrir somente linhas em que houve erro ou a
 N4 Líder Decide = 1–2 · N3 Consulta o Líder = 3–5 · N2 Consulta Equipe = 4 · N1 Decide Sozinho = 6–7.
 A autonomia fica do lado oposto; não leia esta versão com a direção da escala de sete.
 
-### Quadro de 4 níveis (kit M10)
+### Quadro de 4 níveis
 
 <!-- c:assuntos_4 -->
 | Tarefa / decisão | Nível 1 — decide sozinho | Nível 2 — consulta a equipe | Nível 3 — consulta o líder | Nível 4 — o líder decide |

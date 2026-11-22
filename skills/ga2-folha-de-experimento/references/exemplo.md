@@ -76,7 +76,6 @@ Placar em três linhas:
 - Achou: no cenário, 32 minutos e zero troca, contra 48 minutos de partida.
 - Agora: Lucas prepara piloto; Mariana decide antes de qualquer mudança real.
 
-
 ## Modo testar ferramenta (exemplo de outro ramo)
 
 Vera coordena a recepção de uma clínica de fisioterapia. As faltas sem aviso atrapalham a agenda, e a recepção liga para confirmar cada consulta. Em 02/11/2026, ela avaliou uma ferramenta de lembrete por mensagem, antes da renovação da assinatura antiga de agenda, que vence em 30/11/2026. Os números são ilustrativos.

@@ -1,6 +1,6 @@
 # PDI — bem feito e erros comuns
 
-## Bem feito (v6 06; Kit)
+## Bem feito
 
 - [ ] As três travas foram conferidas antes: não está de saída, não está afogada, não tem salário torto.
 - [ ] "Pessoa e momento" traz o fato de agora, não só o cargo.

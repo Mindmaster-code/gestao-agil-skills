@@ -18,7 +18,7 @@
 - [ ] Dono leu de volta e assinou.
 - [ ] Cabe em uma página (é metade do A3).
 
-## Erros comuns (da aula A06 e material de referência)
+## Erros comuns (da aula e material de referência)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

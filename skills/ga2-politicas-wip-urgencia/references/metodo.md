@@ -13,17 +13,13 @@ como decisão de calibragem na retrospectiva.
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.9 (WIP), §2.10 (parar a linha), §2.12 (urgência), §3 regras
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  9–14, §4.10 (limites — sem template), §4.11 (urgência — sem template), §6 itens 4–5.
-- Base do método: Passo 3 — Gestão Visual §2.11 passo 3, §2.14 (métricas), §4.8 (políticas), §8 item 13.
-- Aulas: M06 A17 (um dia na terra do Kanban), A19 (limites), A20 (calibrar), A21 (urgência);
- v6 pasta 05 aulas 05 (limite) e 06 (urgência). M05 A17 (WIP no Trello).
 - Política de urgência v6: cinco linhas transcritas em `template.md` — o que é, quem chama, quantas, pausado e onde fica escrito.
 - Templates: só slides. «Mod 03 — Políticas do Quadro GA2 Editável» e
- «M10 — Canvas Kanban — Políticas» (7.2) trazem os campos de limite e bloqueio.
 - Classe de atendimento: modelo operacional de demandas §8 (limite
  por processo, condições) e §9 (Compromisso, classe Crítica / Com prazo / Normal).
-- Fichas E06 (revisar a necessidade de pessoas e competências) e F10 (organizar canais e circulação de informações) do Guia completo de rotinas de gestão, para as Partes 4 e 5.
 
 ## Como conduzir
 
@@ -35,15 +31,15 @@ como decisão de calibragem na retrospectiva.
  "pessoas ÷ 2 por etapa" — não está em aula; use só como segunda referência.
  Recuse "vamos sem limite por enquanto": nunca Kanban sem limite, inclusive dentro do ciclo.
 3. **Escreva o limite no topo de cada coluna de execução.** Fila (A fazer) e Feito não têm
- limite (ver erro do exemplo Norte-Sul "4·4·4", Base do método: Passo 3 — Gestão Visual §8.13).
+ limite (ver erro do exemplo Norte-Sul "4·4·4").
 4. **Escreva a regra da coluna cheia:** "coluna cheia, ninguém puxa; quem ficou sem trabalho
- ajuda a terminar o que está lá." É o "parar a linha" da Toyota (A17).
+ ajuda a terminar o que está lá." É o "parar a linha" da Toyota.
 5. **Leia os três sinais toda semana** (material de referência): coluna mais cheia · cartão mais velho ·
  vazão (cartões que saíram). Pergunta: "Onde a fila se forma? Há quantos dias o mais velho está ali?"
 6. **Calibre na retrospectiva, nunca no meio do ciclo.** Gente ociosa → limite baixo demais.
  Cartões parados na etapa ou na fila antes dela → limite alto demais **ou** etapa invisível
- (crie a coluna, ex.: "Validação" do departamento X, A20). Decisão do time, registrada com data e motivo.
-7. **Contratar é a última saída**, e só depois de provar o gargalo (A19). Criar agente ou contratar requer os critérios e a autoridade definidos pela organização; nunca só "para aliviar fila".
+ (crie a coluna, ex.: "Validação" do departamento X). Decisão do time, registrada com data e motivo.
+7. **Contratar é a última saída**, e só depois de provar o gargalo. Criar agente ou contratar requer os critérios e a autoridade definidos pela organização; nunca só "para aliviar fila".
 
 ### Parte 2 — Política de urgência (cinco linhas, material de referência)
 
@@ -54,7 +50,7 @@ como decisão de calibragem na retrospectiva.
  reserva **2 vagas** na raia de urgência (uma por área, porque
  as duas áreas têm donos diferentes; revisar na retro do primeiro mês).
 11. **O que acontece com o pausado.** Ganha marca de pausa com motivo e data; volta na frente da
- fila quando a urgente sai. "Se alguém perguntar por que atrasou, você sabe" (A21).
+ fila quando a urgente sai. "Se alguém perguntar por que atrasou, você sabe".
 12. **Onde fica escrito.** No alto do quadro, à vista. Recuse política em mensagem escrita ou chat.
 13. **Escolha a mecânica:** cartão vermelho que pausa o item em curso **ou** raia inferior só
  para urgências (colunas iguais ou menos: fila → execução → feito). A raia permite contar.
@@ -62,16 +58,16 @@ como decisão de calibragem na retrospectiva.
 14. **Ligue o contador.** Por ciclo: quantas urgências entraram · o que tiraram do plano · quem foi
  avisado. Uma ou duas o ritmo absorve; metade do quadro em vermelho é sintoma → pauta da retro.
 
-### Parte 3 — Classe Crítica (modelo operacional do método, §9)
+### Parte 3 — Classe Crítica (modelo operacional do método)
 
 15. Neste modelo, toda demanda tem **classe de atendimento**: Crítica, Com prazo ou Normal. Crítica =
  "dano relevante acontecendo agora". O solicitante pode sugerir; quem valida e interrompe é o
  responsável pela área, uma política de incidente aprovada ou a Autoridade competente por Prioridade explícita.
-16. Se a Crítica ultrapassar o WIP, **registre qual trabalho foi deslocado** (§9). É o mesmo
+16. Se a Crítica ultrapassar o WIP, **registre qual trabalho foi deslocado**. É o mesmo
  "cartão pausado com marca" da aula, com nome do modelo.
 17. Pedido direto do responsável pela área entra na fila normal; só **Prioridade explícita** manda interromper,
- com o custo da troca registrado (§9–10). Mensagem escrita com comando no escopo do remetente é executada e
- arquivada; não vira urgência por si (Base do método: Passo 4 — Ritmo Ágil §6.5).
+ com o custo da troca registrado. Mensagem escrita com comando no escopo do remetente é executada e
+ arquivada; não vira urgência por si.
 
 ### Parte 4: antes de abrir vaga (ficha E06)
 
@@ -98,15 +94,15 @@ Complementa a regra Entrada das políticas do quadro (seção 1.6 do `template.m
 
 ## Regras do método que valem aqui
 
-- Nunca Kanban sem limite de WIP, inclusive dentro do ciclo. (A11, A21)
-- O limite não acerta de primeira; calibre observando; ajuste é decisão do time, na retro. (A20)
-- Coluna cheia: ninguém puxa; quem sobrou ajuda a terminar. Contratar é a última saída. (A17, A19, v6 05)
-- "Pare de começar, comece a terminar." (v6 05)
-- Política de urgência escrita antes, no alto do quadro: o que é, quem, quantas, pausado, onde. (A21, v6 06)
-- Conte as urgências por ciclo; muitas = causa a investigar. (v6 06)
+- Nunca Kanban sem limite de WIP, inclusive dentro do ciclo.
+- O limite não acerta de primeira; calibre observando; ajuste é decisão do time, na retro.
+- Coluna cheia: ninguém puxa; quem sobrou ajuda a terminar. Contratar é a última saída.
+- "Pare de começar, comece a terminar."
+- Política de urgência escrita antes, no alto do quadro: o que é, quem, quantas, pausado, onde.
+- Conte as urgências por ciclo; muitas = causa a investigar.
 - Urgência não elimina a definição de pronto. (modelo operacional §11)
-- "Você nunca mais vai fazer Kanban sem limite de WIP." (A21)
-- Antes de abrir vaga, pergunte se redistribuir, mudar o processo ou desenvolver alguém resolve. (A19; ficha E06)
+- "Você nunca mais vai fazer Kanban sem limite de WIP."
+- Antes de abrir vaga, pergunte se redistribuir, mudar o processo ou desenvolver alguém resolve. (ficha E06)
 - Cada tipo de pedido tem um canal oficial de entrada e um prazo de resposta combinado; o pedido que chega por outro caminho volta ao canal. (ficha F10)
 
 ## Saída
@@ -185,7 +181,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 ## Erros comuns
 
 - Limite em todas as colunas, inclusive fila e Feito (exemplo Norte-Sul "4·4·4").
-- Subir o limite porque "cabe mais" — esconde a etapa que trava (A20).
+- Subir o limite porque "cabe mais" — esconde a etapa que trava.
 - Mudar o limite no meio da semana, por pressão.
 - Urgência sem dono que chama: vira "tudo urgente".
 - Duas urgências ao mesmo tempo, sem pausar nada: o plano morre em silêncio.

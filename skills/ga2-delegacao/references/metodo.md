@@ -16,21 +16,19 @@ que a decisão é deles; demanda que volta ao líder em duas semanas; célula se
 
 ## Fonte no método
 
-- Base do método — Passo 6: Liderança de Times §2.8 (Management 3.0: Delegation Board / Poker), §2.10 (storming → Delegation Poker), §4.3 (campos v6 e ao vivo), §6.1–6.2 (aplicação à operação e a agentes), §8.1 (divergência 4 × 7 níveis).
-- Aulas: ao vivo M08 A09 (Management 3.0) e A11 (Tuckman); v6 pasta 07 aula 02 ("Management 3.0 e Quadro de Delegação", caso da Ana).
-- Templates: v6 Canvas Editável — Quadro de Delegação, v6, Passo 6; ao vivo Canvas Matriz Delegação, Kit M10 e slides GA — Aula — Matriz Delegação, M08; exemplo Matriz de Delegação preenchida, Kit de Implementação (referência bibliográfica).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## Os dois esquemas (documentados; esta referência adota o de 7)
 
-| | Ao vivo / M10 / Kit (4 níveis) | v6 / A09 / Management 3.0 (7 níveis) |
+| | Ao vivo / Kit (4 níveis) | v6 / Management 3.0 (7 níveis) |
 |---|---|---|
 | Colunas | N1 Decide Sozinho · N2 Consulta Equipe · N3 Consulta o Líder · N4 Líder Decide | 1 Dizer · 2 Vender · 3 Consultar · 4 Concordar · 5 Aconselhar · 6 Perguntar · 7 Delegar |
 | Autonomia do time | à **esquerda** (N1) | à **direita** (7) |
 | Faixas | — | Você decide (1–3) · Juntos (4) · O time decide (5–7) |
 | Regra de ajuste | "suba uma decisão de nível só quando o time errar nela" (Kit) | "cada um marca sozinho antes de comparar" (v6) |
 
-Leitura invertida e escala diferente entre a aula (A09, 7) e o template que o aluno baixa
-(M10, 4). A fonte registra a divergência: declare a versão usada; não presuma que as escalas foram unificadas.
+Leitura invertida e escala diferente entre a aula (7) e o template que o aluno baixa
+(4). A fonte registra a divergência: declare a versão usada; não presuma que as escalas foram unificadas.
 
 **Adotado nesta referência: 7 níveis**, com tradução de cada um:
 
@@ -58,7 +56,7 @@ Em vez de listar de memória os assuntos que voltam ao líder, comece pelos fato
 
 Cuidados: o levantamento lista fatos, não impressões, e não julga quem pediu. O tempo que a delegação liberar precisa de um destino relevante. Delegar exige que quem recebe tenha responsabilidade, acesso e verificação; evite transferir um problema para quem não tem condições de resolvê-lo.
 
-## Como conduzir (1 hora, v6 02)
+## Como conduzir (1 hora)
 
 1. **Liste os assuntos.** "Quais quatro assuntos fazem alguém vir te perguntar 'posso?'" Um por linha, **no verbo**: "responder reclamação fora do padrão". Recusa: assunto largo ("atendimento"); mais de 6 linhas na primeira rodada.
 2. **Cada um marca sozinho, calado** — inclusive o líder. Recusa: líder marcando primeiro em voz alta ("o time repete").
@@ -70,7 +68,7 @@ Cuidados: o levantamento lista fatos, não impressões, e não julga quem pediu.
 ## Aplicação aos agentes
 
 Para agente, delegação por nível não é boa prática, é enforcement: "gente intui limite;
-agente executa o que o prompt permitir" (Base do método — Passo 6 §6.2). Tradução dos níveis para uma operação com agentes; os papéis devem ter autoridade registrada, não presumida:
+agente executa o que o prompt permitir". Tradução dos níveis para uma operação com agentes; os papéis devem ter autoridade registrada, não presumida:
 
 | Nível | Quem decide | Onde está escrito | Exemplo |
 |---|---|---|---|
@@ -86,12 +84,12 @@ com fonte (arquivo, linha, hora, texto).
 
 ## Regras do método que valem aqui
 
-- Autonomia sem limite declarado não é autonomia, é armadilha. Empoderar = limite claro + devolver a decisão dentro dele. (M08 A09; v6 02)
-- O nível diz como a decisão acontece; o nome diz quem decide. (v6 02)
-- Cada um marca sozinho antes de comparar. (v6 02)
-- Storming não se abafa, se medeia: o acordo escrito vira a regra do norming. (M08 A11; v6 01)
+- Autonomia sem limite declarado não é autonomia, é armadilha. Empoderar = limite claro + devolver a decisão dentro dele.
+- O nível diz como a decisão acontece; o nome diz quem decide.
+- Cada um marca sozinho antes de comparar.
+- Storming não se abafa, se medeia: o acordo escrito vira a regra do norming.
 - Suba uma decisão de nível só quando o time errar nela — delegação se ajusta pela confiança. (Kit)
-- "Os melhores gestores são como magos: ajudam o herói, nunca fazem por ele." (M08 A09)
+- "Os melhores gestores são como magos: ajudam o herói, nunca fazem por ele."
 
 ## Saída
 

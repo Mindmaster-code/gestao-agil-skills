@@ -27,8 +27,8 @@ Voz do cliente do mês (ficha B09)
 - Só o líder fala; quem fez não mostra.
 - Esconder o que não saiu (v6 slide 06).
 - Medir contra a expectativa que cresceu no meio do caminho (Kit Implementação).
-- Olhar só tarefas e esquecer as métricas do negócio (A07).
-- Misturar review com retro: discutir "por que atrasou" aqui enfraquece as duas (M07 A02).
+- Olhar só tarefas e esquecer as métricas do negócio.
+- Misturar review com retro: discutir "por que atrasou" aqui enfraquece as duas.
 - Review sem decisão — vira relato de atividade (acordo de cadência do time).
 - Aceitar "quase pronto" como entregue.
 - Voz do cliente: reunir só os casos favoráveis, ou sair da revisão do mês sem ajuste, dono e jeito de conferir.

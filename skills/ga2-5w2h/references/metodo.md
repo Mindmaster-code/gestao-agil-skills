@@ -11,24 +11,23 @@ um passo e qualquer lista de ação que precise de dono e data. Entra antes: cau
 contramedidas (A3) ou a ação da retro (PDCA). Sai depois: execução (Do), acompanhamento
 (Check) e cartões no Kanban.
 
-Vive no **Passo 0** (conceito, M02 A07) e no **Passo 1** (lado direito do A3, M03 A08).
+Vive no **Passo 0** (conceito) e no **Passo 1** (lado direito do A3).
 
 ## Fonte no método
 
-- Passo 0 — Fundamentos: 5W2H (M02 A07), incluindo quem, quando, onde e quanto custa.
-- Passo 1 — Entender o Contexto: 5W2H no lado direito do A3 (M03 A08/A09; material de referência).
-- Passo 5 — Melhoria Contínua: exemplo da Ana.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Não há template oficial de 5W2H nas fontes citadas; a aula menciona quatro dos sete campos. O [template desta skill](template.md) é uma aplicação do método, com essa origem explicitada.
-- Ficha A06 (planejar e acompanhar orçamento e recursos) do Guia completo de rotinas de gestão e aula 9 (seção 6) do curso de rotinas, para a seção de orçamento.
+
 ## Ligação com o A3 e com as contramedidas
 
 | Pergunta | De onde vem no A3 | Onde a aula pede |
 |---|---|---|
-| Por quê | causa raiz (lado esquerdo) | contramedidas atacam a causa (M03 A08) |
+| Por quê | causa raiz (lado esquerdo) | contramedidas atacam a causa |
 | O quê | contramedida escolhida | plano de ação: "o quê · quem · quando" (material de referência) |
 | Quem · Quando | plano de ação | "sem isto não é plano" |
-| Como · Quanto | briefing do projeto | "como o projeto será feito", "quando e quanto custa" (M03 A09) |
-| Onde | contexto (lado esquerdo) / briefing | "descreva o ambiente onde o problema ocorre" (A05) |
+| Como · Quanto | briefing do projeto | "como o projeto será feito", "quando e quanto custa" |
+| Onde | contexto (lado esquerdo) / briefing | "descreva o ambiente onde o problema ocorre" |
 
 Regra desta adaptação: **o quê / quem / quando** são obrigatórios em toda linha; **por quê** vem da
 causa raiz; **como / onde / quanto** completam quando o plano vai rodar sem briefing. As sete
@@ -52,7 +51,7 @@ colunas são extensão do método.
  coluna Status/prova.
 10. Salvar; cada linha vira cartão no Kanban ou compromisso do plano do ciclo.
 
-## Orçamento: orçado, contratado e realizado (ficha A06)
+## Orçamento: orçado, contratado e realizado
 
 O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto" do 5W2H e um campo do briefing. Com o custo escrito em todas as iniciativas, a soma se compara com o orçamento ainda antes de aprovar. Uma vez por mês, de 45 a 90 minutos, compare o orçado, o contratado e o realizado. Dono: o responsável pelo orçamento da área, com o financeiro, os responsáveis pelos contratos e os donos das iniciativas. Fonte: ficha A06 e aula 9 do curso de rotinas.
 
@@ -72,9 +71,9 @@ O custo de cada iniciativa se escreve antes de ela começar: é a coluna "Quanto
 - "Sem isto não é plano: o quê · quem · quando." (material de referência)
 - "Um dono por demanda. Apoio não vira co-dono."
 - "Cobrança sem data não é cobrança." — linha sem data não é plano.
-- "Contramedidas atacam a causa raiz, não o sintoma." (M02 A07, regra 20 do Passo 5)
+- "Contramedidas atacam a causa raiz, não o sintoma."
 - "Um cartão, uma semana." Ação maior que isso é cortada antes de entrar.
-- O custo de cada iniciativa se escreve antes de ela começar, e uma vez por mês se compara o orçado, o contratado e o realizado. (aula 9; ficha A06)
+- O custo de cada iniciativa se escreve antes de ela começar, e uma vez por mês se compara o orçado, o contratado e o realizado. (aula 9; ficha)
 - Compromisso fora da alçada exige a aprovação do responsável financeiro.
 
 ## Saída
@@ -96,7 +95,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
 | `../assets/modelos/canvas-5w2h-lab.html` **(padrão)** | 5W2H — plano de ação · família prática aplicada | "no canvas do método" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

@@ -15,14 +15,12 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.13, §4.7, regras 15, 16 e 22 — M06 A07 (ao vivo); material de referência.
-- Base do método: Passo 5 — Melhoria Contínua §2.3, regra 3 — M07 A02/A03 (professor).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Templates: v6 «Canvas Editável — Revisão do Ciclo»;
- legado «M06 A07 — Canvas Sprint Review»;
  roteiro «Mod 05 — Roteiro de Review GA2 Editável»;
  individual folha individual «review-ciclo-ga2.pdf».
 - Exemplo do curso: Kit Implementação, bloco 5 (Distribuidora Norte-Sul).
-- Ficha B09 (ouvir clientes e revisar a experiência de entrega) do Guia completo de rotinas de gestão e aula 9 (seção 4) do curso de rotinas, para a seção da voz do cliente do mês.
 
 ## Os 5 formatos, consolidados em um
 
@@ -39,7 +37,7 @@ Na cadeia: A3 → OKR → Backlog 2D → Kanban → **Plano do ciclo → Review*
 | O que muda no próximo ciclo | próximo sprint | — | sim | próximo ciclo | o que levo |
 
 Variantes: o legado A07 não tem meta nem data; só o Roteiro Mod 05 traz "decisões
-necessárias"; o `--help` 10 é individual. A consolidação é :
+necessárias"; o `--help` 10 é individual. A consolidação é esta:
 o campo "Decisão" generaliza "aprovar, ajustar, cortar" do Roteiro para
 continua / para / corta / escala, que é o vocabulário de acordo de cadência do time regra 2.
 
@@ -78,11 +76,11 @@ No método, quem define valor é o cliente. Por isso quem recebe a entrega parti
 ## Regras do método que valem aqui
 
 - "Review mede contra a meta combinada, copiada sem maquiagem, e mostra funcionando, não em
- slide. Quem fez é quem mostra." (regra 15, A07 / material de referência)
+ slide. Quem fez é quem mostra." (regra 15, / material de referência)
 - "Nunca contra a expectativa que cresceu no meio do caminho." (Kit Implementação)
-- "Review olha os números do negócio, não só as tarefas." (regra 16, A03/A07)
+- "Review olha os números do negócio, não só as tarefas." (regra 16)
 - "A pergunta não é 'o que a gente fez' — é 'isso serve?'" (material de referência)
-- "Feedback negativo é o mais valioso." (M07 A02)
+- "Feedback negativo é o mais valioso."
 - Review produz decisão (continua, para, corta, escala), não relato de atividade
  (acordo de cadência do time, regra 2). Linha sem prova conta como não entregue (regra 4).
 - Quem recebe a entrega diz se serve, e uma vez por mês a voz do cliente inteira entra na conversa, sem escolher só os casos bons. (aula 9; ficha B09)

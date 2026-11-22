@@ -2,7 +2,7 @@
 # Decisão Projeto ou Fluxo — template
 
 Fonte dos campos: canvas v6 `Canvas Editavel - Decisao Projeto ou Fluxo.pdf` (5 campos + cabeçalho; textos do canvas transcritos nos campos abaixo); legado Mod 04 artefato 11 (nomes entre parênteses). Exemplo oficial: Ana, atendimento.
-Campo que a aula não cita vai marcado .
+Campo que a aula não cita vai marcado como extensão do método.
 
 ## Cabeçalho
 

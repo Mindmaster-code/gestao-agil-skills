@@ -2,7 +2,7 @@
 
 ## O que é e quando usar
 
-É o canvas que abre a versão ao vivo do curso (M06 A01 "Os Canvas de GA 2.0" e A02 "Canvas de
+É o canvas que abre a versão ao vivo do curso (aulas "Os Canvas de GA 2.0" e "Canvas de
 Planejamento"): **uma folha** que percorre, em nove blocos numerados, o que o método faz em dois
 passos. Blocos 1 a 5 são o lado esquerdo do A3 (contexto do desafio, situação atual, situação
 ideal, análise de gap, causa raiz). Blocos 6 a 9 são o planejamento OKR (lista inicial de
@@ -19,11 +19,7 @@ Briefing → Backlog 2D → Kanban.
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §4.1 (Canvas de Planejamento recapitulado em A02), §3 regra 15 (A02–A04 são recapitulação dos Passos 1–2), §8 item 13 (checklist A09 inclui o canvas).
-- Base do método: Passo 2 — Organizar o Trabalho §2.7 (variante Importância × Dificuldade sobre objetivos — M04 A09), §8.1.
-- inventário do acervo GA 2.0 (procedência bibliográfica) §3, linha "Canvas de Planejamento" (M06 A01/A02; template A/`CANVAS DO CURSO GA 2.0.pdf`; `Modelo-de-Canvas-de-Planejamento.docx`).
-- Templates oficiais (kit M10, M10 — Kit de Ferramentas, Templates, Canvas e Exemplos, seção Canvas e Templates): `Canva+Planejamento.pdf` (retrato, só os blocos 1–5 e 9); `CANVAS DO CURSO GA 2.0.pdf` (9 páginas; a p.1 traz os 9 blocos, inclusive 6–8); `Modelo-de-Canvas-de-Planejamento.docx` e `.ppt` (editáveis).
-- Aulas: M06 A01, A02 (ao vivo). Não existe na v6 (o caso da Ana vai direto do A3 ao OKR) — divergência D-16/Base do método: Passo 4 — Ritmo Ágil #15.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## Como conduzir
 
@@ -36,20 +32,20 @@ Ordem fixa: 1 → 9. Esquerda antes de direita, como no A3. Nada de KR antes da 
 5. **4 · Análise de gap.** Ideal − atual. Pergunta: "O buraco vale um canvas?" Se não muda dinheiro, número, reputação ou decisão, pare.
 6. **5 · Causa raiz.** 5 Porquês até processo ou regra; nunca nome de pessoa (`ga2-causa-raiz`).
 7. **6 · Lista inicial de objetivos.** Pergunta: "Quais objetivos resolveriam o problema?" Liste todos, sem filtro; objetivo é direção sem número.
-8. **7 · Matriz de priorização (importância × dificuldade).** Posicione cada objetivo: 1 Quick wins (alto valor, baixa dificuldade), 2 Estratégico (tem que ter), 3 Desejável (quando puder), 4 Distrações (não priorizar). "Normalmente a gente prioriza o 1 e o 2, e mais o número 1" (M04 A09). Recuse KR ou tarefa na matriz.
+8. **7 · Matriz de priorização (importância × dificuldade).** Posicione cada objetivo: 1 Quick wins (alto valor, baixa dificuldade), 2 Estratégico (tem que ter), 3 Desejável (quando puder), 4 Distrações (não priorizar). "Normalmente a gente prioriza o 1 e o 2, e mais o número 1". Recuse KR ou tarefa na matriz.
 9. **8 · Objetivos selecionados.** Os que entram no trimestre, cada um com descrição resumida. Um no primeiro ciclo.
 10. **9 · Resultados-chave.** Para o objetivo selecionado: **até 4 KRs** (o canvas pede "no máximo 4"), cada um de/para com prazo, e **duas iniciativas por KR**. Recuse KR que é entrega; recuse iniciativa que não diz qual KR move.
 11. **Teste final.** Lido de cima para baixo, alguém de fora entende o desafio, o número de hoje, a causa e o que vai ser medido? Se o caso já tem A3 e OKR, os números batem com eles?
 
 ## Regras do método que valem aqui
 
-- **A forma muda, a ordem não:** 1 a 9, esquerda para a direita. (M06 A02; regra do laboratório)
-- **Situação atual só com fato e número; ideal com número e prazo; gap quantificado.** (M03 A06)
-- **Causa é processo ou regra, nunca pessoa.** (M03 A05/A07)
-- **Objetivo é direção sem número; KR é número sem atividade.** (M04 A05/A06)
-- **Matriz de objetivos: prioriza 1 e 2, e mais o 1.** (M04 A09)
+- **A forma muda, a ordem não:** 1 a 9, esquerda para a direita. (regra do laboratório)
+- **Situação atual só com fato e número; ideal com número e prazo; gap quantificado.**
+- **Causa é processo ou regra, nunca pessoa.**
+- **Objetivo é direção sem número; KR é número sem atividade.**
+- **Matriz de objetivos: prioriza 1 e 2, e mais o 1.**
 - **No máximo 4 KRs por objetivo; duas iniciativas por KR.** (texto literal do canvas) — diverge do OKR Canvas do kit ("mínimo 2, máximo 5") e do laboratório ("até 3 para começar"). A divergência entre variantes permanece explícita; nesta folha vale o teto do seu canvas.
-- **Pedra grande primeiro.** O canvas termina na iniciativa; tarefa é do Backlog 2D. (M04 A02/A16)
+- **Pedra grande primeiro.** O canvas termina na iniciativa; tarefa é do Backlog 2D.
 
 ## Saída
 

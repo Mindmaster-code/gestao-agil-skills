@@ -1,9 +1,6 @@
 <!-- modelos: pop-kit.json -->
 # POP — Procedimento Operacional Padrão — template
 
-Fonte dos campos: canvas legado “Canvas POP” (M10) (texto literal das caixas entre aspas), aula
-e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica em aberto.
-
 ## Cabeçalho
 
 | Campo | Resposta |
@@ -86,7 +83,7 @@ e slides M04 A13, exemplo do Kit (POP-SEP-001). Campo que a aula não cita fica 
 |---|---|
 | | |
 
-## 11. Monitoramento (aula A13: "estabeleça um monitoramento contínuo para prevenir riscos"; sem caixa no canvas)
+## 11. Monitoramento (aula: "estabeleça um monitoramento contínuo para prevenir riscos"; sem caixa no canvas)
 
 | O que se olha | Quando | Quem |
 |---|---|---|

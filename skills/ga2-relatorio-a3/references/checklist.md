@@ -32,7 +32,7 @@
 
 - [ ] Plan: campos 1–6. Do: campo 7. Check: campos 8–9. Act: campo 10 — o Act gera mudança no próximo Plan ou vira padrão documentado.
 
-## Erros comuns (da aula A08, v6 aulas 02/05 e do Kit)
+## Erros comuns (da aula, e do Kit)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

@@ -10,6 +10,12 @@
 - Divergência registrada: a aula 7 lista as três saídas do teste do gargalo na ordem "mudar o processo, redistribuir o trabalho, desenvolver alguém", e o modelo do artefato as lista em outra ordem. Esta habilidade segue a aula e pede que as três sejam testadas, uma a uma, antes da vaga.
 - aplicação do método: a seção 3 do `template.md` (a seleção escrita como POP, com a comparação de candidatos pelos critérios) e o aviso de alçada; a aula pede o POP da seleção, e o modelo do artefato só traz os critérios.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Base do método: Passo 2 (Organizar o Trabalho) §2.10 e §3 regra 11 (POP, o procedimento operacional padrão: um processo que se repete ganha roteiro escrito).
+- Base do método: Passo 6 (Liderança de Times) §2.10 (estágios do time, de Tuckman): quem chega costuma devolver o grupo à formação, e o líder apresenta as metas e as pessoas.
+- Aulas: curso de rotinas do gestor ágil, aula 7 (o ciclo das pessoas), seções 1 a 4 e 9.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

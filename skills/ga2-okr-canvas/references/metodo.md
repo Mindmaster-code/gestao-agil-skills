@@ -13,12 +13,10 @@ a lista de iniciativas para a matriz e o check-in semanal na agenda.
 
 ## Fonte no método
 
-- Passo 2 — Organizar o Trabalho: conceito de OKR, regras, check-in e Checkpoint do Plano.
-- Aulas: M04 A05 (OKR), A06 (KR bem escrito), A07 (cascata), A08 (iniciativas), A09 (fluxo do canvas).
-- v6, módulo 03 — Organizar o Trabalho: aulas 02 (ponte A3→OKR), 03 (objetivo), 04 (KR), 05 (iniciativas), 06 (check-in), 09 (fechamento).
-- Templates: M10 — “Canvas OKR”; Artefato 06 — “Template OKR GA2 paisagem editável”; Artefato 01 — “Ponte A3 OKR GA2 editável”; Artefato 07 — “Checkpoint do Plano GA2 editável”.
-- Check-in: sem template oficial; o bloco desta skill deriva do roteiro v6 06.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Exemplo do curso: Kit Implementação — OKR Canvas (Norte-Sul).
+
 ## Como conduzir
 
 1. **Ponte A3 → OKR.** Pergunta: "qual problema do A3 este OKR precisa mover? qual causa vai
@@ -56,18 +54,18 @@ a lista de iniciativas para a matriz e o check-in semanal na agenda.
 
 ## Regras do método que valem aqui
 
-- **Pedra grande primeiro.** OKR antes de iniciativa, iniciativa antes de backlog (M04 A02, A16).
-- **Poucos OKR:** 1 a 3 objetivos; 2 a 5 KR por objetivo (M04 A05). No primeiro ciclo, 1 objetivo e até 3 KR (Kit, editável Mod 2).
-- **Objetivo é direção sem número; KR é número sem atividade** (apostila p. 8; v6 03/04).
-- **KR em formato de/para com prazo** (v6 04).
-- **Prefira medir resultado, não esforço** (v6 04). "Lançar 4 produtos" é KR; "criar reunião de inovação" é tarefa.
-- **Toda iniciativa aponta para um KR.** Se não move número, é ocupação (v6 05).
-- **OKR se deriva por escolha, não por ordem:** a área responde "como contribuo?", não copia o KR da empresa (M04 A07).
-- **OKR é público** (M04 A06).
-- **Nota do KR é conta, não achismo:** caminho andado ÷ caminho total, de 0 a 1. Em KR aspiracional, 0,7 é excelente (v6 06).
-- **Iniciativa pronta e número parado = aposta errada: troca a iniciativa, não o KR** (v6 06).
-- **OKR sem check-in semanal é OKR escrito, não feito** (v6 06).
-- **O plano só passa se responder "o que faço segunda de manhã?"** (v6 09).
+- **Pedra grande primeiro.** OKR antes de iniciativa, iniciativa antes de backlog.
+- **Poucos OKR:** 1 a 3 objetivos; 2 a 5 KR por objetivo. No primeiro ciclo, 1 objetivo e até 3 KR (Kit, editável Mod 2).
+- **Objetivo é direção sem número; KR é número sem atividade** (apostila p. 8; /04).
+- **KR em formato de/para com prazo**.
+- **Prefira medir resultado, não esforço**. "Lançar 4 produtos" é KR; "criar reunião de inovação" é tarefa.
+- **Toda iniciativa aponta para um KR.** Se não move número, é ocupação.
+- **OKR se deriva por escolha, não por ordem:** a área responde "como contribuo?", não copia o KR da empresa.
+- **OKR é público**.
+- **Nota do KR é conta, não achismo:** caminho andado ÷ caminho total, de 0 a 1. Em KR aspiracional, 0,7 é excelente.
+- **Iniciativa pronta e número parado = aposta errada: troca a iniciativa, não o KR**.
+- **OKR sem check-in semanal é OKR escrito, não feito**.
+- **O plano só passa se responder "o que faço segunda de manhã?"**.
 
 ## Saída
 
@@ -93,7 +91,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 | `../assets/modelos/canvas-ponte-a3-okr-b-01.html` | Ponte A3 → OKR (editável) · família b 01 | "no editável" | pronto |
 | `../assets/modelos/canvas-checkpoint-b-07.html` | Checkpoint do Plano (editável) · família b 07 | "no editável" | pronto |
 
-
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.
 Confira IDs, campos sem preencher, ausência de `{{` residual, conteúdo sem estouro e uma página quando o modelo exigir.
@@ -114,11 +111,11 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 ## Erros comuns
 
-- Objetivo que é tarefa ("implementar CRM") — o mais frequente (v6 03).
-- KR que é entrega ("criar o repositório") — é iniciativa (v6 04).
-- KR sem número de partida ou sem fonte: ninguém sabe a nota (v6 06).
+- Objetivo que é tarefa ("implementar CRM") — o mais frequente.
+- KR que é entrega ("criar o repositório") — é iniciativa.
+- KR sem número de partida ou sem fonte: ninguém sabe a nota.
 - Três colunas de objetivo preenchidas no primeiro trimestre (Kit).
-- OKR imposto de cima, copiado da empresa para a área (M04 A07).
+- OKR imposto de cima, copiado da empresa para a área.
 - Usar os exemplos de A07 e A09 como modelo de KR — são tarefas; use A06 e o Kit (nota metodológica: exemplos de KR do Passo 2).
 - Número de grupo sem rotular a empresa: cada empresa tem sua fonte e seu responsável pelo número.
 - Plano sem check-in na agenda: "separa quem faz OKR de quem só escreveu OKR".
@@ -127,4 +124,4 @@ No fluxo Markdown → HTML, gere da fonte atual; nos demais formatos, siga a con
 
 - Limite de KR: aula 2–5; editável Mod 2, Ficha e Kit 3; `Template+OKR+Canvas` 4. Adaptação desta skill: até 3 para começar, teto 5. Essa escolha não elimina as diferenças entre fontes.
 - Template `Mod 02/02-template-okr-ga2-paisagem` é defeituoso (só campo para KR 1). Use o `Mod 2/06-template-okr`.
-- Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é a partir do roteiro v6 06.
+- Check-in e Checkpoint só existem na v6; não há aula ao vivo nem template de check-in. O template desta skill (bloco 3) é a partir do roteiro.

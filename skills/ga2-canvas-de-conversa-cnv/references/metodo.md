@@ -29,8 +29,8 @@ poderia virar acusação.
 
 ## Fonte no método
 
-- Base do método — Passo 6: Liderança de Times §2.11 (CNV: definição, fórmulas literais, mão dupla), §2.6 (escalada da raiva: não decidir no calor), §3 regras 11–13, §4.4 (campos, exemplo da Ana, passo a passo), §6.1 ("Canvas de Conversa para carta difícil"), §8.18 (pedagogias opostas ao vivo × v6).
-- Aulas: ao vivo M08 A12 (Comunicação Não Violenta — manda escrever à mão a lista de sentimentos e necessidades; **sem template**); v6 pasta 07 aula 03 (caso da Ana: duas reclamações que chegaram na gerência antes dela).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Template de origem: v6, Passo 6, Canvas de Conversa CNV. Campos em `template.md`; modelo em branco distribuído nos assets.
 - aplicação prática para cobrança: campos descritos na tabela abaixo, sem depender de modelo interno de carta.
 
@@ -45,7 +45,7 @@ poderia virar acusação.
 | 4 · O pedido | claro, possível, com prazo, termina em pergunta; opcional | admite "não"? senão é exigência |
 | Conversa marcada em | dia e hora na agenda | "conversa difícil sem data marcada é conversa que não acontece" |
 
-Fórmula literal para falar (M08 A12): "Está acontecendo [observação], e eu sinto que isso tem
+Fórmula literal para falar: "Está acontecendo [observação], e eu sinto que isso tem
 gerado [sentimento], porque a necessidade de [X] não está sendo atendida. O que você acha de
 [pedido]?" Para ouvir: "Está acontecendo [observação]. O sentimento que eu observo é [X], pois
 está faltando [necessidade]. Eu gostaria de entender isso."
@@ -55,7 +55,7 @@ está faltando [necessidade]. Eu gostaria de entender isso."
 1. **Não escreva no calor.** Se a raiva escalou, "conte até dez", afaste-se, volte depois. Recusa: canvas escrito nos dois minutos depois da mensagem.
 2. **Com quem e sobre o quê.** Uma pessoa, um assunto. Recusa: dois assuntos ("um assunto por conversa").
 3. **O fato.** Pergunte: "o que aconteceu, como uma câmera veria, com data?" Escreva datas e números. Recusa: "você sempre", "você nunca", adjetivo, intenção atribuída.
-4. **O sentimento.** "O que isso gera em você?" Recusa: acusação com fantasia de sentimento ("sinto que você não confia em mim"). Se o aluno travar, mande escrever à mão a lista de sentimentos (orientação do professor, M08 A12).
+4. **O sentimento.** "O que isso gera em você?" Recusa: acusação com fantasia de sentimento ("sinto que você não confia em mim"). Se o aluno travar, mande escrever à mão a lista de sentimentos (orientação do professor).
 5. **A necessidade.** "O que está faltando para você?" Volte à pirâmide. Recusa: necessidade escrita como defeito do outro.
 6. **O pedido.** Concreto, com prazo, termina em pergunta, admite não. Recusa: exigência; pedido sem prazo; pedido que é punição.
 7. **Marque a conversa na agenda antes de fechar o canvas.** Recusa: canvas sem data.
@@ -63,12 +63,12 @@ está faltando [necessidade]. Eu gostaria de entender isso."
 
 ## Regras do método que valem aqui
 
-- Fato, não julgamento. "Você sempre" e "você nunca" não são observação. (M08 A12; v6 03)
-- Sentimento é seu; acusação com fantasia de sentimento não conta. (v6 03)
-- Pedido termina em pergunta e admite não. Pedido é diferente de exigência. (v6 03)
-- Conversa difícil sem data marcada é conversa que não acontece. (v6 03)
-- Não julgue nem decida no momento da raiva. (M08 A04, A07)
-- Um assunto por conversa. (v6 08)
+- Fato, não julgamento. "Você sempre" e "você nunca" não são observação.
+- Sentimento é seu; acusação com fantasia de sentimento não conta.
+- Pedido termina em pergunta e admite não. Pedido é diferente de exigência.
+- Conversa difícil sem data marcada é conversa que não acontece.
+- Não julgue nem decida no momento da raiva.
+- Um assunto por conversa.
 - Fale do fato e da necessidade — não do defeito do outro. (canvas 6.2)
 
 ## Aplicação à cobrança de trabalho

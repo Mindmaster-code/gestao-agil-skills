@@ -8,6 +8,11 @@
 - Template: não há canvas do curso para esta habilidade. As seções 1 a 5 do `template.md` reproduzem os campos dos modelos T03 e T12.
 - aplicação do método: a revisão da decisão em formato de tabela (seção 6) e a lista do halter do ciclo (seção 7); a aula descreve as duas práticas em texto, e os modelos não têm a tabela.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Base do método: Passo 2 (Organizar o Trabalho) §2.9 (briefing, onde a decisão sobre uma iniciativa fica registrada).
+- Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 3, 4, 5 e 8.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

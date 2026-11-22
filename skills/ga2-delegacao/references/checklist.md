@@ -1,6 +1,6 @@
 # Quadro de Delegação — bem feito e erros comuns
 
-## Bem feito (v6 02, v6 09, Kit)
+## Bem feito
 
 - [ ] Cada assunto está no verbo e cabe em uma decisão ("responder reclamação fora do padrão", não "atendimento").
 - [ ] Todo assunto tem **um** nível e **um** nome. Nenhuma célula com X sem nome. Nenhuma com dois nomes.

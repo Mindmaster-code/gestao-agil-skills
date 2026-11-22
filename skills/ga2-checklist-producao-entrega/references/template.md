@@ -1,10 +1,10 @@
 <!-- modelos de origem: dor-dod-lab.json -->
 # Checklist de produção e entrega — template (DoR / DoD)
 
-Três partes: (A) o checklist original de 9 etapas da aula M06 A09, como está no PDF; (B) o DoR
-do laboratório, derivado das etapas 1–4 e do contrato mínimo do modelo operacional (§5); (C) o DoD da
+Três partes: (A) o checklist original de 9 etapas da, como está no PDF; (B) o DoR
+do laboratório, derivado das etapas 1–4 e do contrato mínimo do modelo operacional; (C) o DoD da
 laboratório, derivado das etapas 5–8, do Canvas 7.2 e da regra "prova pelo caminho real". Campo que a
-aula não cita vem marcado .
+aula não cita vem marcado como extensão do método.
 
 ---
 
@@ -14,7 +14,7 @@ aula não cita vem marcado .
 | Dono (um nome) <!-- c:dono --> | |
 | Data <!-- c:data --> | |
 
-## A. Checklist de Planejamento e Execução — 9 etapas (M06 A09, texto do PDF)
+## A. Checklist de Planejamento e Execução — 9 etapas (texto do PDF)
 
 Use no fechamento de trimestre e na abertura de frente nova; não cartão a cartão.
 
@@ -30,7 +30,7 @@ Use no fechamento de trimestre e na abertura de frente nova; não cartão a cart
 | 8 Encerramento do sprint | status dos objetivos e KRs (perto, alcançado, superado, replanejar) | OKR Canvas | [ ] |
 | 9 Próximo planejamento | OKRs do próximo trimestre; atualizar backlog com lições | OKR Canvas, Backlog 2D | [ ] [ ] |
 
-Campos que o agente acrescenta ao usar : data da checagem ·
+Campos que o agente acrescenta ao usar: data da checagem ·
 responsável · item marcado/falhou · onde voltar.
 
 ### Checklist do ritmo — 6 perguntas (material de referência; nenhuma aceita "mais ou menos")
@@ -57,7 +57,7 @@ Cartão: P-__ · Dono: ______ · Checado por: ______ em __/__/____
 | 2 | Dono único (nome de pessoa) | etapa 4 "equipe com nome e função"; §5 | [ ] | |
 | 3 | Aceitante nomeado (ou verificação objetiva) | §5 | [ ] | |
 | 4 | "Pronto é" escrito — prova pelo caminho real | etapa 4 "metas e métricas"; 6 linhas | [ ] | |
-| 5 | Cabe em uma semana; quebrado em tarefas ≤ 1 dia | etapa 4 "sprint backlog"; v6 04 | [ ] | |
+| 5 | Cabe em uma semana; quebrado em tarefas ≤ 1 dia | etapa 4 "sprint backlog"; | [ ] | |
 | 6 | Compromisso: Comprometida (capacidade confirmada pelo diretor) | §9 | [ ] | |
 | 7 | Classe: Crítica / Com prazo / Normal; Data comprometida | §9 | [ ] | |
 | 8 | Gates mapeados de uma vez: ação sensível → decisor → proposta → data do pedido | §11; regra de ouro | [ ] | |
@@ -102,7 +102,6 @@ Cartão: P-__ · Dono: ______ · Aceitante: ______ · Checado em __/__/____ às 
 | Ritual (plano, review, retro) | arquivo existe em pasta do ciclo escolhido com os campos do canvas | caminho + versão; commit quando houver repositório |
 
 Resultado: [ ] Entregue (dono) · [ ] Aceito (Aceitante) · [ ] fica em "Em prova" com marca — falta: ______
-
 
 ## D. Vereditos (o canvas dos portões lê daqui)
 

@@ -10,6 +10,10 @@
 - Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; modelo do artefato, página 3 (transição de responsabilidade), para as duas seções novas `(aplicação do método)`.
 - Acréscimos do método, incorporados abaixo: dono por área; apoio não vira co-dono; responsável pelo processo não aceita o resultado; DoD, Aceitante e gate explícitos; um dono antes de executar; transferência exige aceite do novo dono; gate ≠ aceite. Registro de demanda em seis linhas: o que, por que, dono, pronto é, prazo, onde trava.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fichas E11 (revisar responsabilidades, reconhecimento e remuneração) e E12 (conduzir desligamento e transição de responsabilidades) do Guia completo de rotinas de gestão; aula 6 (seção 5) e aula 7 (seção 6) do curso de rotinas; roteiro de comunicação, cobertura e transição, página 3 (transição de responsabilidade), para as duas seções novas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

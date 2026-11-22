@@ -66,10 +66,10 @@ Limite por pessoa: __ cartões ao mesmo tempo.
 
 ### 2.1 Mecânica escolhida
 
-- [ ] cartão vermelho que pausa o item em curso (A21)
-- [ ] raia inferior "Urgência" com colunas: fila → execução → feito (A21; **padrão desta referência**)
+- [ ] cartão vermelho que pausa o item em curso
+- [ ] raia inferior "Urgência" com colunas: fila → execução → feito (**padrão desta referência**)
 
-Vagas na raia: __ .
+Vagas na raia: __.
 
 ### 2.2 Contador do ciclo (vai para a retro)
 
@@ -81,7 +81,7 @@ Regra de leitura: 1–2 por ciclo o ritmo absorve. Metade do quadro em vermelho 
 
 ---
 
-## 3. Classe de atendimento (modelo operacional do método, §9)
+## 3. Classe de atendimento (modelo operacional do método)
 
 Toda demanda recebe uma classe ao ficar Apta:
 

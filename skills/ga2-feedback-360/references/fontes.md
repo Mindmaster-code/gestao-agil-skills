@@ -5,6 +5,10 @@
 - Templates: v6 Feedback 360 e Roteiro, Passo 6, v6; ao vivo Canvas Feedback 360, Kit M10; exemplo Kit Feedback 360 preenchido, Kit de Implementação (referência bibliográfica) (Mariana).
 - Fichas E02 (revisar desempenho e alinhar sua evolução), D03 (dar feedback sobre comportamentos e entregas) e D04 (reconhecer contribuições e comportamentos úteis) do Guia completo de rotinas de gestão; aula 6 (seções 3 e 4) do curso de rotinas; modelos T08 (revisão de desempenho) e T06 (feedback e reconhecimento), para as três seções novas `(aplicação do método)`.
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fichas E02 (revisar desempenho e alinhar sua evolução), D03 (dar feedback sobre comportamentos e entregas) e D04 (reconhecer contribuições e comportamentos úteis) do Guia completo de rotinas de gestão; aula 6 (seções 3 e 4) do curso de rotinas; folha de revisão de desempenho (revisão de desempenho) e T06 (feedback e reconhecimento), para as três seções novas.
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

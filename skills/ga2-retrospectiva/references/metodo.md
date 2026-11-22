@@ -14,10 +14,9 @@ Na cadeia: Plano do ciclo → Review → **Retro** → PDCA / Quadro Kaizen → 
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.14, §4.8, regras 18, 19 e 22 — M06 A08 (ao vivo); material de referência.
-- Base do método: Passo 5 — Melhoria Contínua §2.4, §2.9 (filtro de ideias), regras 1, 2, 5, 8, 9 e 15 — M07 A02/A04 (professor); .
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Templates: v6 «Canvas Editável — Retrospectiva»;
- legado «M06 A08 — Canvas Retrospectiva»;
  «Mod 05 — Retrospectiva GA2 Editável»;
  individual folha individual «retrospectiva-ga2.pdf».
 
@@ -56,12 +55,12 @@ leitura da mesma folha olhando para trás. A regra de uma ação vence o `--help
 
 - "Processo, não produto; situação, não pessoa; começa pelo que foi bem; todo mundo escreve
  antes de falar; uma ação por ciclo com dono e prazo; a próxima retrô abre conferindo a ação
- da anterior." (regra 18, A08 / material de referência)
+ da anterior." (regra 18, / material de referência)
 - "Uma mudança por ciclo. Duas viram nenhuma." (material de referência) · "Se duas coisas mudam juntas,
  você perde a chance de saber qual delas funcionou."
-- "Não pule a retrospectiva. É a parte mais negligenciada do processo." (M07 A01)
+- "Não pule a retrospectiva. É a parte mais negligenciada do processo."
 - "O que funcionou vira padrão escrito onde o time trabalha."
-- "Problemas quase sempre têm causa raiz no processo, não nas pessoas." (M07 A12)
+- "Problemas quase sempre têm causa raiz no processo, não nas pessoas."
 - Retro produz uma melhoria só, com dono e data, registrada como PDCA (acordo de cadência do time, regra 3).
 
 ## Saída

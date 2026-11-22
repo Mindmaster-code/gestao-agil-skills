@@ -17,17 +17,17 @@ Uma demanda com seis campos mapeia objetivo, contexto, responsável, critério d
 
 ## Fonte no método
 
-- Passo 1 — Entender o Contexto: briefing ao vivo de cinco colunas (M03 A09/A10; Canvas 5.1), três tipos da v6 (aula 06 — Briefing da Iniciativa).
-- Passo 2 — Organizar o Trabalho: 3 Ps (M04 A10), briefings de projeto, processo e produto (M04 A11/A12/A14).
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Templates v6: “Canvas Editável — Briefing de Projeto”, “Briefing de Produto” e “Briefing de Processo”.
-- Ao vivo, M10: “Template Briefing do Projeto” (o que será feito, por que, quem, como, quando e quanto); Canvas Briefing de Projeto (5.1), Processo (5.2) e Produto (5.3).
 - Editáveis GA2 da família de caso: Artefato 05 — Briefing de Projeto; Artefato 09 — Briefing de Processo; Artefato 10 — Briefing de Produto. Os campos diferem das versões acima.
-- Exemplos do curso: Frozen Pizza (A10), Lucro Total (“Exemplo Canvas Briefing de Projeto”) e Norte-Sul (Kit Implementação: projeto, produto e processo).
+- Exemplos do curso: Frozen Pizza, Lucro Total (“Exemplo Canvas Briefing de Projeto”) e Norte-Sul (Kit Implementação: projeto, produto e processo).
 
 Canônico desta skill: **v6 (núcleo + destaque por tipo)**, com os campos do ao vivo
 (recursos, custo, linha do tempo, riscos, envolvidos) como bloco "Como, quando e quanto"
 — é onde mora o como/onde/quanto do 5W2H que o A3 não carrega. Família "de caso"
 dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), não se usa aqui.
+
 ## Como conduzir
 
 1. **Classifique (3 Ps).** Pergunta: "Isto termina com uma entrega única? Alguém usa e você evolui? É um jeito de trabalhar que se repete?" Na dúvida: "tem data de término?" Escreva o tipo e a justificativa em uma linha. Recuse preencher sem tipo.
@@ -48,12 +48,12 @@ dos editáveis fica como pré-A3 (diferença de finalidade entre famílias), nã
 
 ## Regras do método que valem aqui
 
-- **Classifique antes de detalhar.** Projeto, processo ou produto — briefing e backlog mudam. (M04 A10)
+- **Classifique antes de detalhar.** Projeto, processo ou produto — briefing e backlog mudam.
 - **Escolha o tipo antes de preencher:** entrega única = projeto; alguém usa e você evolui = produto; jeito que se repete = processo. (material de referência)
 - **Objetivo em uma frase de resultado; escopo diz o que fica de fora; um número que prova; uma página.** (material de referência, slide 10)
-- **Um briefing por projeto.** (M03 A09)
-- **Nome, líder, objetivo + OKR vinculado, sempre.** (M04 A11)
-- **Cabe numa página.** (material de referência; M03 A08)
+- **Um briefing por projeto.**
+- **Nome, líder, objetivo + OKR vinculado, sempre.**
+- **Cabe numa página.** (material de referência)
 - **Use depois do Canvas e do A3.** (Artefato 05)
 
 ## Saída
@@ -80,7 +80,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 | `../assets/modelos/canvas-briefing-projeto-v6.html` | Canvas Editável — Briefing de Projeto · família v6 | "no canvas v6" | pronto |
 | `../assets/modelos/canvas-briefing-produto-v6.html` | Canvas Editável — Briefing de Produto · família v6 | "no canvas v6" | pronto |
 | `../assets/modelos/canvas-briefing-processo-v6.html` | Canvas Editável — Briefing de Processo · família v6 | "no canvas v6" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

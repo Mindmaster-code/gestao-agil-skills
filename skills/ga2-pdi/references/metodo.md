@@ -16,14 +16,11 @@ saída, afogada ou com salário torto — "resolva isso primeiro".
 
 ## Fonte no método
 
-- Base do método — Passo 6: Liderança de Times §4.8 (os dois templates; passo a passo; "quatro jeitos de matar um PDI"), §4.6 (Mapa de Motivação), §6.1 ("PDI vira plano de evolução de skill"), §8.2 (divergência entre versões).
-- Aulas: v6 pasta 07 aula 06 (caso do Bruno) — única aula narrada. Ao vivo: sem transcrição; só slides GA Aula — PDI, M08 (10 páginas) e `Exemplo Canvas PDI.pdf` (Armando Neto).
-- Templates: v6 Canvas PDI, Passo 6, v6; ao vivo Canvas PDI, Kit M10; exemplo Kit PDI preenchido, Kit de Implementação (referência bibliográfica) (Carlos, líder de separação).
-- Fichas G08 (estudar e desenvolver competências profissionais) e E04 (conversar sobre carreira e perspectivas) do Guia completo de rotinas de gestão, para o PDI do próprio líder e o roteiro da conversa de carreira.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## As duas versões (documentadas; esta referência adota a v6)
 
-| | Ao vivo / M10 / Kit | v6 (artefato 6.5) — **adotada** |
+| | Ao vivo / Kit | v6 (artefato 6.5) — **adotada** |
 |---|---|---|
 | Cabeçalho | Nome · Empresa · Cargo · Data | Pessoa e momento (cargo, tempo de casa, o que está acontecendo) |
 | Direção | Objetivos de Carreira (curto 1 ano, médio 2–3, longo 5+) | Objetivo de desenvolvimento — frase de trabalho, não de carreira |
@@ -34,7 +31,7 @@ saída, afogada ou com salário torto — "resolva isso primeiro".
 Uso declarado quando o aluno pedir a ao vivo: carreira (horizonte de anos). A v6 é por
 ciclo (semanas). A fonte registra a diferença; não presuma unificação. Declare qual versão está sendo usada.
 
-## Como conduzir (v6 06: 20 min sozinho + 30 min com a pessoa)
+## Como conduzir (: 20 min sozinho + 30 min com a pessoa)
 
 1. **Confira as três travas.** "Ela está de saída? afogada? com salário torto?" Se sim, pare: PDI não resolve impedimento.
 2. **Pessoa e momento.** Cargo, tempo de casa e o fato de agora ("o Bruno ficou sozinho no time"). Recusa: cabeçalho sem o momento.
@@ -58,7 +55,7 @@ Serve ao líder que quer ampliar uma competência que limita ou amplia a contrib
 4. **Aplique em uma situação real e peça retorno** a quem viu. Se a fonte ou a técnica exceder a sua capacidade de avaliar, procure apoio especializado.
 5. **Registre a evolução e decida o próximo aprofundamento.** Revise a aplicação uma vez por mês. A quantidade de conteúdo consumido é só um dado de atividade; o que vale é a aplicação.
 
-Como os campos da v6 se encaixam: objetivo = o problema real; lacuna = a competência; 70% = a aplicação no caso real; 20% = o retorno de quem viu e a troca com um mentor, colega ou especialista; 10% = a fonte de estudo; marco = a revisão mensal; como vou acompanhar = os blocos marcados na agenda. Mentalidade de crescimento: "eu não sou bom nisso ainda" (M08 A13). Se a agenda não tem espaço para os blocos, o problema é capacidade e não competência: comece por `ga2-agenda-do-lider` e `ga2-delegacao`.
+Como os campos da v6 se encaixam: objetivo = o problema real; lacuna = a competência; 70% = a aplicação no caso real; 20% = o retorno de quem viu e a troca com um mentor, colega ou especialista; 10% = a fonte de estudo; marco = a revisão mensal; como vou acompanhar = os blocos marcados na agenda. Mentalidade de crescimento: "eu não sou bom nisso ainda". Se a agenda não tem espaço para os blocos, o problema é capacidade e não competência: comece por `ga2-agenda-do-lider` e `ga2-delegacao`.
 
 ## Roteiro da conversa de carreira (ficha E04)
 
@@ -75,13 +72,13 @@ Se não houver oportunidade disponível, diga com clareza e avalie alternativas 
 
 ## Regras do método que valem aqui
 
-- PDI se combina, não se entrega pronto. (v6 06)
-- Uma lacuna por ciclo; 70-20-10; com data. (v6 06)
-- Não faça PDI para quem está de saída, afogado ou com salário torto. (v6 06)
+- PDI se combina, não se entrega pronto.
+- Uma lacuna por ciclo; 70-20-10; com data.
+- Não faça PDI para quem está de saída, afogado ou com salário torto.
 - Crescer alavancando o forte rende mais que só tapar buraco. (canvas 6.5)
-- Elogie esforço e processo, nunca talento. (M08 A13; v6 07)
+- Elogie esforço e processo, nunca talento.
 - "Faça o PDI primeiro do líder que segura seu gargalo." (Kit)
-- "Ainda": lacuna é "não sou bom nisso ainda". (v6 07)
+- "Ainda": lacuna é "não sou bom nisso ainda".
 
 ## Aplicação a agentes: PDI de agente = plano de evolução de skill
 

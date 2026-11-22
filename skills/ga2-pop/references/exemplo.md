@@ -103,7 +103,6 @@ Pendente: Lucas, responsável pela operação, decidirá após o piloto e o test
 - [ ] Mariana registrará travas e corrigirá o documento antes de pedir aprovação.
 - [ ] Resultado ainda não existe; não declarar que alguém executou.
 
-
 ## 14. Cobertura e substituto (exemplo de outro ramo)
 
 Rosângela coordena o departamento pessoal de um escritório de contabilidade. A analista Telma fecha a folha de pagamento e vai tirar férias de 14/12/2026 a 02/01/2027. Rosângela fez a pergunta das férias. Resposta: Só em parte. O POP existe, mas ninguém além de Telma fechou a folha de verdade.

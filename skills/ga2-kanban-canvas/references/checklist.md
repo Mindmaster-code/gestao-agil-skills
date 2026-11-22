@@ -54,7 +54,7 @@ Dependência entre áreas (ficha B06)
 | Dar ré | cartão volta para A fazer quando trava | marca no cartão; fica parado e sinalizado |
 | Política na gaveta | regra num PDF que ninguém abre | três regras mínimas no topo do quadro |
 | Quadro decorativo | "está lá só para tirar foto" | "um quadro que mente é pior que quadro nenhum" |
-| Coluna invisível | cartões somem por dias numa validação externa | criar a coluna com WIP próprio (M06 A20) |
+| Coluna invisível | cartões somem por dias numa validação externa | criar a coluna com WIP próprio |
 | Dependência só na conversa | a outra área descobre o atraso na hora de precisar | escrever "depende de" e "entrega para" no cartão |
 | Encontro entre áreas sem poder de decisão | sai sem dono nem próxima verificação | chamar quem pode assumir compromisso pela área |
 

@@ -1,6 +1,6 @@
 # Painel do Gestor — bem feito e erros comuns
 
-## Bem feito (v6 02; M07 A07–A11)
+## Bem feito
 
 - [ ] Quem só lê a faixa de cima e fecha já sabe como foi o ciclo.
 - [ ] Um indicador por pilar (negócio, time, produtividade), escolhido pelas três perguntas do caiaque.

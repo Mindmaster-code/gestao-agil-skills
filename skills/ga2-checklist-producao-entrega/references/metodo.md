@@ -2,7 +2,7 @@
 
 ## O que é e quando usar
 
-A aula M06 A09 entrega um checklist de 9 etapas que percorre o método inteiro — do Canvas de
+A entrega um checklist de 9 etapas que percorre o método inteiro — do Canvas de
 Planejamento ao próximo trimestre. Esta skill corta o checklist em dois portões que o quadro usa
 todo dia:
 
@@ -17,14 +17,9 @@ DoD conta como não entregue).
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §4.12 (as 9 etapas e as 6 perguntas da v6), §3 regras 15, 17, §8 item 13.
-- Base do método: Passo 3 — Gestão Visual §4.7 (Quadro de Execução: "Concluídos — entrega **e evidência**"),
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  §4.8 (política de Entrada e de Pronto; DoD genérico + por tipo de tarefa, Canvas 7.2), §3 regra 10.
-- Aulas: M06 A09 (checklist), A07 (review mede contra a meta), M05 A07 e A11 (definir "pronto"
- por escrito); v6 pasta 05 aula 07 ("defina pronto uma vez, com o time, e cole ao lado da
- coluna Pronto") e aula 09 (checklist de 6 perguntas reproduzido em `template.md`).
-- Template: «M06 A09 — Checklist Planejamento e Execução Processo GA» (9 etapas, sem
- campos preenchíveis); «M10 — Canvas Kanban — Políticas» (DoD genérico e por tipo);
  «Mod 03 — Quadro de Execução GA2 Editável» (evidência na coluna Concluídos).
 - Diretriz prática: modelo operacional de demandas §5 (contrato mínimo para ficar Apta =
  o DoR do laboratório), §11 (DoD, Entregue, Aceita, gate); regra de entrega verificada "Entrega verificada";
@@ -36,15 +31,15 @@ DoD conta como não entregue).
 
 1. **Origem.** Pergunta: "De qual contramedida do A3 / iniciativa do OKR / entrega do Backlog 2D
  este cartão vem?" (etapas 1–3 do checklist). Recuse cartão órfão.
-2. **Dono único e Aceitante.** Pergunta: "Quem responde? Quem confere?" (§5, `ga2-quem-faz-o-que`).
+2. **Dono único e Aceitante.** Pergunta: "Quem responde? Quem confere?" (`ga2-quem-faz-o-que`).
 3. **"Pronto é" escrito.** Pergunta: "Como vamos saber que acabou, pelo caminho real?" URL,
  login, log, arquivo, mensagem. Recuse "quando estiver pronto" e "buildei local".
-4. **Tamanho.** Cabe em uma semana? Quebrado em tarefas de um dia? (etapa 4; v6 04).
-5. **Compromisso, classe e data** (§9): Comprometida? Crítica / Com prazo / Normal? Data comprometida?
+4. **Tamanho.** Cabe em uma semana? Quebrado em tarefas de um dia? (etapa 4).
+5. **Compromisso, classe e data**: Comprometida? Crítica / Com prazo / Normal? Data comprometida?
 6. **Gates mapeados de uma vez.** Pergunta: "Que ação sensível esta entrega pede? Quem autoriza?"
  Liste todos agora (regra de ouro: bloqueio que só o humano resolve se mapeia de uma vez).
 7. **Riscos com resposta** (etapa 4: "ações para riscos do briefing").
-8. **Contexto suficiente**: a pessoa que vai executar acha tudo sem perguntar (§5 "Pacote de Contexto").
+8. **Contexto suficiente**: a pessoa que vai executar acha tudo sem perguntar (o "Pacote de Contexto").
 9. **Capacidade**: o dono está abaixo do WIP (3)? Se não, o cartão espera ou outro cede.
 
 Tudo marcado → cartão vai para "Em execução". Falta algo → volta a "Em preparação" com o que falta escrito.
@@ -58,8 +53,8 @@ Tudo marcado → cartão vai para "Em execução". Falta algo → volta a "Em pr
 12. **Checklist por tipo de tarefa** (Canvas 7.2): veja `template.md` — código/deploy, conteúdo
  de aula, campanha, relatório/número, carta/cobrança, decisão.
 13. **Métrica de negócio olhada** (etapa 6): o número que a entrega deveria mover foi lido, com
- empresa rotulada (uma empresa ≠ outra empresa). Demanda cumprida ≠ objetivo atingido (§12) — registre os dois.
-14. **Gate da DoD aprovado** (§11): nenhuma entrega com gate exigido pendente.
+ empresa rotulada (uma empresa ≠ outra empresa). Demanda cumprida ≠ objetivo atingido — registre os dois.
+14. **Gate da DoD aprovado**: nenhuma entrega com gate exigido pendente.
 15. **Registro durável**: acompanhamento/diário/arquivo atualizado, versão registrada e resposta enviada a quem pediu. Use commit quando houver repositório. "Ritual que não produziu arquivo não aconteceu."
 16. **Verbo honesto**: "validado em produção às HH:MM" / "código alterado, não validado em
  runtime". Nunca "feito" sem verificar.
@@ -68,13 +63,13 @@ Tudo marcado → cartão vai para "Em execução". Falta algo → volta a "Em pr
 
 ## Regras do método que valem aqui
 
-- Defina "pronto" por escrito, uma vez, com o time, e cole ao lado da coluna Pronto. (M05 A07, v6 07)
+- Defina "pronto" por escrito, uma vez, com o time, e cole ao lado da coluna Pronto.
 - Concluído = entrega **e evidência**. (artefato 04)
-- Review mede contra a meta combinada, sem maquiagem; mostra funcionando, não em slide. (A07, v6 07)
+- Review mede contra a meta combinada, sem maquiagem; mostra funcionando, não em slide.
 - DoD genérico + DoD por tipo de tarefa. (Canvas 7.2)
-- Checklist da v6: nenhuma pergunta aceita "mais ou menos". (v6 09)
+- Checklist da v6: nenhuma pergunta aceita "mais ou menos".
 - Diretriz prática: toda demanda tem DoD e Aceitante antes de executar; nenhuma é Entregue com gate pendente;
- urgência não elimina DoD. (§1, §11)
+ urgência não elimina DoD.
 - Diretriz prática: "pronto" só pelo caminho real; linha sem prova conta como não entregue. (regra de entrega verificada, `cadencia.md` regra 4)
 
 ## Saída
@@ -83,7 +78,7 @@ Os nomes abaixo são sugestões de organização, não dependências de reposit�
 
 - DoR e DoD colados no quadro: seção "Políticas" de registro do portfólio na pasta do caso (portfólio) ou de
  quadro Kanban na pasta do caso; DoD por tipo em checklist por tipo na pasta do caso
- .
+.
 - No cartão: campo "Pronto é" (DoR) e campo "Prova" (DoD) preenchidos.
 - Resultado da checagem: Revisão do Ciclo na pasta do caso (linha prometido × entregue × prova).
 - Depois: cartão sem DoR volta a Em preparação; cartão sem DoD fica em "Em prova" com marca, sem
@@ -157,7 +152,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Gate descoberto no dia da entrega (um por vez) em vez de mapeado no DoR.
 - "Buildei local / deveria funcionar" como prova.
 - Prova sem hora e sem caminho: "testei e funciona".
-- Medir só tarefas e esquecer a meta do produto (A03, A07).
+- Medir só tarefas e esquecer a meta do produto.
 - Entregar com gate exigido ainda pendente.
 - Aceite pelo próprio executor, ou "GO" local tomado por aceite.
 - Entrega sem arquivo, sem versão registrada, sem resposta a quem pediu: aconteceu só na memória.

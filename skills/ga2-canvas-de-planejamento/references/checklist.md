@@ -1,7 +1,5 @@
 # Canvas de Planejamento — checklist de "bem feito" e erros comuns
 
-Fonte: M06 A01/A02 (ao vivo), M04 A09 (matriz de objetivos), texto literal dos canvas do kit M10.
-
 ## Bem feito (todos "sim" antes de soltar)
 
 **Cabeçalho**

@@ -1,6 +1,6 @@
 # Feedback 360 — bem feito e erros comuns
 
-## Bem feito (v6 08; slides ao vivo; Kit)
+## Bem feito (slides ao vivo; Kit)
 
 - [ ] Confiança conferida antes: time despreparado fica nas três perguntas, sem nota e sem ranking.
 - [ ] 4 a 6 pessoas de lados diferentes: pelo menos um superior, um par, um da equipe, um de outra área ou cliente, e a autoavaliação.
@@ -35,7 +35,7 @@ Feedback na hora e reconhecimento (fichas D03 e D04)
 - Feedback Canvas completo (competências, nível, pontos fracos) em time com confiança baixa.
 - Rebater o que veio ("mas veja bem…"); o líder não explica por que a equipe está errada.
 - Rótulo no lugar de fato; elogio de talento no lugar de processo.
-- Nome de pessoa colado em prompt de IA para "consolidar" as respostas (regra 7 do Passo 7).
+- Nome de pessoa colado em prompt de IA para "consolidar" as respostas.
 - Revisão de desempenho com conclusão forte sobre expectativa que nunca foi clara, ou misturada com decisão formal.
 - Feedback na hora com combinado pronto, ou com intenção atribuída no lugar do fato com data.
 - Reconhecimento de talento, ou que premia o excesso de horas.

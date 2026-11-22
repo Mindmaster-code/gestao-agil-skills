@@ -18,9 +18,8 @@ Não dispara para: escrever o comunicado da mudança (`ga2-reunioes-e-comunicado
 
 ## Fonte no método
 
-- Base do método: Passo 6 (Liderança de Times) §2.10 (cinco estágios do time, de Tuckman), §2.13 (gestão da confiança), §3 regras 10, 14, 15, 16 e 27, §4.5 (Termômetro da Confiança), §4.7 (Estágio do Time) e §5 (rituais e cadência).
-- Aulas: curso de rotinas do gestor ágil, aula 8 (liderar a mudança e comunicar), seções 3, 4, 5 e 8; aula 7 (o ciclo das pessoas), seção 4, sobre o grupo que volta à formação quando alguém chega.
-- Fichas: Guia completo de rotinas de gestão, ficha D09 (acompanhar a equipe durante mudanças). A ficha E08 usa a leitura do estágio na integração.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Canvas do curso, em PDF e fora deste pacote: Estágio do Time (Tuckman), artefato 6.4; Termômetro da Confiança do Time, a ficha do time e a folha do gestor.
 - Template: o `template.md` reproduz os campos desses canvas e acrescenta o plano de transição da mudança, a partir da ficha D09.
 

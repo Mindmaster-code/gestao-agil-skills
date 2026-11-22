@@ -16,11 +16,11 @@ Nesta adaptação, o relatório de incidente registra os cinco níveis e a regra
 
 ## Fonte no método
 
-- Passo 1 — Entender o Contexto: 5 Porquês e exemplo do farol (M03 A05); três ferramentas (M03 A07); cinco níveis e armadilhas (material de referência).
-- Passo 0 — Fundamentos: regra “métrica que cai vira A3, nunca cobrança”.
-- Template oficial: Artefato 06 — “Causa raiz — 5 Porquês GA2 editável”: Problema observado · 5 Porquês · Evidências · Causa prioritária.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - material de referência — “Causa Raiz 5 Porquês”.
 - Ishikawa e Pareto não têm template oficial nas fontes citadas. Os blocos desta skill são adaptações metodológicas identificadas como tal.
+
 ## Como conduzir
 
 1. **Escreva o problema observado** em uma frase, com o número do lado esquerdo. Recuse problema sem fato ("a fila está grande" → "120 chamados abertos, resposta em 72h").
@@ -36,12 +36,12 @@ Nesta adaptação, o relatório de incidente registra os cinco níveis e a regra
 
 ## Regras do método que valem aqui
 
-- **Pergunte por quê pelo menos cinco vezes**, sempre sobre a resposta anterior, até uma causa de sistema. Parar cedo = tratar sintoma. (M03 A05, A07; material de referência)
+- **Pergunte por quê pelo menos cinco vezes**, sempre sobre a resposta anterior, até uma causa de sistema. Parar cedo = tratar sintoma. (material de referência)
 - **Cada porquê precisa de evidência** — Genchi Genbutsu: "como eu sei que isso é verdade?" (material de referência)
 - **Causa é processo ou regra, nunca pessoa.** "No momento que você diz 'fulano errou', a investigação morre." (material de referência, slide 9)
-- **Várias causas = Ishikawa + 5 Porquês em cada ramo. Pareto escolhe qual atacar primeiro.** (M03 A07; material de referência)
+- **Várias causas = Ishikawa + 5 Porquês em cada ramo. Pareto escolhe qual atacar primeiro.** (material de referência)
 - **A causa raiz não é o farol — é a falta de gestão do trabalho.** (apostila p.7)
-- **Métrica que cai vira A3, nunca cobrança.** (v6 00, slide 13)
+- **Métrica que cai vira A3, nunca cobrança.** (slide 13)
 - **Cinco armadilhas:** parar cedo; pular nível; culpar pessoa; responder sem evidência; achar que há só uma causa. (material de referência)
 
 ## Saída
@@ -64,7 +64,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 |---|---|---|---|
 | `../assets/modelos/canvas-cinco-porques-b-06.html` **(padrão)** | Causa raiz — 5 Porquês (editável) · família b 06 | "no editável" | pronto |
 | `../assets/modelos/canvas-ishikawa-lab.html` | Ishikawa — espinha de peixe (laboratório) · família laboratorio | "no canvas do laboratório" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

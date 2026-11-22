@@ -14,11 +14,8 @@ Não dispara para: a diária (`ga2-gestao-diaria`), a revisão do ciclo (`ga2-re
 
 ## Fonte no método
 
-- Base do método: Passo 4 (Ritmo Ágil) §5 (rituais e cadência: o teto de duração de cada ritual) e §2.8, §2.13 e §2.14 (diária, revisão e retrospectiva).
-- Base do método: Passo 7 (Ferramentas, IA e Painel do Gestor) §5 (reunião de resultado, de 15 minutos).
-- Base do método: Passo 3 (Gestão Visual) §2.1 e §2.2 (tornar visível o que a equipe precisa para decidir; entendimento compartilhado não é documento compartilhado).
-- Aulas: curso de rotinas do gestor ágil, aula 5 (decisões, riscos e reuniões que valem o custo), seções 1, 2 e 8; aula 8 (liderar a mudança e comunicar), seções 1, 2, 3, 5 e 8.
-- Fichas: Guia completo de rotinas de gestão, fichas B07 (preparar, conduzir e revisar reuniões) e B08 (comunicar decisões, mudanças e orientações). A ficha D09 liga a leitura do estágio do time.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Modelos: T16 (Preparação e registro de reunião) e T13 (Comunicação, cobertura e transição), página da comunicação.
 - Template: não há canvas do curso. O `template.md` reproduz os campos dos roteiro de reunião e T13 e acrescenta a revisão mensal das reuniões que se repetem.
 

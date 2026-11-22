@@ -7,6 +7,11 @@ SKILLS = ROOT / "skills"
 ABERTURA = "Antes de montar, pergunte o que faltar. Não invente dados."
 MARCAS_INTERNAS = (
     r"\bv6\s*(?:aula|a)\s*\d+",
+    r"\bv6[\s,/]{0,3}(?:aulas?|a)\s*\d+",
+    r"\bM\d{2}\s*A\d{2}",
+    r"\(\s*§\s?\d",
+    r"\bL-\d{2}\b",
+    r"\bregras?\s+\d+(?:\s*[–-]\s*\d+)?\s+do\s+Passo",
     r"\((?:adaptação|acréscimo)",
     r"\b(?:adaptação|acréscimo)\s+do\s+(?:método|laboratório)",
     r"\bmodelo\s+T\d*",
@@ -24,11 +29,8 @@ def arquivos_carregados(skill: Path) -> list[Path]:
 
 
 def test_skills_de_venda_perguntam_e_nao_expoem_marcas_internas() -> None:
-    skills = sorted(
-        [path for path in SKILLS.glob("ga2-*") if path.name != "ga2-5s"]
-        + [SKILLS / "agenda-visual"]
-    )
-    assert len(skills) == 40
+    skills = sorted(list(SKILLS.glob("ga2-*")) + [SKILLS / "agenda-visual"])
+    assert len(skills) == 41
 
     for skill in skills:
         conteudo = (skill / "SKILL.md").read_text(encoding="utf-8")

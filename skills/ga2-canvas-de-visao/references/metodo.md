@@ -12,16 +12,17 @@ comunicado ao time, e a lista do que a empresa ou frente **não** vai fazer. Cad
 **Canvas de Visão → A3 → Briefing → OKR → Backlog 2D → Kanban.**
 
 Duas versões: **curta** (Artefato 02, para uma frente ou um caso — 5 campos) e **completa**
-(M10, para empresa ou área — 7 campos). Escolha antes de preencher.
+(para empresa ou área — 7 campos). Escolha antes de preencher.
 
 ## Fonte no método
 
-- Passo 1 — Entender o Contexto: Norte estratégico (M03 A03), Canvas (M03 A04); regras de visão antes das metas, diagnóstico honesto e comunicação.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Apostila do Passo 1, p.4–6: Canvas como primeiro documento do projeto.
-- Template completo: M10 — Kit de Ferramentas, Templates, Canvas e Exemplos, “Canvas Visão”.
 - Template curto: Artefato 02 — “Canvas de Visão curto GA2 editável”.
 - Exemplo do curso: Kit Implementação, Canvas de Visão da Norte-Sul.
 - Diferenças entre versões: o Canvas não existe na v6; a versão curta é de caso, não de empresa.
+
 ## Como conduzir
 
 Ordem da aula A04: **hoje → passado → tendências → futuro → como chegar → frase**.
@@ -41,10 +42,10 @@ Norte"; o passo 6 vira "Primeiro passo"; o resto é opcional.
 
 ## Regras do método que valem aqui
 
-- **Visão antes de meta.** Sem canvas, OKR e projeto não têm âncora. (M03 A04; apostila p.6)
-- **Comece pela situação atual e seja honesto:** nem minimizar problema nem exagerar sucesso. (M03 A04, A06)
-- **A visão direciona especialmente o que vocês não farão.** (M03 A03)
-- **Comunique a visão com frequência**, até para sócios, fornecedores e clientes. (M03 A04)
+- **Visão antes de meta.** Sem canvas, OKR e projeto não têm âncora. (apostila p.6)
+- **Comece pela situação atual e seja honesto:** nem minimizar problema nem exagerar sucesso.
+- **A visão direciona especialmente o que vocês não farão.**
+- **Comunique a visão com frequência**, até para sócios, fornecedores e clientes.
 - **Horizonte de 3, 5 ou 10 anos**; revisitar uma vez por ano. (apostila p.6)
 - **Cabe numa página.** A frase cabe numa linha.
 
@@ -67,7 +68,6 @@ Modelos para HTML/canvas quando essa for a entrega escolhida:
 | Modelo | Origem | Pedido que o escolhe | Estado |
 |---|---|---|---|
 | `../assets/modelos/canvas-visao-kit-01.html` **(padrão)** | Canvas de Visão · família kit 1 | "no canvas do kit" | pronto |
-
 
 Use uma cópia do modelo de documento em `../assets/modelos/documento.html`. Para o canvas solicitado, copie o modelo correspondente e preencha os campos, preservando IDs e âncoras `<!-- c:id -->`.
 Consulte `../assets/modelos/CAMPOS.md` para os campos; listas em `div[data-campo]` com `class="postits"` recebem um `div.postit` por item. Não altere o modelo original.

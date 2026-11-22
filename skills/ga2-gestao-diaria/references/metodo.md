@@ -14,16 +14,13 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 
 ## Fonte no método
 
-- Base do método: Passo 4 — Ritmo Ágil §2.8 (Daily Scrum), §3 regras 7, 8, 12, 22, §4.9 (campos — sem
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
  template de equipe), §5 (linha "Reunião diária"), §6 item 3 (diária entre agentes), §8 itens 11 e 16.
-- Base do método: Passo 3 — Gestão Visual §5 (daily em frente ao quadro, da direita para a esquerda).
-- Aulas: M06 A14 (Reunião Diária), A15 (cópia da A14, "Gestão Diária na Prática"), A09
- (atualizar o Kanban todo dia); v6 pasta 05 aula 04.
 - Template: só individual — folha individual «gestao-diaria-ga2.pdf» (artefato 09: semana
  de · por dia SEG–SEX: o que avancei · foco de hoje · o que me trava). Equipe: sem template;
  os campos desta skill são construção deste pacote a partir de A14 e material de referência.
 - Diretriz prática: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
-- Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal (passos 16 a 26).
 
 ## Como conduzir
 
@@ -31,14 +28,14 @@ sessão, e a saída é cobrança por escrito, com data, quando um cartão está 
 
 1. **Fixe o ritual uma vez:** horário, lugar (ou link), facilitador, quadro que será olhado,
  teto de 15 min. Pergunta: "A que horas, onde, em frente a qual quadro?" Recuse "quando der".
-2. **Meta do ciclo no alto.** Leia em voz alta (30 s) para que todos lembrem o porquê (A14).
+2. **Meta do ciclo no alto.** Leia em voz alta (30 s) para que todos lembrem o porquê.
 3. **Percorra o quadro da direita para a esquerda** (Passo 3 §5): primeiro o que está quase
  pronto, depois o que está no limite, depois o que avançou.
 4. **Três perguntas por pessoa, apontando o cartão:** o que entreguei desde ontem · o que vou
  puxar hoje · o que me trava. Recuse narrar a agenda; fala do cartão, não do dia.
 5. **Impedimento vira lista, não debate.** Anote: o quê · dono · até quando. Resolva depois,
  fora da diária, só com quem precisa (material de referência). Recuse resolver ali ("vira 40 minutos").
-6. **Mova os cartões durante a reunião** (A09: atualizar todo dia). Marque bloqueio e idade.
+6. **Mova os cartões durante a reunião** (: atualizar todo dia). Marque bloqueio e idade.
 7. **Registre o tempo real.** 15 min é teto; 7 min é bom. Se passou, a reunião virou relatório
  ou debate — pauta da retro.
 8. **Quem participa:** quem trabalha nos itens. SM e PO (quem cuida do processo e quem dá o
@@ -84,13 +81,13 @@ Como o modo se liga ao resto: na folha individual (artefato 09), o fechamento pr
 ## Regras do método que valem aqui
 
 - 15 minutos é teto, não meta; mesmo horário, mesmo lugar, em frente ao quadro; fala do cartão,
- não da agenda. (A14, v6 04)
-- Diária não é prestação de contas ao chefe; é alinhamento entre pares. (v6 04)
-- Problema levantado se anota e se resolve depois, só com quem precisa. (A14, v6 04)
-- Atualize o quadro todo dia, antes ou durante a diária. Atrasar cria situação falsa. (A09)
-- Diária sem meta é status disfarçado. (v6 09)
-- "Um dia parado é 20% do ciclo." (v6 04)
-- Equipes sem diária têm reunião o dia inteiro. (A14)
+ não da agenda.
+- Diária não é prestação de contas ao chefe; é alinhamento entre pares.
+- Problema levantado se anota e se resolve depois, só com quem precisa.
+- Atualize o quadro todo dia, antes ou durante a diária. Atrasar cria situação falsa.
+- Diária sem meta é status disfarçado.
+- "Um dia parado é 20% do ciclo."
+- Equipes sem diária têm reunião o dia inteiro.
 - Diretriz prática: cartão parado ≥3 dias úteis → cobrança por escrito; ≥10 dias → escala ao responsável pela área. (registro da carteira de iniciativas na pasta do caso)
 
 ## Saída
@@ -174,7 +171,7 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de [entrega-editavel.m
 - Entrar no problema: a diária vira reunião de 40 min.
 - Narrar a agenda inteira em vez de apontar o cartão.
 - Diária sem meta no alto: status disfarçado.
-- Atualizar o quadro em lote na sexta: situação falsa a semana toda (A09).
+- Atualizar o quadro em lote na sexta: situação falsa a semana toda.
 - Impedimento anotado sem dono nem data: some até a review.
 - Agente: ler tudo (21 cartões, todos os resumos) e não cobrar nada — "Kanban no limbo" de quem conduz o método.
 - Agente: cobrar cinco cartões num dia; uma cobrança por dia, a melhor.

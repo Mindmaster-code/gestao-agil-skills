@@ -17,14 +17,11 @@ impõe funciona para quem é cobrado.
 
 ## Fonte no método
 
-- Base do método — Passo 6: Liderança de Times §2.15 (feedback: quatro frases, quatro regras, pedir antes de dar), §4.9 (as duas versões e exemplos), §6.1 (feedback 360 de quem conduz o método), §8.3 (divergência).
-- Aulas: v6 pasta 07 aula 08 (caso da Ana: seis pessoas, padrão "combina na revisão e na segunda vem diferente"). Ao vivo: sem transcrição; slides GA — Aula Canvas Feedback 360, M08 (7 páginas) e `Exemplo Canvas Feedback 360.pdf` (Armando Júnior). A09 cita o Feedback Canvas do Appelo (sem template).
-- Templates: v6 Feedback 360 e Roteiro, Passo 6, v6; ao vivo Canvas Feedback 360, Kit M10; exemplo Kit Feedback 360 preenchido, Kit de Implementação (referência bibliográfica) (Mariana).
-- Fichas E02 (revisar desempenho e alinhar sua evolução), D03 (dar feedback sobre comportamentos e entregas) e D04 (reconhecer contribuições e comportamentos úteis) do Guia completo de rotinas de gestão; aula 6 (seções 3 e 4) do curso de rotinas; folha de revisão de desempenho (revisão de desempenho) e T06 (feedback e reconhecimento), para as três seções novas.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
 
 ## As duas versões (esta referência usa a v6 com as quatro origens do ao vivo como guia de quem perguntar)
 
-| | Ao vivo / M10 / Kit | v6 (artefato 6.6) |
+| | Ao vivo / Kit | v6 (artefato 6.6) |
 |---|---|---|
 | Sobre quem | qualquer avaliado (cabeçalho NOME) | o líder, sobre si |
 | Origens | fixas: Superiores · Pares · Equipe · Auto-avaliação, cada uma com avaliador e data | 4–6 pessoas livres de perspectivas diferentes (líder, par, liderado, alguém de outra área, um cliente) |
@@ -49,12 +46,12 @@ perguntar "só a quem gosta de você".
 
 ## Regras do método que valem aqui
 
-- Padrão é o que duas ou mais pessoas disseram. (v6 08)
-- Quem pede feedback e não faz nada não recebe da segunda vez. (v6 08)
-- Feedback completo (Feedback Canvas) só para time preparado; confiança baixa começa pelas três perguntas. (M08 A09; v6 08)
-- Fato com data, não rótulo; elogie processo, nunca talento; pergunte antes de concluir. (v6 08)
-- O líder não explica por que a equipe está errada. (v6 04)
-- Dois focos, não sete, com data. (v6 08)
+- Padrão é o que duas ou mais pessoas disseram.
+- Quem pede feedback e não faz nada não recebe da segunda vez.
+- Feedback completo (Feedback Canvas) só para time preparado; confiança baixa começa pelas três perguntas.
+- Fato com data, não rótulo; elogie processo, nunca talento; pergunte antes de concluir.
+- O líder não explica por que a equipe está errada.
+- Dois focos, não sete, com data.
 - Na revisão de desempenho, dois focos com prazo, acompanhados até a próxima revisão. Se a expectativa não estava clara, corrija o acordo antes de concluir. (aula 6; ficha E02)
 - Feedback na hora é em particular, perto do fato, em quatro partes: fato com data, efeito, pergunta e combinado. (aula 6; ficha D03)
 - Reconhecimento fala do esforço e do processo, com o fato e o efeito. (Passo 6 regra 18; ficha D04)
@@ -109,8 +106,8 @@ Reconhecer leva de 2 a 10 minutos, perto da contribuição, e a revisão semanal
 
 Os caminhos `.md` abaixo são convenções do fluxo de repositório. Em Word, Docs ou planilhas, use o destino escolhido.
 
-- Registro: feedback com pessoa avaliada e mês no destino privado escolhido . Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
-- Aluno: canvas v6 preenchido; os 2 focos entram no plano de uma página (v6 09) e, se couber, no PDI do próprio líder (`ga2-pdi`).
+- Registro: feedback com pessoa avaliada e mês no destino privado escolhido. Os 2 focos viram entrada em registro de aprendizados escolhido e compromisso no plano do ciclo.
+- Aluno: canvas v6 preenchido; os 2 focos entram no plano de uma página e, se couber, no PDI do próprio líder (`ga2-pdi`).
 - Pedidos e devolutivas: canal privado combinado com cada participante; não amplie o compartilhamento.
 - Revisão de desempenho: folha de revisão de desempenho com as cinco dimensões, os dois focos com prazo, as condições do líder e a data da próxima revisão, em registro reservado.
 - Feedback na hora e reconhecimento: folhas de feedback e reconhecimento, em notas com acesso restrito.

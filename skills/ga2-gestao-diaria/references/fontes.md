@@ -11,6 +11,10 @@
 - Diretriz prática: acompanhamento assíncrono de 10 min; registro diário e cobrança em seis linhas, descritos em `template.md`.
 - Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal `(aplicação do método)`; regra do quadro em dia: aula A09 (atualizar o quadro todo dia).
 
+## Procedência que saiu dos arquivos carregados (22/11/2026)
+
+- Fichas F05 (preparar o próximo dia de trabalho) e F06 (fechar o expediente e atualizar os acordos) do Guia completo de rotinas de gestão, para o modo pessoal (passos 16 a 26).
+
 As citações identificam aulas e artefatos; não prometem acesso a arquivos externos.
 O método, template e critérios aplicáveis estão nos arquivos vizinhos.
 A origem e os hashes desta exportação constam em `skills/procedencia.json` na raiz do pacote.

@@ -18,11 +18,8 @@ Não dispara para: o plano de desenvolvimento da pessoa (`ga2-pdi`); a cobertura
 
 ## Fonte no método
 
-- Base do método: Passo 4 (Ritmo Ágil) §2.9 (limite de trabalho em andamento: o gargalo fica visível) e §3 regra 11 (contratar é a última saída, e só depois de achar o gargalo).
-- Base do método: Passo 2 (Organizar o Trabalho) §2.10 e §3 regra 11 (POP, o procedimento operacional padrão: um processo que se repete ganha roteiro escrito).
-- Base do método: Passo 6 (Liderança de Times) §2.10 (estágios do time, de Tuckman): quem chega costuma devolver o grupo à formação, e o líder apresenta as metas e as pessoas.
-- Aulas: curso de rotinas do gestor ágil, aula 7 (o ciclo das pessoas), seções 1 a 4 e 9.
-- Fichas: Guia completo de rotinas de gestão, fichas E07 (recrutar e selecionar profissionais) e E08 (integrar novos profissionais à equipe). A ficha E06 liga a revisão da necessidade de pessoas.
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Modelo: T10 (Contratação e integração).
 - Template: não há canvas do curso. O `template.md` reproduz os campos do roteiro de contratação e integração e acrescenta o roteiro da seleção como POP.
 

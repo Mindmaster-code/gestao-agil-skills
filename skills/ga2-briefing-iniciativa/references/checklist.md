@@ -20,7 +20,7 @@
 - [ ] Lido pelos envolvidos (alinhamento inicial) e registrado como fonte da verdade.
 - [ ] Ligado a um KR (ou marcado "frente sem KR" para o responsável pelas prioridades).
 
-## Erros comuns (material de referência, M04 A10/A11, Kit)
+## Erros comuns (material de referência, Kit)
 
 | Erro | Como aparece | Correção |
 |---|---|---|

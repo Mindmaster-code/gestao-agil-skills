@@ -16,9 +16,8 @@ cru serve. Este é de quem decide, uma vez por ciclo, número com régua e frase
 
 ## Fonte no método
 
-- Base do método — Passo 7: Ferramentas, IA e Painel do Gestor §2.6–2.7 (dois painéis; meta, tendência e leitura), §3 regras 11–13, §4.3 (campos do HTML e da planilha), §4.9 (cockpit em Sheets, referência).
-- Base do método — Passo 5: Melhoria Contínua §2.10 (Teoria do Caiaque: os três pilares) e §2.12 (North Star Metric).
-- Aulas: ao vivo M07 A06–A11 (métricas de sucesso, p1–p5); v6 pasta 08 aula 02 ("Painel do Gestor").
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Templates oficiais: `painel-do-gestor-ga2-PREENCHER.html` (editável, salva PDF), `Painel-do-Gestor.xlsx` / `painel-do-gestor-ga2-scorecard.xlsx` (abas Modelo, Exemplo, Evolução), `painel-do-gestor-ga2-exemplo-preenchido.pdf`. PDF do curso: `painel-do-gestor-ga2.pdf`.
 - Métricas de fluxo derivadas pelo laboratório: apêndice de `template.md` (ver adaptação).
 
@@ -43,7 +42,7 @@ time e produtividade de uma vez) acima do OKR. O HTML não a tem. Ver divergênc
 (menor é melhor) = `meta / atual`. ≥100% verde (no alvo), 80–99% âmbar (quase), <80%
 vermelho (abaixo). No relatório, a cor vira palavra: no alvo / atenção / fora da meta.
 
-## Como conduzir (40 min, v6 02 slide 11)
+## Como conduzir (40 min, slide 11)
 
 1. **Pergunte o ciclo.** "Qual ciclo e qual período?" Escreva no cabeçalho. Recusa: painel sem período.
 2. **Um número por bloco.** Para cada pilar, pergunte as três do caiaque: o negócio entrega valor e dá lucro? as pessoas estão engajadas? o processo entrega produtividade? Escolha **um** indicador por pilar entre os seis que quase sempre servem: entregas do ciclo, tempo de entrega, retrabalho, satisfação de quem recebe, carga por pessoa, o que está parado esperando. Recusa: 14 números ("é lista"); sigla sem tradução (MTTR, SLA); número que ninguém coleta ("morre no 2º ciclo").
@@ -56,16 +55,16 @@ vermelho (abaixo). No relatório, a cor vira palavra: no alvo / atenção / fora
 
 ## Regras do método que valem aqui
 
-- Número sempre com meta, tendência e leitura. (v6 02 slide 05)
-- Quatro blocos, nada mais; 14 números é lista; número que ninguém coleta morre. (v6 02 slides 03 e 06)
-- Faça as três perguntas do caiaque antes de escolher métrica; nunca copie template da internet. (M07 A07, A09)
-- "Três linhas — não trinta": uma métrica por esfera. (Passo 5, v6 07)
-- Status do KR é uma palavra: no alvo, atenção, fora da meta. (v6 03 slide 08)
+- Número sempre com meta, tendência e leitura. (slide 05)
+- Quatro blocos, nada mais; 14 números é lista; número que ninguém coleta morre. (slides 03 e 06)
+- Faça as três perguntas do caiaque antes de escolher métrica; nunca copie template da internet.
+- "Três linhas — não trinta": uma métrica por esfera.
+- Status do KR é uma palavra: no alvo, atenção, fora da meta. (slide 08)
 - Métrica com mais de uma fonte: declare a canônica antes de reportar. Número de dinheiro vem com a empresa correta e a fonte é o responsável financeiro dela.
 
 ## Divergência registrada: HTML × planilha
 
-As duas versões oficiais não batem (Base do método — Passo 7 §8.4–8.5):
+As duas versões oficiais não batem:
 
 | | HTML `painel-do-gestor-ga2-PREENCHER.html` | Planilha `Painel-do-Gestor.xlsx` |
 |---|---|---|
@@ -73,7 +72,7 @@ As duas versões oficiais não batem (Base do método — Passo 7 §8.4–8.5):
 | Indicadores por pilar | um (NPS · Clima · Tempo de entrega) | dois (NPS + ROI · Clima + Permanência · Entregas + Tempo) |
 | Evolução | % de entregas por ciclo | CSAT e Clima por ciclo |
 | Atingimento | mostra 110%, 103%, 125% em anéis | status numérico `=H/J*100` |
-| Roteiro v6 02 | slide 08 "NPS 3,8 meta 4,3"; slide 09 "NPS 55 meta 50" | — |
+| Roteiro | slide 08 "NPS 3,8 meta 4,3"; slide 09 "NPS 55 meta 50" | — |
 
 Contradição de fundo: a aula 03 diz "quem decide não quer atingimento, quer palavra", e o
 HTML exibe porcentagem. **aplicação prática preservada nesta referência:** o template usa um

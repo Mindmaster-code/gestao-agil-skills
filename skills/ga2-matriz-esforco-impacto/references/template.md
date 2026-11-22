@@ -1,10 +1,6 @@
 <!-- modelos: matriz-v6.json -->
 # Matriz Esforço × Impacto — template
 
-Fonte dos campos: M04 A15; editável `07-matriz-esforco-impacto-ga2-editavel.pdf` ("Use depois do OKR. Coloque as
-iniciativas no quadrante certo antes de montar o backlog."); Ficha `esforco-impacto-ga2.pdf`; material de referência.
-Campo que a aula não cita fica em aberto.
-
 **Cabeçalho**
 
 | Campo | Resposta |
@@ -48,7 +44,7 @@ ALTO IMPACTO
 BAIXO IMPACTO baixo esforço ──────────────► alto esforço
 `
 
-Nomes equivalentes nas outras fontes: Resultados rápidos / Iniciativas estratégicas / Tarefas de apoio / Desperdício de tempo (A15, apostila) · Fazer primeiro / Planejar / Fazer se sobrar / Evitar por enquanto (editável Mod 2).
+Nomes equivalentes nas outras fontes: Resultados rápidos / Iniciativas estratégicas / Tarefas de apoio / Desperdício de tempo · Fazer primeiro / Planejar / Fazer se sobrar / Evitar por enquanto (editável Mod 2).
 
 ### 2.1 Quem está em cada quadrante (lista; um item por linha, separados por `<br>` — o canvas v6 lê daqui)
 
@@ -83,7 +79,7 @@ Próximo passo: a fila numerada vira a linha de cima do Backlog 2D (`ga2-backlog
 
 ---
 
-## Variante: Importância × Dificuldade sobre objetivos (M04 A09; `Template+OKR+Canvas.pdf`)
+## Variante: Importância × Dificuldade sobre objetivos (`Template+OKR+Canvas.pdf`)
 
 Use antes do OKR, na lista inicial de objetivos do trimestre. Não misture com a grade acima.
 

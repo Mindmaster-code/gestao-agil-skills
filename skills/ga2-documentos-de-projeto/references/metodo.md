@@ -9,21 +9,18 @@ fase, cada um com dono, data e prova. Dois documentos vivem só nesta skill porq
 skill própria: o **Status Report** (do Desafio de 7 Dias — o "pulso" curto de uma frente)
 e o **Resumo do Ciclo** (fechamento de uma página).
 
-Regra: projeto roda em ciclo; operação roda em fluxo (M06 A11). Dossiê é de **projeto**.
+Regra: projeto roda em ciclo; operação roda em fluxo. Dossiê é de **projeto**.
 Processo recorrente tem briefing de processo + POP + quadro, sem plano de ciclo próprio.
 
 ## Fonte no método
 
+A procedência desta skill está em `fontes.md`, nesta mesma pasta.
+
 - Fundamentos — visão de floresta e Lean: §1 (o que cada passo deixa pronto), §4.3 (Mapa da Jornada e próxima entrega).
-- Passo 1 — Entender o contexto, §1: A3 como alicerce; OKR nasce da distância para a meta; backlog e ciclos vêm do plano.
-- Passo 2 — Organizar o trabalho, §1: OKR → iniciativas → briefing → matriz → Backlog 2D → ciclo → Checkpoint do Plano.
-- Passo 4 — Ritmo ágil: §4.5 (Plano do Ciclo v6), §4.7 (Revisão do Ciclo v6), §4.14 (Desafio de 7 Dias e Status Report). Status Report é template sem aula própria.
-- Passo 5 — Melhoria contínua, §4.5: Resumo do Ciclo, Artefato 17 (v6 06/09), sem aula própria.
 - Templates oficiais: Status Report do Desafio de 7 Dias (8 campos); legado editável do Módulo 04 (6 campos, semáforo, próxima ação); Resumo do Ciclo editável do Módulo 05 (5 campos); Plano e Revisão do Ciclo.
 - Diretriz prática: registro durável dos rituais, estado com prova e reaproveitamento de pastas existentes. Os modelos em branco estão em `../assets/modelos/`.
 
 ## A cadeia — fase, documento, skill, arquivo
-
 
 | # | Fase | Documento | Skill | Arquivo em `<pasta-do-projeto>/` | Quem assina |
 | --- | --------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
@@ -39,7 +36,6 @@ Processo recorrente tem briefing de processo + POP + quadro, sem plano de ciclo 
 | 9 | Fechar | **Resumo do Ciclo** (uma página; vira A3 de melhoria?) | **esta skill** | `90-resumo-ciclo-<n>.md` | dono |
 | — | Sempre | `README.md` — dono, empresa, régua, estado de cada documento, cartão no portfólio | esta skill | `README.md` | Gestor |
 
-
 Se o projeto já tiver uma pasta com definição, andamento e aprovações, use esse dossiê.
 A definição equivale ao briefing; o andamento equivale ao Status Report. Não duplique: o índice aponta para os documentos existentes.
 
@@ -54,7 +50,7 @@ A definição equivale ao briefing; o andamento equivale ao Status Report. Não 
 
 ## Regras do método que valem aqui
 
-- **Sete artefatos do seu caso real, não de exemplo de livro.** (v6 00, slide 16)
+- **Sete artefatos do seu caso real, não de exemplo de livro.** (slide 16)
 - **Ritual que não produziu arquivo não aconteceu.**
 - **Estado vem de arquivo, não de memória.** Arquivo velho = cartão parado.
 - **Status: rápido e honesto.** "Um retrato de 2 minutos, não um relatório longo. Adiantado, no prazo ou atrasado — sem maquiar." (Status Report do Desafio)
@@ -82,16 +78,13 @@ Markdown serve ao versionamento quando necessário; HTML sai para visualização
 
 Os modelos abaixo atendem ao fluxo de geração de HTML e canvas quando essa for a entrega escolhida.
 
-
 | Forma | Arquivo | Quando sai | Modelo |
 | --------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------- |
 | Fonte | `<nome>.md` (este `template.md` preenchido) | quando o fluxo precisar de fonte Markdown | `template.md` |
 | Documento | `<nome>.html` — documento corrido no design system da casa | quando HTML for escolhido | `../assets/modelos/documento.html` (pronto) |
 | Canvas | `<nome>-canvas.html` — réplica literal do canvas oficial, campos por cima | **quando pedido**: "gera o canvas", "no formato do curso", "igual ao PDF" | `../assets/modelos/canvas-status-report-b-04.html` |
 
-
 Modelos canvas desta skill (specs `status-report-b-04`, `resumo-ciclo-b-04`, `status-report-b-04-p2`, `resumo-ciclo-b-04-p2`):
-
 
 | Modelo | Origem | Pedido que o escolhe | Estado |
 | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------- | ------ |
@@ -99,7 +92,6 @@ Modelos canvas desta skill (specs `status-report-b-04`, `resumo-ciclo-b-04`, `st
 | `../assets/modelos/canvas-resumo-ciclo-b-04.html` | Resumo do Ciclo (editável) · família b 04 | "no editável" | pronto |
 | `../assets/modelos/canvas-status-report-b-04-p2.html` | Status Report — 7 dias (editável), página 2 · família b 04 | "no editável" | pronto |
 | `../assets/modelos/canvas-resumo-ciclo-b-04-p2.html` | Resumo do Ciclo (editável), página 2 · família b 04 | "no editável" | pronto |
-
 
 Como gerar (da raiz do repo; o construtor lê o `.md` pelas âncoras `<!-- c:id -->` deste template):
 
@@ -140,13 +132,11 @@ Em Word, Docs ou planilhas, siga a fonte e a conferência de `SAIDA-EDITAVEL.md`
 
 ## Adaptação
 
-
 | Régua | Quando | Documentos obrigatórios |
 | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Leve | 1 pessoa, &lt; 1 mês | 00 canvas curto · 01 A3 de uma página · 05 kanban (3 colunas) · status semanal · resumo no fim |
 | Intermediária | área, 1–3 meses | 00–05 · linha no plano do ciclo · status semanal · review/retro · resumo |
 | Robusta | atravessa áreas, dinheiro, gate | tudo, com OKR de 2+ KRs, Backlog 2D completo, políticas escritas, status com semáforo, resumo por ciclo |
-
 
 ## Erros comuns
 
